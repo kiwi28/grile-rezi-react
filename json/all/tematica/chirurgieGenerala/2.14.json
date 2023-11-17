@@ -1,0 +1,3754 @@
+{
+	"status": "OK",
+	"code": 200,
+	"success": true,
+	"message": "SUCCESS",
+	"data": {
+		"exam": {
+			"_id": "6557c6d78d6e610011056834",
+			"examType": "custom",
+			"questions": [
+				{
+					"pages": [
+						210
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "1. Referitor la diverticulul Meckel, rezecția incidentală poate fi considerată adecvată la: [210]",
+					"answers": [
+						"Pacienții cu abdomene ostile",
+						"Pacienții adulți cu comorbidități",
+						"Pacienții vârstnici",
+						"În cazul prezenței unei benzi mezodiverticulare sau ţesut heterotopic evident",
+						"Pacienții care urmează să efectueze radioterapie"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "2. În apendicită, trebuie excluse prin diagnostic diferențial patologiile care sunt gestionate non-operator: [212]",
+					"answers": [
+						"Infarctul mezenteric",
+						"Pancreatita cronică",
+						"Boala inflamatorie pelvină",
+						"Durerea ovulatorie",
+						"Durerea menstruală"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "3. Alegeți afirmațiile false cu privire la tabloul clinic în tromboza VMS: [205]",
+					"answers": [
+						"Tinde să aibă un debut mai insidios",
+						"Debutul este întotdeauna brusc, cu dureri intense",
+						"Durerea poate fi difuză și nespecifică",
+						"Durerea este bine localizată",
+						"pacienţii pot avea dureri cu câteva zile sau chiar săptămâni înainte de stabilirea diagnosticului."
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "4. Cea mai gravă complicație a OIS este: [195]",
+					"answers": [
+						"Durerea",
+						"Sensibilitatea la palpare",
+						"Strangularea",
+						"Absența tranzitului intestinal",
+						"Distensia"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "5. Referitor la tratamentul OIS, sunt adevărate următoarele: [198]",
+					"answers": [
+						"Statusul normovolemic trebuie restabilit înainte de înlocuirea agresivă a electroliților",
+						"Înlocuirea agresivă a electroliților trebuie realizată înaintea restabilirii statusului normovolemic",
+						"Monitorizarea diurezei prin cateterul Foley este eficientă pentru evaluarea volumului înlocuit",
+						"La adulți, o cantitate de urină de cel puțin 0,3mL/kg/oră indică resuscitare volemică adecvată",
+						"La adulți, o cantiate de urină de ≥ 0,5mL/kg/oră indică resuscitare volemică adecvată"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "6. Este fals despre complicațiile și tratamentul în OIS: [199]",
+					"answers": [
+						"Intestinul compromis trebuie rezecat",
+						"În cazul unei neoplazii, se realizează o rezecție adecvată",
+						"În general, este posibilă anastomoza intestinului gros de primă intenție",
+						"În general, mortalitatea este &lt;1% pentru laparotomie în cazul OIS necomplicate",
+						"Mortalitatea poate depăși 25% atunci când s-a produs strangularea"
+					]
+				},
+				{
+					"pages": [
+						193,
+						195
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "7. OIS sunt clasificate în: [193, 195]",
+					"answers": [
+						"Complete",
+						"Ascendente",
+						"Parțiale",
+						"Cu ansă deschisă",
+						"Particulare"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "8. Alegeți afirmațiile adevărate despre OIS: [195]",
+					"answers": [
+						"Debutul tipic al OIS acut este marcat de dureri abdominale colicative",
+						"Durerea poate deveni constantă, pe măsură ce activitatea peristaltică scade",
+						"Durerea se localizează epigastric, cu iradiere în bară",
+						"Greața și vărsăturile sunt acuze frecvente la mulți pacienți",
+						"Privind greața și vărsăturile, debutul acestora poate fi întârziat în obstrucții mai distale"
+					]
+				},
+				{
+					"pages": [
+						205,
+						206
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "9. În tratamentul ischemiei mezenterice acute (IMA) putem afirma: [205, 206]",
+					"answers": [
+						"Odată ce fluxul sanguin este restabilit, intestinul necrozat trebuie rezecat",
+						"Frecvent este necesară o a treia intervenție chirurgicală",
+						"Intestinul cu aspect ischemic nu ar trebui excizat",
+						"O anastomoză primară este adesea evitată în vederea unei intervenții secundare în 12-24h",
+						"Intestinul necrozat nu necesită rezecție"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "10. În malrotația intestinală, este adevărat: [210]",
+					"answers": [
+						"Rotația inițială de 90° în sensul acelor de ceasornic a mezenteronului, plasează cecul în retroperitoneu",
+						"Rotația inițială de 60° în sens contrar acelor de ceasornic a mezenteronului, plasează duodenul în retroperitoneu",
+						"Rotația ulterioară de 180° în sens contrar acelor de ceasornic a mezenteronului, plasează cecul în cadranul inferior stâng",
+						"Rotația ulterioară de 180º în sensul acelor de casornic a mezenteronului, plasează cecul în cadranul inferior drept",
+						"Rotațiile incomplete sau absente se traduc printr-o varietate de anomalii anatomice"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "11. În cazul leziunilor GIST metastatice, răspunsuri impresionante, apar în tratamentul cu: [209]",
+					"answers": [
+						"Erlotinib",
+						"Imatinib",
+						"Ibrutinib",
+						"Bosutinib",
+						"Crizotinib"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "12. Referitor la OIS, cea mai frecventă cauză de strictură benignă este: [194]",
+					"answers": [
+						"Colita ulcerativă",
+						"Enterita postradioterapie",
+						"Boala Crohn",
+						"Ulcerul asociat consumului de AINS",
+						"Adenocarcinomul gastric"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "13. Sunt indicatori ai unui risc mare de strangulare, cu excepția: [195]",
+					"answers": [
+						"Febră",
+						"Hipopotasemie",
+						"Tahicardie",
+						"Leucocitoză",
+						"Sensibilitate abdominală localizată"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "14. Tumorile intestinului subțire pot produce: [206]",
+					"answers": [
+						"Insuficiență renală",
+						"Hemoragie",
+						"Simptomatologie obstructivă",
+						"Simptome ale bolii metastatice",
+						"Insuficiență respiratorie"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "15. Tratamentul chirurgical al tumorilor carcinoide de intestin subțire: [207]",
+					"answers": [
+						"Constă în excizie largă a intestinului și mezenterului",
+						"Constă în colectomie radicală urmată de radioterapie",
+						"În cazul tumorilor de ileon este recomandată hemicolectomia dreaptă",
+						"În cazul tumorilor de ileon, se rezecă doar tumora",
+						"Dacă intraoperator se decelează metastaze hepatice rezecabile, aceste vor fi îndepărtate"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "16. Printre cauzele frecvente de ileus se numără: [197]",
+					"answers": [
+						"Traumatismele",
+						"Hipertiroidismul",
+						"Consumul de AINS",
+						"Anestezia",
+						"Sepsisul"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "17. Pacienții cu patologie apendiculară și simptomatologie avansată, la care se decelează o masă tumorală palpabilă și un abces localizat corespunzător la examinarea CT: [213]",
+					"answers": [
+						"Pot fi tratați non-operator, cu drenaj radiologic percutanat și antibiotice",
+						"Antibioterapia este singura indicație în acest caz",
+						"Apendicectomia ulterioară, la distanță, este controversată",
+						"Apendicectomia la distanță de 6-8 săptămâni este necesară și obligatorie",
+						"Dacă se alege apendicectomia la distanță, se recomandă ca pacienții peste 40 ani să efectueze o colonoscopie postoperator"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "18. Sunt manifestări ce impun intervenția chirurgicală de urgență în OIS: [196]",
+					"answers": [
+						"Durerea persistentă",
+						"Durerea intermitentă",
+						"Sensibilitatea la percuție",
+						"Teama de mișcare",
+						"Durerea care se remite spontan"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "19. Volvulusul: [194]",
+					"answers": [
+						"Reprezintă telescoparea unei porțiuni a intestinului în el însuși",
+						"Reprezintă răsucirea intestinului subțire în jurul axului mezenteric",
+						"Poate apărea spontan doar la copiii mici",
+						"Poate apărea din cauza fixării aderențiale postchirurgicale a intestinului",
+						"Poate apărea ca urmare a bridelor sau malrotațiilor congenitale"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "20. În apendicita acută, descoperirile la scanarea CT sunt, cu excepția: [212]",
+					"answers": [
+						"Evidențierea de nivele hidroaerice",
+						"Lipsa de umplere a apendicelui cu substanță de contrast",
+						"Prezența lichidului liber",
+						"Distensia apendicelui",
+						"Identificarea fecaliților"
+					]
+				},
+				{
+					"pages": [
+						213,
+						214
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "21. Tumorile carcinoide ale apendicelui: [213, 214]",
+					"answers": [
+						"Reprezintă aproximativ jumătate din carcinoidele GI",
+						"Majoritatea sunt maligne",
+						"Leziunile sub 2 cm sunt de obicei tratate prin apendicectomie simplă",
+						"Creșterea dimensiunilor carcinoidelor nu se corelează cu riscul de malignizare",
+						"În cazul leziunilor cu diametrul peste 2 cm este recomandată hemicolectomie dreaptă"
+					]
+				},
+				{
+					"pages": [
+						214
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "22. Mucocelul și carcinoamele perforate de la nivelul apendicelui sunt asociate cu: [214]",
+					"answers": [
+						"Diseminare limfatică",
+						"Sindromul de intestin scurt",
+						"Pseudomixomul peritoneal",
+						"Aspectul de jeleu de coacăze",
+						"Tumorile benigne"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "23. În obstrucția intestinului subțire, deshidratarea este o consecință a: [195]",
+					"answers": [
+						"Pierderi în „spaţiul al treilea\", cauzate de edemul peretelui intestinal şi de transudarea lichidului în cavitatea peritoneală",
+						"Vărsăturilor",
+						"Scăderii absorbției și creșterea secreției stimulată hormonal de distensia lumenului",
+						"Creșterii absorbției şi a secreţiei stimulată hormonal de distensia lumenului",
+						"Constipației"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "24. Este adevărat despre examinările de laborator în OIS: [197]",
+					"answers": [
+						"Leucocitoza care persistă în ciuda decompresiei pe cale nazogastrică poate fi semn de progresie spre ischemie",
+						"Monitorizarea electroliților nu este utilă",
+						"Alcaloza hipokalemică de contracție este frecventă la pacienții cu deshidratare avansată",
+						"Hipoamilazemia ridică suspiciunea de pancreatită cronică",
+						"Examenul sumar de urină este util pentru excluderea infecției urinare"
+					]
+				},
+				{
+					"pages": [
+						194,
+						195
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "25. Sunt afirmații corecte despre invaginație: [194, 195]",
+					"answers": [
+						"O porțiune a intestinului se telescopează în el însuși",
+						"Reprezintă răsucirea intestinului subțire în jurul axului mezenteric",
+						"Poate apărea spontan doar la vârstnici",
+						"Necesită atenție imediată",
+						"Patologia este autolimitantă"
+					]
+				},
+				{
+					"pages": [
+						209,
+						210
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "26. În diverticulul Meckel, hemoragia: [209, 210]",
+					"answers": [
+						"Se prezintă ca melenă",
+						"Se prezintă ca rectoragie",
+						"Este cu sânge roșu aprins sau maroniu",
+						"Este de obicei nedureroasă",
+						"Este întâlnită cel mai frecvent la vârstnici"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "27. Alegeți afirmațiile corecte despre adenocarcinoamele intestinului subțire: [207]",
+					"answers": [
+						"Sunt aproximativ jumătate din tumorile maligne ale intestinului subțire",
+						"Sunt mai frecvente în jejun",
+						"Ocluzia, adesea asociată cu scăderea ponderală, constituie cea mai frecventă formă de prezentare",
+						"Sângerarea masivă constituie cea mai frecventă formă de prezentare",
+						"Tumorile din regiunea periampulară se pot prezenta cu icter nedureros"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "28. Este adevărat despre ocluzia intestinului subțire: [193]",
+					"answers": [
+						"Aderențele postoperatorii sunt cele mai frecvente cauze ale OIS în țările industrializate",
+						"Aderențele sunt cel mai frecvent cauza ocluziei în timpul sau în urma unor boli inflamatorii acute ale organelor peritoneale",
+						"Aderențele postoperatorii sunt prezente la mai mult de 90% dintre pacienții cu două sau mai multe intervenții chirurgicale abdominale în antecedente",
+						"Tumorile sunt cele mai frecvente cauze ale OIS în țările industrializate",
+						"Procedeele laparoscopice produc cu 80% mai puține aderențe decât procedeele deschise"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "29. Carcinomul duodenal al regiunii periampulare: [207]",
+					"answers": [
+						"Este o tumoră benignă non-epitelială",
+						"Apare de obicei dintr-un adenom benign preexistent",
+						"Este cea mai frecventă neoplazie ce afectează indivizii cu polipoză familială post-proctocolectomie",
+						"Atât duodenul cât și papila duodenală trebuie monitorizate endoscopic periodic",
+						"Monitorizarea endoscopică periodică este de utilitate redusă"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "30. Despre apendicita acută la gravide sunt adevărate următoarele afirmații: [212]",
+					"answers": [
+						"La gravide, apendicele este adesea deplasat într-o poziție mai cranială",
+						"Progresia spre perforație și peritonită este asociată cu o rată a decesului de doar 1% la gravide",
+						"Leucopenia din sarcină îngreunează mult diagnosticul",
+						"Progresia spre perforație și peritonită este asociată cu o rată a decesului fetal de 35% sau mai mult",
+						"Leucocitoza din sarcină poate îngreuna și mai mult diagnosticul"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "31. În volvulusul mezenteronului la un copil cu o rotaţie\nincompletă.: [210]",
+					"answers": [
+						"Mezenteronul proximal se rotește cu 90º",
+						"Mezenteronul proximal nu se rotește dincolo de linia mediană",
+						"Mezenteronul distal se rotește cu doar 90º-180º",
+						"Cecul devine fixat la peretele abdominal în cadranul superior drept",
+						"Porțiunile proximală și distală ale intestinului subțire, sunt fixate numai în cadranul inferior"
+					]
+				},
+				{
+					"pages": [
+						213,
+						214
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "32. Tumorile carcinoide apendiceale: [213, 214]",
+					"answers": [
+						"Sunt consecința obstrucției lumenului",
+						"Pot fi legate de existența unui carcinom de bază apendiculară",
+						"Constituie mai puțin de 1% din toate afecțiunile apendicelui",
+						"Pot fi o sursă de obstrucție luminală",
+						"Majoritatea sunt benigne"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "33. Putem afirma despre apendicita acută: [211]",
+					"answers": [
+						"Este cea mai frecventă urgență chirurgicală",
+						"Majoritatea pacienților au vârste cuprinse între 10-40 ani",
+						"Majoritatea pacienților se prezintă în primele 24-48 ore de la debut",
+						"Diagnosticul întârziat nu influențează posibilele complicații",
+						"Prezentarea atipică este mai frecventă la copii și vârstnici"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "34. Adenoamele glandelor Brunner: [207]",
+					"answers": [
+						"Sunt mai predispuse la transformare malignă",
+						"Ar trebui să fie excizate",
+						"Apar de obicei dintr-un adenom preexistent",
+						"Apar în principal în duoden",
+						"Sunt de obicei asimptomatice"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "35. Sunt tumori non-epiteliale ale intestinului subțire: [207]",
+					"answers": [
+						"Lipoamele",
+						"Adenoamele",
+						"Hemangioamele",
+						"Hamartoamele",
+						"Limfangioamele"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "36. Diagnosticul diferențial al apendicitei acute se face cu: [212]",
+					"answers": [
+						"Pancreatita acută",
+						"Boala inflamatorie pelvină",
+						"Pielonefrita",
+						"Gastroenterita",
+						"Sindromul intestinului scurt"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "37. În ceea ce privește tratamentul OIS, eșuarea reducerii unei hernii se poate manifesta prin: [199]",
+					"answers": [
+						"Lipsa durerii",
+						"Durere persistentă",
+						"Sensibilitate cu modificări inflamatorii sau de laborator",
+						"Sensibilitate fără modificări inflamatorii sau de laborator",
+						"Leucopenie"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "38. În ceea ce privește OIS, la examenul obiectiv: [196]",
+					"answers": [
+						"Pacienții au în general o stare generală bună în fazele avansate",
+						"Pacienții se pot prezenta cu stare generală acut alterată în fazele precoce",
+						"În cazuri mai avansate, apar tahicardia și hipotensiune relativă",
+						"La pacienții obezi, zonele de modificare a reliefului local, eritemul sau sensibilitatea în apropierea unei cicatrici chirurgicale, pot reprezenta singurul indiciu pentru încarcerarea intestinală",
+						"O accelerare a activității intestinale este caracteristică"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "39. Alegeți afirmațiile false despre ischemia mezenterică acută (IMA): [205]",
+					"answers": [
+						"Diagnosticul se face prin vizualizarea directă a arborelui vascular",
+						"Standardul de aur este examenul CT",
+						"Arteriografia mezenterică nu permite vizualizarea ocluziei AMS",
+						"Arteriografia mezenterică permite identificarea altor semne de infarct intestinal, ca îngroșarea peretelui intestinal",
+						"În ischemia mezenterică non-ocluzivă (IMNO) se vor observa spasmul și îngustarea arborelui vascular"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "40. În tratamentul chirurgical al OIS este importantă evitarea rezecțiilor extinse, mai ales în cazul: [199]",
+					"answers": [
+						"Pacienților colecistectomizați",
+						"Pacienților cu colită ulcero-hemoragică",
+						"Când lungimea intestinului subțire este de 150cm",
+						"Pacienților cu boala Crohn",
+						"Când lungimea intestinului subțire restant se apropie de 100cm"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 40,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "41. În apendicita acută, durerea inițială poate fi asociată cu: [211]",
+					"answers": [
+						"Constipație",
+						"Anorexie",
+						"Fatigabilitate",
+						"Greață",
+						"Vărsături"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 41,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "42. Investigațiile cu substanță de contrast ale intestinului subțire sunt utile pentru: [197]",
+					"answers": [
+						"Pacientul cu simptome ce se remit spontan",
+						"Pacienții cu simptome obstructive totale",
+						"Când obstrucția este sigură",
+						"Pacientul cu simptome obstructive parțiale, persistente",
+						"Când este dificilă diferențierea ileusului paralitic de obstrucția mecanică"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 42,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "43. Examinările de laborator în OIS pot releva, cu excepția: [197]",
+					"answers": [
+						"Leucocitoză",
+						"Trombocitopenie",
+						"Alcaloză hipokalemică de contracție",
+						"Hiperamilazemie",
+						"Acidoza lactică"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 43,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "44. Referitor la obstrucția intestinului subțire, în rezecția extinsă poate să apară: [199]",
+					"answers": [
+						"Sindrom Mallory-Weiss",
+						"Necesar hidric crescut",
+						"Hernie",
+						"Durere persistentă sau sensibilitate",
+						"Sindromul intestinului scurt"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 44,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "45. În OIS, corecția deficitelor hidro-electrolitice include de obicei administrarea de: [198]",
+					"answers": [
+						"Soluții hipertone",
+						"Soluții izotone",
+						"Soluții hipotone",
+						"Narcotice",
+						"Potasiu"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 45,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "46. Este fals despre OIS: [193]",
+					"answers": [
+						"Întrucât coletul unei hernii ireductibile este larg, nu restricționeză fluxul sanguin în segmentul obstruat",
+						"Dacă intestinul nu este redus rapid, va apărea tumefacţia peretelui intestinal şi distensia lumenului intestinal",
+						"În regiunile în care chirurgia abdominală este rar practicată, hernia este cea mai frecventă cauză a OIS",
+						"Cudarea intestinului la nivelul coletului herniei creează obstrucția acestuia",
+						"Coletul unei hernii ireductibile este foarte îngust și restricționează inclusiv fluxul sanguin către segmentul obstruat"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 46,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "47. În cazul diverticulului Meckel, complicațiile mai puțin frecvente pot include: [210]",
+					"answers": [
+						"Anemia feriprivă",
+						"Apendicita",
+						"Enterita regională",
+						"Malabsorbția",
+						"impactarea de corpi străini"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 47,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "48. Referitor la diagnosticul ischemiei mezenterice acute (IMA), este corect: [205]",
+					"answers": [
+						"Se face prin vizualizarea directă a arborelui vascular",
+						"Se pune pe baza analizelor de laborator",
+						"Standardul de aur este ecografia abdominală",
+						"Se pot efectua radiografii pentru a vizualiza faza venoasă, cu scopul decelării trombozei de VMS",
+						"Arteriografia mezenterică ar trebui să permită vizualizarea ocluziei AMS"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 48,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "49. Sindromul intestinului scurt: [211]",
+					"answers": [
+						"Este definit ca existența a mai puțin de 180cm de intestin subțire în lungime la un adult",
+						"Este rezultatul mai multor rezecții ale intestinului subțire",
+						"Este cea mai frecventă urgență chirurgicală",
+						"Este definit ca existența a mai puțin de 150cm de intestin gros în lungime",
+						"Efectul rezecției sau rezecțiilor depinde de gradul de absorbție a substanțelor nutritive și a lichidului din intestinul rămas"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 49,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "50. Referitor la OIS, stricturile maligne pot fi cauzate de următoarele, cu excepția: [194]",
+					"answers": [
+						"Adenocarcinomul",
+						"Tumorile stromale gastrointestinale (GIST)",
+						"Limfomul",
+						"Orice neoplazie primară a intestinului subțire",
+						"Sindromul arterei mezenterice superioare"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 50,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "51. În ocluzia intestinului subțire, în absența altor patologii existente, descoperirile tipice pe radiografie includ: [196]",
+					"answers": [
+						"Distensie intestinală distală",
+						"Distensie intestinală proximal de punctul de ocluzie",
+						"Aspectul de cotor de măr",
+						"Semnul vârtejului",
+						"Colabarea intestinului distal, manifestată prin absența vizualizării acestuia pe radiografie"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 51,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "52. Este cea mai frecventă formă de prezentare a tumorilor carcinoide de intestin subțire: [207]",
+					"answers": [
+						"Ocluzia",
+						"Hemoragia",
+						"Perforația",
+						"Anemia",
+						"Invaginația"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 52,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "53. Complicațiile ischemiei mezenterice acute includ: [206]",
+					"answers": [
+						"Insuficiență respiratorie",
+						"Insuficiență hepatică",
+						"Infecții intraabdominale",
+						"Ulcerul duodenal",
+						"Insuficienţa renală"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 53,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "54. În OIS, sunt indicatori ai unui risc mare de strangulare: [195]",
+					"answers": [
+						"Tahicardie",
+						"Sensibilitate abdominală localizată",
+						"Leucocitoză",
+						"Trombocitoză",
+						"Leucopenie"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 54,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "55. Este cel mai frecvent diagnostic diferențial al OIS: [197]",
+					"answers": [
+						"Ulcerul duodenal",
+						"Ileusul paralitic",
+						"Boala Crohn",
+						"BRGE",
+						"Sindromul Mallory-Weiss"
+					]
+				},
+				{
+					"pages": [
+						209,
+						210,
+						211
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 55,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "56. Sunt afirmații false cu privire la diverticulul Meckel: [209, 210, 211]",
+					"answers": [
+						"Este cauzat de anomaliile de rotație și fixare ale tractului intestinal",
+						"Este cea mai rară anomalie congenitală a intestinului subţire",
+						"Este în general rezultatul unor rezecții ale intestinului subțire",
+						"Este localizat de obicei la maxim 60 cm distanță față de valva ileocecală",
+						"Este mai frecvent la femei"
+					]
+				},
+				{
+					"pages": [
+						213,
+						214
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 56,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "57. Mucocelele: [213, 214]",
+					"answers": [
+						"Reprezintă jumătate din carcinoidele GI",
+						"Sunt adesea o consecință a obstrucției lumenului",
+						"Leziunile &gt;2 cm sunt de obicei tratate adecvat prin apendicectomie simplă",
+						"Constituie &gt;1% dintre toate afecţiunile apendicelui",
+						"Pot fi legate de existența unui carcinom de bază apendiculară"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 57,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "58. Analizele de laborator care se efectuează de rutină în apendicita acută sunt: [213]",
+					"answers": [
+						"Amilaza serică",
+						"Bilirubina indirectă",
+						"Hemoleucograma completă",
+						"Markerii virali",
+						"Sumar de urină"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 58,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "59. Sindromul carcinoid cauzat de tumori ale tubului digestiv include: [207]",
+					"answers": [
+						"Eritem cutanat episodic",
+						"Bronhospasm",
+						"Crampe și constipație",
+						"Instabilitate vasomotorie",
+						"Valvulopatie cardiacă dreaptă"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 59,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "60. Despre ischemia mezenterică acută este adevărat: [205]",
+					"answers": [
+						"În mod clasic, durerea are debut lent, insidios",
+						"Examenul obiectiv decelează abdomen mărit de volum, tare",
+						"Durerea este severă și are debut brusc",
+						"Examinarea precoce a abdomenului este adesea neconcludentă",
+						"Dacă pacientul prezintă semne clinice de peritonită, infarctul intestinului subțire este deja instalat"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 60,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "61. Sunt riscuri ale nutriției parenterale totale: [211]",
+					"answers": [
+						"Hipoglicemie",
+						"Leziuni pulmonare",
+						"Sepsis de cateter",
+						"Calculi biliari",
+						"Hiperglicemie"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 61,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "62. Despre tumorile non-epiteliale ale intestinului subțire, este adevărat: [207]",
+					"answers": [
+						"Lipoamele sunt mai frecvente la bărbați",
+						"Hemangioamele reprezintă o cauză importantă de hemoragie ocultă",
+						"Enteroscopia cu capsulă oferă posibilitatea delimitării hamartoamelor",
+						"Hamartoamele sunt de obicei izolate și asimptomatice",
+						"Mai multe hamartoame pot fi identificate în sindromul Osler-Rendu-Weber"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 62,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "63. Clinic, în apendicita acută: [211]",
+					"answers": [
+						"Disconfortul inițial este cauzat de distensia lumenului apendicular",
+						"Disconfortul inițial este perceput ca o durere periombilicală, slab localizată",
+						"La examenul obiectiv, pacientul prezintă sensibilitate dureroasă în regiunea punctului McBurney",
+						"Apărarea musculară involuntară apare precoce",
+						"Durerea inițială nu este asociată niciodată cu anorexie sau greață"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 63,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "64. Pregătirea preoperatorie adecvată în apendicita acută cuprinde: [213]",
+					"answers": [
+						"Administrarea de metoclopramidă",
+						"Utilizarea laxativelor",
+						"Tratament cu IPP în doză mare",
+						"Reechilibrare hidro-electrolitică intravenoasă",
+						"Tratament antibiotic adecvat al florei colonice"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 64,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "65. Este fals cu privire la intestinul scurt: [211]",
+					"answers": [
+						"Ca răspuns la pierderea în lungime, intestinul uman răspunde prin dilatare",
+						"Efectul rezecției nu depinde de gradul de absorbție al intestinului rămas",
+						"În unele cazuri, aportul crescut poate fi suficient pentru menținerea statusului nutrițional",
+						"Pierderea ileonului proximal duce la o pierdere permanentă a absorbției vitaminei D",
+						"Ca răspuns la pierderea în lungime, intestinul uman răspunde printr-o creștere a înălțimii vilozităților intestinale"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 65,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "66. Tratamentul obstrucției intestinului subțire cuprinde: [198]",
+					"answers": [
+						"Reechilibrare hidroelectrolitică",
+						"Administrarea de noradrenalină",
+						"Dietă hiposodată",
+						"Administrarea de soluții hipertone",
+						"Administrarea intravenoasă de soluții izotone"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 66,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "67. Referitor la vascularizația mezenteronului, vasul de sânge principal ce alimentează această porțiune este: [204]",
+					"answers": [
+						"Aorta descendentă",
+						"Vena mezenterică superioară",
+						"Artera renală",
+						"Artera mezenterică superioară",
+						"Artera mezenterică inferioară"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 67,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "68. Tumorile apendicelui pot include: [213]",
+					"answers": [
+						"Limfomul",
+						"Carcinoidul",
+						"Carcinomul",
+						"Mucocelul",
+						"Adenomul"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 68,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "69. În cadrul diverticulului Meckel, simptomele se pot manifesta la: [209]",
+					"answers": [
+						"5% dintre sugarii cu diverticul",
+						"20% dintre sugarii cu diverticul",
+						"5% dintre indivizii de 40 ani",
+						"1,5% dintre indivizii de 40 ani",
+						"Extrem de rar la vârstnici"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 69,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "70. Protocoalele de circuit rapid pentru limitarea duratei ileus post operator (IPO) includ, cu excepția: [198]",
+					"answers": [
+						"Evitarea sondelor nazogastrice",
+						"Mobilizarea precoce",
+						"Întârzierea mobilizării",
+						"Evitarea supraîncărcării lichidiene",
+						"Evitarea introducerii unei diete în urma unei intervenții chirurgicale majore"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 70,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "71. Alegeți afirmația adevărată despre obstrucția intestinului subțire: [193]",
+					"answers": [
+						"OIS cauzată de o hernie ireductibilă este considerată urgență chirurgicală",
+						"Hernia Richter se prezintă ca o masă reductibilă însoțită de ocluzie intestinală",
+						"Strangularea persistentă nu duce niciodată la necroză intestinală",
+						"Deoarece intestinul subțire obstruat într-o hernie internă are un risc scăzut de strangulare, intervenția chirurgicală de urgență nu este indicată",
+						"Frecvent, OIS poate fi cauzată de hernii interne, fără asociere cu defectele mezenterice"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 71,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "72. În OIS, pacienții la care terapia non-operatorie este justificată inițial, ar trebui propuși pentru intervenția chirurgicală dacă apar: [199]",
+					"answers": [
+						"Modificări la examenul clinic",
+						"Necesar hidric crescut",
+						"Parametri de laborator alterați",
+						"Absența ameliorării clinico-radiologice",
+						"Necesar hidric extrem de scăzut"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 72,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "73. Sunt afirmații adevărate despre diverticulul Meckel: [209]",
+					"answers": [
+						"Reprezintă un vestigiu al ductului vitelin embrionar sau omfalomezenteric",
+						"Este de trei ori mai frecvent la femei",
+						"Este prezent la aproximativ 2% din populație",
+						"Este de două ori mai frecvent la bărbați",
+						"Are trei tipuri mai frecvente de mucoasă heterotopică"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 73,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "74. În cadrul OIS, montarea sondei nazogastrice: [198]",
+					"answers": [
+						"Poate controla vărsăturile şi permite monitorizarea pierderilor hidroelectrolitice",
+						"O cantitate de urină de cel puțin 0,5 mL/kg/h indică resuscitare volemică adecvată",
+						"Poate fi suplimentată cu monitorizarea invazivă a presiunii venoase centrale",
+						"Reduce cantitatea de lichide care pot fi aspirate",
+						"Crește riscul de microaspirație"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 74,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "75. Pentru ca sindromul carcinoid să apară: [208]",
+					"answers": [
+						"Este necesar să se producă descărcarea peptidelor vasoactive în circulația portală",
+						"Tumora primară poate fi la nivelul plămânilor, gonadelor sau rectului",
+						"Leziunea intestinală trebuie să metastazeze în ficat",
+						"Tumora trebuie să se afle într-o zonă drenată de vena portă",
+						"Tumora primară trebuie să se afle într-o altă zonă care nu drenează prin sistemul port"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 75,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "76. Sunt cele mai frecvente manifestări asociate diverticulului Meckel: [209]",
+					"answers": [
+						"Febra",
+						"Ocluzia",
+						"Inflamația",
+						"Mialgiile",
+						"Fistula ombilicală"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 76,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "77. Odată identificat, volvulusul mezenteronului necesită: [210]",
+					"answers": [
+						"Detorsionarea intestinului",
+						"Secționarea benzilor Ladd",
+						"Lărgirea mezenterului",
+						"Plasarea intestinului subțire în partea stângă",
+						"Plasarea colonului în partea dreaptă a abdomenului"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 77,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "78. Nu trebuie luați în considerare pentru tratamentul non operator al apendicitei: [213]",
+					"answers": [
+						"Adolescenții",
+						"Pacienții cu fecaliți",
+						"Persoanele în vârstă",
+						"Copiii",
+						"Bolnavii cu afecțiuni cronice"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 78,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "79. Despre examinările de laborator în OIS putem afirma: [197]",
+					"answers": [
+						"Nu sunt specifice",
+						"Pot avea utilitate în excluderea altor patologii",
+						"Leucopenia este semnul sugestiv",
+						"Electroliții trebuie monitorizați atent",
+						"Include examenul ECG"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 79,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "80. Sunt complicații ale intervenției chirurgicale în OIS: [199]",
+					"answers": [
+						"Infecția plăgii",
+						"Scurgeri anastomotice",
+						"Abces",
+						"Gangrenă Fournier",
+						"Peritonită"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 80,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "81. Sunt semne si simptome frecvente de prezentare a OIS, cu excepția: [195]",
+					"answers": [
+						"Leucocitoză",
+						"Durere",
+						"Prezența tranzitului intestinal pentru gaze",
+						"Vărsături",
+						"Sensibilitate la palpare"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 81,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "82. Este cea mai frecventă complicație a apendicectomiei: [213]",
+					"answers": [
+						"Infecția plăgii postoperatorii",
+						"Sângerarea intraoperatorie",
+						"Ocluzia",
+						"Necroza",
+						"Sindromul intestinului scurt"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 82,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "83. Sunt afirmații corecte cu privire la invaginația în diverticulul Meckel: [210]",
+					"answers": [
+						"Pacientul se poate prezenta cu o masă tumorală abdominală palpabilă",
+						"Scaunul are aspect de jeleu de coacăze",
+						"Masa tumorală abdominală, se palpează în partea stângă",
+						"Pacientul acuză emisia de scaune de culoare neagră, “ca păcura”",
+						"Clisma cu aer poate facilita reducerea invaginației în context acut în special la populația pediatrică"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 83,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "84. Alegeți afirmațiile corecte despre semnele care apar în apendicită: [212]",
+					"answers": [
+						"Durere resimțită în cadranul inferior drept la palparea în cadranul inferior stâng, este semnul Rovsing",
+						"Durerea resimțită în cadranul inferior drept la palpare, poartă numele de semn Rovsing",
+						"Durerea la flexia șoldului drept este semnul obturatorului",
+						"Durerea la extensia șoldului drept este semnul psoasului",
+						"Durerea la rotirea pasivă a șoldului flexat drept este semnul obturatorului"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 84,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "85. Persistența canalului vitelin poate provoca o varietate de probleme: [209]",
+					"answers": [
+						"Dacă există o persistență completă, poate rezulta o comunicare între ombilic și ileon",
+						"Dacă persistența este completă, apare o comunicare între duoden și jejun",
+						"Dacă doar capătul ombilical al ductului rămâne patent, rezultă fistulă ombilicală",
+						"În cazul persistenței complete, poate rezulta o fistulă ombilicală",
+						"Dacă ductul se obliterează, dar rămâne sub forma unui cordon fibros, acest vestigiu acționează ca punct de fixare a intestinului la peretele abdominal"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 85,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "86. Referitor la diverticulul Meckel, situațiile în care rezecția poate fi luată în considerare la pacienții adulți sunt: [210]",
+					"answers": [
+						"Diverticulul cu bază îngustă",
+						"Baza diverticulului este închisă transversal",
+						"Prezența benzilor Ladd",
+						"Prezența unei benzi mezodiverticulare",
+						"Țesut heterotopic evident"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 86,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "87. Sunt manifestări/complicații asociate diverticulului Meckel cu excepția: [209]",
+					"answers": [
+						"Perforaţia",
+						"Ocluzia",
+						"Inflamația",
+						"Hemoragia",
+						"Fistula mezenterică"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 87,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "88. Referitor la diverticulul Meckel, cel mai frecvent tip de mucoasă prezent la nivelul diverticulului este: [209]",
+					"answers": [
+						"Mucoasa esofagiană",
+						"Mucoasa gastrică",
+						"Mucoasa pancreatică",
+						"Mucoasa duodenală",
+						"Mucoasa colonică"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 88,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "89. Despre tumorile benigne ale intestinului subțire putem afirma: [206]",
+					"answers": [
+						"Tumorile maligne sunt mult mai frecvente decât cele benigne",
+						"Majoritatea tumorilor prezintă simptomatologie specifică",
+						"Ambele sexe sunt afectate în mod egal",
+						"Sexul feminin este mai afectat",
+						"Cele mai frecvente leziuni benigne au fost denumite leiomioame"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 89,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "90. Tumorile carcinoide ale intestinului subțire au originea în: [207]",
+					"answers": [
+						"Celulele clare",
+						"Celulele Brunner",
+						"Celulele Kulchitsky",
+						"Adenoame preexistente",
+						"Celulele Langerhans"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 90,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "91. Obstrucțiile intestinale prin stricturi: [194]",
+					"answers": [
+						"Sunt adesea incomplete",
+						"Sunt adesea complete",
+						"Au frecvent debut insidios",
+						"Deoarece mezenterul nu este compromis, strangularea este improbabilă",
+						"Cele mai multe stricturi benigne necesită intervenție chirugicală"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 91,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "92. Este adevărat despre OIS, cu excepția: [193]",
+					"answers": [
+						"Cele mai frecvente cauze sunt reprezentate de factori intrinseci",
+						"Aderențele postoperatorii sunt prezente la mai puțin de o treime din pacienții cu una sau mai multe intervenții chirurgicale abdominale",
+						"Cele mai frecvente cauze sunt reprezentate de factorii extrinseci",
+						"Aderențele postoperatorii sunt prezente la cel puțin două treimi dintre pacienții care au suferit o intervenție chirurgicală abdominală",
+						"OIS secundară sindromului aderențial constituie o problemă de sănătate publică în țările industrializate"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 92,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "93. Complicațiile intervenției chirurgicale în OIS sunt: [199]",
+					"answers": [
+						"Abces",
+						"Durerea persistentă",
+						"Peritonită",
+						"Formarea de fistule",
+						"Sensibilitate la palpare"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 93,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "94. Referitor la limfoamele intestinului subțire, este adevărat: [208]",
+					"answers": [
+						"Limfoamele reprezintă 10-15% din cancerele intestinului subţire",
+						"Doar 5% dintre limfoame se regăsesc la nivelul intestinului subțire",
+						"Ileonul este cel mai frecvent implicat",
+						"Duodenul este cel mai frecvent implicat",
+						"Decadele a cincea şi a şasea sunt perioadele cu cea mai mare incidenţă"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 94,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "95. Diagnosticul diferențial al diverticulului Meckel se face cu: [210]",
+					"answers": [
+						"Sindromul intestinului scurt",
+						"Plastronul apendicular",
+						"Apendicita acută",
+						"Obstrucțiile intestinului subțire din alte cauze",
+						"Enterită regională"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 95,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "96. Sunt afirmații adevărate despre tumorile carcinoide GI: [207]",
+					"answers": [
+						"Comportamentul malign se corelează cu dimensiunea leziunii",
+						"40-50% din totalul tumorilor carcinoide GI au originea în apendice",
+						"Intestinul subțire este cea mai frecventă localizare din tractul GI",
+						"Carcinoidele intestinului subțire sunt mai frecvent întâlnite în duoden",
+						"Carcinoidele intestinului subțire sunt mai frecvent întâlnite în ileon"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 96,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "97. Referitor la intervenția chirurgicală în apendicită, sunt false următoarele: [213]",
+					"answers": [
+						"Intervenția chirurgicală ar trebui efectuată rapid",
+						"Apendicectomia poate fi realizată prin abordare deschisă sau laparoscopică",
+						"Posibilitatea perforației, scade la jumătate după primele 48 de ore",
+						"Abordarea laparoscopică a fost asociată cu rate mai mari de infecție a plăgii",
+						"Studiile inițiale au sugerat rate mai mari de apariție a unui abces postoperator după laparoscopie în apendicita perforată"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 97,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "98. În cazul limfoamelor intestinului subțire, sunt vizualizate pe CT: [209]",
+					"answers": [
+						"îngroșarea peretelui intestinal",
+						"nodularitate",
+						"infiltrare moderată la nivelul mezorectului",
+						"ulceraţii mucoase",
+						"adenopatie mezenterică asociată"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 98,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "99. În diagnosticul diferențial al apendicitei, trebuie excluse patologiile gestionate non-operator, care includ: [212]",
+					"answers": [
+						"Infecții la nivelul tractului urinar",
+						"Calculi la nivelul tractului urinar",
+						"Hepatită",
+						"Pancreatită acută severă",
+						"Pneumonie de lob inferior drept"
+					]
+				},
+				{
+					"pages": [
+						204,
+						205
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 99,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "100. Alegeți etiologiile majore ale ischemiei mezenterice acute: [204, 205]",
+					"answers": [
+						"Embolismul AMS",
+						"Tromboza VP",
+						"tromboza AMS",
+						"Tromboza VMS",
+						"Ischemia mezenterică non-ocluzivă"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 100,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "101. În tratamentul infarctului intestinal: [205]",
+					"answers": [
+						"Inițial, se face reechilibrarea și corectarea rapidă a oricăror anomalii metabolice",
+						"Frecvent, sunt administrate antibiotice",
+						"Principalul scop este ameliorarea durerii",
+						"Embolectomia imediată este indicată pacienților cu embolie de AMS",
+						"Nu este necesară revascularizarea în tromboza AMS"
+					]
+				},
+				{
+					"pages": [
+						214
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 101,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "102. Mucocelele și carcinoamele perforate pot fi asociate cu: [214]",
+					"answers": [
+						"Apariția icterului",
+						"Acumulări de lichid gelatinos în cavitatea peritoneală",
+						"Diseminare limfatică",
+						"Abces pelvin",
+						"Burta de jeleu"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 102,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "103. Cu privire la pacienții cu insuficiență intestinală de lungă durată, pot îndepărta nevoia de nutriţie parenterală totală: [211]",
+					"answers": [
+						"Creșterea aportului de proteine",
+						"Transplantul de intestin subțire",
+						"Suplimentarea cu vitamine",
+						"Apendicectomia laparoscopică",
+						"Procedura de alungire intestinală"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 103,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "104. Poate confirma diagnosticul de sindrom carcinoid, mai puțin: [208]",
+					"answers": [
+						"Testul de urină ce măsoară 5-HIAA",
+						"Măsurarea serică a serotoninei",
+						"Măsurarea serică a cromograninei A",
+						"Măsurarea ACTH",
+						"Testul ce măsoară 5-hidroxitriptofanul"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 104,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "105. Sunt complicații ale apendicectomiei: [213]",
+					"answers": [
+						"Infecția",
+						"Abcesul pelvin",
+						"Anemia",
+						"Fistula fecală",
+						"Necroza"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 105,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "106. Sunt cauze frecvente de ileus: [197]",
+					"answers": [
+						"Antiinflamatoarele steroidiene",
+						"Narcoticele",
+						"Repausul la pat",
+						"Hipotiroidismul",
+						"Dezechilibre electrolitice"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 106,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "107. Referitor la OIS, la copii, invaginația: [199]",
+					"answers": [
+						"Apare în urma unui traumatism",
+						"Apare frecvent spontan",
+						"Necesită laparotomie de urgență",
+						"Poate fi adesea gestionată conservator",
+						"Nu necesită reducerea"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 107,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "108. Despre ischemia mezenterică acută este adevărat: [206]",
+					"answers": [
+						"Mortalitatea generală prin IMA este scăzută",
+						"Dacă există intestin infarctizat, complicațiile sunt minime",
+						"Poate fi necesară o spitalizare prelungită în ATI",
+						"Frecvent, există un segment extins de intestin necrozat",
+						"La pacienții vârstnici cu comorbidități semnificative, supraviețuirea este puțin probabilă"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 108,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "109. Despre OIS distală este adevărat: [195]",
+					"answers": [
+						"Sucul intestinal este foarte acid",
+						"Sucul intestinal este mai alcalin",
+						"Vărsăturile duc la o alcaloză metabolică",
+						"Acidoza metabolică este rezultatul vărsăturilor persistente",
+						"Apare acidoză respiratorie"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 109,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "110. Diverticulul Meckel trebuie luat în considerare la copiii mici care prezintă, cu excepția: [210]",
+					"answers": [
+						"Epigastralgii",
+						"Ocluzie",
+						"Hemoragie digestivă inferioară",
+						"Fistulă ombilicală",
+						"Dureri la nivel abdominal inferior"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 110,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "111. Referitor la apendicită, în cazul în care apendicele perforează: [212]",
+					"answers": [
+						"Apare o accentuare temporară a durerii, urmată de ameliorare",
+						"Paraclinic, apare leucopenie",
+						"Poate exista o ameliorare temporară a durerii viscerale",
+						"Peritonita este asociată cu deplasarea la stânga a curbei leucocitare",
+						"Peritonita devine mai probabilă dacă simptomatologia se extinde peste 24 de ore"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 111,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "112. Despre tumorile stromale gastrointestinale (GIST) putem afirma că: [209]",
+					"answers": [
+						"Apar doar la nivelul duodenului II",
+						"Pot apărea oriunde în tractul GI",
+						"Au o incidență maximă în decada a șasea",
+						"Nu pot produce ocluzie sau sângerare",
+						"Prezintă în mod universal expresia proteinei C-kit"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 112,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "113. Semnul vârtejului pe CT este foarte sugestiv pentru: [196]",
+					"answers": [
+						"Volvulus",
+						"Ocluzia cu buclă închisă",
+						"Hernia internă",
+						"Ocluzia cu ansă deschisă",
+						"Hernia externă"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 113,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "114. În cadrul ocluziei intestinului subțire, în cazuri mai avansate apar: [196]",
+					"answers": [
+						"Hipertensiune",
+						"Tahicardie",
+						"Mucoase uscate",
+						"Scăderea turgorului pielii",
+						"Hipotensiune relativă"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 114,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "115. Cele mai importante examinări inițiale în OIS sunt: [196]",
+					"answers": [
+						"IRM",
+						"Ultrasonografia",
+						"Radiografii abdominale în clinostatism și ortostatism",
+						"Radiografia toracică în clinostatism",
+						"Radiografia toracică în ortostatism"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 115,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "116. În cazul ischemiei mezenterice nonocluzive, este adevărat, cu excepția: [205]",
+					"answers": [
+						"Tratamentul este direcționat către patologia subiacentă",
+						"Sunt indicate vasopresoarele alfa-adrenergice",
+						"Vasospasmul este o componentă majoră a bolii",
+						"Digoxina ar trebui evitată",
+						"Monitorizarea invazivă este adesea necesară"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 116,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "117. Despre apendicita acută sunt false următoarele afirmații: [212]",
+					"answers": [
+						"RMN este util în cazul simptomatologiei atipice",
+						"La pacientul cu simptomatologie clasică și tablou paraclinic sugestiv, explorările suplimentare sunt de înaltă utilitate",
+						"Examinările radiologice pot ajuta la diagnosticarea apendicitei acute",
+						"Radiografiile abdominale simple sunt rareori utile",
+						"Ultrasonografia s-a dovedit a fi destul de sensibilă"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 117,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "118. În apendicită, dacă se constată perforație peritoneală francă, se continuă tratamentul cu antibiotice până când pacientul: [213]",
+					"answers": [
+						"Este afebril",
+						"Prezintă leucopenie",
+						"Prezintă un număr normal de leucocite",
+						"Are valori normale ale hemoglobinei",
+						"Și-a reluat tranzitul intestinal"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 118,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "119. În managementul non-operator al apendicitei: [213]",
+					"answers": [
+						"Pacienții primesc o schemă de tratament cu antibiotice",
+						"Doar 20% dintre pacienți evită apendicectomia",
+						"70-90% dintre pacienți evită cu succes apendicectomia",
+						"10% dintre pacienți recidivează rapid",
+						"30% recidivează în prima lună"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 119,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "120. În ocluzia ansei intestinale proximale (ansă deschisă): [195]",
+					"answers": [
+						"Durerea este intermitentă, intensă, ameliorată de vărsătură",
+						"Durerea este continuă",
+						"Distensia este absentă",
+						"Distensia este marcată",
+						"Vărsăturile sunt în cantități mari, bilioase și dese"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 120,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "121. Este fals despre tumorile benigne ale intestinului subțire: [206]",
+					"answers": [
+						"Sunt mult mai frecvente decât cele maligne",
+						"Sunt afectate mai frecvent femeile",
+						"Incidența maximă este în decada a șasea",
+						"Leiomioamele apar cel mai adesea în jejun",
+						"Majoritatea sunt asimptomatice"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 121,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "122. Alegeți afirmația adevărată despre examinările de laborator în ischemia mezenterică acută: [205]",
+					"answers": [
+						"Valorile normale ale analizelor de laborator, exclud boala",
+						"Leucocitoza și acidoza metabolică, sunt obligatorii în confirmarea diagnosticului",
+						"Examinările de laborator sunt specifice și pun diagnosticul",
+						"Toți pacienții prezintă acid lactic crescut",
+						"Nu există nici o analiză de laborator prin care se poate stabili diagnosticul de IMA"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 122,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "123. Pot fi candidați pentru o perioadă mai lungă de tratament conservator în OIS, cu excepția: [199]",
+					"answers": [
+						"Pacienții fără operații în antecedente",
+						"Pacienții cu carcinomatoză cunoscută",
+						"Pacienții cunoscuți cu abdomen ostil",
+						"Pacienții cu enterită postradioterapie",
+						"Pacienții cu obstrucții recurente"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 123,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "124. Vor necesita nutriție parenterală totală: [211]",
+					"answers": [
+						"Pacienții cu colon intact și VIC competentă",
+						"Pacienții cu &gt;60cm de intestin subțire, cu colon intact și VIC competentă",
+						"Pacienții tineri cu &gt;100 cm de intestin subțire",
+						"Pacienții cu &lt;60cm de intestin subțire, cu colon intact și VIC competentă",
+						"Pacienții cu &lt;100cm de intestin subțire, fără colon și VIC competentă"
+					]
+				},
+				{
+					"pages": [
+						213,
+						214
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 124,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "125. Despre tumorile carcinoide apendiceale este falsă afirmația: [213, 214]",
+					"answers": [
+						"Reprezintă aproximativ jumătate din carcinoidele GI",
+						"Majoritatea sunt benigne",
+						"Pot fi o sursă de apendicită",
+						"În cazul leziunilor cu diametrul &gt;2 cm se va efectua apendicectomie simplă",
+						"Creșterea dimensiunilor carcinoidelor este direct proporțională cu posibilitatea malignității"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 125,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "126. Rotirea mezenterului este observată pe CT drept: [196]",
+					"answers": [
+						"Semnul sforii",
+						"Săgeată",
+						"Semnul valului",
+						"Semnul vârtejului",
+						"Semnul clopoțelului"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 126,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "127. Alte cauze extrinseci de OIS mai puțin frecvente includ: [194]",
+					"answers": [
+						"Aderențele postoperatorii",
+						"Țesutul cicatricial",
+						"Volvulusul",
+						"Cancerul cu metastaze peritoneale",
+						"Sindromul arterei mezenterice superioare"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 127,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "128. În cadrul infarctului intestinal, pentru tromboza VMS tratamentul de primă intenție: [205]",
+					"answers": [
+						"Este digoxina",
+						"Presupune administrarea de beta-blocante",
+						"Este suportiv",
+						"Implică anticoagulare promptă cu heparină intravenoasă",
+						"Este embolectomia"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 128,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "129. Este cea mai frecventă etiologie a obstrucției lumenului apendicular: [211]",
+					"answers": [
+						"Acumularea de materii fecale",
+						"Hiperplazia limfoidă",
+						"Necroza",
+						"Acumularea de mucus",
+						"Metaplazia lumenului"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 129,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "130. În OIS extrem de proximală: [195]",
+					"answers": [
+						"Sucul intestinal este alcalin",
+						"Acidoza metabolică este rezultatul vărsăturilor persistente",
+						"Pierderile de potasiu scad",
+						"Sucul intestinal este foarte acid",
+						"Vărsăturile duc la alcaloză metabolică"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 130,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "131. Scopul principal al tratamentului infarctului intestinal este: [205]",
+					"answers": [
+						"Restabilirea rapidă a fluxului sanguin intestinal",
+						"Vizualizarea ocluziei arterei mezenterice superioare",
+						"Excizia intestinului necrotic",
+						"Identificarea altor semne de infarct intestinal",
+						"Minimizarea oricărei leziuni de reperfuzie"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 131,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "132. Cancerul cu metastaze peritoneale sau carcinomatoză: [194]",
+					"answers": [
+						"Este o cauză intrinsecă a OIS",
+						"Determinările peritoneale metastatice sunt asociate de regulă cancerului hepatic",
+						"Determinările peritoneale metastatice sunt asociate de regulă cancerului ovarian",
+						"Este un proces adesea multifocal și poate fi incurabil",
+						"Tratamentul paliativ rămâne indicat chiar și în astfel de situații"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 132,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "133. Prezentarea atipică și diagnosticul întârziat în apendicită: [211]",
+					"answers": [
+						"Sunt mai frecvente la pacineții cu vârste cuprinse între 18-24 ani",
+						"Sunt mai frecvente la copii",
+						"Sunt mai frecvente la vârstnici",
+						"Crește riscul de perforație de 5 ori",
+						"Dublează riscul de perforație"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 133,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "134. Standardul de aur în diagnosticarea ischemiei mezenterice acute (IMA) este: [205]",
+					"answers": [
+						"Coronarografia",
+						"Arteriografia mezenterică",
+						"Ecocardiografia",
+						"Ultrasonografia abdominală",
+						"CT de abdomen și pelvis"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 134,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "135. Sunt strategii antimicrobiene frecvent utilizate în pregătirea preoperatorie a apendicetomiei: [213]",
+					"answers": [
+						"Cefalosporinele de generația a treia ca unică terapie",
+						"Penicilină cu spectru larg",
+						"Cefalosporinele de generația a doua",
+						"Clindamicină ca unică terapie",
+						"Combinație de fluoroquinolonă și acoperire anaerobă cu metronidazol"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 135,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "136. Despre apendicectomia incidentală putem afirma: [213]",
+					"answers": [
+						"Este apendicectomia efectuată în timpul altei intervenții chirurgicale",
+						"Adaugă un risc minim la procedura chirurgicală planificată",
+						"Multe studii au arătat un beneficiu minim",
+						"Crește mult riscul procedurii chirurgicale planificate",
+						"Studiile arată un beneficiu crescut al acesteia"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 136,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "137. Caracterul malign al GIST este pus în evidență prin: [209]",
+					"answers": [
+						"Numărul de mitoze",
+						"Prezența hiperplaziei",
+						"Dimensiunea tumorii &gt;3cm",
+						"Dovezile unui comportament invaziv",
+						"Prezența necrozei tumorale"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 137,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "138. Despre etiologia ileusului postoperator (IPO), alegeți afirmațiile adevărate: [198]",
+					"answers": [
+						"Este necunoscută",
+						"Este asociată cu stresul intervenției chirurgicale",
+						"Este multifactorială",
+						"Este asociată cu dezechilibrele hidroelectrolitice",
+						"Este asociată cu tratamentul analgezic, în special cu narcotice"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 138,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "139. Apendicectomia laparoscopică: [213]",
+					"answers": [
+						"A fost asociată cu durere postoperatorie ușor mai redusă comparativ cu apendicectomia standard",
+						"A fost asociată cu rate mai mari de infecție a plăgii",
+						"Studiile inițiale au sugerat rate mai mari de apariție a unui abces postoperator în apendicita perforată comparativ cu apendicectomia standard",
+						"Are costurile echipamentului mai scăzute comparativ cu apendicectomia standard",
+						"Nu permite inspecția cavității peritoneale"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 139,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "140. Diagnosticul diferențial al apendicitei se face cu: [212]",
+					"answers": [
+						"Boala inflamatorie a intestinului",
+						"Pancreatita acută",
+						"Endometrioza",
+						"Durerea ovulatorie",
+						"Infarctul intestinal"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 140,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "141. Ocluzia cu ansă închisă: [193]",
+					"answers": [
+						"Reprezintă un tip de obstrucție parțială",
+						"Reprezintă un tip de obstrucție completă",
+						"O porțiune a intestinului gros este obstruată distal",
+						"Intestinul subțire este obstruat doar la nivel proximal",
+						"O porțiune a intestinului subțire este obstruată atât proximal cât și distal"
+					]
+				},
+				{
+					"pages": [
+						211
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 141,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "142. Este fals cu privire la apendicita acută: [211]",
+					"answers": [
+						"Bolile virale care produc hiperplazia limfoidă, sunt un prodrom frecvent la vârstnici",
+						"Necroza și proliferarea bacteriană în mediul ischemic și în condițiile stazei se pot supraadăuga",
+						"Toxinele bacteriene pot deteriora suplimentar mucoasa",
+						"Dacă apare perforația, peritonita rezultată poate fi izolată de epiploon",
+						"Peritonita difuză poate apărea în cazul procesului localizat, la copiii mici"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 142,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "143. Cea mai frecventă indicație de intervenție chirurgicală la nivelul intestinului subțire este: [193]",
+					"answers": [
+						"Apendicita acută",
+						"Ocluzia intestinului subțire",
+						"Ileus paralitic",
+						"Boala Crohn",
+						"Colita ulcerativă"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 143,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "144. Adenoamele viloase: [207]",
+					"answers": [
+						"Reprezintă o cauză importantă de hemoragie ocultă şi constituie 5% din leziunile benigne ale intestinului subţire",
+						"Sunt mai predispuse la transformarea malignă",
+						"Nu predispun la transformare malignă",
+						"Ar trebui sa fie excizate",
+						"Sunt mai frecvente la bărbaţi, mai ales la nivelul duodenului sau ileonului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 144,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "145. Este cea mai comună anomalie congenitală a intestinului subțire:",
+					"answers": [
+						"Malrotația",
+						"Sindromul intestinului scurt",
+						"Enterita regională",
+						"Diverticulul Meckel",
+						"Sindromul Plummer-Vinson"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 145,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "146. Este adevărat despre cauzele intraluminale în OIS: [194]",
+					"answers": [
+						"Majoritatea corpilor străini care reușesc să treacă de pilor, vor străbate intestinul subțire",
+						"În contextul colecistitei, ileusul biliar, în care un calcul de dimensiuni mari migreaza prin peretele vezicii biliare într-o bucla adiacentă a intestinului aderent, poate fi cauză de OIS la vârstnici",
+						"fitobezoarele sunt agregate formate din fructe şi fibre vegetale slab digerate, ce pot fi cauza unei obstrucţii intraluminale",
+						"Obstrucţiile intestinale prin stricturi sunt adesea complete şi au frecvent un debut acut",
+						"Cea mai frecventă cauză de strictură benignă este enterita postradioterapie"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 146,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "147. Sunt tumori benigne epiteliale ale intestinului subțire, cu excepția: [207]",
+					"answers": [
+						"Hamartoame",
+						"Hemangioame",
+						"Adenoame tubulare",
+						"Adenoame viloase",
+						"Tumori neurogene"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 147,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "148. Ischemia atât a intestinului subţire, cât şi a celui gros se poate produce în cazul: [204]",
+					"answers": [
+						"Embolismului arterei mezenterice superioare",
+						"Embolismului venei mezenterice superioare",
+						"Trombozei arterei mezenterice superioare",
+						"Trombozei venei mezenterice superioare",
+						"Ischemiei mezenterice non-ocluzive din șocul sever"
+					]
+				},
+				{
+					"pages": [
+						193,
+						194
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 148,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "149. Reprezintă cauze frecvente de ocluzii intestinale extrinseci, cu excepția: [193, 194]",
+					"answers": [
+						"Carcinomatoza peritoneală",
+						"Aderențele și țesutul cicatricial",
+						"Volvulusul",
+						"Herniile în regiunile în care chirurgia abdominală este rar practicată",
+						"Sindromul de arteră mezenterică superioară"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 149,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "150. Următoarele tipuri de hernii care asociază ocluzie a intestinului subțire au indicație chirurgicală de urgență: [193]",
+					"answers": [
+						"Hernia încarcerată ireductibilă",
+						"Hernia ireductibilă",
+						"Hernia strangulată",
+						"Toate răspunsurile sunt corecte",
+						"Hernia internă"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 150,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "151. Durerea de origine apendiculară poate fi resimțită în diferite moduri, în funcție de localizarea acestuia: [212]",
+					"answers": [
+						"Semnul psoasului – localizat retrocecal",
+						"Semnul obturatorului – localizat pelvin",
+						"Durere la examenul rectal sau pelvin – localizat subcecal",
+						"Durere mai inferioară – în cazul gravidelor",
+						"Punct McBurney dureros – localizare clasica"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 151,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "152. Următoarele cancere sunt implicate mai frecvent în etiologia obstrucțiilor intestinale extrinseci prin carcinomatoză peritoneală: [194]",
+					"answers": [
+						"De intestin subțire",
+						"Colonic",
+						"Hepatic",
+						"Uterin",
+						"Ovarian"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 152,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "153. Angina intestinală nu este caracterizată de următoarele semne și simptome clinice: [204]",
+					"answers": [
+						"Durere postprandială",
+						"Durere precordială după mese abundente",
+						"Scădere în greutate",
+						"Teama de alimentare",
+						"Grețuri sau vărsături"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 153,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "154. Ischemia mezenterică acută produsă de tromboza de arteră mezenterică superioară va duce, în cele mai multe cazuri, la ischemia următoarelor segmente intestinale: [204]",
+					"answers": [
+						"Segmentele derivate din mezenteron",
+						"Segmentele derivate din metenteron",
+						"Colonul transvers proximal",
+						"Splina",
+						"Întregul intestin subțire, distal de ligamentul Treitz"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 154,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "155. Nu reprezintă cauze de ocluzie intestinală intraluminală: [194]",
+					"answers": [
+						"Tumori stromale de intestin subțire",
+						"Fitobezoarele",
+						"Stricturi intestinale benigne sau maligne",
+						"Invaginația",
+						"Volvulusul de intestin"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 155,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "156. Sindromul Osler-Weber-Rendu asociază următoarele tipuri de tumori gastro-intestinale: [207]",
+					"answers": [
+						"Leiomioame",
+						"Leiomiosarcoame",
+						"Lipoame",
+						"Hemangioame",
+						"Hamartoame"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 156,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "157. Ischemia mezenterică acută se dezvoltă cel mai lent, în zile-săptămâni în cazul: [205]",
+					"answers": [
+						"Embolismului arterei mezenterice superioare",
+						"Trombozei arterei mezenterice superioare",
+						"Trombozei venei mezenterice superioare",
+						"Ischemia mezenterică non ocluzivă la pacientul dializat",
+						"Ischemiei mezenterice non-ocluzive din șocul sever"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 157,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "158. Reprezintă simptome/semne frecvente de prezentare a ocluziei intestinului subțire, cu excepția: [195]",
+					"answers": [
+						"Durerea",
+						"Sensibilitatea la palpare",
+						"Greața și vărsăturile",
+						"Febra și frisoanele",
+						"Constipația severă pentru fecale și gaze"
+					]
+				},
+				{
+					"pages": [
+						193
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 158,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "159. Aderențele intestinale pot fi cauzate de următoarele boli inflamatorii acute ale organelor peritoneale, cu excepția: [193]",
+					"answers": [
+						"Pancreatitei",
+						"Diverticulitei",
+						"Apendicitei",
+						"Colecistitei",
+						"Bolii inflamatorii pelvine"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 159,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "160. Reprezintă cauze de ocluzie intestinală intrinsecă, cu excepția: [194]",
+					"answers": [
+						"Limfoame intestinale",
+						"Boala Crohn",
+						"Ileusul biliar",
+						"Invaginația",
+						"Carcinomatoză peritoneală"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 160,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "161. Ischemia mezenterică acută non-ocluzivă este favorizată de următoarele stări patologice: [205]",
+					"answers": [
+						"Disfuncția circulatorie",
+						"Fibrilație atrială",
+						"Insuficienţă cardiacă",
+						"Deficit de antitrombină III",
+						"Boli aterosclerotice"
+					]
+				},
+				{
+					"pages": [
+						207,
+						208
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 161,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "162. Pe lângă tractul gastro-intestinal, tumorile carcinoide primare se mai regăsesc la nivelul: [207, 208]",
+					"answers": [
+						"Ficatului",
+						"Gonadelor",
+						"Plămânilor",
+						"Rectului",
+						"Rinichilor"
+					]
+				},
+				{
+					"pages": [
+						207,
+						231,
+						268
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 162,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "163. Următoarele afirmații sunt adevărate în legătură cu sindromul Peutz-Jeghers: [207, 231, 268]",
+					"answers": [
+						"Este o patologie autozomal dominantă",
+						"Asociază hiperpigmentări muco-cutanate, în special la nivelul buzelor și mucoasei bucale",
+						"Asociază un risc crescut de cancer pancreatic",
+						"Asociază hamartoame gastrointestinale, în special la nivelul intestinului subțire",
+						"Asociază polipi intestinali cu potențial înalt de malignizare"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 163,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "164. Reprezintă indicatori predictori ai strangulării unei ocluzii intestinale, cu excepția: [195]",
+					"answers": [
+						"Febra",
+						"Leucocitoza",
+						"Tahicardia",
+						"Hipertensiunea arterială",
+						"Sensibilitatea abdominală localizată"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 164,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "165. Sunt tumori benigne non-epiteliale întâlnite la nivelul intestinului subțire: [207]",
+					"answers": [
+						"Leiomiomul",
+						"Schwanomul",
+						"Neurofibrom",
+						"Limfocelul",
+						"Lipomul"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 165,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "166. Ocluziile intestinale intrinseci prin stricturi maligne primare sunt cauzate cel mai frecvent de: [194]",
+					"answers": [
+						"Adenocarcinom",
+						"Carcinom scuamocelular",
+						"Limfom",
+						"Melanom malign",
+						"Tumori stromale gastrointestinale (GIST)"
+					]
+				},
+				{
+					"pages": [
+						206,
+						207,
+						208,
+						209
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 166,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "167. Reprezintă tumori ale intestinului subțire mai frecvent localizate la nivelul ileonului: [206, 207, 208, 209]",
+					"answers": [
+						"Tumorile GIST maligne",
+						"Adenomul",
+						"Tumorile carcinoide",
+						"Limfoamele",
+						"Lipoamele"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 167,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "168. Sunt tumori benigne epiteliale întâlnite la nivelul intestinului subțire: [207]",
+					"answers": [
+						"Adenocarcinomul",
+						"Leiomioamele",
+						"Adenoamele glandelor Brunner",
+						"Adenoamele tubulare",
+						"Hamartoamele"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 168,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "169. Tumorile benigne de intestin subțire se pot complica prin: [207]",
+					"answers": [
+						"Invaginație",
+						"Prolaps proximal",
+						"Ocluzie intestinală",
+						"Ulcerații și hemoragii gastro-intestinale",
+						"Sângerare intra-abdominală"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 169,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "170. Ischemia mezenterică acută la nivelul mezenteronului se poate dezvolta prin următoarele mecanisme, cu excepția: [204]",
+					"answers": [
+						"Tromboza arterei mezenterice superioare",
+						"Tromboza venei mezenterice superioare",
+						"Embolismul arterei mezenterice superioare",
+						"Embolismul venei mezenterice superioare",
+						"Ischemiei mezenterice non-ocluzive din insuficiența cardiacă"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 170,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "171. Diagnosticul tumorilor de intestin subțire este cel mai adesea stabilit prin intermediul: [206]",
+					"answers": [
+						"Enteroclismei",
+						"Enterografiei CT",
+						"Rezonanței magnetice nucleare",
+						"Endoscopiei cu capsulă",
+						"Enteroscopiei cu balon dublu"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 171,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "172. Ischemia mezenterică non-ocluzivă are următoarele etiologii: [205]",
+					"answers": [
+						"Embolismul AMS",
+						"Șocul și disfuncția circulatorie severă",
+						"Insuficiența cardiacă",
+						"Fibrilația atrială",
+						"Complicație a dializei"
+					]
+				},
+				{
+					"pages": [
+						206,
+						207,
+						208,
+						209
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 172,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "173. Reprezintă tumori ale intestinului subțire mai frecvent localizate la nivelul duodenului: [206, 207, 208, 209]",
+					"answers": [
+						"Adenomul glandelor Brunner",
+						"Adenocarcinomul",
+						"Lipomul",
+						"Limfomul",
+						"Tumorile GIST benigne"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 173,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "174. Ischemia mezenterică acută se dezvoltă cel mai frecvent prin următoarele mecanisme ocluzive: [204]",
+					"answers": [
+						"Embolia arterei mezenterice superioare",
+						"Embolia arterei mezenterice inferioare",
+						"Tromboza arterei mezenterice inferioare",
+						"Tromboza venei mezenterice inferioare",
+						"Tromboza venei mezenterice superioare"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 174,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "175. Sunt tumori benigne de intestin subțire mai frecvent întâlnite la nivelul duodenului: [207]",
+					"answers": [
+						"Leiomioamele",
+						"Lipoamele",
+						"Hamartoamele",
+						"Adenoamele glandelor Brunner",
+						"Hemangioamele"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 175,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "176. Cea mai frecventă formă de prezentare a tumorilor carcinoide intestinale o reprezintă: [207]",
+					"answers": [
+						"durerea abdominală",
+						"sângerarea gastro-intestinală",
+						"ocluzia",
+						"scădere ponderală",
+						"invaginația"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 176,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "177. Poate semnala ischemie intestinală într-o ocluzie de intestin subțire: [197]",
+					"answers": [
+						"acidoza lactică",
+						"hiperpotasemia",
+						"leucocitoza",
+						"alcaloza hipokalemică",
+						"hemoglobina scăzută"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 177,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "178. Reprezintă cea mai frecventă cauză de strictură benignă a intestinului subțire: [194]",
+					"answers": [
+						"boala Crohn",
+						"enterita postradioterapie",
+						"utilizarea cronică de AINS",
+						"stricturile anastomotice",
+						"bezoar"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 178,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "179. Într-o ocluzie intestinală, următoarea modificare a electroliților serici este sugestivă pentru pacienții cu deshidratare avansată: [197]",
+					"answers": [
+						"acidoză hipernatremică",
+						"alcaloză hipokalemică",
+						"acidoza lactică",
+						"alcaloza hipernatremică",
+						"acidoza hipokalemică"
+					]
+				},
+				{
+					"pages": [
+						210
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 179,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "180. Este un simptom precoce pentru volvulus de intestin subțire: [210]",
+					"answers": [
+						"durere abdominală",
+						"diaree",
+						"vărsături bilioase",
+						"anorexie și greață",
+						"distensie abdominală"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 180,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "181. În ischemia mezenterică non-ocluzivă ar trebui evitate următoarele medicamente: [205]",
+					"answers": [
+						"digoxina",
+						"ibuprofen",
+						"amilorid",
+						"antidepresivele",
+						"vasopresoare alfa-adrenergice"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 181,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "182. Ce investigații paraclinice pot confirma un sindrom carcinoid malign? [208]",
+					"answers": [
+						"măsurarea serică a cromograninei A",
+						"nivelul de hormoni adrenocorticotropi serici",
+						"testul de urină cu excreție crescută de 5-HIAA",
+						"măsurarea serică a dopaminei",
+						"exprimarea proteinei C-kit"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 182,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "183. Sunt afirmații adevărate în legătură cu apendicita la gravide, cu excepția: [212]",
+					"answers": [
+						"clisma baritată este o investigație folosită mai mult în acest context",
+						"leucocitoza apare frecvent și ajută diagnosticul",
+						"decesul fetal poate fi de 35% sau mai mult în condițiile unei peritonite asociate",
+						"la gravide apendicele este frecvent situat într-o poziție mai pelvină",
+						"la efectuarea inciziei trebuie luată în considerare deplasarea apendicelui"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 183,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "184. Sunt semne de ischemie mezenterică acută vizibile la scanarea CT: [205]",
+					"answers": [
+						"aer în peretele intestinal",
+						"îngroşarea peretelui intestinal",
+						"aeroportia",
+						"subțierea peretelui intestinal",
+						"ocluzia mecanică a unei porțiuni intestinale"
+					]
+				},
+				{
+					"pages": [
+						195
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 184,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "185. Sunt semne și simptome ce corespund ocluziei intestinale cu ansă intestinală distală: [195]",
+					"answers": [
+						"vărsături cu aspect fecaloid",
+						"distensie abdominală absentă",
+						"constipație severă pentru fecale și gaze",
+						"durere intermitentă, intensă, colicativă, ameliorată de vărsătură",
+						"sensibilitate la palpare progresivă, difuză"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 185,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "186. Sunt cauze extrinseci frecvente de ocluzie intestinală subțire: [194]",
+					"answers": [
+						"țesut cicatricial",
+						"fitobezoare",
+						"hernia inghinală în regiunile în care chirurgia abdominală este rar practicată",
+						"cancerul cu metastaze peritoneale",
+						"aderențe postoperatorii"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 186,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "187. Sunt cauze frecvente de ileus: [197]",
+					"answers": [
+						"depresia",
+						"narcotice",
+						"hipotiroidismul",
+						"hiperpotasemia",
+						"traumatisme"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 187,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "188. Apendicectomia laparoscopică prezintă următoarele beneficii față de chirurgia deschisă: [213]",
+					"answers": [
+						"permite inspecţia cavităţii peritoneale înainte de angajarea într·-o anumită manevră chirurgicală",
+						"costul intervenției",
+						"este mai potrivită dacă pacientul se prezintă cu o formă mai avansată, cu peritonită şi/sau cu incertitudine diagnostică semnificativă",
+						"durerea postoperatorie mai redusă",
+						"rate mai mici de infecție postoperator"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 188,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "189. Sindromul carcinoid apărut în tumorile carcinoide intestinale poate prezenta următoarele semne şi simptome: [207]",
+					"answers": [
+						"bronhospasm",
+						"eritem cutanat episodic, în special la nivelul capului şi trunchiului",
+						"valvulopatie cardiacă dreaptă",
+						"vasculită",
+						"sângerare intestinală"
+					]
+				},
+				{
+					"pages": [
+						213
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 189,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "190. Antibioterapia preoperatorie recomandată înaintea apendicectomiei constă în următoarele: [213]",
+					"answers": [
+						"cefalosporină de generația 2-a",
+						"penicilină cu spectrul larg",
+						"fluoroquinolonă + metronidazol",
+						"aminoglicozidă",
+						"tigeciclină sau doxiciclină"
+					]
+				},
+				{
+					"pages": [
+						194
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 190,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "191. Sunt cauze extrinseci de OIS mai puțin frecvente: [194]",
+					"answers": [
+						"volvulus",
+						"sindromul arterei mezenterice superioare",
+						"carcinomatoza",
+						"hernia inghinală în regiunile în care chirurgia abdominală este rar practicată",
+						"stricturile"
+					]
+				},
+				{
+					"pages": [
+						204,
+						205
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 191,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "192. Tromboza de venă mezenterică superioară (VMS), ca și cauză a ischemiei mezenterice acute, poate avea ca și cauze următoarele anomalii hematologice: [204, 205]",
+					"answers": [
+						"deficit de antitrombină III",
+						"mutația factorului V Leiden",
+						"insuficienţă renală cronică",
+						"factor II (protrombina)",
+						"inhibitorul activator de plasminogen"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 192,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "193. Cum se pot prezenta, în mod specific, din punct de vedere clinic, adenocarcinomale din regiunea periampulară? [207]",
+					"answers": [
+						"icter nedureros",
+						"pancreatită",
+						"scădere ponderală",
+						"sângerare",
+						"ocluzie intestinală"
+					]
+				},
+				{
+					"pages": [
+						212
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 193,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "194. Reprezintă boli ce pot avea anumite trăsături comune cu apendicita, în anumite situații: [212]",
+					"answers": [
+						"ileita acută",
+						"diverticulita cecală",
+						"ulcerul peptic perforat",
+						"adenomioza",
+						"colecistita"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 194,
+					"chapterId": "624713bb327119885ebecfa3",
+					"text": "195. În ocluzia intestinului subțire, pacienții prezintă următoarele semne și simptome clinice: [196]",
+					"answers": [
+						"vărsături",
+						"letargie",
+						"tulburări hidroelectrolitice",
+						"greață",
+						"hipotensiune relativă în faza incipientă"
+					]
+				}
+			],
+			"chapters": [
+				{
+					"_id": "624713bb327119885ebecfa3",
+					"name": "2.14. Intestinul subțire și apendicele",
+					"isUserContent": false,
+					"categories": [
+						"m_g_cg"
+					]
+				}
+			],
+			"timed": false,
+			"showAnswers": true,
+			"quantity": 195,
+			"startedAt": "2023-11-17T20:02:31.350Z",
+			"hasExplanations": false
+		}
+	}
+}

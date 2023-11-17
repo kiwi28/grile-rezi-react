@@ -1,0 +1,3208 @@
+{
+	"status": "OK",
+	"code": 200,
+	"success": true,
+	"message": "SUCCESS",
+	"data": {
+		"exam": {
+			"_id": "6557c37b8d6e6100110524be",
+			"examType": "custom",
+			"questions": [
+				{
+					"pages": [
+						611
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "1. Hipotiroidismul autoimun nu se poate asocia cu: [611]",
+					"answers": [
+						"Anemia pernicioasă",
+						"Anemia aplastică",
+						"Anticorpi stimulanți ai receptorului TSH",
+						"Vitiligo",
+						"Alte insuficiențe endocrine"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "2. Gusa endemică: [612]",
+					"answers": [
+						"Este cauzată de deficit de seleniu",
+						"Pacienții pot fi eutiroidieni, hipo sau hipertiroidieni",
+						"Se încearcă prevenția prin suplimentarea sării cu iod",
+						"Poate determina cretinism",
+						"Dimensiunea ei este în raport cu severitatea deficitului de iod"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "3. La copii hipotiroidismul se manifestă prin: [612]",
+					"answers": [
+						"viteză de creștere încetinită",
+						"performanțe școlare slabe",
+						"stagnarea dezvoltării pubertare",
+						"hipoprolactinemie",
+						"tahicardie"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "4. Terapia de substituție pentru hipotiroidism se face astfel: [613]",
+					"answers": [
+						"Terapia cu levotiroxină se administrează pe viață",
+						"Doza inițială pentru persoana cu boala cardiacă ischemică este de 50 micrograme",
+						"Doza inițială de levotiroxină la tineri este de 50 micrograme",
+						"Doza inițială pentru persoana cu boala cardiacă ischemică este de 25 micrograme",
+						"Doza inițială nu depinde de vârsta pacientului"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "5. Boala Graves se asociază cu: [614]",
+					"answers": [
+						"Ac anti receptor TSH",
+						"HLA DR4",
+						"HLA DR2",
+						"HLA DR3",
+						"HLA B8"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "6. Sindromul de rezistență la hormonii tiroidieni are următoarele caracteristici: [618]",
+					"answers": [
+						"TSH crescut și T4 crescut",
+						"TSH normal si T4 crescut",
+						"Pacientul poate fi eutiroidian",
+						"Necesită diagnostic diferențial cu un adenom hipofizar secretant de TSH și interferențele măsurătorilor de laborator",
+						"Este o anomalie dobândită, cauzată de o anomalie a receptorului hormonului tiroidian"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "7. Cauze frecvente de hipertiroidism sunt: [614]",
+					"answers": [
+						"Boala Graves",
+						"Tiroidita postpartum",
+						"De cauză medicamentoasă",
+						"Gușa multinodulară toxică",
+						"Adenomul toxic solitar"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "8. Referitor la dishormonogeneză este fals că: [612]",
+					"answers": [
+						"Este o afecțiune rară care se datorează defectelor genetice în sinteza hormonilor tiroidieni",
+						"Bolnavii pot dezvolta hipotiroidism fără gușă",
+						"Se poate asocia cu sindromul Pendred",
+						"Poate fi familială",
+						"Se poate asocia cu surditate senzorială din cauza unei deleții la nivelul cromozomului 7"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "9. Despre tratamentul hipertiroidismului este adevărat că: [616]",
+					"answers": [
+						"Dintre beta blocante este de preferat metoprololul",
+						"Deoarece multe dintre manifestările hipertiroidismului sunt mediate prin sistemul simpatic, beta blocantele se pot folosi întotdeauna în monoterapie",
+						"Se poate utiliza regimul blocare și substituție",
+						"TSH-ul rămâne supresat multe luni după normalizarea hormonilor",
+						"Beneficiile clinice ale tratamentului antitiroidian sunt vizibile după primele 7 zile"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "10. Medicamentele care blochează conversia T4 in T3 sunt: [616]",
+					"answers": [
+						"Diltiazem",
+						"Carbimazolul",
+						"Tiamazolul",
+						"Metimazolul",
+						"Propiltiouracil"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "11. Despre tratamentul cu iod radioactiv este fals că: [617]",
+					"answers": [
+						"Reprezintă cel mai frecvent mod de tratament în Europa",
+						"Efectul de distrugere este prin acumulare în glandă și declanșarea unui mecanism autoimun",
+						"Doza administrată este de 400-550MBq",
+						"Înainte de administrare se va sista orice medicament antitiroidian cu cel puțin 4 săptămâni anterior",
+						"Dupa administrarea iodului se poate reîncepe tratamentul cu antitiroidiene după minim 3 zile"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "12. Hipertiroidismul se poate prezenta: [615]",
+					"answers": [
+						"La adulți tineri prin “tireotoxicoză apatică”",
+						"La copii prin fibrilație atrială",
+						"La copii prin talie joasă",
+						"La vârstnici prin “tireotoxicoză apatică”",
+						"La vârstnici prin insuficiență cardiacă"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "13. Caracteristic bolii Graves față de alte forme de hipertiroidism: [615]",
+					"answers": [
+						"Gusa, freamăt tiroidian",
+						"Exoftalmia",
+						"Edem conjunctival",
+						"Retracţie palpebrală",
+						"Oftalmoplegia"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "14. Investigații de laborator în hipertiroidism pot arăta următoarele, cu excepția: [616]",
+					"answers": [
+						"TSH seric suprimat",
+						"TSH seric crescut întotdeauna",
+						"FT4 și FT3 crescute",
+						"Ft4 și T3 crescut în cazurile cu T3 toxicoză izolată",
+						"Prezenta Ac anti TPO si Ac anti-Tg"
+					]
+				},
+				{
+					"pages": [
+						611
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "15. Cauza de hipotirodism secundar este: [611]",
+					"answers": [
+						"Administrarea de medicamente anti-tiroidiene",
+						"Deficitul izolat de TSH",
+						"Tiroidita postpartum",
+						"Iradierea externă a capului",
+						"Agenezia tiroidiană"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "16. În cazul hipotiroidismului de graniță se va administra substituție hormonală: [613]",
+					"answers": [
+						"Valoare TSH mai mare de 10mU/L  în mod constant",
+						"Pacientul prezintă anomalii ale profilului lipidic",
+						"După sarcină",
+						"În timpul sarcinii",
+						"Când valorile Ac anti tiroidieni sunt mari"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "17. Despre tireotoxicoza produsă de imunoterapie este adevărat că: [615]",
+					"answers": [
+						"Poate fi cauzată de ipilimumab, pembrolizumab sau nivolumab",
+						"Se poate datora amiodaronei",
+						"Este cea mai rară dintre irAE, cea mai frecventă fiind hipofizita",
+						"Tratamentul se face cu antitiroidiene de sinteză cel mai frecvent",
+						"Se datoreaza medicamentelor cu efect de blocare a reglatorilor negativi ai celulelor T"
+					]
+				},
+				{
+					"pages": [
+						611
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "18. Despre hipotiroidismul autoimun este adevărat că: [611]",
+					"answers": [
+						"Se mai numește atrofic",
+						"Este cea mai frecventă cauza de hipotiroidism",
+						"Duce la infiltrarea granuloasă a glandei cu eventuală atrofie și fibroză",
+						"Forma hipertrofică este de 6 ori mai frecventă la femei",
+						"Incidența crește o data cu vârsta"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "19. Despre tratamentul cu iod radioactiv este adevărat că: [617]",
+					"answers": [
+						"Poate agrava oftalmopatia tiroidiană",
+						"În jur de 50% se eutiroidizează pe termen scurt",
+						"Toți pacienții vor necesita o a 2-a doză de iod radioactiv",
+						"Majoritatea pacienților rămân eutiroidieni toată viața",
+						"Nu prezintă risc neoplazic crescut"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "20. Pentru a dermina riscul de tireotoxicoză neonatală a unui făt a cărui mama prezintă antecedente de boală Graves se poate măsura: [618]",
+					"answers": [
+						"Nivelul de TSH",
+						"Nivelul de fT4",
+						"Nivelul Ac anti-tireoglobulina",
+						"Nivelul ATPO",
+						"Nivelul TRAb"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "21. Următorul semn nu este caracteristic hipertiroidismului: [615]",
+					"answers": [
+						"Tremurături",
+						"Tahicardie sau Fia",
+						"Miopatie distală",
+						"Eritem palmar",
+						"Psihoză"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "22. Referitor la hipotiroidism este adevărat că: [613]",
+					"answers": [
+						"Dacă TSH-ul este crescut marginal se va iniția tratament cu hormoni de substituție",
+						"Dacă TSH-ul este crescut marginal se va repeta testul la 3-6 luni,  deoarece o proporție semnificativă de pacienți va prezenta valori normale la testarea repetată",
+						"Evoluția către hipotiroidism manifest, după hipotiroidism de graniță este mai frecventă la femei",
+						"Evoluția către hipotiroidism manifest, după hipotiroidism de graniță este mai frecventă la persoanele cu titru mare de Ac anti-TPO",
+						"Când valorile TSH sunt crescute, dar sub 10 mU/L la o persoană cu simptome vagi, se va iniția tratament cu hormonii tiroidieni cu remiterea simptomatologiei în cele mai multe cazuri"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "23. Hipertiroidismul nenonatal se poate manifesta prin: [618]",
+					"answers": [
+						"Iritabilitate",
+						"Creștere în greutate",
+						"Diaree",
+						"Semne oculare",
+						"Constipație"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "24. Coma mixedematoasă: [613]",
+					"answers": [
+						"Pacientul se reîncălzește rapid fiind hipotermic",
+						"Se prezintă cu hiperglicemie",
+						"Se adminstrează T4 pe cale orală sau iv",
+						"Se adminstrează T3 pe cale orală sau iv",
+						"Se prezinta cu hiponatremie"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "25. Despre terapia de substituție a hipotiroidismului este adevărat că: [613]",
+					"answers": [
+						"In mod ideal TSH-ul trebuie menținut în 1/3 superioară a intervalului normal",
+						"După normalizarea TSH-ului se recomandă testarea la 6 luni a funcției tiroidiene",
+						"Ameliorarea clincă se observă imediat",
+						"Soluționarea completă a simptomelor poate dura 6 luni",
+						"Supresia completă a TSH-ului are risc de fibrilație atrială si osteoporoză"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "26. Dintre analizele de laborator, nu este compatibilă cu hipotiroidismul: [613]",
+					"answers": [
+						"Anemia normocromă normocitară",
+						"Anemia macrocitară",
+						"Anemia microcitară",
+						"Hipernatremie",
+						"Hipercolesterolemie și hipertrigliceridemie"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "27. Tiroidita cu tireotoxicoză se caracterizează prin: [614]",
+					"answers": [
+						"TSH supresat",
+						"Gușă difuză de consistență dură",
+						"Titru ridicat al Ac anti receptor TSH",
+						"Captare minimă a trasorului",
+						"Captare difuză a trasorului"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "28. Indicații pentru tratamentul cu iod radioactiv sunt următoarele, cu excepția: [617]",
+					"answers": [
+						"Opțiunea pacientului",
+						"Efecte adverse medicamentoase persistente",
+						"Gușă mare, puțin probabil să se remită după medicație",
+						"Complianță redusă la tratament",
+						"Hipertiroidism recurent după tratament medicamentos"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "29. Despre tratamentul hipertiroidismului este adevărat că: [616]",
+					"answers": [
+						"Exista mai multe modalități printre care: medicamente anti-tiroidiene, iod radioactiv, chirurgie",
+						"În jur de 50% vor recidiva după o cură de carbimazol sau propiltiouracil, cei mai mulți în primii 2 ani după tratament",
+						"În caz de recidivă se poate utiliza tratament antitiroidian pe termen lung sau se ia în considerare cel chirurgical sau radioterapia",
+						"În cazul pacienților cu gușă nodulară remisiunea este mai probabilă după o cură de tratament antitiroidian.",
+						"Pacienții cu gușă multinodulară voluminoasă vor necesita în general tratament radical"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "30. Boala Graves nu se prezintă cu: [614]",
+					"answers": [
+						"TSH crescut si FT4 crescut",
+						"Titru ridicat al Ac antiTPO",
+						"Captare focală a trasorului",
+						"Gusă nodulară",
+						"Semne de tireotoxicoză"
+					]
+				},
+				{
+					"pages": [
+						617,
+						618
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "31. Despre hipertiroidismul din sarcină se poate afirma că: [617, 618]",
+					"answers": [
+						"Se poate trata cu PTU, dar și cu carbimazol in trimestrele doi și trei de sarcină, datorită riscului de agranulocitoză al PTU",
+						"Se poate utiliza regimul blocare și substituție",
+						"Nivelul mare de HCG din sarcina normală este un stimul slab al receptorului de TSH, cauzând frecvent supresia TSH cu creşterea uşoară a fT 4/fT 3 în primul trimestru",
+						"Patogeneza cea mai frecventă a hipertiroidismului adevarat al gravidelor este boala Graves",
+						"Se poate trata și cu iod radioactiv"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "32. Boala Graves se poate asocia cu: [614]",
+					"answers": [
+						"Limfadenopatie",
+						"Hepatomegalie",
+						"Splenomegalie",
+						"Anemie aplastică",
+						"Vitiligo"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "33. Carbimazolul: [616]",
+					"answers": [
+						"Se administrează în doza inițială de 20-40mg zilnic",
+						"Poate provoca diaree",
+						"Poate provoca greață și vărsături",
+						"Are activitate imunosupresivă ușoară",
+						"Blochează conversia T4 în T3"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "34. Despre tiroidita postpartum este adevărat că: [612]",
+					"answers": [
+						"Se prezintă de obicei ca un fenomen tranzitoriu observat în urma sarcinii",
+						"Se poate prezenta cu eutiroidie",
+						"Se poate prezenta cu hipotiroidie",
+						"Procesul este in mod normal autolimitat",
+						"Poate evolua spre hipertiroidism permanent"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "35. Despre regimul blocare și substituție este fals că: [616]",
+					"answers": [
+						"Utilizează 100 mg carbimazolz pentru a suprima complet tiroida, în timp ce se substituie funcția tiroidiană cu 40 micrograme de levotiroxină",
+						"Acest regim este contraindicat în sarcină, deoarece T4 traversează placenta mai slab decât carbimazolul",
+						"Se continuă de obicei timp de 12 luni",
+						"Dezavanatajul este acțiunea imunosupresivă a carbimazolului",
+						"Este preferat utilizării medicației antitiroidiene ca tratament unic în sarcină"
+					]
+				},
+				{
+					"pages": [
+						611
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "36. Următoarele afirmații despre hipotiroidism sunt adevărate: [611]",
+					"answers": [
+						"Hipofuncția este de obicei cauzată de afectarea hipotalamo-hipofizară",
+						"Hipotiroidismul primar este una dintre cele mai frecvente afecțiuni endocrine",
+						"Prevalența poate ajunge la 9% pentru bărbați",
+						"Prevalența poate ajunge la 9% pentru femei",
+						"Prevalența poate ajunge la 1% pentru bărbați"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "37. Semne de hipertiroidism sunt: [615]",
+					"answers": [
+						"Hipertensiune arterială sistolică",
+						"Onicoliză",
+						"Palpitații",
+						"Constipația",
+						"Pierdere în greutate"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "38. Despre furtuna tiroidiană nu se poate afirma că: [617]",
+					"answers": [
+						"Se manifestă prin hiperpirexie, tahicardie severă, insuficiență cardiacă și disfuncție renală",
+						"Poate fi o complicație a tratamentului cu iod radioactiv",
+						"Se va iniția tratamentul cu metoprolol în doză completă",
+						"Se va iniția tratamentul cu beta blocant, iodură de potasiu, preparat antitiroidian, corticosteroizi",
+						"Ocazional se poate complica cu cardiomiopatie tireotoxică, ce va cauza modificări ischemice pe EKG, care nu se remit după obținerea eutiroidismului"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "39. Despre amiodaronă este fals că: [615]",
+					"answers": [
+						"Tireotoxicoza indusă de amiodaronă tip II nu este asociată cu o boală tiroidiană anterioară",
+						"AIT tip II este asociată cu boala Graves preexistentă sau cu gusă multinodulară",
+						"Mecanismul de la tipul I de tireotoxicoza indusă de amiodaronă este prin conținutul crescut de iod",
+						"Inhibă deiodinarea T4 in T3",
+						"Doar AIT de tip II se poate asocia cu raport T4/T3 mai mare decât uzual"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "40. Despre sarcina unei paciente cu boală Graves se poate afirma: [618]",
+					"answers": [
+						"Trebuie monitorizată pe tot parcusul sarcinii cel puțin lunar, prin urmărirea ritmului cardiac fetal",
+						"Dacă ritmul cardiac al fătului depășește 150b/min se va iniția tratament cu PTU și/sau propranolol",
+						"Dacă mama a efectuat tratament radical (chirurgie sau IRA) pentru boala Graves nu mai este necesară urmărirea riscului de hipertiroidism la copil",
+						"Alăptarea în cursul tratamentului cu doze uzuale de carbimazol sau PTU este interzisă",
+						"Hipertiroidismul se poate dezvolta și în perioada neonatală, nu doar in utero"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 40,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "41. Despre hipotiroidism este adevărat că: [612]",
+					"answers": [
+						"Pacientul tipic are părul uscat, intolerant la frig, bradicardic, cu voce subțiată",
+						"Mixedemul se referă la acumularea de mucopolizaharide în țesuturile subcutanate",
+						"Bărbații pot sa nu prezinte semne clinice evidente",
+						"Trebuie exclus la pacienții vârstnici cu deficiență cognitivă",
+						"Multe cazuri sunt detectate la screeningul biochimic"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 41,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "42. Despre tratamentul cu iod radioactiv este adevărat că: [617]",
+					"answers": [
+						"Se poate administra la orice vârstă",
+						"Se poate administra și în timpul sarcinii",
+						"Eficiența apare în câteva zile de la administrare",
+						"Eutiroidismul se va instala de regula în 2-3 luni",
+						"Pot surveni efecte precum disconfortul în regiunea cervicală"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 42,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "43. Despre tiroidita de Quervain este fals că: [614]",
+					"answers": [
+						"Tratamentul fazei acute se face cu aspirină, folosind prednisolon pe termen scurt în cazuri simptomatice grave",
+						"Prezintă febră, stare de rău şi durere la nivelul gâtului, cu tahicardie şi sensibilitate tiroidiană",
+						"Prezintă initial hipotiroidie, apoi hipertiroidie",
+						"VSH și vâscozitatea plasmatică au niveluri ridicate",
+						"Scintigrama indică suprimarea captării în faza acută"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 43,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "44. Despre hipotiroidismul congenital este fals că: [613]",
+					"answers": [
+						"Netratat si sever duce la deterioare neurologică și intelectuală tranzitorie",
+						"Screeningul se face prin detecția unui nivel scăzut al FT4",
+						"Hipotiroidismul netratat şi sever produce deteriorare neurologică şi intelectuală permanentă (“cretinism”)",
+						"Terapia de substituție se poate începe la orice vârstă, fiind eficientă",
+						"Incidența este de 1 la 350 de nașteri"
+					]
+				},
+				{
+					"pages": [
+						611
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 44,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "45. Hipotiroidismul primar poate fi cauzat de: [611]",
+					"answers": [
+						"Deficit de iod",
+						"Tiroidită Hashimoto",
+						"Deficitul izolat de TSH",
+						"După tiroidita subacută",
+						"Agenezie tiroidiană"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 45,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "46. Referitor la terapia de substituție hormonală pentru hipotiroidism este adevărat că: [613]",
+					"answers": [
+						"Se începe cu 50 micrograme pentru pacienții cu greutate redusă sau vârstnici",
+						"Doza uzuală de întreținere este de 200-250 micrograme",
+						"Dacă TSH rămâne ridicat se crește doza de T4 în incremente de 25-50 micrograme, cu repetarea funcției tiroidiene la intervale de 6-8 săptămâni",
+						"În timpul sarcinii este necesară scăderea dozei de hormoni tiroidieni pentru a nu determina tireotoxicoză la făt",
+						"În timpul sarcinii se va menține TSH într-un interval mai strict de 0.3-2.5 mU/L"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 46,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "47. Următoarele sunt semne/simptome de hipotiroidism: [612]",
+					"answers": [
+						"Psihoză/ demență",
+						"Surditate",
+						"Tulburări de vedere de tip diplopie",
+						"Hipotensiune arterială",
+						"Hipotrofie musculară"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 47,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "48. Despre consecințele pe termen lung ale hipertiroidismului putem afirma că: [618]",
+					"answers": [
+						"Ușoară creștere a mortalității în primul an după diagnostic, doar la vârstnici",
+						"Pe termen lung risc de osteoporoză",
+						"Persoanele cu nivele ale TSH supresate persistent au probabilitate mai înaltă de a dezvolta fibrilaţie atrială",
+						"Ușoară creștere a mortalității în primul an după diagnostic, la toate grupele de vârstă",
+						"Persoanele cu nivele ale TSH supresate persistent sunt mai predispusi la boală tromboembolică"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 48,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "49. Rezistența la hormoni tiroidieni se poate caracteriza prin următoarele: [618]",
+					"answers": [
+						"Cauza este mutația receptorului pentru hormoni tiroidieni (TRβ)",
+						"Nivelul de TSH este normal, dar concentrația hormonilor tiroidieni este crescută pentru a menține efectul intracelular și starea de eutiroidie, în această situație pacientul nu necesită tratament",
+						"Datorită faptului că există receptori diferiți pentru hormoni tiroidieni în diferite țesuturi, unii pot avea activitate normlă",
+						"Nivelul de TSH poate fi scăzut datorită nivelului mare de h tiroidieni",
+						"Poate să apară tireotoxicoză în anumite țesuturi care au sensibilitate normală datorită pastrării funcției receptorului"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 49,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "50. Cauze de hipertiroidism care nu se remit sub terapia cu antitiroidiene: [614]",
+					"answers": [
+						"Boala Graves",
+						"Gușa multinodulară toxică",
+						"Adenomul toxic",
+						"Tiroidita postpartum",
+						"Tirotoxicoza indusă de imunoterapie"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 50,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "51. Diagnoticul diferențiat dintre anxietate și hipertiroidie constă în: [616]",
+					"answers": [
+						"Anxietate - mâinile sunt calde si umede",
+						"Anxietate - mâinile sunt reci și umede",
+						"Hipertiroidism - tegumente periferice calde",
+						"Hipertiroidism - miopatie proximală",
+						"Hipertiroidism - scădere în greutate datorită apetitului scăzut"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 51,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "52. Despre tratamentul hipertiroidismului este adevărat că: [616]",
+					"answers": [
+						"Există situații când se poate folosi ca tratament doar un betablocant",
+						"Betablocantele scad și conversia periferică a T4 în T3",
+						"Carbimazolul/tiamazolul are și efect imunosupresiv",
+						"Dacă se alege regimul de titrare gradată a dozei de antitiroidian se începe cu o doză de carbimazol 20-40 mg/zi",
+						"Ulterior la 1-2 săptămâni se dozează FT4/FT3 și TSH – în funcție de ele și starea clinică se reduce doza"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 52,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "53. Referitor la hipotiroidismul sever putem afirma că: [613]",
+					"answers": [
+						"Mortalitatea în trecut era de cel puțin 50% pentru coma mixedematoasă",
+						"Depresia este o manifestare frecventă în hipotiroidism",
+						"Rareori tinerii cu hipotiroidism sever dezvoltă demență sau manifestări psihotice, uneori cu halucinații izbitoare",
+						"Manifestările psihotice pot apărea și după începerea terapiei de substituție cu T4",
+						"Coma mixedematoasă se poate trata acasă"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 53,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "54. Hipertiroidismul neonatal netratat este asociat cu: [618]",
+					"answers": [
+						"Pubertate precoce",
+						"Hiperactivitate în copilărie",
+						"Cretinism",
+						"Statură mică",
+						"Pubertate tardivă"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 54,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "55. Despre alternativele de tratament ale hipertiroidiei este adevărat că: [617]",
+					"answers": [
+						"În cazul în care după tratamentul cu iod radioactiv este agravată tireotoxicoza se poate administra propranolol, dar nu și medicație antitiroidiană",
+						"La persoanele cu oftalmopatie se poate administra medicație corticosteroidă pentru a preveni agravarea oftalmopatiei în cadrul tratamentului cu iod radioactiv",
+						"După administrarea iodului radioactiv se testează funcția tiroidei la 1 an",
+						"Intervenția chirurgicală de preferat este tiroidectomia totală indiferent care este cauza hipertiroidismului",
+						"Pentru nodulul toxic unic excizia leziunii este curativă"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 55,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "56. Despre tratamentul hipertiroidismului este fals că: [616]",
+					"answers": [
+						"Carbimazolul este metabolitul activ al tiamazolului",
+						"carbimazolul/tiamazolul sunt şi agenţi imunosupresori",
+						"Propiltiouracilul determină agranulocitoză",
+						"Medicamentele antitiroidiene inhibă eliberarea hormonilor tiroidieni",
+						"Medicamentele antitiroidiene inhibă formarea hormonilor tiroidieni"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 56,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "57. Despre tiroidita Hashimoto este adevărat că: [612]",
+					"answers": [
+						"Este o formă de tiroidită autoimună mai frecventă la femei",
+						"Au loc modificări atrofice odată cu regenerarea, iar în timp se formează gușa",
+						"De obicei consistența tiroidei este moale",
+						"Anticorpii anti-TPO sunt prezenți adesea în titruri foarte înalte (&gt;1000 UI/L)",
+						"Se poate folosi terapia cu levotiroxină chiar daca pacientul este eutiroidian, pentru a reduce gușa"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 57,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "58. Referitor la terapia de substituție hormonală pentru hipotiroidism este fals că: [613]",
+					"answers": [
+						"Pentru persoanele cu BCI se va crește doza mai lent, la intervale de 3-4 săptămâni pentru a fi cu atenție supraveghetă simptomatologia și manifestările pe EKG",
+						"Dacă doza de h tiroidieni este crescută prea rapid unii pacienți pot dezvolta simptome de tireotoxicoză, chiar dacă nivelul de fT4 este normal.",
+						"Dacă nivelul de TSH nu se normalizează în ciuda terapiei optime trebuie luată în considerare lipsa de complianță, medicamente (preparate cu Mg, compușii de calciu, IPP) și boala celiacă",
+						"Unele persoane se plâng de persistența simptomatologiei, în ciuda unui nivel normal al TSH si fT4, în acest caz se pledează pentru înlocuirea terapiei cu o combinație de T4 și T3, cu beneficii asupra calității vieții",
+						"Persoanele cu boală cardiacă ischemică necesită doze iniţiale chiar mai mici, mai ales dacă hipotiroidismul este sever şi de lungă durată."
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 58,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "59. La o pacientă care prezintă boala Graves și este însărcinată sunt false următoarele informații: [618]",
+					"answers": [
+						"Dacă boala Graves a fost în antecedente și actual pacienta este eutiroidiană, aceasta nu mai prezintă niveluri de TSI circulanți care sa fie semnificative",
+						"Pentru pacientele care sunt actual eutiroidiene, pentru a preveni hipotiroidismul se poate administra T4 deoarece acesta are un pasaj transplacentar rapid",
+						"Nu se vor administra simpaticomimetice- pot determina tahicardie fetală",
+						"Carbimazolul și PTU, medicamente utilizate la pacientele hipertiroidiene pot provoca gușă fetală în caz de supradozaj",
+						"Timpul de înjumatățire al TSI este de aproximativ 3 săptămâni"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 59,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "60. Referitor la coma mixedematoasă putem afirma că: [613]",
+					"answers": [
+						"Hipotiroidismul sever, în special la vârstnici, se poate manifesta prin confuzie, chiar comă",
+						"Pacientul prezintă hipertermie, insuficientă cardiacă severă, efuziune pericardică, hipoventilație",
+						"Pentru tratament se utilizează doze mari de T3 iv",
+						"Se tratează cu T3 în doze inițiale de 25-50micrograme la 8 ore, cu creștere treptată",
+						"Măsurile suplimentare ar trebui să fie oxigen, monitorizare debitului cardiac şi a presiunilor, hidrocortizon și infuzie de glucoza pentru prevenirea hipoglicemiei"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 60,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "61. Referitor la tiroidita postpartum este fals că: [612]",
+					"answers": [
+						"Se crede că reprezintă o consecință a modificărilor sistemului imunitar din perioada sarcinii",
+						"Histologic se aseamană cu tiroidita Hashimoto, procesul fiind tot prin autoimunitate",
+						"Poate fi eronat diagnosticată ca depresie postnatală",
+						"De obicei tranzitoriu, dar poate duce la hipotiroidism permanent",
+						"Se poate prezenta ca hipertiroidism"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 61,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "62. Referitor la simptomele/semnele de hipotiroidism este fals că: [612]",
+					"answers": [
+						"Se manifestă prin diaree sau constipație",
+						"La copii poate determina stagnarea dezvoltării pubertare",
+						"La copii poate determina încetinirea vitezei de creștere",
+						"Vârstnicii prezintă trăsături clinice dificil de diferenţiat de îmbătrânirea normală",
+						"Copiii cu hipotiroidism prezintă întodeauna caracteristici clasice"
+					]
+				},
+				{
+					"pages": [
+						617,
+						618
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 62,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "63. Despre hipertiroidismul din sarcină este adevărat că: [617, 618]",
+					"answers": [
+						"Pentru tratament se vor administra cele mai mici doze eficiente de PTU, niciodată carbimazol",
+						"La nevoie se poate practica tirodectomie în trimestrul 3 de sarcină",
+						"Carbimazolul se poate administra în trimestrul 2 și 3 de sarcină",
+						"Tiroidectomia se poate practica la nevoie, în trimestrul 2 de sarcină",
+						"TSH-ul este frecvent supresat"
+					]
+				},
+				{
+					"pages": [
+						611
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 63,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "64. Despre hipotiroidism este adevărat că: [611]",
+					"answers": [
+						"Este mai frecvent de cauză secundară",
+						"Este mai frecvent de cauză primară",
+						"Vârsta medie de diagnosticare este în jur de 40 de ani",
+						"Prevalența la nivel mondial a hipotiroidismului subclinic variază între 1% și 10%",
+						"Este mai frecvent la femei"
+					]
+				},
+				{
+					"pages": [
+						616,
+						617
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 64,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "65. Referitor la agranulocitoză este adevărat că: [616, 617]",
+					"answers": [
+						"Este efectul advers major al terapiei hipotiroidismului",
+						"De obicei apare în primele 3 luni de tratament",
+						"Simptome de prezentare- febră sau disfagie",
+						"Este o reacție adversă mai frecventă decât erupțiile cutanate",
+						"Dacă se dezvoltă în timpul tratamentului cu unul dintre medicamentele antitiroidiene, nu se poate administra celălalt preparat, riscul fiind că efectul advers va persista"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 65,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "66. Următoarele sunt simptome de hipotiroidism: [612]",
+					"answers": [
+						"Scădere în greutate",
+						"Păr uscat, fragil",
+						"Creștere în greutate",
+						"Anorexie",
+						"Intoleranță la cald"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 66,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "67. Despre tratamentul hipertiroidismului este adevărat că: [616]",
+					"answers": [
+						"Betablocantele se administrează cât timp se va administra și medicația antitiroidiană",
+						"Pe parcusul tratamentului nivelul de FT3 și FT4 trebuie să fie în intervalul normal, dacă nu, se crește sau se scade doza",
+						"Supravegherea funcției tiroidiene pe parcursul tratamentului se face de obicei la 1 an",
+						"Tratamentul se va opri la finalul ciclului dacă pacientul este eutiroidian cu 5 mg de carbimazol",
+						"Cea mai severă reacție adversă este citoliza hepatică"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 67,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "68. Care dintre următoarele este adevărată pentru boala Graves: [614]",
+					"answers": [
+						"TRAb sunt Ac de tip Ig M",
+						"Nivelul crescut al TRAb se asociază cu recidivă după tratament",
+						"Are o componentă genetică",
+						"Există o asociere cu Ag 4 asociat cu Lf T citotoxic (CTLA4)",
+						"Mecanismul este unul autoimun"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 68,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "69. Care este cea mai frecventă cauza de hipertiroidism? [614]",
+					"answers": [
+						"Boala Graves",
+						"Gușa multinodulară toxică",
+						"Tiroidita de Quervain",
+						"Tiroidita postpartum",
+						"Tireotoxicoza indusă de amiodaronă"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 69,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "70. Referitor la cauzele de hipertiroidism este fals că: [614]",
+					"answers": [
+						"Nodulul toxic solitar apare mai frecvent la femei în vârstă",
+						"Gușa multinodulară toxică reprezinta cauza a aproximativ 5% din cazurile de hipertiroidism",
+						"Tiroidita de Quervain se definește printr-un proces inflamator acut, probabil de origine bacteriană",
+						"Tiroidita de Quervain se însoțește de febră, stare de rău, durere la nivelul gâtului",
+						"Tiroidita de Quervain se poate prezenta cu tirotoxicoză"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 70,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "71. Care dintre următoarele semne și simptome nu apare în hipertiroidism? [615]",
+					"answers": [
+						"Ginecomastie",
+						"Coreoatetoză",
+						"Onicoliză",
+						"Apnee",
+						"Intoleranță la frig"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 71,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "72. Referitor la tratamentul chirurgical al hipertiroidismului este adevărat că: [617]",
+					"answers": [
+						"Se poate realiza în urgență la un pacient care se prezintă cu criză tireotoxică, în lipsa altor alternative terapeutice",
+						"Înainte de intervenția chirurgicală se întrerupe administrarea medicamentului antitiroidian cu 10-14 zile anterior intervenției",
+						"Pentru a scădea vascularizația glandei se folosește iodura de potasiu",
+						"Pentru a scădea sinteza hormonală se folosește iodura de potasiu, care acționează prin inhibarea organificării iodului",
+						"Se preferă tiroidectomia totală"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 72,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "73. Complicațiile postoperatorii ale tiroidectomiei sunt: [617]",
+					"answers": [
+						"Sângerarea precoce postoperatorie care comprimă traheea este o urgență relativ frecventă ce obligă la suprimarea tuturor clipsurilor sau suturilor pentru a permite scurgerea sângelui",
+						"Pareza de nerv laringeu recurent 1% din cazuri",
+						"Hipercalcemia tranzitorie- maxim 10% din cazuri, însă hipoparatiroidismul permanent survine la mai puțin de 1%",
+						"Recurența hipertiroidiei postoperatorii în cazul tiroidectomiei subtotale este de 1-3% în primul an, apoi la 1%/an",
+						"Apariția hipotiroidismului la 10% dintre pacienți după tiroidectomia subtotală în primul an"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 73,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "74. Referitor la cauzele de hipertiroidism este fals că: [615]",
+					"answers": [
+						"Amiodarona poate provoca tireotoxicoză doar printr-un mecanism distructiv cu eliberare de T4 și T3",
+						"Amiodarona poate determina și hipotiroidism la câteva luni de la prezentare",
+						"Dupa imunoterapie poate să apară tiroidită la 3-12 luni de la inițierea medicamentului",
+						"Adrenalita și DZ tip 1 sunt evenimente rare determinate de imunoterapie",
+						"Tratamentul tiroiditei indusă de imunoterapie se face cu medicație antitiroidiană și doar adjuvant cu beta-blocant și analgezic"
+					]
+				},
+				{
+					"pages": [
+						612,
+						613
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 74,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "75. Despre hipotiroidism sunt adevărate următoarele: [612, 613]",
+					"answers": [
+						"Crește nivelul de AST din ficat și mușchi",
+						"Scade nivelul de CK",
+						"Un nivel ridicat al TSH-ului confirmă hipotiroidismul primar",
+						"Se poate manifesta prin artralgii, mialgii",
+						"La nivel cardiac poate determina insuficiența cardiacă"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 75,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "76. Referitor la medicamentele utilizate în tratamentul hipertiroidismului putem afirma că: [616]",
+					"answers": [
+						"Doza utilizată de Propiltiouracil este de 100-200 mg/zi",
+						"Efectele secundare ale PTU includ erupţii cutanate, greaţă, vărsături, agranulocitoză, hepatotoxicitate",
+						"Doza de propranolol este de 40-80 mg la 6-8h",
+						"Dintre betablocante se vor utiliza preparate fără activitate simpatomimetică intrinsecă având în vedere sensibilitatea scăzută a receptorilor",
+						"Beta blocantele sunt de evitat în afecțiuni astmatice"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 76,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "77. Despre hipertiroidismul din sarcină este fals că: [617]",
+					"answers": [
+						"Se preferă tratamentul cu PTU în primul trimestru de sarcină, deoarece sub carbimazol au fost raportate frecvente anomalii congenitale",
+						"Nivelul mare de HCG din sarcina normală este un stimul slab al receptorului de TSH, cauzând frecvent supresia TSH",
+						"Hipertiroidismul adevărat al gravidelor, apărut de novo în sarcină este rar, dar cu manifestări severe",
+						"PTU traverseză placenta mai puțin decât tiroxina",
+						"TSI (imunoglobulina stimulatoare a tiroidei) traversează placenta pentru a stimula tiroida fetală"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 77,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "78. Despre semnele și simptomele de hipertiroidism este fals că: [615]",
+					"answers": [
+						"La vârstnici se poate prezenta cu o imagine clinică asemănătoare hipotiroidismului",
+						"Pacienții adulți cresc în greutate",
+						"Tegumentele sunt transpirate/ pruriginoase",
+						"La nivel cardiac pot apărea: HTA sistolică, IMA, IC",
+						"Se poate confunda cu anxietatea datorită simptomelor de neliniște, iritabilitate"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 78,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "79. Despre semnele și simptomele hipertiroidismului este adevărat că: [615]",
+					"answers": [
+						"Retracția palpebrală și privirea fixă sunt specifice bolii Graves",
+						"Dermopatia Graves este rară și poate apărea pe orice suprafață de flexie",
+						"Acropatia tiroidiană este foarte rară şi constă în deformarea picioarelor, degete edemaţiate şi formaţiuni osoase noi",
+						"La copii hipertiroidismul determină scădere în greutate",
+						"La copii hipertiroidismul determină accelerarea creșterii și probleme de comportament"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 79,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "80. Referitor la boala Graves este fals că: [614]",
+					"answers": [
+						"Oftalmopatia Graves se poate asocia cu eu/hipo/hipertiroidie",
+						"Odată instalat, hipertiroidismul acesta persistă toată viața",
+						"Istoricul natural este unul fluctuant, numeroşi pacienţi prezentând un model de recidivă alternând cu remisiune",
+						"Un posibil factor etiologic ar fi o infecție cu bacterii gram negative, care conțin situsuri de legare a TSH declanșând boala printru-un mecanism de mimentism molecular la un pacient susceptibil genetic",
+						"Se asociază frecvent cu afectare oculară și dermopatie Graves"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 80,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "81. Pacienții care necesită screening pentru hipotiroidism sunt: [613]",
+					"answers": [
+						"Toți nou-născuții – se folosește picătura de sânge pentru a detecta nivelul de TSH",
+						"Toți vârstnicii, inicidența hipotiroidismului crescând cu vârsta",
+						"Pacienții vârstnici care se prezintă cu stare de confuzie",
+						"Toți pacienții tratați cu litiu sau amiodaronă",
+						"Toți pacienții care au suferit o intervenție chirurgicală tiroidiană sau au primit iod radioactiv"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 81,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "82. Referitor la criza tiroidiană este adevărat că: [617]",
+					"answers": [
+						"Mortalitatea este de 50%",
+						"Este o compicație rară",
+						"Este precipitată de stres, infecții, intervenție chirurgicală la un pacient nepregătit sau administrare de iod radioactiv",
+						"Pe lângă administrarea medicației specifice, folosită pentru a scădea nivelul și efectul hormonilor tiroidieni, este necesar si controlul IC și al tahicardiei",
+						"Reprezintă o agravare rapidă a hipotiroidismului"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 82,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "83. Referitor la semnele și simptomele de hipertiroidism putem menționa: [615]",
+					"answers": [
+						"Retracţie palpebrală",
+						"Vasoconstricția periferică",
+						"Slăbiciune musculară",
+						"Hiperkinezie",
+						"Oligomenoree"
+					]
+				},
+				{
+					"pages": [
+						613,
+						614
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 83,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "84. Despre hipertiroidism este adevărat că: [613, 614]",
+					"answers": [
+						"Este mai frecvent la femei",
+						"Este mai frecvent la vârste înaintate",
+						"&gt;99% din cazuri sunt cauzate de o patologie tiroidiană intrinsecă",
+						"Tireotoxicoza solitară sau multinodulară se caracterizează scintigrafic printr-o captare focală a trasorului la nivelul nodulilor, cu captare redusă în restul glandei tiroide",
+						"În tiroidită Ac anti TPO pot prezenta titruri ridicate"
+					]
+				},
+				{
+					"pages": [
+						611,
+						612
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 84,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "85. Referitor la etiologia hipotiroidismului este adevărat că: [611, 612]",
+					"answers": [
+						"În deficitul alimentar de iod nivelul de TSH va fi crescut",
+						"După suplimentarea sării cu iod la nivel mondial a fost depășită problema gușii endemice",
+						"Incidența hipotiroidismului atrofic scade cu vârsta",
+						"În cazul hipotiroidismului atrofic funcția tiroidei nu mai poate reveni la normal necesitând hormoni de substituție toată viața",
+						"Medicamente anti-tiroidiene determina defecte de sinteză hormonală"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 85,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "86. Care dintre următoarele afirmații sunt adevărate: [614]",
+					"answers": [
+						"Tireotoxicoza neonatală este determinată de nivelul mare de HCG",
+						"Tireotoxicoza gestațională este determinată de Ag tiroidieni materni",
+						"Tireotoxicoza neonatală este determinată de Ac tiroidieni materni",
+						"Tireotoxicoza gestațională este determinată de nivelul mare de HCG",
+						"Tireotoxicoza factitia presupune aport mare de iod exogen"
+					]
+				},
+				{
+					"pages": [
+						614,
+						616
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 86,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "87. Despre investigațiile pentru hipertiroidism este adevărat că: [614, 616]",
+					"answers": [
+						"Tireotoxicoza solitară sau multinodulară se prezintă cu TSH supresat",
+						"Tiroidita are ca marker inflamator crescut doar VSH",
+						"Scintigrafia cu Tc99 este utilă la pacienții cu Ac negativi pentru a identifica patologia nodulară tiroidiană",
+						"Ac antireceptor de TSH sunt 90% specifici pentru boala Graves",
+						"FT4 și FT3 prezintă valori ridicate"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 87,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "88. Referitor la administrarea iodului radioactiv pentru hipertiroidism este fals că: [617]",
+					"answers": [
+						"Se administrează în doză standard de 400-550MBq având în vedere captarea și radiosensibilitatea fixă a glandei",
+						"Devine eficient imediat după administrare",
+						"Pacienţii aflaţi sub PTU vor sista medicaţia mai devreme decât cei cu carbimazol înaintea adminsitrării IRA, deoarece primul exercită acţiune radioprotectoare.",
+						"După administrare poate agrava tireotoxicoza",
+						"Oftalmopatia tiroidiană reprezintă o contraindicație absolută pentru tratamentul cu iod radioactiv"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 88,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "89. Dishormonogeneza poate prezenta o formă particulară, însoțită de o deleție la nivelul cromozomului 7, (sindrom Pendred) care este asociată cu : [612]",
+					"answers": [
+						"surditate senzorială",
+						"stagnarea dezvoltării pubertare",
+						"retard mintal",
+						"vitiligo",
+						"miopatie severă"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 89,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "90. Pentru controlul agravării paradoxale a tireotoxicozei post administrare de iod radioactiv se administrează: [617]",
+					"answers": [
+						"carvedilol",
+						"AINS",
+						"propranolol",
+						"carbimazol",
+						"levotiroxină"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 90,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "91. Investigația de elecție pentru un hipotiroidism primar este: [612]",
+					"answers": [
+						"fT4",
+						"TSH",
+						"scintigrafia",
+						"fT3",
+						"ac anti-TPO"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 91,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "92. Tratamentul de elecție în tiroidita virală acută: [614]",
+					"answers": [
+						"carbimazol 20-40mg/zi",
+						"131Iod",
+						"aspirina",
+						"beta-blocante",
+						"propiltiouracil"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 92,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "93. Despre rezistența la hormoni tiroidieni, este adevărată: [618]",
+					"answers": [
+						"este o afecțiune dobândită",
+						"este cauză a mutației genei RET",
+						"testele funcționale tiroidiene prezintă valori normale",
+						"pacientul poate fi eutiroidian",
+						"diagnosticul diferențial include boala Graves"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 93,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "94. Despre screeningul hipotiroidismului congenital este falsă: [613]",
+					"answers": [
+						"hipotiroidismul netratat şi sever duce la cretinism",
+						"se face folosind picătura de sânge, ca în testul Guthrie",
+						"fT4 este indicatorul cel mai folosit",
+						"se previne instalarea cretinismului dacă terapia se face din primele luni de viață",
+						"nivelul ridicat de TSH indică hipotiroidismului primar"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 94,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "95. Despre dermopatia Graves este adevărat că: [615]",
+					"answers": [
+						"este o formă frecventă de manifestare a bolii Graves",
+						"se manifestă cel mai frecvent prin acropatia tiroidiană",
+						"este rară şi poate apărea pe orice suprafaţă extensoare",
+						"mixedemul pretibial este cel mai rar descris şi se prezintă ca o infiltrare a pielii la nivel tibial",
+						"apare pe suprafețele flexoare"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 95,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "96. Sunt manifestări clinice ale unui nou-născut în cazul unei boli Graves materne, cu excepția: [618]",
+					"answers": [
+						"scădere ponderală",
+						"iritabilitate",
+						"febră",
+						"diaree",
+						"semne oculare"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 96,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "97. Despre tiroidita postpartum este fals: [612]",
+					"answers": [
+						"este un fenomen tranzitor ce apare postsarcină",
+						"poate provoca hipotiroidism sau hipertiroidism",
+						"histologic se prezintă ca o tiroidită eozinofilică",
+						"procesul este adesea autolimitant",
+						"se diagnostichează eronat ca depresie postnatală"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 97,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "98. Despre hipertiroidismul din sarcină sunt adevărate: [617]",
+					"answers": [
+						"carbimazolul se poate recomanda în trimestrul 2 și 3",
+						"PTU este preferat în momentul concepției",
+						"carbimazolul și PTU străbat placenta",
+						"tratamentul cu IRA se poate indica la nevoie",
+						"nivelul mare de HCG este un stimul slab al receptorului de TSH, cauzând frecvent supresia TSH"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 98,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "99. Infecțiile incriminate pentru apariția bolii Graves sunt: [614]",
+					"answers": [
+						"Staphylococcus aureus",
+						"E. Coli",
+						"C. Trachomatis",
+						"Y. Enterocolitica",
+						"C. Difficile"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 99,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "100. Hipotiroidismul primar este însoțit de următoarele anomalii: [613]",
+					"answers": [
+						"anemie normocromă normocitară",
+						"scăderea nivelului de creatinkinază",
+						"hipotrigliceridemie",
+						"hipernatremie",
+						"creșterea nivelului de aspartat-transferază"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 100,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "101. Despre tiroidita Hashimoto se pot spune următoarele: [612]",
+					"answers": [
+						"pacienţii sunt hipo- sau eutiroidieni, deşi pot parcurge o fază toxică iniţială, ,,Hashi-toxicoza'",
+						"prezintă frecvent Ac Anti-TPO în doze foarte mari (&gt;1000UI/L)",
+						"se indică terapie cu metamizol",
+						"cauza este autoimună",
+						"apare mai frecvent la femei"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 101,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "102. În furtuna tiroidiană: [617]",
+					"answers": [
+						"mortalitatea este de 10%",
+						"se manifestă cu hiperpirexie și bradicardie severă",
+						"se inițiază de urgență propranolol",
+						"se inițiază de urgență iodură de potasiu și corticoizi",
+						"poate fi precipitată de tratamentul cu iod radioactiv"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 102,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "103. Sunt cauze frecvente de hipertiroidism: [614]",
+					"answers": [
+						"tiroidita acută virală",
+						"tumori hipofizare",
+						"boala Graves",
+						"iod exogen",
+						"adenomul toxic solitar"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 103,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "104. Despre terapia de substituție hormonală în hipotiroidism: [613]",
+					"answers": [
+						"se face cu metamizol",
+						"se administrează pe viață",
+						"la pacienții tineri se începe cu doza de 25microg/zi, crescând ulterior la 3-4sapt sub controlul EKG",
+						"persoanele cu greutate scăzută încep cu o doză de 50microg/zi",
+						"dacă doza este crescută prea rapid, există riscul simptomelor tireotoxice"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 104,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "105. Sunt simptome de hipotiroidism: [612]",
+					"answers": [
+						"gușă",
+						"depresie",
+						"tahicardie",
+						"păr gras",
+						"diaree"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 105,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "106. Sunt consecințe pe termen lung ale hipertiroidismului: [618]",
+					"answers": [
+						"mortalitatea crescută ușor, doar la pacienții vârstnici",
+						"riscul de osteoporoză",
+						"boală tromboembolică",
+						"sindrom de intestin iritabil",
+						"boala de nod sinusal"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 106,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "107. Sunt complicații ale tiroidectomiei: [617]",
+					"answers": [
+						"sângerare precoce cu asfixie",
+						"hipercalcemie tranzitorie",
+						"pareza de nerv laringeu recurent",
+						"Hipocalcemia tranzitorie",
+						"recurenţa hipertiroidismului în cazul tiroidectomie subtotale efectuate pentru boala Graves"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 107,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "108. În coma mixedematoasă se pot administra următoarele substanțe: [613]",
+					"answers": [
+						"vasopresină",
+						"glucoză",
+						"hidrocortizon 100mg/8h",
+						"T3 pe cale orală sau intravenoasă",
+						"Metamizol"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 108,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "109. Boala Graves se asociază cu următoarele afecțiuni autoimune: [614]",
+					"answers": [
+						"anemie pernicioasă",
+						"maladii buloase",
+						"vitiligo",
+						"miastenia gravis",
+						"limfoame"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 109,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "110. Tireotoxicoza din tiroidite: [614]",
+					"answers": [
+						"prezintă un titru ridicat de Ac anti-TSH",
+						"scintigrafia captează focal trasorul",
+						"prezintă valori ridicate de VSH şi PCR",
+						"prezintă un titru ridicat de Ac anti-TPO",
+						"prezintă oftalmopatie"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 110,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "111. Sunt semne ale hipertiroidismului: [615]",
+					"answers": [
+						"vasoconstricție periferică",
+						"mixedem pretibial",
+						"pierderea sprâncenelor",
+						"psihoză",
+						"oftalmoplegie în Boala Graves"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 111,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "112. Sunt cauze mai puțin frecvente de hipertiroidism: [614]",
+					"answers": [
+						"boala Graves",
+						"tiroidita acută de Quervain",
+						"iod exogen",
+						"adenomul toxic solitar",
+						"gușa multinodulară toxică"
+					]
+				},
+				{
+					"pages": [
+						612
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 112,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "113. Sunt semne și simptome de hipotiroidism: [612]",
+					"answers": [
+						"psihoză",
+						"efuziune pericardică",
+						"ten roz-portocaliu",
+						"miopatie",
+						"hipotrofie musculară"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 113,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "114. Despre screening-ul hipotiroidismului la vârstnici se poate afirma: [613]",
+					"answers": [
+						"este recomandat la cei care au suferit o intervenție chirurgicală tiroidiană",
+						"este controversat și nerecomandat în prezent",
+						"se recomandă la cei sub terapie cu anticoagulante",
+						"se contraindică la pacientul confuziv",
+						"pacienții care au primit iod radioactiv vor fi supuși testării regulate"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 114,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "115. Tireotoxicoza indusă de amiodaronă de tip II: [615]",
+					"answers": [
+						"se asociază cu gușa multinodulară",
+						"este o tiroidită distructivă cu eliberare de T4 și T3",
+						"profilul hormonal se asociază cu raporturi T4/T3 mai mari decât uzual",
+						"este probabil declanșată de conținutul ridicat de iod din amiodaronă",
+						"poate fi asociată cu o fază de hipotiroidism instalată ulterior"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 115,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "116. Sunt manifestări clinice în hipertiroidism la categorii speciale de vârstă: [615]",
+					"answers": [
+						"copiii prezintă frecvent o talie înaltă",
+						"vârstnicii prezintă o simptomatologie accentuată",
+						"copiii iau în greutate",
+						"vârstnicii prezintă frecvent fibrilație atrială sau alte tahiaritmii",
+						"copiii sunt frecvent hiperactivi și au probleme de comportament"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 116,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "117. Despre boala Graves maternă sunt adevărate următoarele: [618]",
+					"answers": [
+						"ritmul cardiac fetal este un indicator slab al stării tiroidiene",
+						"ritmuri peste 140/minut sunt înalt sugestive pentru hipertiroidism fetal",
+						"este utilă pentru predicția tireotoxicozei neonatale măsurarea directă a fT4",
+						"alăptarea în cursul tratamentului cu PTU sau carbimazol pare sigură",
+						"pentru profilaxia apariției hipotiroidismului se poate administra T4, cu un pasaj transplacentar slab"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 117,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "118. Despre boala Graves sunt corecte următoarele afirmații: [614]",
+					"answers": [
+						"patogeneza implică niște Ac de tip IgM",
+						"rata de concordanță în rândul gemenilor monozigoți este de 50%",
+						"există o asociere cu un antigen asociat cu limfocitele T helper",
+						"într-un final mulți pacienți devin hipotiroidieni",
+						"doar 40% dintre subiecți dezvoltă un singur episod"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 118,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "119. Despre terapia de substituție hormonală sunt corecte următoarele scheme de inițiere: [613]",
+					"answers": [
+						"50µg zilnic pentru pacienții cu stare fragilă",
+						"100µg zilnic pentru un pacient apt tânăr",
+						"25µg zilnic pentru un vârstnic",
+						"50µg zilnic pentru pacienți cu boală cardiacă ischemică",
+						"50µg zilnic pentru un pacient slab"
+					]
+				},
+				{
+					"pages": [
+						612,
+						613
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 119,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "120. În hipotiroidismul primar apar: [612, 613]",
+					"answers": [
+						"hipernatremia",
+						"hipercolesterolemie",
+						"scăderea nivelului seric de aspartat transferază",
+						"scăderea nivelului seric de creatinkinază",
+						"nivel scăzut de fT4 care confirmă hipotiroidia"
+					]
+				},
+				{
+					"pages": [
+						614
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 120,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "121. Despre tiroidita De Quervain: [614]",
+					"answers": [
+						"este asociată cu durere la nivelul gâtului, stare de rău, febră",
+						"scintigrama indică captare sporită în faza acută",
+						"tratamentul poate ajunge la prednisolon pe termen lung",
+						"VSH și vâscozitatea plasmatică prezintă niveluri ridicate",
+						"este urmată de hipertiroidism după câteva săptămâni"
+					]
+				},
+				{
+					"pages": [
+						616
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 121,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "122. Sunt reacții adverse întâlnite la administrarea de propiltiouracil: [616]",
+					"answers": [
+						"greață",
+						"agranulocitoză",
+						"agravarea astmului",
+						"hepatotoxicitate",
+						"artralgie"
+					]
+				},
+				{
+					"pages": [
+						613
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 122,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "123. În cadrul terapiei cu tiroxină din hipotiroidism, medicamentele concomitente care pot interfera cu absorbția tiroxinei sunt: [613]",
+					"answers": [
+						"IPP",
+						"preparatele de fier",
+						"antibioticele",
+						"antidepresivele",
+						"compușii de calciu"
+					]
+				},
+				{
+					"pages": [
+						617
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 123,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "124. Riscul de agranulocitoză dat de antitiroidienele de sinteză poate fi luat în calcul la următoarele simptome apărute brusc: [617]",
+					"answers": [
+						"febră",
+						"disfagie",
+						"disconfort în regiunea cervicală",
+						"oligurie",
+						"dispnee"
+					]
+				},
+				{
+					"pages": [
+						615
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 124,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "125. Sunt afirmații adevărate cu privire la „tirotoxicoza apatică”: [615]",
+					"answers": [
+						"apare la vârstnici",
+						"este însoțită de simptome minime",
+						"se poate caracteriza prin fibrilație atrială",
+						"este însoțită de pierdere în greutate",
+						"prezintă manifestări clinice mai asemănătoare cu hipotiroidismul"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 125,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "126. Alegeți afirmația falsă referitoare la fiziopatologia în cadrul oftalmopatiei Graves: [618]",
+					"answers": [
+						"Edemul muşchilor extraoculari şi la nivelul orbitei duce la limitarea mişcărilor oculare şi la protruzie, de obicei bilaterală, însă poate fi, uneori, unilaterală.",
+						"Histopatologic, muşchii extraoculari prezintă edem focal şi depozite de glicozaminoglicani, urmate de fibroză",
+						"Boala oculară reprezintă o manifestare a bolii Graves şi apare doar la pacienţii hipertiroidieni",
+						"Orbitopatia din boala Graves este cauzată de un răspuns imun specific ce determină inflamaţie retro-orbitală",
+						"Autoantigenul care mediază răspunsul imun nu este caracterizat, însă pare să fie un antigen al ţesutului retroorbitar cu imunoreactivitate similară cu cea a receptorului de TSH"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 126,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "127. Alegeți afirmațiile adevărate referitoare la tabloul clinic în cadrul oftalmopatiei Graves: [618]",
+					"answers": [
+						"Există edem periorbital, edem conjunctival şi inflamaţie",
+						"Manifestările oculare nu evoluează în paralel cu gradul de tirotoxicoză biochimică sau cu nevoia de tratament antitiroidian",
+						"Vederea este ameninţată în 48% din cazuri",
+						"O proporţie importantă a pacienţilor cu boală Graves acuză sensibilitate, hiperlacrimaţie dureroasă sau proeminenţă oculară",
+						"Protruzie severă apare în majoritatea cazurilor"
+					]
+				},
+				{
+					"pages": [
+						619
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 127,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "128. Selectați afirmațiile adevărate referitoare la tratamentul în cadrul oftalmopatiei Graves: [619]",
+					"answers": [
+						"Chirurgia pleoapelor poate ameliora diplopia datorată modificarilor musculare",
+						"Chirurgia pleoapelor trebuie amânată până cand starea pacientului pe parcursul ultimelor 6 luni este stabilă şi trebuie să urmeze oricarei decompresiuni orbitare",
+						"Poziţia verticală induce o oarecare ameliorare",
+						"Steroizii sistemici (Prednison 30-120 mg/zi) reduc de obicei inflamaţia dacă sunt prezente simptome severe",
+						"Picăturile oculare sau unguente cu metilceluloză sau hipromeloză se indică pentru a ajuta la umidifiere şi a ameliora confortul local"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 128,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "129. Referitor la oftalmopatia Graves putem afirma următoarele: [618]",
+					"answers": [
+						"este cauzată de un răspuns imun specific",
+						"boala oculară apare doar la pacienții hipotiroidieni",
+						"este mai frecventă şi evoluează mai sever la fumători",
+						"determină inflamaţie retro-orbitală",
+						"presiunea crescută asupra nervului optic nu poate cauza atrofie optică"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 129,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "130. În ceea ce privește tabloul clinic al orbitopatiei Graves, următoarele afirmații sunt incorecte: [618]",
+					"answers": [
+						"pacienții pot acuza proeminenţă oculară",
+						"vederea este ameninţată în 50% din cazuri",
+						"problemele cosmetice cauzează anxietate importantă pacientului",
+						"disconfortul cauzează anxietate importantă pacientului",
+						"privirea „vie\" dată de retracţia palpebrală este relativ rară"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 130,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "131. În ceea ce privește tabloul clinic al orbitopatiei Graves, următoarele afirmații sunt corecte: [618]",
+					"answers": [
+						"Protruzie mai severă apare într-o minoritate din cazuri",
+						"Pacienții acuză hiperlacrimaţie nedureroasă",
+						"Există edem periorbital",
+						"Există edem conjunctival şi inflamaţie",
+						"Manifestările oculare nu evoluează în paralel cu gradul de tirotoxicoză biochimică"
+					]
+				},
+				{
+					"pages": [
+						619
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 131,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "132. Investigațiile necesare în oftalmopatia Graves sunt următoarele: [619]",
+					"answers": [
+						"Dozarea TSH, fT 3 şi fT4",
+						"Evaluarea funcţiei vizuale",
+						"RM sau CT de orbită",
+						"Scintigrama tiroidiană",
+						"Ecografie tiroidiană"
+					]
+				},
+				{
+					"pages": [
+						619
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 132,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "133. Tratamentul Orbitopatiei Graves include: [619]",
+					"answers": [
+						"iradierea orbitelor (0,2 Gy în doze fracţionate)",
+						"pulsterapia cu metilprednisolon intraocular",
+						"unguente cu metilceluloză",
+						"poziția orizontală",
+						"seleniu"
+					]
+				},
+				{
+					"pages": [
+						619
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 133,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "134. Referitor la tratamentul Orbitopatiei Graves următoarele afirmații sunt adevărate: [619]",
+					"answers": [
+						"Agenţii imunomodulatori reduc inflamaţia şi ameliorează motilitatea oculară",
+						"Poziţia verticală asigură închiderea nocturnă a ochilor",
+						"Steroizii sistemici reduc de obicei inflamaţia dacă sunt prezente simptome severe",
+						"Chirurgia corectoare a muşchilor oculari poate fi folositoare, din raţiuni cosmetice",
+						"Decompresia chirurgicală a orbitelor poate fi necesară"
+					]
+				},
+				{
+					"pages": [
+						618,
+						619
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 134,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "135. Referitor la oftalmopatia Graves, următoarea afirmație este adevărată: [618, 619]",
+					"answers": [
+						"manifestările oculare evoluează în paralel cu nevoia de tratament antitiroidian",
+						"limitarea şi disconfortul mişcărilor oculare şi afectarea vederii dată de compresia nervului optic sunt frecvente",
+						"lipirea cu bandă adezivă a ochilor asigură închiderea diurnă",
+						"autoantigenul care mediază răspunsul imun nu este caracterizat",
+						"exacerbarea bolii oculare este rară după tratamentul cu iod radioactiv"
+					]
+				},
+				{
+					"pages": [
+						618,
+						619
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 135,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "136. Referitor la oftalmopatia Graves, următoarea afirmație este falsă: [618, 619]",
+					"answers": [
+						"În cazul în care pacientul este tirotoxic, trebuie tratat, însă tratamentul nu va conduce la o ameliorare directă a oftalmopatiei",
+						"hipotiroidismul nu poate exacerba simptomatologia oculară",
+						"manifestările oculare nu evoluează în paralel cu gradul de tirotoxicoză biochimică",
+						"chirurgia pleoapelor va proteja corneea daca pleoapele nu se închid",
+						"dovezile din studii clinice la pacienții tratați cu agenți imunomudulatori nu sunt substanţiale"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 136,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "137. Despre fiziopatologia Orbitopatiei Graves putem afirma că: [618]",
+					"answers": [
+						"Edemul muşchilor extraoculari duce la limitarea mişcărilor oculare",
+						"Protruzia este de obicei unilaterală, dar poate fi și bilaterală",
+						"pacienţii cu boală Graves acuză sensibilitate și hiperlacrimaţie nedureroasă",
+						"Anticorpii anti-receptor TSH se găsesc în ser aproape invariabil",
+						"presiunea crescută asupra nervului optic poate cauza atrofie optică"
+					]
+				},
+				{
+					"pages": [
+						619
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 137,
+					"chapterId": "624713bb327119885ebecf76",
+					"text": "138.  Tratamentul Orbitopatiei Graves nu include: [619]",
+					"answers": [
+						"lipirea cu bandă adezivă a ochilor",
+						"Iradierea orbitelor (20 Gy în doze fracţionate)",
+						"„decompresie la cald\"",
+						"„decompresie la rece\"",
+						"Steroizi topici"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "1. Tipuri de cancer tiroidian sunt:  [621]",
+					"answers": [
+						"Carcinom papilar",
+						"Carcinom folicular",
+						"Carcinom bazocelular",
+						"Limfom",
+						"Carcinom anaplastic"
+					]
+				},
+				{
+					"pages": [
+						621,
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "2. Metode de tratament ale carcinoamelor epiteliale diferențiate sunt:  [621, 622]",
+					"answers": [
+						"Chirurgical-tiroidectomie totală fără disecția ganglionilor dacă există diseminare ganglionară locală",
+						"Chirurgical-tiroidectomie totală cu disecția ganglionilor dacă există diseminare ganglionară locală",
+						"Ablația cu iod radioactiv",
+						"Administrarea de levotiroxină în doze substitutive",
+						"Administrarea de vandetanib"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "3. Care dintre următoarele afirmații referitoare la cancerul tiroidian sunt adevărate: [621]",
+					"answers": [
+						"10% dintre carcinoamele tiroidiene se prezintă cu limfadenopatie cervicală",
+						"CMT metastazează în plămân și os",
+						"Tipul anaplastic nu raspunde la iodul radioactiv, iar radioterapia externă nu produce decât o paliaţie de scurtă durată",
+						"Carcinoamele medulare (5% din toate cancerele tiroidiene) provin din celulele C producătoare de calcitonină",
+						"Pentru carcinoamele epiteliale diferențiate se poate utiliza ca marker tumoral postablație triiodotironina"
+					]
+				},
+				{
+					"pages": [
+						621,
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "4. Referitor la CMT este fals că:  [621, 622]",
+					"answers": [
+						"Reprezintă cel mai frecvent tip de cancer tiroidian",
+						"Are ca și factor de risc antecedente de iradiere la nivelul capului și gâtului sau ingestia de IRA",
+						"Este adesea familial",
+						"Aproximativ 25% dintre pacienții diagnosticați cu CMT prezintă mutația genei RAS",
+						"Personale cu mutații în cadrul MEN 2 sunt sfătuite să facă tiroidectomie profilactică de la 5 ani"
+					]
+				},
+				{
+					"pages": [
+						621,
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "5. Despre carcinoamele papilare și foliculare este adevărat că:  [621, 622]",
+					"answers": [
+						"Tratamentul de elecție este ablația cu iod radioactiv",
+						"Cele mai multe tumori vor capta iod",
+						"Cele mai frecvente sedii de metastazare sunt plămânii si scheletul",
+						"Pentru formele avansate local si metastatic rezistente la iod radioactiv se poate folosi sorafenib",
+						"Prognosticul este bun"
+					]
+				},
+				{
+					"pages": [
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "a",
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "6. Elemente de risc major pentru carcinomul papilar sunt, cu excepția:  [622]",
+					"answers": [
+						"Vârsta mai mare de 40 de ani",
+						"Dimensiunea tumorii mai mică de 4cm",
+						"Invazia macroscopică a capsulei",
+						"Invazia microscopică a capsulei",
+						"Invazia macroscopică a țesutului înconjurător"
+					]
+				},
+				{
+					"pages": [
+						621,
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "7. În legătură cu tireoglobulina este fals că:  [621, 622]",
+					"answers": [
+						"Măsurarea tireoglobulinei prezintă sensibilitate maximă când TSH-ul este supresat",
+						"Reprezintă marker tumoral pentru CMT",
+						"Înainte de a măsura tireoglobulina se poate administra TSH recombinat",
+						"Rezultatul dozării tireoglobulinei este neinterpretabil în absența Ac anti-tireoglobulină",
+						"Un nivel detectabil al tireoglobulinei sugerează recurența"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "8. Care dintre următoarele tipuri de cancer tiroidian răspunde la tratamentul cu iod radioactiv:  [621]",
+					"answers": [
+						"Papilar",
+						"Folicular",
+						"Medular",
+						"Anaplastic",
+						"Limfom"
+					]
+				},
+				{
+					"pages": [
+						621,
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "9. Următoarele afirmații sunt false: [621, 622]",
+					"answers": [
+						"Măsurarea Tg prezintă sensibilitate maximă atunci când TSH-ul este ridicat, ceea ce impune sistarea tratamentului cu levotiroxină",
+						"Pentru urmărirea postoperatorie a unui cancer tiroidian se dozează nivelul de tireoglobulină după 2 doze de tirotropină beta în decursul a 48h",
+						"Cancerul papilar apare mai frecvent la vârstnici",
+						"Cancerul folicular apare mai frecvent la femei",
+						"Pentru tratamentul limfomului se poate utiliza radioterapie"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "10. Despre cancerul tiroidian putem afirma că:  [621]",
+					"answers": [
+						"Se poate asocia extrem de rar cu hiperfuncția glandei tiroide",
+						"Peste 90% secretă calcitonină, utilă ca marker tumoral postablație",
+						"Peste 90% secretă tireoglobulină, utilă ca marker tumoral postablație",
+						"Există și forme familiale frecvente",
+						"Poate fi legat de cazurile cu antecedente de iradiere a capului şi gâtului sau de ingestie de IRA"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "b",
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "11. Referitor la prognosticul cancerului tiroidian este adevărat că:  [621]",
+					"answers": [
+						"Tipul papilar are proognostic slab, dar cu evoluție lentă",
+						"Tipul folicular are prognostic bun, dacă este rezecabil",
+						"Limfomul are prognostic foarte slab",
+						"Tipul anaplazic are prognostic foarte slab",
+						"Tipul medular are prognostic slab, dar cu evoluție lentă"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "9",
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "12. Despre cancerul tiroidian este fals că: [621]",
+					"answers": [
+						"Formele papilare si foliculare metastazează în plămân și os",
+						"Forma foliculară este mai frecventă la bărbaţii tineri",
+						"Forma paplilară diseminează local",
+						"Cancerul anaplastic este invaziv local",
+						"Cancerul medular metastazează în plămân și în os"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "13. Despre cancerul tiroidian este fals că:  [621]",
+					"answers": [
+						"Este o afecțiune frecventă",
+						"Apar mai frecvent la femei",
+						"În 80% din cazuri apar ca noduli tiroidieni",
+						"Metastazează în plămân, os, cerebral, hepatic",
+						"Majoritatea se asociază cu limfadenopatii cervicale"
+					]
+				},
+				{
+					"pages": [
+						621,
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "p",
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "14. Referitor la prognosticul cancerului tiroidian papilar şi folicular putem afirma că: [621, 622]",
+					"answers": [
+						"Prognosticul este foarte bun atunci când un cancer tiroidian diferenţiat este excizat în etapa localizată în glanda tiroidă",
+						"Pentru tipul diferențiat, tratamentele specifice disponibile duc la un prognostic relativ bun chiar în prezenţa metastazelor în momentul diagnosticului",
+						"Invazia locală şi metastazarea sunt frecvente, iar tumora raspunde slab la tratament, chiar dacă progresia este adesea lentă",
+						"Recidiva cel mai adesea se face prin metastazare",
+						"Recidiva cel mai adesea se face prin invazie locală sau ganglionară"
+					]
+				},
+				{
+					"pages": [
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "15. Despre carcinomul medular putem afirma că:  [622]",
+					"answers": [
+						"Este o tumora neuroendocrină a celulelor C producătoare de tireoglobulină",
+						"Este o tumora neuroendocrină a celulelor C producătoare de calcitonină",
+						"Adesea asociat cu MEN2",
+						"Invazia locala este frecventă, dar metastazarea este rară",
+						"Se tratează prin tiroidectomie totală cu evidare ganglionară largă, răspunsul la tratament este slab"
+					]
+				},
+				{
+					"pages": [
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "16. Ca alternative terapeutice la intervența chirurgicală pentru cancerul tiroidian se pot folosi: [622]",
+					"answers": [
+						"Radioterapie externă pentru anaplastic și limfom ca paliaţie de scurtă durată",
+						"Vandetanib pentru carcinoame papilare și foliculare",
+						"Cabozantinib pentru CMT",
+						"Sorafenib pentru CMT",
+						"Vandetanib pentru CMT"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "17. Care dintre următoarele forme de cancer tiroidian provine din celulele C producătoare de calcitonină?  [621]",
+					"answers": [
+						"Papilar",
+						"Folicular",
+						"Medular",
+						"Anaplazic",
+						"Limfom"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "18. Referitor la frecvența diferitelor tipuri de cancer tiroidian este adevărat că:  [621]",
+					"answers": [
+						"Medular - 20%",
+						"Papilar - 70%",
+						"Anaplastic &lt; 5%",
+						"Limfom - 2%",
+						"Medular - 5%"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "19. În tratamentul și managementul cancerului tiroidian se poate utiliza IRA: [621]",
+					"answers": [
+						"Ablația cu iod radioactiv în doze mari (5.5-7.5GBq) pentru formele nediferențiate",
+						"Ablația cu iod radioactiv în doze mari (5.5-7.5GBq) pentru formele diferențiate",
+						"După ablaţia tiroidei normale, IRA poate fi utilizat pentru localizarea bolii reziduale (scanare, utilizând doze mici)",
+						"ca tratament de elecţie",
+						"Ca tratament preoperator"
+					]
+				},
+				{
+					"pages": [
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "20. Despre carcinomul medular se poate spune, cu excepția:  [622]",
+					"answers": [
+						"tratamentul uzual este tiroidectomia totală",
+						"tratamentul cu vandetanib a demonstrat beneficii recent",
+						"aproximativ 75% prezintă mutații ale proto-oncogenei RET",
+						"este frecvent asociată cu MEN 2",
+						"este o tumoră a celulelor C, producătoare de calcitonină"
+					]
+				},
+				{
+					"pages": [
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "21. Despre carcinomul medular nu se poate spune: [622]",
+					"answers": [
+						"recent, carbozantinib și vandetanib au demonstrat beneficii",
+						"uzual, tiroidectomie totală cu evidare ganglionară largă",
+						"metastazele sunt rare",
+						"progresia tumorii este lentă",
+						"persoanelor cu sindrom MEN2 li se recomandă tiroidectomie totală profilactică"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "22. Despre carcinomul tiroidian sunt false următoarele:  [621]",
+					"answers": [
+						"sunt tumori frecvente",
+						"carcinomul anaplastic provine din celula C, producătoare de calcitonină",
+						"carcinoamele tiroidiene epiteliale sunt foarte active hormonal",
+						"peste 90% dintre carcinoamele derivate tiroidian secretă tiroglobulină",
+						"în 5% din cazuri metoda de prezentare este prin limfadenopatii cervicale"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "23. Următoarele asocieri despre carcinoamele tiroidiene sunt corecte: [621]",
+					"answers": [
+						"carcinomul folicular provine din celulele C",
+						"carcinomul anaplastic are un prognostic foarte slab",
+						"carcinomul medular este adesea familial",
+						"carcinomul anaplastic metastazează pulmonar",
+						"cel mai frecvent tip este cel papilar"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "24. Următoarele asocieri referitoare la cancerele tiroidiene sunt corecte:  [621]",
+					"answers": [
+						"cancerul folicular poate metastaza în plămân și os",
+						"limfomul tiroidian are comportament variabil",
+						"cancerul papilar apare la tineri și are prognostic bun",
+						"carcinomul anaplastic este agresiv și metastazează frecvent",
+						"carcinomul folicular este adesea familial"
+					]
+				},
+				{
+					"pages": [
+						621,
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "25. Despre carcinoamele tiroidiene sunt false:  [621, 622]",
+					"answers": [
+						"carcinoamele foliculare provin din celulele C",
+						"sunt tumori frecvent însoțite de hipertiroidism",
+						"peste 90% dintre ele secretă tiroglobulină",
+						"carcinomul medular este derivat din epiteliul tiroidian",
+						"patogeneza nu este pe deplin înțeleasă"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "3",
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "26. Următoarele tipuri de cancere tiroidiene pot disemina pulmonar cel mai frecvent: [621]",
+					"answers": [
+						"anaplastic",
+						"limfom",
+						"medular",
+						"papilar",
+						"folicular"
+					]
+				},
+				{
+					"pages": [
+						622
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "27. Elementele de risc major în cancerul tiroidian sunt: [622]",
+					"answers": [
+						"vârsta &gt;40ani",
+						"dimensiunea tumorii &gt;2cm",
+						"invazia macroscopică a capsulei",
+						"invazia macroscopică țesuturilor înconjurătoare",
+						"răspunsul slab la tratament"
+					]
+				},
+				{
+					"pages": [
+						621
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "624713bb327119885ebecf74",
+					"text": "28. Sunt afirmații adevărate în legătură cu carcinoamele foliculare:  [621]",
+					"answers": [
+						"tumorile sunt în principal iod-captante",
+						"sorafenibul administrat pe cale orală a demonstrat un răspuns bun pe teremen scurt",
+						"tratamentul cu cabozantinib a demonstrat beneficii",
+						"tratamentul de elecție este cel chirurgical",
+						"apariția la o vârstă de peste 40 de ani reprezintă un element de risc major"
+					]
+				}
+			],
+			"chapters": [
+				{
+					"_id": "624713bb327119885ebecf76",
+					"name": "1.21.1. Hipotiroidismul. Hipertiroidismul",
+					"isUserContent": false,
+					"categories": [
+						"m_g_mc"
+					]
+				},
+				{
+					"_id": "624713bb327119885ebecf74",
+					"name": "1.21.2. Carcinomul tiroidian",
+					"isUserContent": false,
+					"categories": [
+						"m_g_mc"
+					]
+				}
+			],
+			"timed": false,
+			"showAnswers": false,
+			"quantity": 166,
+			"startedAt": "2023-11-17T19:48:11.385Z",
+			"hasExplanations": false
+		}
+	}
+}

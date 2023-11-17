@@ -1,0 +1,5407 @@
+{
+	"status": "OK",
+	"code": 200,
+	"success": true,
+	"message": "SUCCESS",
+	"data": {
+		"exam": {
+			"_id": "6557cbfd8d6e61001105d206",
+			"examType": "custom",
+			"questions": [
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "1. Factorii de risc pentru fibromul uterin sunt:",
+					"answers": [
+						"Nuliparitatea",
+						"Descendența afro-americană",
+						"Consumul de alcool",
+						"Antecedente familiale de fibrom",
+						"Obezitatea"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "2. Tratamentul cancerului de endometru cuprinde următoarele, cu EXCEPȚIA:",
+					"answers": [
+						"Histerectomia totală",
+						"Histerectomia totală cu anexectomie bilaterala si prelevarea de ganglioni limfatici",
+						"Radioterapie adjuvanta",
+						"Chimioterapie",
+						"Prelevarea de ganglioni limfatici"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "3. Conduita terapeutică în ASC-H (celule scuamoase atipice care nu pot exclude HSIL) este următoarea:",
+					"answers": [
+						"Screening HPV",
+						"Colposcopie",
+						"Biopsie endocervicală",
+						"Histerectomie totală",
+						"Tratament antibiotic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "4. Caracteristicile chistului dermoid (teratom chistic benign) sunt următoarele cu EXCEPȚIA:",
+					"answers": [
+						"Este compus din țesuturi dermice multiple",
+						"Dinți",
+						"Corpi psammoma",
+						"Fire de păr",
+						"Glande sebacee"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "5. Originea tumorilor ovariene cu celule stromale sunt:",
+					"answers": [
+						"Celulele de granuloasă",
+						"Celulele tecale",
+						"Foliculul ovarian",
+						"Celulele Sertoli-Leydig",
+						"Celulele epiteliale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "6. Factorii de risc implicați în etiologia cancerului de ovar sunt:",
+					"answers": [
+						"Multiparitatea",
+						"Istoric familial",
+						"Infertilitatea",
+						"Contracepția orală combinată",
+						"Mutații ale genelor BRCA1 sau BRCA2"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "7. Conduita terapeutică în tumorile ovariene benigne cuprinde următoarele:",
+					"answers": [
+						"Histerectomie totală cu anexectomie bilaterală pentru chisturile funcționale",
+						"Chistectomie",
+						"Ovarectomie",
+						"Supraveghere in chisturile functionale",
+						"Histerectomia totală cu anexectomie bilaterală trebuie luată în considerare la pacientele în postmenopauză"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "8. Conduita terapeutică în tumorile maligne ovariene cu celule germinale este următoarea cu EXCEPȚIILE:",
+					"answers": [
+						"Anexectomia unilaterală efectuată pentru boala limitată",
+						"Citoreducţie chirurgicală efectuată pentru tumori avansate",
+						"Supraveghere",
+						"Histerectomie totală",
+						"Chimioterapie administrată de obicei postoperator"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "9. Care din următoareleafirmații sunt adevărate:",
+					"answers": [
+						"Aspectul ecografic al unei tumori ovariene chistice cu un contur regulat şi septuri puţine este sugestivă pentru tumorile ovariene benigne",
+						"Aspectul ecografic al unei tumori ovariene cu un contur neregulat, vegetaţii, septuri multiple şi extensie pelvină sunt sugestive pentru malignitate.",
+						"Cancerul ovarian este simptomatic din stadiile incipiente",
+						"Cel mai frecvent cancer ovarian este cel cu celule germinale",
+						"Rezecţia chirurgicală este esenţială pentru stabilirea unui diagnostic citologic precis când există suspiciunea de neoplasm ovarian."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "10. Care din următoarele forme anatomo-patologice aparțin cancerului de col uterin:",
+					"answers": [
+						"Cancerul cu celule scuamoase",
+						"Cancerul cu celule germinale",
+						"Coriocarcinomul",
+						"Adenocarcinomul",
+						"Carcinomul adenoscuamos mixt"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "11. Reprezintă factori de risc pentru vaginită:",
+					"answers": [
+						"Vârstă înaintată la primul contact sexual",
+						"Dușurile intravaginale",
+						"Fumatul",
+						"Partener sexual unic",
+						"Diabet zaharat"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "12. Reprezintă factori de risc pentru vaginită, cu excepția:",
+					"answers": [
+						"Vârstă înaintată la primul contact sexual",
+						"Dușurile intravaginale",
+						"Fumatul",
+						"Partener sexual unic",
+						"Diabet zaharat"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "13. Flora bacteriană saprofită vaginală este reprezentată de:",
+					"answers": [
+						"LactobaciliiDoderlain",
+						"NeisseiriaGonorrhoeae",
+						"GardnerellaVaginalis",
+						"TrichomonasVaginalis",
+						"Nici un răspuns nu este corect"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "14. Dintre medicamentele uzuale pentru tratamentul Candidozei fac parte:",
+					"answers": [
+						"Metronidazol",
+						"Clotrimazol",
+						"Miconazol",
+						"Nistatin",
+						"Doxiciclină"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "15. Dintre medicamentele uzuale pentru tratamentul Candidozei fac parte următoarele, cu excepția:",
+					"answers": [
+						"Metronidazol",
+						"Clotrimazol",
+						"Miconazol",
+						"Nistatin",
+						"Doxiciclină"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "16. Dintre bacteriile ce determină boala inflamatoriepelvină, cel mai des sunt incriminati următorii germeni:",
+					"answers": [
+						"GarderellaVaginalis",
+						"StreptoccocusAgalactiae",
+						"TrichomonasVaginalis",
+						"NeisseiriaGonorrhoeae",
+						"ChlamydiaTrachomatis"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "17. Cele mai incriminate tulpini HPV pentru apariția Cancerului de Col sunt:",
+					"answers": [
+						"12 și 5",
+						"6 și 11",
+						"16 și 18",
+						"9 și 21",
+						"27 și 48"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "18. Indicațiile biopsiei de endometru sunt:",
+					"answers": [
+						"Metroragia în climax.",
+						"Metroragia disfuncțională la femeile sub 45 de ani",
+						"Metroragia disfuncțională peste 45 de ani.",
+						"Metroragia disfuncțională la femeile sub 45 de ani expuse la estrogen exogen",
+						"Celule glandulare atipice pe frotiul Babeș-Papanicolau"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "19. Indicațiile biopsiei de endometru sunt următoarele, cu excepția:",
+					"answers": [
+						"Metroragia în climax.",
+						"Metroragia disfuncțională la femeile sub 45 de ani",
+						"Metroragia disfuncțională peste 45 de ani.",
+						"Metroragia disfuncțională la femeile sub 45 de ani expuse la estrogen exogen",
+						"Celule glandulare atipice pe frotiul Babeș-Papanicolau"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "20. Factorii de risc pentru cancerul de endometru sunt:",
+					"answers": [
+						"Multiparitate",
+						"Subponderabilitate",
+						"Diabetzaharat",
+						"Hipertensiunearterială.",
+						"Hipoestrogenism"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "21. Reprezintă metode definitive de tratament pentru fibromul uterin:",
+					"answers": [
+						"Miomectomia",
+						"Histerectomia totală",
+						"Histerectomia subtotal",
+						"Agoniștii GnRH",
+						"Embolizarea arterei uterine"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "22. Factorii de risc pentru cancerul de col uterin sunt următorii, cu excepția:",
+					"answers": [
+						"Pacientănefumătoare",
+						"Contracepția",
+						"Contact sexual după 20 de ani",
+						"Infecția HPV cu tipurile 16 și 18",
+						"Partener sexual unic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "23. Reprezintă afirmații adevărate despre endometriomul ovarian, cu excepția:",
+					"answers": [
+						"Histologic asemănător cu epiteliul tubar",
+						"Compus din celuledermice multiple",
+						"Reprezintă extinderea endometriozei la nivelul ovarului",
+						"Secretăhormoniînfuncție de celulele de origine",
+						"Poate forma corpi psammoma"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "24. Sunt cauze de sângerare uterină anormală:",
+					"answers": [
+						"Cancerul endometrial",
+						"Cancerul de col uterin",
+						"Fibromul uterin",
+						"Sarcina molară",
+						"Toate răspunsurile sunt adevărate"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "25. Următoarele afirmații despre sângerarea anormală sunt adevărate:",
+					"answers": [
+						"Sunt sângerări regulate pe cale vaginală",
+						"Sunt sângerări cu durată anormală.",
+						"Sunt sângerări neregulate",
+						"Poartă numele de menoragii când au o durată crescută",
+						"Poartă numele de menoragii când au un flux excesiv"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "26.Lactobacilii reprezintă:",
+					"answers": [
+						"floră microbiană vaginală normală a căror prezență pe frotiul vaginal nu este sugestivă pentru infecție",
+						"floră bacteriană anormală",
+						"candidoză vaginală",
+						"toate răspunsurile sunt corecte",
+						"nici un răspuns corect"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "27.Definiția vaginitei include următoarele elemente:",
+					"answers": [
+						"iritație vaginală",
+						"prurit",
+						"secreție vaginală normală",
+						"disurie",
+						"polakiurie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "28.Tratamentul pentru sindromul de șoc septic include:",
+					"answers": [
+						"tratament suportiv pentru hipotensiune",
+						"administrarea de vasopresoare",
+						"administrarea de antimicotice",
+						"administrarea de antivirale",
+						"toate răspunsurile sunt corecte"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "29.Sindromul de șoc toxic este determinat de:",
+					"answers": [
+						"exotoxina produsă de Candida albicans",
+						"endotoxina produsă de Staphylococcus aureus",
+						"exotoxina produsă de Gardnerellavaginalis",
+						"exotoxina produsă de Staphylococcus aureus",
+						"exotoxina produsă de Escherichia coli"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "30.Sindromul de șoc toxic poate apărea în caz de:",
+					"answers": [
+						"infecții postpartum",
+						"infecții postabortum",
+						"contracepție intravaginală prelungită",
+						"utilizarea prelungită a tampoanelor intravaginale",
+						"administrarea de antibiotice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "31.Din punct de vedere paraclinic sindromul de șoc toxic se caracterizează prin:",
+					"answers": [
+						"trombocitoză",
+						"scăderea alaninaminotransferazei",
+						"trombocitopenie",
+						"creșterea ureei și a creatininei",
+						"absența în cultura din fluidul vaginal a S. Aureus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "32.Din punct de vedere clinic clinic sindromul de șoc septic se caracterizează prin:",
+					"answers": [
+						"disurie",
+						"anurie",
+						"diaree",
+						"hipertensiune arterială",
+						"hipotensiune arterială"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "33. Vaginita determinată de GardnerellaVaginalis are următoarele caracterisitici:",
+					"answers": [
+						"miros de pește sau amoniu",
+						"secreție albă, brânzoasă",
+						"diaree",
+						"inflamație vaginală redusă",
+						"se tratează cu antivirale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "34.Vaginita cauzată de TrichimonasVaginalis are următoarele caracteristici:",
+					"answers": [
+						"secreție vaginală verzuie, urât mirositoare",
+						"peteșii cervicale",
+						"inflamație vaginală redusă",
+						"nu se administrează tratament și partenerului",
+						"se tratează cu antimicotice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "35. Vaginita cauzată de Candida Albicans are următoarele caracterisitici:",
+					"answers": [
+						"secreție urât mirositoare, verzuie",
+						"miros de pește sau amoniu",
+						"celule de tip \"clue\" pe frotiul proaspăt",
+						"inflamație vaginală importantă",
+						"secreție vaginală densă, brânzoasă"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "36. Tratamentul partenerilor este necesar:",
+					"answers": [
+						"în infecția cu Candida Albicans",
+						"în infecția cu Trichomonasvaginalis",
+						"în infecția cu Staphylococcus aureus",
+						"în infecția cu Escherichia coli",
+						"toate răspunsurile sunt corecte"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "37.Tratamentul pentru vaginita cauzată de Candida Albicans este reprezentat de:",
+					"answers": [
+						"antivirale",
+						"antibiotice",
+						"Fluconazol",
+						"Metronidazol",
+						"Clindamicină"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "38.Tratamentul antibiotic al șocului toxic include:",
+					"answers": [
+						"Gentamicină",
+						"Clindamicină",
+						"Vancomicină pentru tulpinile rezistente la Meticilină",
+						"Metronidazol",
+						"Fluconazol"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "39.Cazurile severe de șoc toxic prezintă:",
+					"answers": [
+						"hipertensiune",
+						"hipotensiune",
+						"tulburări respiratorii",
+						"șoc anafilactic",
+						"disurie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "40.Măsurile necesare pentru remiterea șocului toxic sunt următoarele:",
+					"answers": [
+						"îndepărtarea tamponului intravaginal",
+						"administrarea de vasopresoare",
+						"antibioterapie cu clindamicină",
+						"administrarea de antimicotice",
+						"chiuretajul cavității uterine"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 40,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "41. Următoarele modificări au loc in săptămâna 17 de gestație:",
+					"answers": [
+						"Aspectul de corp dolofan",
+						"Pancreasul începe să funcționeze",
+						"Incepe să se formeze cordul",
+						"Perceperea primelor miscări fetale",
+						"Se dezvoltă părul"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 41,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "42.In primul trimestru de sarcină, pentru evaluarea vârstei gestationale se va folosi:",
+					"answers": [
+						"Înălțimea fundului uterin",
+						"Lungimea femurului",
+						"Circumferința abdominală",
+						"Ultrasonografia",
+						"Lățimea femurului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 42,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "43. Vârsta gestaţională este calculată în funcţie de:",
+					"answers": [
+						"Ovulație",
+						"Vârsta mamei",
+						"Durata ciclului menstrual",
+						"Data ultimei menstruații",
+						"Numărul de embrioni"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 43,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "44. Sunt adevărate despre vârsta gestaționala următoarele:",
+					"answers": [
+						"Se calculează după data ultimei menstruații",
+						"Este mai mică cu 2 săptămâni decât vârsta embrionară",
+						"Este mai mare cu 2 săptămâni decât vârsta embrionară",
+						"Data ultimei menstruații este cu 14 zile înaintea momentului fertilizării",
+						"Data ultimei menstruații este cu 14 zile după momentului fertilizarii"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 44,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "45. Sunt adevărate despre regula lui Naegele următoarele cu EXCEPTIA:",
+					"answers": [
+						"poate fi folosită pentru a estima data naşterii",
+						"poate fi folosită pentru a estima vârsta gestatională",
+						"poate fi folosită pentru a estima vârsta embrionară",
+						"formula de calcul este DUM(data ultimei menstruații)+7 zile-3 luni+ 9 luni",
+						"formula de calcul este DUM(data ultimei menstruații)+7 zile-3 luni+ 1 an"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 45,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "46. Factorii teratogeni au urmatoarele efecte:",
+					"answers": [
+						"Ucid fătul în primele 2 săptămâni",
+						"Nu au niciun efect în primele 2 săptămâni",
+						"Pot determina organogeneză anormală între 2 si 12 săptămâni",
+						"Pot determina organogeneza anormala între 4 si 10 săptămâni",
+						"Ucid fatul în primele 5 săptămâni"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 46,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "47. Pseudocieza (sarcina falsă)implică:",
+					"answers": [
+						"Somatizarea stresului",
+						"Modificări ale axei hipotalamo-hipofizare-ovariene",
+						"Semene și simptome ale sarcinii la femeile care nu sunt gravide",
+						"Modificări ale axei hipotalamo-hipofizare",
+						"Paciente cu boli psihice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 47,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "48. În timpul sarcinii sunt încurajate următoarele activități cu risc scăzut:",
+					"answers": [
+						"Exerciții fizice de intensitate mare",
+						"Relații sexuale",
+						"Înot",
+						"Echitație",
+						"Relații sexuale chiar dacă mama are risc de avort"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 48,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "49. În săptămâna a 6-a de gestație au loc următoarele modificări:",
+					"answers": [
+						"Începe sa se dezvolte cordul",
+						"Sistemele de reproducere încep să se diferențieze",
+						"Membrele încep să se dezvolte",
+						"Perceperea primelor mișscărifetale",
+						"Grasp palmar ferm"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 49,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "50. În săptămâna a 24-a de gestație au loc următoarele modificări cu excepția:",
+					"answers": [
+						"Începe producția de surfactant",
+						"Unghiile sunt prezente",
+						"Primele șanse de supraviețuire în caz de naștere prematură",
+						"Se dezvoltă rinichii",
+						"Ochii se deschid"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 50,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "51. Aparatul cardiovascular suferă următoarele modificări în timpul sarcinii:",
+					"answers": [
+						"Debitul cardiac crește cu 50%",
+						"Se poate auzi un murmur diastolic",
+						"Crește cererea de O2 miocardic",
+						"Debitul cardiac crește cu 40%",
+						"Uterul determină ascensionareausoară a cordului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 51,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "52. Aparatul renal suferă următoarele modificari cu exceptia:",
+					"answers": [
+						"Crește fluxul plasmatic renal",
+						"Scade porțiunea azotată a ureei",
+						"Crește porțiunea azotată a creatinei",
+						"Crește excreția renală de proteine",
+						"Crește volum sanguin și lichidul interstitial"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 52,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "53. Sunt adevărate despre modificările endocrinologice în sarcină următoarele cu excepția:",
+					"answers": [
+						"Hiperinsulinism non-diabetic ce asociază intoleranţăuşoară la glucoză",
+						"Creşte nivelul trigliceridelor a jeun",
+						"Creşte nivelul de cortizol",
+						"TSH creste uşor în timpul sarcinii incipiente",
+						"Creşte globulina de legare a tiroxinei"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 53,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "54. Din punct de vedere hematologic apar următoarele modificări in sarcină:",
+					"answers": [
+						"Hipercoagulabilitate",
+						"Creşteproducţia de eritrocite",
+						"Hematocritul scade ca urmare a volumului crescut de sânge",
+						"Cresc trombocitele",
+						"Hipocoagulabilitate"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 54,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "55. În primul trimestru de sarcină cea mai precisă masurătoareultrasonografică pentru determinarea vârstei gestaționale este:",
+					"answers": [
+						"Diametrul biparietal",
+						"Diametrul sacului gestațional",
+						"Lungimea cranio-caudală",
+						"Circumferința craniană",
+						"Lungimea femurului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 55,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "56. În săptămânile 7-14, acurateţea estimării vârstei gestaţionale este:",
+					"answers": [
+						"±3-5 zile",
+						"±3 zile",
+						"-5 zile",
+						"±4-6 zile",
+						"-6 zile"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 56,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "57. În al doilea trimestru de sarcină varsta gestaționala este determinată prin:",
+					"answers": [
+						"diametrul biparietal",
+						"Lungimea cranio-caudală",
+						"circumferinţa abdominală fetală",
+						"circumferinţa craniană",
+						"lungimea humerusului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 57,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "58. Măsurarea vârstei gestaţionale în al doilea trimestru are ca precizie:",
+					"answers": [
+						"±1-2 săptămâni",
+						"±1-2zile",
+						"±2-4săptămâni",
+						"±3-4săptămâni",
+						"±5zile"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 58,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "59. Despre înălțimea fundului uterin sunt adevărate următoarele:",
+					"answers": [
+						"Este utilizat pentru măsurarea vârstei gestaționale după 10 săptămâni",
+						"Măsurarea înălţimii fundului uterin are o precizie de ±3 săptămâni",
+						"Fibroamele uterine afectează precizia măsurătorii",
+						"Obezitatea afectează precizia măsurătorii",
+						"Măsurarea înălţimii fundului uterin are o precizie de ±2 săptămâni"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 59,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "60. Despre modificările aparatului respirator sunt adevărate următoarele cu excepția:",
+					"answers": [
+						"Consumul total de 02 al corpului creşte cu 20%",
+						"Uterul ascensionează diafragma",
+						"Volumul respirator curent creşte cu 40%",
+						"Volumul respirator curent creşte cu 50%",
+						"Pco2 scade până la ~30 mm Hg"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 60,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "61. Factorii de risc pentru fibromul uterin sunt:",
+					"answers": [
+						"Nuliparitatea",
+						"Descendența afro-americană",
+						"Consumul de alcool",
+						"Antecedente familiale de fibrom",
+						"Obezitatea"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 61,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "62. Tratamentul cancerului de endometru cuprinde următoarele:",
+					"answers": [
+						"Histerectomia totală",
+						"Histerectomia totală cu anexectomie bilaterala si prelevarea de ganglioni limfatici",
+						"Radioterapie adjuvanta",
+						"Chimioterapie",
+						"Histerectomia subtotal"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 62,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "63. Conduita terapeutică în ASC-H (celule scuamoase atipice care nu pot exclude HSIL) este următoarea:",
+					"answers": [
+						"Screening HPV",
+						"Colposcopie",
+						"Biopsie endocervicală",
+						"Histerectomie totală",
+						"Tratament antibiotic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 63,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "64. Caracteristicile chistului dermoid (teratom chistic benign) sunt următoarele cu EXCEPȚIA:",
+					"answers": [
+						"Este compus din țesuturi dermice multiple",
+						"Dinți",
+						"Corpi psammoma",
+						"Fire de păr",
+						"Glande sebacee"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 64,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "65. Originea tumorilor ovariene cu celule stromale sunt:",
+					"answers": [
+						"Celulele de granuloasă",
+						"Celulele tecale",
+						"Foliculul ovarian",
+						"Celulele Sertoli-Leydig",
+						"Celulele epiteliale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 65,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "66. Factorii de risc implicați în etiologia cancerului de ovar sunt:",
+					"answers": [
+						"Multiparitatea",
+						"Istoric familial",
+						"Infertilitatea",
+						"Contracepția orală combinată",
+						"Mutații ale genelor BRCA1 sau BRCA2"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 66,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "67. Conduita terapeutică în tumorile ovariene benigne cuprinde următoarele:",
+					"answers": [
+						"Histerectomie totală cu anexectomie bilaterală pentru chisturile funcționale",
+						"Chistectomie",
+						"Ovarectomie",
+						"Supraveghere in chisturile functionale",
+						"Histerectomia totală cu anexectomie bilaterală trebuie luată în considerare la pacientele în menopauză"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 67,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "68. Conduita terapeutică în tumorile maligne ovariene cu celule germinale este următoarea cu EXCEPȚIILE:",
+					"answers": [
+						"Anexectomia unilaterală efectuată pentru boala limitată",
+						"Citoreducţie chirurgicală efectuată pentru tumori avansate",
+						"Supraveghere",
+						"Histerectomie totală",
+						"Chimioterapie administrată de obicei postoperator"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 68,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "69. Care din următoarele afirmații sunt adevărate:",
+					"answers": [
+						"Aspectul ecografic al unei tumori ovariene chistice cu un contur regulat şi septuri puţine este sugestivă pentru tumorile ovariene benigne",
+						"Aspectul ecografic al unei tumori ovariene cu un contur neregulat, vegetaţii, septuri multiple şi extensie pelvină sunt sugestive pentru malignitate.",
+						"Cancerul ovarian este simptomatic din stadiile incipiente",
+						"Cel mai frecvent cancer ovarian este cel cu celule germinale",
+						"Rezecţia chirurgicală este esenţială pentru stabilirea unui diagnostic citologic precis când există suspiciunea de neoplasm ovarian."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 69,
+					"chapterId": "62f0f92cd60aa90011cc70df",
+					"text": "70. Care din următoarele forme anatomo-patologice aparțin cancerului de col uterin:",
+					"answers": [
+						"Cancerul cu celule scuamoase",
+						"Cancerul cu celule germinale",
+						"Coriocarcinomul",
+						"Adenocarcinomul",
+						"Carcinomul adenoscuamos mixt"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "1. Urmatoarele afirmatii privind rubeola sunt adevarate:",
+					"answers": [
+						"asociata cu adenopatii posterioare, cervicale si occipital, petele Forchheimer",
+						"debut cu IACRS usoara, febra, rash maculopapular",
+						"rash maculopapular present numai la nivelul fetei",
+						"tratament: suportiv",
+						"tratament: antibioterapie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "2. Urmatoarele afirmatii privind rujeola sunt false:",
+					"answers": [
+						"se caracterizeaza prin febra, tuse, coriza, conjunctivita, pete KopliK, rash",
+						"cauzata de virusul rubeolic",
+						"laborator: testare PCR",
+						"tratament: antibioterapie de prima linie",
+						"complicatii: pneumonie, encefalita, otita medie acuta"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "3. Urmatoarele afirmatii privind roseola infantum sunt false:",
+					"answers": [
+						"cauzata de human herpes virus 6",
+						"cauzata de virusul rujeolic",
+						"precedata de 3-5 zile de febra inalta dupa care incepe rash-ul si febra dispare",
+						"debut brusc cu rash palmo-plantar si afebrilitate",
+						"tratament: suportiv"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "4. Urmatoarele afirmatii privind otita sunt adevarate:",
+					"answers": [
+						"infectie a urechii medii comuna la copiii sub 6 ani",
+						"durere auriculara cu debut acut, febra, membrana tympanica in tensiune, lichid in urechea medie",
+						"debut insidios cu subfebrilitate, varsaturi, durere auriculara",
+						"tratament: analgezice, cefalosporinele in doze mari de prima linie",
+						"complicatii: pierderea auzului, perforatia MT, mastoidita, abces temporal"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "5. Urmatoarele afirmatii privind conjunctivita neonatala sunt adevarate:",
+					"answers": [
+						"conjunctivita chimica: apare dupa a 7-a zi de viata, eritem, secretie purulenta",
+						"conjunctivita gonococica: intra ziua a 2-a si a 7-a zi de viata, secretie in cantitate mare purulenta",
+						"conjunctivita cu chlamydia: apare in prima zi de viata, secretie seroasa",
+						"conjunctivita gonococica necesita administrare de antibiotic i.v.",
+						"conjunctivita cu chlamydia poate fi tratata p.o cu macrolide"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "6. Urmatoarele afirmatii privind scarlatina sunt adevarate cu exceptia:",
+					"answers": [
+						"febra si rash asociate cu o infectie virala",
+						"febra si rash associate cu o infectie streptococica",
+						"febra, rash difuz eritemato-papular, limba zmeurie, descuamari ale palmelor si plantelor",
+						"paraclinic- test rapid pentru streptococ, cultura din secretia faringiana",
+						"complicatii: cardita reumatica, glomerulonefrita post-streptococica"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "7. Urmatoarele afirmatii privind infectia de tract urinar sunt adevarate, cu exceptia:",
+					"answers": [
+						"cel mai comun microorganism este klebsiella",
+						"se manifesta prin: varsaturi, hematurie, febra inalta, iritabilitate",
+						"tratament cu antibiotic, cefalosporinele sunt prima linie",
+						"complicatii: pielonefrita, cicatrici renale, urosepsis",
+						"laborator: sumar de urina si urocultura"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f8b0d60aa90011cc673c",
+					"text": "8. Urmatoarele afirmatii privind infectia de tract urinar sunt adevarate:",
+					"answers": [
+						"cel mai comun microorganism este Klebsiella",
+						"se manifesta prin: varsaturi, hematurie, febra inalta, iritabilitate",
+						"tratament cu antibiotic, cefalosporinele sunt indicatie de linia a II-a",
+						"complicatii: pielonefrita, cicatrici renale, urosepsis",
+						"laborator: sumar de urina si urocultura"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "1. Urmatoarele afirmatii privind greutatea la nastere sunt adevarate:",
+					"answers": [
+						"Se dubleaza pana la  ̴6 luni",
+						"Se dubleaza pana la  ̴12 luni",
+						"Se tripleaza pana la  ̴12 luni",
+						"Se tripleaza pana la  ̴24 luni",
+						"Se cvadrupleaza pana la  ̴24 luni"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "2. Pierderea initiala a greutatii, in primele zile dupa nastere, este de:",
+					"answers": [
+						"̴1% din greutatea de la nastere",
+						"̴10% din greutatea de la nastere",
+						"̴5% din greutatea de la nastere",
+						"̴15% din greutatea de la nastere",
+						"̴7% din greutatea de la nastere"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "3. Pierderea initiala a greutatii, in primele zile dupa nastere, este recastigata pana la varsta de:",
+					"answers": [
+						"7 zile",
+						"2 saptamani",
+						"1 luna",
+						"2 luni",
+						"3 saptamani"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "4. De la varsta de 2 ani pana la adolescenta (varsta de 13 ani), cresterea anuala a greutatii este:",
+					"answers": [
+						"̴1 kg",
+						"̴5 kg",
+						"̴10 kg",
+						"̴2 kg",
+						"̴3 kg"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "5. Cresterea ponderala inadecvata la sugar si copil poate rezulta din:",
+					"answers": [
+						"Varsaturi sau diaree cronica",
+						"Aport dietetic deficitar sau abuz alimentar",
+						"Malabsorbtie",
+						"Patologii congenitale",
+						"Infectii virale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "6. Inaltimea (sau lungimea la nastere):",
+					"answers": [
+						"Creste cu 50% la varsta de  ̴1 an",
+						"Creste cu 1 cm/luna in primul an",
+						"Se dubleaza la  ̴4 ani",
+						"Se tripleaza la  ̴13 ani",
+						"Se tripleaza la  ̴18 ani"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "7. Cresterea anuala in inaltime de la varsta de 2 ani pana la adolescenta este de:",
+					"answers": [
+						"̴10 cm/an",
+						"̴1 cm/an",
+						"̴5 cm/an",
+						"̴15 cm/an",
+						"̴8 cm/an"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "8. Inaltimea mai mare decat normal poate fi asociata cu:",
+					"answers": [
+						"Pubertate precoce",
+						"Hipotiroidism",
+						"Sindrom Marfan",
+						"Sindrom Klinefelter",
+						"Statura familiala inalta"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "9. Inaltimea mai mica decat normal poate fi asociata cu:",
+					"answers": [
+						"Neglijare",
+						"Hipotiroidism",
+						"Dispalzii scheletale",
+						"Insuficienta renala acuta",
+						"Sindrom Turner"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "10. Circumferinta capului creste in primul an de viata astfel:",
+					"answers": [
+						"̴5 cm intre 0 si 3 luni",
+						"̴4 cm intre 3 si 6 luni",
+						"̴1 cm/luna",
+						"̴2 cm intre 6 si 9 luni",
+						"̴1 cm intre 9 si 12 luni"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "11. Macrocefalia la sugar poate fi asociata cu:",
+					"answers": [
+						"Boli metabolice cerebrale (ex. Tay-Sachs, boala urinilor cu miros de sirop de artar)",
+						"Infectii congenitale (infectii TORCH)",
+						"Sindroame neurocutanate (ex. neurofibromatoza, scleroza tuberoasa)",
+						"Expunerea fetala la toxine (sindromul alcoolic fetal)",
+						"Acromegalia"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "12. Principalele repere de dezvoltare la varsta de 2 luni sunt:",
+					"answers": [
+						"Social/cognitiv: zambet social",
+						"Social: anxietate la persoane straine",
+						"Miscare grosiera: ridica capul la 45 grade",
+						"Miscare fina: ochii urmaresc obiectul pana la linia mediana",
+						"Limbaj: gangureste"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "13. Principalele repere de dezvoltare la varsta de 12 luni sunt:",
+					"answers": [
+						"Anxietate de separare (9-15 luni)",
+						"Umbla cu ajutor (merge sustinut)",
+						"Prinde ca un cleste",
+						"Urca/coboara scari",
+						"Vocabular de 5-10 cuvinte"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "14. Principalele reflexe ale copilariei (primitive sau arhaice), prezente in primele 3 luni de viata, sunt:",
+					"answers": [
+						"Reflexul Moro",
+						"Reflexul de apucare",
+						"Reflexul tonic al gatului",
+						"Reflexul automat de mers",
+						"Reflexul de supt"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "15. Reprezinta contraindicatii pentru vaccinuri:",
+					"answers": [
+						"Alergii severe la doza precedenta",
+						"Prezenta febrei",
+						"Prezenta unei boli usoare",
+						"Alergii severe la componentele vaccinului",
+						"Vaccinurile cu virus viu la pacientii imunocompromisi"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "16. Semne fizice care sugereaza trauma neaccidentala (abuzul copilului) includ:",
+					"answers": [
+						"Fracturi ”in lemn verde”",
+						"Hemoragii retiniene",
+						"Tipuri specifice de fracturi (fracturi ale coastelor posterioare, fracturi ale metafizei, fracturi in diferite stadii de vindecare)",
+						"Arsuri cu demarcatii imprecise sau cu forme specifice (tigara, fier)",
+						"Leziuni purpurice la membrele inferioare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "17. Adolescentii prezinta un risc crescut pentru:",
+					"answers": [
+						"Comportamente periculoase (droguri, activitate sexuala neprotejata, violenta)",
+						"Alcoolism cronic",
+						"Depresie",
+						"Ideatie suicidala",
+						"Tulburari de alimentatie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "18. Programul de vaccinare din Romania (Recomandari 2018) cuprinde pentru varsta de 2 luni:",
+					"answers": [
+						"Hep B (Vaccin hepatitic B), DTP (Difterie, Tetanos, Pertusis acelular), Hib (Hemophilus influenzae tip b), IPV (vaccin anti-polio-inactivat)",
+						"PCV (vaccin pneumococic)",
+						"MCV4 (vaccin meningococic)",
+						"Rota (vaccin contra rotavirus)",
+						"VZV (vaccin contra Varicella-Zoster)"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "19. Controalele de rutina sunt importante in timpul copilariei pentru:",
+					"answers": [
+						"A efectua analize de laborator",
+						"A detecta intarzierile de crestere si dezvoltare",
+						"A efectua vaccinarile",
+						"A oferi indrumare anticipata",
+						"A evalua cresterea"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f887d60aa90011cc63ce",
+					"text": "20. Stadiile Tanner apreciaza:",
+					"answers": [
+						"Modificarile fizice asociate pubertatii",
+						"Dezvoltarea genitala si aprecierea pilozitatii",
+						"Problemele dermatologice ale pubertatii",
+						"Cresterea adecvata in greutate si inaltime",
+						"Probleme comportamentale asociate adolescentei"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f853d60aa90011cc5f80",
+					"text": "1.Următoarele afirmații despre rahitismul hipocalcemic la copil sunt adevărate, cu o excepție:",
+					"answers": [
+						"determină o calcificare vicioasă a osului",
+						"este cauzat de aportul, absorbția sau metabolismul deficitar de vitamina D",
+						"este determinat de lipsa expunerii la soare",
+						"în rahitism, cartilajele de creștere devin hipertrofice, fără calcificare",
+						"este determinat de o dietă bogată în vitamina D"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f853d60aa90011cc5f80",
+					"text": "2. Manifestările clinice în rahitism sunt următoarele:",
+					"answers": [
+						"durere osoasă",
+						"picioare deformate",
+						"statură înaltă",
+						"mers precoce",
+						"cifoscolioză"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f853d60aa90011cc5f80",
+					"text": "3. În rahitism pot apare:",
+					"answers": [
+						"cifoscolioză",
+						"slăbiciunea membrului proximal",
+						"fracturi",
+						"întărirea oaselor craniene",
+						"statură înaltă"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f853d60aa90011cc5f80",
+					"text": "4. Investigațiile de laborator în rahitismul hipocalcemic arată:",
+					"answers": [
+						"fosfatază alcalină scăzută",
+						"fosfor crescut",
+						"25 hidroxicolecalciferol scăzut",
+						"parathormonul crescut",
+						"1,25 dihidroxi colecalciferol scăzut"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f853d60aa90011cc5f80",
+					"text": "5. Radiografiile osoase în rahitismul hipocalcemic arată:",
+					"answers": [
+						"curbarea oaselor lungi",
+						"linii translucide în os",
+						"îngustarea cartilajelor de creștere",
+						"turtirea craniului",
+						"calcificare crescută a diafizelor oaselor lungi"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f853d60aa90011cc5f80",
+					"text": "6. Tratamentul rahitismului constă în următoarele, cu o excepție:",
+					"answers": [
+						"expunere la soare",
+						"dietă bogată în vitamina D",
+						"suplimentare cu vitamina D în caz de aport deficitar",
+						"scăderea aportului de fosfor",
+						"creșterea aportului de calciu"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "1. La ce varsta a copiilor se incadreaza convulsiile febrile:",
+					"answers": [
+						"2 luni-10 luni",
+						"4 luni-10 luni",
+						"6 luni- 5 ani",
+						"6 luni- 10 ani",
+						"6 luni-12 luni"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "2. Convulsiile febrile simple se caracterizeaza prin urmatoarele, cu exceptia:",
+					"answers": [
+						"Dureaza mai mult de 15 minute",
+						"Dureaza mai putin de 15 minute",
+						"Multiple crize in 24 de ore",
+						"Revenire la normal dupa convulsie",
+						"Convulsii generalizate tonico-clonice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "3. Convulsiile febrile complexe se caracterizeaza prin urmatoarele:",
+					"answers": [
+						"Sunt crize focale",
+						"Status postcriza prelungit sau deficit focal",
+						"Dureaza mai putin de 15 minute",
+						"Sunt corecte variantele a,b,c",
+						"Sunt corecte variantele a,b"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "4. Urmatoarele afirmatii privind convulsiile febrile simple sunt adevarate cu exceptia:",
+					"answers": [
+						"sunt convulsii generalizate tonico-clonice",
+						"sunt crize focale",
+						"dureaza mai putin de 15 minute",
+						"nu mai mult de 1 episod/24 h",
+						"revenire la normal dupa convulsie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "5. Urmatoarele afirmatii privind convulsiile complexe sunt adevarate cu exceptia:",
+					"answers": [
+						"convulsii generalizate tonico-clonice",
+						"dureaza mai mult de 15 minute",
+						"multiple crize in 24 h",
+						"status post-criza prelungit sau deficit focal",
+						"convulsii focale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "6. Urmatoarele afirmatii privind convulsiile complexe sunt adevarate:",
+					"answers": [
+						"convulsii generalizate tonico-clonice",
+						"dureaza mai mult de 15 minute",
+						"multiple crize in 24 h",
+						"revenire la normal dupa convulsie",
+						"convulsii focale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "7. Urmatoarele afirmatii privind convulsiile febrile simple sunt adevarate:",
+					"answers": [
+						"sunt convulsii generalizate tonico-clonice",
+						"sunt crize focale",
+						"dureaza mai putin de 15 minute",
+						"multiple crize /24 h",
+						"revenire la normal dupa convulsie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "8. Punctia lombara se efectueaza:",
+					"answers": [
+						"La toate convulsiile febrile",
+						"Daca se suspicioneaza meningita",
+						"Trebuie avuta in vedere la copiii &lt;12 luni care nu sunt deplin imunizati",
+						"Doar la copiii &gt;5 ani",
+						"Daca se suspcioneaza infectie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "9. Electroencefalograma (EEG) se recomanda in urmatoarele situatii:",
+					"answers": [
+						"La toate convulsiile febrile",
+						"Se face de rutina in caz de febra la copii",
+						"Nu este necesar de rutina pentru convulsiile febrile",
+						"In caz de convulsii atipice se va efectua EEG si RMN",
+						"In caz de convulsii atipice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "10. Hidrocefalia se caracterizeaza prin:",
+					"answers": [
+						"Cresterea excesiva a capului",
+						"Bombarea fontanelei",
+						"Asociaza varsaturi si iritabilitate",
+						"Fontanela anterioara deprimata",
+						"Asociaza edem papilar"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "11. Diagnosticul de laborator si imagistic in hidrocefalie cuprinde urmatoarele:",
+					"answers": [
+						"Ecografie transfontanelara",
+						"CT cranian va arata ventriculi mariti in dimensiuni",
+						"Ecografie abdominala",
+						"RMN cranio-cerebral",
+						"Examenul bacteriologic al LCR"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "12. Hidrocefalia copilariei se caracterizeaza prin urmatoarele cu exceptia:",
+					"answers": [
+						"Este cauzata de obstructia circulatiei LCR-ului in al patrulea ventricul cerebral",
+						"Poate fi comunicanta sau necomunicanta",
+						"Suntarea chirurgicala se face doar in 5% din cazuri",
+						"Aceteazolamida se poate folosi temporar pentru ameliorarea simptomelor",
+						"70% mortalitate inainte de varsta de 3 ani in lipsa tratamentului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "13. Defectele de tub neural pot fi urmatoarele:",
+					"answers": [
+						"Spina bifida oculta",
+						"Meningocel",
+						"Mielomeningocel",
+						"Anencefalie",
+						"Toate variantele sunt corecte"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "14. Tratamentul in defectele de tub neural cuprind urmatoarele:",
+					"answers": [
+						"Corectia chirurgicala este necesara in toate cazurile, cu exceptia defectelor usoare",
+						"Suntarea nu este o solutie terapeutica",
+						"Suntarea se practica in toate cazurile",
+						"Suntarea este frecvent necesara pentru meningocel si mielomeningocel in vederea rezolvarii hidrocefaliei",
+						"Suplimentul de folat la femeile gravide nu reduce riscul de aparitia defectelor de tub neural"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "15. Botulismul infantil se caracterizeaza prin urmatoarele cu exceptia:",
+					"answers": [
+						"De obicei apare ca urmare a ingestiei sporilor dupa expunerea la miere neprocesata",
+						"Tratamentul include antibioterapie si corticoterapie",
+						"Tratamentul include imunoglobulina botulinica intravenos",
+						"Apare ca urmare a ingestiei sporilor de la ciuperci",
+						"In lipsa tratamentului pot aparea complicatii precum insuficienta respiratorie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "16. Urmatoarele afirmatii sunt adevarate despre Botulism cu exceptia:",
+					"answers": [
+						"Se caracterizeaza prin constipatie, plans slab, hipotonie, reflex de inghitire slab, letargie",
+						"In cazul complicatiilor apar si dificultati de respiratie",
+						"Scaunele diareice apar in toate cazurile de botulism",
+						"Tratamentul include imunoglobulina umana intravenos",
+						"Printre complicatii se numara si insuficienta hepatica"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "17. Tratemetnul in retinoblastom cuprinde urmatoarele aspecte:",
+					"answers": [
+						"Enuclearea este efectuata pentru tumorile mari",
+						"Radioterapia poate fi utilizata pentru tumorile bilaterale sau adiacente nervului optic",
+						"Crioterapia sau fotocoagularea laser este utilizata pentru tumorile mari",
+						"Chimioterapia este utilizata pentru metastaze",
+						"Chimioterapia este utilizata pentru salvarea vederii"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "18. Urmatoarele afirmatii sunt false despre retinoblastom:",
+					"answers": [
+						"Examinarea oftalmologica poate detecta reflexe slabe rosii luminoase la ochiul afectat",
+						"Exista si o componenta genetica in unele cazuri: mutatii in gena RBI",
+						"Nu este necesar CT inainte de a incepe orice terapie pentru retinoblastom",
+						"Prognostic bun chiar in prezenta metastazarii",
+						"Risc mare de pierdere a vederii daca tumora este adiacenta corneei"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "19. Printre factorii de risc implicati in aparitia paraliziei cerebrale se numara:",
+					"answers": [
+						"Prematuritatea",
+						"Retardul de crestere intrauterina",
+						"Hemoragia cerebrala",
+						"Asfixia perinatala",
+						"Toate variantele de mai sus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "20. Urmatoarele situatii nu fac parte din factorii de risc in aparitia paralizei cerebrale:",
+					"answers": [
+						"Infectie intrauterina",
+						"Icterul neonatal fiziologic",
+						"Convulsii neonatale",
+						"Nasteri multiple",
+						"Prima nastere"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "21. Tipurile de paralizie cerebrala se caracterizeaza prin urmatoarele:",
+					"answers": [
+						"Poate fi spastica",
+						"Pareza spastica a mai multor membre",
+						"Poate fi diskinetica",
+						"Sunt corecte variantele a, b, c",
+						"Sunt corecte variantele a, b"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "22. In paralizia cerebrala tratamentul cuprinde:",
+					"answers": [
+						"Benzodiazepine",
+						"Fizioterapie",
+						"Montare de sunt ventriculo-peritoneal in toate cazurile",
+						"Suport social si psihologic al pacientului si al familiei",
+						"Imunoglobulina umana"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "23. Urmatoarele afirmatii despre defectele de tub neural sunt false:",
+					"answers": [
+						"Anencefalia se caracterizeaza prin absenta creierului anterior, a meningelui si a unor portiuni ale cutiei craniene",
+						"Severitatea simptomelor depinde de severitatea defectului",
+						"Pacientii cu spina bifida forma grava pot avea smocuri de par la nivelul defectului",
+						"Apar la persoanele cu factori de risc precum diabetul zaharat la mama",
+						"Formele usoare asociaza intotdeauna si anomalii neurologice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "62f0f82ed60aa90011cc5c86",
+					"text": "24. Boala Tay-Sachs se caracterizeaza prin urmatoarele cu exceptia:",
+					"answers": [
+						"Este o patologie autozomal recesiva cauzata de absenta hexozaminidazei A",
+						"Este o patologie autozomal dominanta cauzata de absenta enzimei necesare pentru metabolismul gangliozidelor lipidice",
+						"Sunt specifice pete galbene pe retina la fundul de ochi",
+						"Sunt specifice pete rosii-ciresii pe retina la fundul de ochi",
+						"Apare la evreii Ashkenazi si canadienii francezi"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "1. Urmatoarele afirmatii privind boala hemolitica a nou-nascutului sunt adevarate cu o exceptie:",
+					"answers": [
+						"daca celulele Rh+ fetale intra in circulatia mamei Rh- pot apare anticorpi anti-Rh",
+						"anticorpii nu afecteaza sarcina la interactiunea initiala a Rh-ului",
+						"anticorpii afecteaza intotdeauna sarcina la interactiunea initiala a Rh-ului",
+						"anticorpii cauzeaza hemoliza severa a eritrocitelor fetale la sarcinile urmatoare cu feti Rh+",
+						"hemoliza va cauza cel mai probabil decesul fatului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "2. Urmatoarele afirmatii privind anemia Fanconi sunt adevarate cu exceptia:",
+					"answers": [
+						"patologie autozomal-recesiva asociata cu insuficienta medulara, pancitopenie si risc crescut de leucemie",
+						"frecvent asociata cu statura mica, pigmentari tegumentare anormale, rinichi in potcoava si anomalii ale degetelor",
+						"se caracterizeaza prin alfa-fetoproteina serica scazuta si leucocite crescute",
+						"analiza cromozomiala detecteaza multiple rupturi ale benzilor",
+						"decesul in copilarie este frecvent datorat insuficientei medulare sau leucemiei"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "3. Urmatoarele afirmatii privind neuroblastomul sunt adevarate cu exceptia:",
+					"answers": [
+						"tumora cu origini in celulele crestei neurale",
+						"posibil acid vanil mandelic si homovanilic scazute in urina colectata/24 h",
+						"CT-ul poate localiza tumora adrenala sau ganglionara",
+						"tratamentul consta in rezectie chirurgicala, chimioterapie, radioterapie",
+						"prognostic prost daca apare dupa varsta de 1 an"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "4. Urmatoarele afirmatii privind anemia Fanconi sunt false:",
+					"answers": [
+						"patologie autozomal-dominanta asociata cu insuficienta medulara, bicitopenie si risc crescut de leucemie",
+						"frecvent asociata cu statura mica, pigmentari tegumentare anormale, rinichi in potcoava si anomalii ale degetelor",
+						"se caracterizeaza prin alfa-fetoproteina serica scazuta si leucocite crescute",
+						"analiza cromozomiala detecteaza multiple rupturi ale benzilor",
+						"decesul in copilarie este frecvent datorat insuficientei medulare sau leucemiei."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "5. Urmatoarele afirmatii privind neuroblastomul sunt adevarate:",
+					"answers": [
+						"tumora cu origini in celulele crestei neurale",
+						"posibil acid vanil mandelic si homovanilic scazute in urina colectata/24 h",
+						"CT-ul poate localiza tumora adrenala sau ganglionara",
+						"tratamentul consta in rezectie chirurgicala, chimioterapie, radioterapie",
+						"prognostic prost daca apare sub varsta de 1 an"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "6. Urmatoarele afirmatii privind rabdomiosarcomul sunt false:",
+					"answers": [
+						"tumora a muschilor netezi la copil",
+						"tumorile mari cauzeaza frecvent efect de masa asupra structurilor adiacente",
+						"biopsia stabileste diagnosticul",
+						"CT-ul sau IRM-ul arata extinderea tumorii",
+						"tratamentul consta doar in rezectie chirurgicala"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "7. Urmatoarele afirmatii privind anemia Diamond -Blackfan sunt adevarate:",
+					"answers": [
+						"anemie congenitala pura",
+						"oboseala, dispnee, paloare, cianoza cu debut tardiv",
+						"asociaza anomalii cranio-faciale, anomalii ale degetelor, sufluri cardiace, dizabilitate intelectuala",
+						"hipergonadism",
+						"Hb, Ht scazute, Reticulocite crescute, eritropoietina scazuta"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f7dfd60aa90011cc564d",
+					"text": "8. Urmatoarele afirmatii privind boala hemolitica a nou-nascutului sunt false:",
+					"answers": [
+						"daca celulele Rh pozitive fetale intra in circulatia mamei cu Rh negativ pot aparea anticorpi anti-Rh",
+						"anticorpii nu afecteaza sarcina la interactiunea initiala a Rh-ului",
+						"anticorpii afecteaza intotdeauna sarcina la interactiunea initiala a Rh-ului",
+						"anticorpii produc hemoliza severa a eritrocitelor fetale la sarcinile urmatoare cu feti Rh pozitivi",
+						"tratament: administrare de imunoglobulina Rh(D) dupa primele 72 de ore de la nastere la feti Rh pozitivi"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "1. Modificarile echilibrului acido-bazic in stenoza de pilor la sugar sunt reprezentate de:",
+					"answers": [
+						"Acidoza metabolica hiperpotasemica",
+						"Alcaloza metabolica hipercloremica",
+						"Acidoza metabolica hipopotasemica",
+						"Alcaloza metabolica hipocloremica",
+						"Alcaloza metabolica hiperpotasemica"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "2. Urmatoarele afirmatii cu privire la stenoza hipertrofica de pilor sunt adevarate:",
+					"answers": [
+						"Simptomele apar imediat dupa nastere",
+						"Varsaturile sunt bilioase",
+						"Tranzitul baritat arata ingustarea canalului piloric",
+						"Varsaturile nu au aspect bilios",
+						"Pilorotomia este tratamentul de electie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "3. Sugarii cu enterocolita necrotica beneficiaza de urmatoarele masuri de tratament:",
+					"answers": [
+						"Antibiotice cu spectru larg",
+						"Aspirare nazogastrica",
+						"Preparate de lapte fara lactoza",
+						"Rezectie chirurgicala a intestinului afectat",
+						"Corticoterapie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "4. Manifestarile clinice ale enterocolitei necrotice sunt urmatoarele, cu exceptia:",
+					"answers": [
+						"Varsaturi bilioase",
+						"Mucus cu sange in scaun (scaun cu aspect de “jeleu de coacaze”)",
+						"Alimentatie deficitara",
+						"Semne clinic de soc",
+						"Distensie abdominala"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "5. Urmatoarele afirmatii despre boala Hirschsprung sunt adevarate:",
+					"answers": [
+						"Aspect histologic de necroza idiopatica a mucoasei intestinale",
+						"Se manifesta prin diaree cronica",
+						"Biopsia intestinala arata absenta ganglionara",
+						"Tratamentul consta in colostomie si rezectia zonei afectate",
+						"Absenta inervatiei autonome intestinale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "6.Factorii de risc ai invaginatiei intestinale la copil sunt urmatorii, cu o exceptie:",
+					"answers": [
+						"Diverticul Meckel",
+						"Purpura Henoch-Schonlein",
+						"Infectia cu Adenovirus",
+						"Prematuritatea",
+						"Fibroza chistica"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "7. Manifestarile clinice ale invaginatiei intestinale la sugar sunt urmatoarele, cu o exceptie:",
+					"answers": [
+						"Durere abdominala brusca, episodica, durata sub 1 minut",
+						"Diaree",
+						"paloare",
+						"Varsaturi",
+						"Masa abdominala palpabila"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "8. Urmatoarele afirmatii, cu privire la diverticulul Meckel sunt adevarate, cu o exceptie:",
+					"answers": [
+						"Contine tesut ectopic (gastric, pancreatic)",
+						"Scanarea radionucleara cu Technetiu vizualizeaza mucoasa gastrica",
+						"Ischemia intestinala este o complicatie",
+						"Se poate manifesta prin sangerare rectala nedureroasa",
+						"Necesita tratament chirurgical in cazurile simptomatice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "9. Prima suspiciune de diagnostic in cazul varsaturilor bilioase la un nou nascut este:",
+					"answers": [
+						"Invaginatia intestinala",
+						"Stenoza de pilor",
+						"Fibroza chistica",
+						"Malrotatia cu volvulus",
+						"Boala Hirschsprung"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "10. Hemoliza crescuta reprezinta o cauza a urmatoarelor tipuri de icter la nou nascut:",
+					"answers": [
+						"Incompatibilitatea in sistem ABO",
+						"Deficit de G6PD",
+						"Sindrom Gilbert",
+						"Atrezie biliara",
+						"Sindrom Crigler-Najjar"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "11. Icterul neonatal nonfiziologic are urmatoarele caracteristici:",
+					"answers": [
+						"Apare in primele 24 ore de viata",
+						"Bilirubina totala &gt; 15 mg/dl",
+						"Bilirubina directa &gt; 2 mg/dl",
+						"Nu se insoteste niciodata de icter nuclear",
+						"Exsanguinotransfuzia este contraindicate"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "12. Sugar in varsta de 2 luni, fost prematur, cu greutatea la nastrere 1500g, se interneaza pentru varsaturi bilioase, letargie, hematochezie, aparute de 24 ore. Investigatiile arata acidoza metabolica si hiponatremie iar radiografia abdominala arata distensie intestinala, aer liber subdiafragmatic. Cel mai probabil diagnostic este:",
+					"answers": [
+						"Invaginatia intestinala",
+						"Enterocolita acuta virala",
+						"Stenoza de pilor",
+						"Enterocolita necrotica",
+						"Diverticul Meckel"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "13. Nou nascut in varsta de 5 zile se interneaza pentru varsaturi bilioase, distensie abdominala. Radiografia abdominala arata semnul “double bubble” si aer liber subdiafragmatic. Cel mai probabil diagnostic este:",
+					"answers": [
+						"Malrotatie intestinala cu volvulus",
+						"Stenoza de pilor",
+						"Malrotatie intestinala cu volvulus si perforatie",
+						"Invaginatie intestinala",
+						"Enterocolita necrotica"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f554d60aa90011cc2844",
+					"text": "14. Icterul nuclear se caracterizeaza prin urmatoarele, cu o exceptie:",
+					"answers": [
+						"Depozitarea bilirubinei in ganglionii bazali si hipocamp",
+						"Afectarea neurologica este tranzitorie",
+						"Apare consecutive unor valori mari ale bilirubinei",
+						"Aparitia convulsiilor si a crizelor de apnee",
+						"Apare in cazul anomaliilor hepatice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "1. Crupul se caracterizeaza prin urmatoarele, cu o exceptie:",
+					"answers": [
+						"Apare mai frecvent la categoria de varsta 5-10 ani",
+						"Se caracterizeaza prin dispnee, stridor inspirator, congestie nazala, limfadenopatie",
+						"Este cauzat in principal de virusurile parainfluenza tip 1 si 2",
+						"Cazurile severe sunt tratate cu epinefrina in aerosoli si corticosteroizi",
+						"Radiografia gatului arata ingustarea cailor aeriene subglotice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "2. Urmatoarele afirmatii cu privire la epiglotita sunt adevarate",
+					"answers": [
+						"Frecvent intalnita in trecut la copiii cu varste intre 2 si 7 ani",
+						"Incidenta a scazut datorita vaccinarii eficiente impotriva Haemophilus influenzae tip b",
+						"Reprezinta o infectie rapid progresiva a epiglotei si a tesuturilor adiacente",
+						"Cea mai frecventa cauza este reprezentata de streptococ",
+						"Frecvent intalnita la categoria de varsta 5 luni- 2 ani."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "3. Manifestarile clinice in epiglotita sunt:",
+					"answers": [
+						"Hipersalivatie",
+						"Disfagie",
+						"Stridor discret",
+						"Tiraj inspirator",
+						"Toate cele de mai sus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "4. Tratamentul bronsiolitei consta in:",
+					"answers": [
+						"Aspiratie nazala",
+						"Umidifierea aerului",
+						"Hidratare adecvata",
+						"Administarea de glucocorticoizi sistemici",
+						"Antibioterapie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "5. Urmatoarele afirmatii cu privire la bronsiolita acuta sunt adevarate:",
+					"answers": [
+						"Reprezinta o reactie inflamatorie a bronhiolelor",
+						"Etiologia este reprezentata in principal de virusul sincitial respirator",
+						"Cel mai des apare vara",
+						"Este mai des intalnita la copiii cu varste sub 2 ani",
+						"Radiografia pulmonara arata hiperinflatie pulmonara si infiltrate parcelare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "6. Faza catarala din tusea convulsiva se caracterizeaza prin:",
+					"answers": [
+						"Febra usoara",
+						"Tuse usoara",
+						"Rinoree",
+						"Conjunctive injectate",
+						"Febra la valori mari"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "7. Faza paroxistica din tusea convulsiva se caracterizeaza prin urmatoarele, cu o exceptie:",
+					"answers": [
+						"Apare dupa 2 saptamani de evolutie a bolii",
+						"Sincopa",
+						"Apare dupa 3 saptamani de evolutie a bolii",
+						"Emeza",
+						"Episoade paroxistice de tuse urmate de un sunet inspirator ”convulsiv”"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "8. Sindromul de detresa respiratorie a nou nascutului se manifesta prin:",
+					"answers": [
+						"Cianoza",
+						"Batai ale aripioarelor nazale",
+						"Frecventa respiratorie &gt;60 respiratii/min",
+						"Diminuarea sonoritatii pulmonare",
+						"Frecventa respiratorie &lt;60 respiratii/min"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "9. Tratamentul sindromului de detresa respiratorie a nou nascutului consta in:",
+					"answers": [
+						"Internare in sectia de terapie intensiva neonatala",
+						"Administrarea de corticosteroizi mamei inainte de nastere",
+						"Terapia de substitutie a surfactantului",
+						"Suplimentare cu O2",
+						"Toate cele de mai sus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "10. Complicatiile sindromului de detresa respiratorie neonatala sunt reprezentate de:",
+					"answers": [
+						"Pneumotorax",
+						"Pneumomediastin",
+						"Displazie bronhopulmonara",
+						"Nu exista risc de a dezvolta astm in copilarie",
+						"Risc crescut de a dezvolta astm in copilarie comparativ cu alti copii"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "11. Tratamentul sindromului de aspiratie de meconiu consta in:",
+					"answers": [
+						"Antibioterapie empirica",
+						"Aspirarea gurii si a nasului la nastere",
+						"Suplimentare cu O2",
+						"Corticoterapie orala",
+						"Terapia cu surfactant"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "12. Urmatoarele afirmatii legate de Sindromul de aspiratie de meconium sunt adevarate:",
+					"answers": [
+						"Cauzeaza obstructia cailor aeriene si pneumonie",
+						"In timpul nasterii se observa lichid amniotic de culoare normala",
+						"Radiografia pulmonara evidentiaza atelectazie",
+						"Hipertensiunea pulmonara poate apare daca nu se trateaza prompt",
+						"La nastere sunt prezente: cianoza, tahipnee, tiraj intercostal"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "13. Manifestarile clinice din fibroza chistica sunt reprezentate de:",
+					"answers": [
+						"Tuse, cianoza",
+						"Ileus meconial la nastere",
+						"Steatoree",
+						"Deficit de crestere",
+						"Toate cele de mai sus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "14. Fibroza chistica:",
+					"answers": [
+						"Afectiune autozomal dominanta",
+						"Cauzata de un defect al canalului pompei de clor al glandelor exocrine",
+						"Se manifesta in copilarie si este in general fatala",
+						"Afecteaza ambii plamani si sistemul gastrointestinal",
+						"Incidenta la caucazieni este mai scazuta comparativ cu alte rase si etnii"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "15. Investigatiile din fibroza chistica evidentiaza:",
+					"answers": [
+						"Cresterea sodiului seric",
+						"Testul genetic poate localiza mutatia in gena reglatoare a conductantei transmembranare a FC (CTFR)",
+						"Scaderea sodiului seric",
+						"Testul sudorii arata cresterea Na si Cl (&gt;60mEq/L la copii)",
+						"Testul sudorii arata scaderea Na si Cl (&lt;60mEq/L la copii)"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "16.Tratamentul fibrozei chistice consta in:",
+					"answers": [
+						"Administrarea de bronhodilatatoare",
+						"Antibioterapie in caz de exacerbari pulmonare sau infectii",
+						"Suplimentare cu enzime pancreatice",
+						"Suplimentare cu vitamine A, D, E si K",
+						"toate cele de mai sus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "17. Investigatiile de laborator din tusea convulsiva sunt reprezentate de urmatoarele:",
+					"answers": [
+						"testare PCR",
+						"Hemoleucograma: leucopenie marcata cu limfocitoza",
+						"Cultura din tractul respirator",
+						"Hemoleucograma: leucocitoza marcata cu limfocitoza",
+						"Cultura din tractul respirator nu este necesara diagnosticului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "18. Urmatoarele afirmatii referitoare la epiglotita sunt adevarate:",
+					"answers": [
+						"Frecvent intalnita la copiii cu varsta intre 2 si 7 ani",
+						"Copilul prezinta stridor discret, hipersalivatie, disfagie",
+						"Cultura din exudatul epiglotic poate identifica bacteria cauzatoare",
+						"Radiografia gatului arata epiglota de dimensiuni normale",
+						"Este necesara administrarea de antibiotice (ceftriaxona) timp de 7 pana la 10 zile."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "19. Tratamentul bronsiolitei include:",
+					"answers": [
+						"Umidifierea aerului",
+						"Glucocorticoizii sistemici sunt recomandati de rutina",
+						"Aspiratie nazala",
+						"Hidratare adecvata",
+						"Bronhodilatatoarele inhalatorii sunt indicate de rutina"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f465d60aa90011cc182c",
+					"text": "20. Sindromul aspiratiei de meconiu se caracterizeaza prin urmatoarele:",
+					"answers": [
+						"In timpul nasterii nou nascutul prezinta cianoza, tiraj intercostal",
+						"In timpul nasterii nou nascutul prezinta distensie toracica, tahipnee",
+						"Radiografia pulmonara evidentiaza zone de hiperinflatie, atelectazie sau pneumotorax",
+						"Hipertensiunea pulmonara poate aparea ca si complicatie",
+						"Toate cele de mai sus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "1. Factorii de risc pentru celulita sunt urmatorii:",
+					"answers": [
+						"Disfunctie venoasa",
+						"Diabet zaharat",
+						"Difunctie limfatica si arteriala",
+						"Consum intranazal de droguri",
+						"Sepsis"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "2. Urmatoarele afirmatii despre celulita sunt FALSE:",
+					"answers": [
+						"Zona afectata este edematiata, rece",
+						"Pacientul cu celulita prezinta frisoane",
+						"Pielea este dureroasa",
+						"Nu sunt prezente semne celsiene",
+						"Recurenta este de pana la 30%"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "3. Complicatiile celulitei cutanate sunt:",
+					"answers": [
+						"Septicemie",
+						"Emfizem subcutanat",
+						"Mialgii si frisoane",
+						"Disfunctie limfatica",
+						"Abces"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "4. Tratamentul pentru o celulita necomplicata, usoara NU presupune:",
+					"answers": [
+						"Cefalosporine orale",
+						"Linezolid",
+						"β-lactami rezistenți la penicilinază iv",
+						"Vancomicina iv",
+						"Dicloxacilin pentru cazurile severe"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "5. Urmatoarele afirmatii despre culturile bacteriene de la nivelul pielii in celulita, sunt ADEVARATE:",
+					"answers": [
+						"Rezultatele culturilor bacteriene pot contine flora normala sau rezultatele pot fi fals negative",
+						"Rezultatele culturilor bacteriene sunt rareori utile, deoarece contin flora patogena",
+						"Nu prezinta niciodata rezultate fals negative",
+						"Rareori utile",
+						"Si-au dovedit eficacitatea"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "6. Urmatoarele afirmatii despre abcesul cutanat, sunt ADEVARATE:",
+					"answers": [
+						"Cel mai frecvent agent patogen incriminat este SBHB",
+						"Foarte rar se evidentiaza MRSA",
+						"Poate aparea ca un carbuncul",
+						"Reprezintă ocluzia foliculară acuta și inflamația glandelor apocrine",
+						"Infecția cronică duce la cicatrizare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "7. Bacteriile anaerobe sunt mai frecvent o cauza a abceselor in urmatoarele regiuni:",
+					"answers": [
+						"Dorsala",
+						"Lombara",
+						"Faciala",
+						"Inghinala",
+						"Perineala"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "8. Ce modificari biologice sunt prezente in fasceita necrozanta?",
+					"answers": [
+						"Leucocitoza cu eozinofilie",
+						"Probe inflamatorii crescute",
+						"Hipernatremie",
+						"Hiponatremie",
+						"Cultura pozitiva"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "9. Urmatoarele manifestari clinice sunt prezente in fasceita necrozanta, CU EXCEPTIA:",
+					"answers": [
+						"Durere",
+						"Raluri crepitante",
+						"Febra",
+						"Hipopigmentare tegumentara",
+						"Pierderea sensibilităţii în ţesutul implicat"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "10. Urmatoarele afirmatii despre gangrene, sunt ADEVARATE:",
+					"answers": [
+						"Gangrena umeda este cauzata de o ocluzie vasculara cronica sau infectie",
+						"La RX sau CT se deceleaza emfizem subcutanat",
+						"Gangrena uscata se datoareaza unei insuficiente vasculare",
+						"Frecvent se poate decela pe culturi Clostridium perfringens",
+						"Se poate decela hipertensiune la examenul obiectiv"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "11. In care dintre urmatoarele infectii cutanate se poate observa Emfizemul subcutanat?",
+					"answers": [
+						"Celulita",
+						"Fasceita necrozanta",
+						"Gangrena umeda",
+						"Impetigo",
+						"Erizipel"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "12. Urmatoarele afirmatii despre impetigo sunt ADEVARATE: [197]",
+					"answers": [
+						"Apare mai frecvent la copii",
+						"Este cauzat cel mai frecvent de catre SBHA",
+						"Mupirocina este un tratament oral folosit pentru cazurile severe",
+						"Prezinta leziuni cu scuame grăsoase, galbene",
+						"Ivermectină orală se poate administra in puseu"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "13. Urmatoarele afirmatii despre acneea vulgara sunt ADEVARATE:",
+					"answers": [
+						"Creste în severitate de obicei odată cu sfârșitul adolescenței",
+						"S-a dovedit o asociere între acneea vulgară și anumite tipuri de alimente",
+						"Tulburările de formare a androgenilor sunt cauze frecvente ale puseelor la vârsta adultă",
+						"Femeile ar trebui să prezinte cel puțin trei teste de sarcină negative înainte de a se administra izotretinoin oral",
+						"Săpunurile au un efect redus asupra acneei vulgaris"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "14. Urmatoarele afirmatii despre acneea vulgara sunt ADEVARATE:",
+					"answers": [
+						"Estrogenii sunt incriminati in aparitia acesteia",
+						"Clinic, se prezinta ca pustule, papule sau noduli eritematoși, predominant localizați la nivelul regiunii fetei si la nivelul regiunii inghinale",
+						"Retinoizii sunt folositi ca tratament de prima linie",
+						"Peroxidul de benzoil aplicat topic are proprietăți antimicotice",
+						"Antibioticele sunt folosite ca terapia de linia a doua"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "15. Izotretinoinul:",
+					"answers": [
+						"Este terapia de linia a doua, adesea utilizată în asociere cu un tratament antibiotic",
+						"Este analog de vitamină A",
+						"Necesită o monitorizare atentă a constantelor biologice renale",
+						"Pentru femei este recomandată contracepția obligatorie și testarea lunară a hCG",
+						"Se administreaza in cazurile moderate de acnee vulgara"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "16. Virusul herpes simplex prezinta urmatoarele caracteristici, CU EXCEPTIA:",
+					"answers": [
+						"HSV-1 cauzează, în primul rând, afectare genitala",
+						"După infecția primară, materialul genetic viral rămâne cantonat la nivelul ganglionilor spinali",
+						"La pacienții imunosupresați poate duce la nefrita",
+						"Stresul va determina reactivarea bolii",
+						"HSV poate fi transmis prin contactul cu secreții genitale"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "17. Infectia cu virusul herpes simplex la pacienții imunosupresați, poate duce la:",
+					"answers": [
+						"Pneumothorax",
+						"Encefalita",
+						"Retinita",
+						"Pneumonita",
+						"Zona zoster"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "18. Despre infectia cu virusul varicelo-zosterian, urmatoarele afirmatii sunt ADEVARATE:",
+					"answers": [
+						"In varicela distributia este limitata la un singur dermatom",
+						"Infectia primara afecteaza mai mult copiii",
+						"In infectia primara, mialgiile si febra preced leziunile cu peste 7 zile",
+						"In infectia primara, leziunile sunt contagioase până în momentul când sunt acoperite cu crustă",
+						"Nu s-a dovedit transmiterea infectiei de la mama infectata la fătul nenăscut"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "19. Complicatiile Zonei Zoster sunt urmatoarele, CU EXCEPTIA:",
+					"answers": [
+						"Neuralgie postherpetică",
+						"Neuropatie trigeminală",
+						"Durere de lungă durată la nivelul erupției",
+						"Pneumonie variceloasă",
+						"Encefalopatie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "20. Urmatoarele afirmatii despre veruca vulgara sunt ADEVARATE:",
+					"answers": [
+						"Tratamentul topic consta in acid salicilic",
+						"Sunt intotdeauna elevate",
+						"Tipurile de HPV 1 și 33 cauzează verucile genitale si sunt asociate cu cancerul de col uterin",
+						"Prezintă sensibilitate ocazională la palpare",
+						"Sunt tumori epiteliale maligne determinate de infecţia locală cu unul dintre numeroasele tipuri de papilomavirus uman"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "21. Urmatoarele afirmatii despre infectia cu Molluscum Contagiosum sunt ADEVARATE:",
+					"answers": [
+						"Clinic, se pot observa macule eritematoase",
+						"Colorația Nielsen relevă corpi mari de incluziune",
+						"Diagnosticul se face adesea in functie de examenele paraclinice",
+						"Este o infecție cutanata virală observată cel mai frecvent la copii",
+						"Este data de un poxvirus"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "22. Urmatoarele afirmatii despre despre infecția cu sarcoptes scabiae sunt ADEVARATE:",
+					"answers": [
+						"pacienții acuză un prurit ușor",
+						"șanțul acarian este la distanță față de papule",
+						"crema cu permetrin poate fi folosită ca tratament",
+						"aglomerația este citată ca fiind factor de risc",
+						"o igiena riguroasă nu ajută la prevenția împotriva scabiei"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "23. Urmatoarele afirmatii despre Tinea versicolor, sunt ADEVARATE:",
+					"answers": [
+						"Se mai numeste si Pitiriazis versicolor",
+						"Agentul patogen este Malaessezia furfur",
+						"Maculele sunt de culoarea neagră",
+						"Sunt prezente și papule hipopigmentate",
+						"Leziunile se bronzează"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "24. Tinea corporis poate fi cauzată de:",
+					"answers": [
+						"Malaessezia furfur",
+						"Candida albicans",
+						"Microsporum",
+						"Trichophyton",
+						"Epidermophyton"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "25. Cauze frecvente ale dermatitei de contact alergice sunt reprezentate de contactul cu:",
+					"answers": [
+						"Crom",
+						"Cobalt",
+						"Săpunuri",
+						"Latex",
+						"Iederă otrăvitoare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "26. Eritemul multiform (polimorf):",
+					"answers": [
+						"Este o reacție de hipersensibilitate cutanată gravă",
+						"Clinic pot apărea macule, plăci sau vezicule",
+						"Bazofilele au o valoare crescută",
+						"Biopsia cutanată arată PMN uri în număr mare",
+						"Biopsia cutanată arată keratinocite necrozate"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "27. Cauze infecțioase incriminate frecvent în apariția eriemului mulitform (polimorf) sunt:",
+					"answers": [
+						"Stafilococcus aureus",
+						"Diverse specii de streptococ",
+						"HPV",
+						"HSV",
+						"Mycoplasma pneumoniae"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "28. Keratoza actinică:",
+					"answers": [
+						"este o tumoră benignă alcătuită din keratinocite imature, cu aspect hiperpigmentat",
+						"0,1% dintre carcinoamele scuamocelulare se dezvoltă din keratoze actinice",
+						"examenul clinic este suficient pentru a exclude un carcinom scuamocelular",
+						"ca tratament, se utilizează 5-fluorouracil topic/imiquimod sau crioterapie",
+						"biopsia relevă epiteliu displazic, cu celule profunde polimorfe și nuclei hipercromi"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "29. Alegeți afirmațiile corecte referitoare la porfiria cutanată tardivă:",
+					"answers": [
+						"se caracterizează prin leziuni buloase cronice, dureroase, la nivelul tegumentului expus la soare",
+						"clinic, apare piele hiperpigmentată",
+						"clinic, apare hipetricoză",
+						"hepatita B reprezintă un factor de risc",
+						"flebotomia periodică poate fi o metodă de tratament"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "30. Chirurgia reconstructivă:",
+					"answers": [
+						"poate fi folosită pentru repararea cheiloschizisului",
+						"lambourile musculare pot fi folosite pentru reconstrucția sânului",
+						"presupune utilizarea mai multor tipuri de țesuturi",
+						"este mai frecvent utilizată pentru modificarea aspectului fizic",
+						"presupune modificarea chirurgicală a aspectului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "31. La examinarea unui melanom, putem observa:",
+					"answers": [
+						"margini neregulate",
+						"culoare omogenă",
+						"creștere rapidă",
+						"simetrie",
+						"durere la atingere"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "32. Următoarele patologii sunt însoțite de prurit, cu excepția:",
+					"answers": [
+						"dermatita atopică (eczema)",
+						"molluscum contagiosum",
+						"psoriazisul",
+						"pitiriazisul rozat",
+						"pemfigoidul bulos"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "33. Despre melanom, putem afirma:",
+					"answers": [
+						"biopsia excizională evidențiază melanocite tipice și, uneori, invazie dermică",
+						"cel mai important factor de prognostic este reprezentat de grosimea tumorii",
+						"biopsia shave nu este indicată",
+						"dacă tumora are o grosime sub 2 mm, se practică excizie chirurgicală cu margine de siguranță de 1 cm",
+						"cel mai frecvent, metastazarea are loc în plămân și ovare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "34. Alegeți afirmațiile false cu privire la pemfigusul vulgar:",
+					"answers": [
+						"semn Nikolsky este pozitiv",
+						"semn Nikolsky este negativ",
+						"biopsia arată separarea celulelor epidermice (acantoliză)",
+						"tratamentul implică azatioprină",
+						"tratamentul implică hidroxicloroquină în doză mică"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "35. Porfiria cutanată tardivă se caracterizează prin, cu excepția:",
+					"answers": [
+						"porfirină plasmatică crescută",
+						"porfirină urinară scăzută",
+						"uroporfirinogen-decarboxilază hepatică crescută",
+						"ALT crescut",
+						"porfirină urinară crescută"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "36. Despre tratamentul dermatitei atopice, sunt adevărate următoarele, cu excepția:",
+					"answers": [
+						"se evită factorii agravanți",
+						"în cazul formelor ușoare, se utilizează corticosteroizi orali și antihistaminice",
+						"în cazul formelor severe, se utilizează fototerapia, metotrexat, ciclosporina",
+						"în cazul formelor ușoare, se utilizează corticosteroizi topici și emoliente",
+						"se recomandă folosirea iodurii de potasiu"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "37. Următoarele afirmații despre dermatita seboreică sunt adevărate:",
+					"answers": [
+						"este cel mai frecvent întâlnită la adolescenţi şi sugari, asociat cu Malassezia",
+						"se caracterizează printr-o proliferare scăzută a epidermului",
+						"seleniul și ketoconazolul sunt adesea folosite în tratamentul dermatitei seboreice de la nivelul scalpului",
+						"se caracterizează prin prezența de vezicule și bule pe fond eritematos",
+						"puseele de dermatită seboreică sunt rare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "38. Alegeți afirmațiile adevărate referitoare la eritemul polimorf:",
+					"answers": [
+						"reprezintă o patologie buloasă a pielii",
+						"este determinat de virusul Herpes simplex și Mycoplasma pneumoniae",
+						"în cazul investigațiilor de laborator, întâlnim eozinofilie",
+						"biopsia evidențiază multe limfocite și keratinocite necrotice",
+						"biopsia evidențiază multe leucocite și keratinocite necrotice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "39. Următoarele afirmații despre grefe și lambouri sunt adevărate, cu excepția:",
+					"answers": [
+						"lamboul muscular are ca locuri donatoare uzuale tensorul fasciei lata, muschii gluteali, sartorius, dreptii abdominali, marele dorsal",
+						"grefa compozită este indicată în defecte mari care necesită acoperire cu țesut bine vascularizat",
+						"grefa split skin necesită supliment de grefă de piele",
+						"autogrefele reprezintă țesut transplantat de la același pacient",
+						"lamboul fascio-cutanat are ca locuri donatoare uzuale fruntea, zona inghinală, zona deltopectorală, coapse"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "62f0f42cd60aa90011cc141d",
+					"text": "40. Despre acneea vulgară este adevărat, cu excepția:",
+					"answers": [
+						"severitatea acneei scade la sfârșitul adolescenței",
+						"utilizarea corticosteroizilor, Propionibacterium acnes și obstrucția foliculară sunt adesea asociate cu apariția acneei",
+						"isotretinoinul oral are risc de hepatotoxicitate",
+						"retinoizii topici se folosesc ca unic tratament de linia II-a",
+						"acneea poate determina cicatrici permanente"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "1. Incidența maximă a litiazei urinare, se afla in grupa de vârstă:",
+					"answers": [
+						"18-25 ani;",
+						"30-50 ani;",
+						"60-80 ani;",
+						"20-70 ani;",
+						"10-15 ani."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "2. Litiaza fosfato-amoniaco-magneziană implică un istoric de:",
+					"answers": [
+						"tumori;",
+						"infecții urinare recurente;",
+						"boli metabolice;",
+						"cardiopatii ischemice;",
+						"accidente vasculare ischemice."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "3. Compoziția minerală predominantă in litiaza urinară, este:",
+					"answers": [
+						"Oxalatul de calciu;",
+						"Cistina;",
+						"Uratul;",
+						"Toate răspunsurile sunt corecte;",
+						"Toate răspunsurile sunt greșite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "4. Calculii care ocupă intreg sistemul colector, se numesc:",
+					"answers": [
+						"calculi joncționali;",
+						"calculi vezicali;",
+						"calculi coraliformi;",
+						"calculi pielici;",
+						"toate răspunsurile sunt corecte."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "5. Situaţiile selective de litiază ureterală pot fi gestionate prin:",
+					"answers": [
+						"ESWL(Litotriție extracorporeală cu unde de șoc)",
+						"NLP (Nefrolitotomie percutanată);",
+						"chirurgie deschisă;",
+						"Ureteroscopie;",
+						"Toate răspunsurile sunt greșite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "6. Tratamentul litiazei urinare, depinde de:",
+					"answers": [
+						"mărimea calculului;",
+						"localizarea calculului;",
+						"compoziția calculului;",
+						"toate răspunsurile sunt corecte;",
+						"toate răspunsurile sunt greșite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "7. Tratamentul in pielonefrita obstructivă, trebuie sa includă:",
+					"answers": [
+						"dezobstrucția rinichiului afectat;",
+						"montare de urgență a unui stent ureteral intern (plasat cistoscopic);",
+						"chirurgie deschisă de prima intenție;",
+						"toate răspunsurile sunt corecte;",
+						"sunt corecte doar variantele a si c."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "8. Calculii ureterali mai mari de 5mm, se pot rezolva chirurgical prin:",
+					"answers": [
+						"chirurgie deschisă de prima intenție;",
+						"ureteroscopie flexibilă sau rigidă;",
+						"ESWL(litotriție extracorporeală cu unde de soc);",
+						"toate răspunsurile sunt corecte;",
+						"toate răspunsurile sunt gresite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "9. Factorii de risc ce duc la depunerea calciului in calculi, sunt:",
+					"answers": [
+						"tulburările metabolice;",
+						"cistinuria;",
+						"imobilizarea prelungită;",
+						"hiperuricozuria;",
+						"deshidratarea."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "10. Pentru măsurarea calciului si a concentrației electroliților in evaluarea metabolică pentru litiaza renală, se dozează:",
+					"answers": [
+						"valorile serice ale calciului;",
+						"hormonul paratiroidian;",
+						"pH-ul urinar;",
+						"colectarea urinii pe 24 ore;",
+						"toate răspunsurile sunt gresite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "11. Pacienții cu litiază obstructivă, se prezinta in camera de gardă, cu urmatoarele semne și simptome:",
+					"answers": [
+						"durere in flanc;",
+						"febră și frison;",
+						"hipertensiune arterială;",
+						"insuficiență cardiacă;",
+						"toate răspunsurile sunt corecte."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "12. Tratamentul calculilor de acid uric, constă in:",
+					"answers": [
+						"chimioterapie sistemică;",
+						"alcalinizare urinară;",
+						"aport crescut de lichide;",
+						"intervenție chirurgicală de primă intenție;",
+						"toate răspunsurile sunt corecte."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "13. Gestionarea și tratamentul chirurgical pentru calculii din sistemul colector, este realizată prin:",
+					"answers": [
+						"Litotriție cu unda de șoc extracorporeală;",
+						"intervenție chirurgicală percutanată,in special pentru litiaza multiplă;",
+						"creșterea aportului de proteine;",
+						"toate răspunsurile sunt corecte;",
+						"toate răspunsurile sunt greșite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "14. Factorii de risc pentru calculii de acid uric, includ:",
+					"answers": [
+						"aport alimentar ridicat in purine;",
+						"acidoza tubulară;",
+						"antecedente de guta;",
+						"hiperparatiroidism;",
+						"hiperuricozurie."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "15. Cistinuria reprezintă o tulburare metabolică mostenintă, ce afectează reabsorbția renală, a:",
+					"answers": [
+						"cisteinei, ornitinei;",
+						"testosteron, parathormon;",
+						"lizină, arginină;",
+						"toate răspunsurile sunt corecte;",
+						"toate răspunsurile sunt greșite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "16. Factori de risc pentru calculii de struvit (fosfat amoniaco-magnezian), sunt:",
+					"answers": [
+						"hiperparatiroidism;",
+						"cistinuria;",
+						"infecții cronice de tract urinar;",
+						"pacienți cu catetere permanente;",
+						"toate răspunsurile sunt corecte."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "17. Colica renală este insoțită de:",
+					"answers": [
+						"greață;",
+						"tulburări de memorie;",
+						"impotență funcțională a membrelor;",
+						"vărsături;",
+						"iradiere către organele genitale externe."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "18. Evaluarea imagistică a litiazei obstructive in urgență, este reprezentată de:",
+					"answers": [
+						"Computer tomografie (CT);",
+						"echografie renală;",
+						"IRM (imagistică prin rezonanță magnetică);",
+						"toate răspunsurile sunt corecte;",
+						"toate răspunsurile sunt greșite."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "19. Hidronefroza rezultă prin:",
+					"answers": [
+						"obstrucția joncțiunii pielo-ureterale;",
+						"obstrucția colonului sigmoid;",
+						"litiaza biliară;",
+						"obstrucția ureterului;",
+						"toate răspunsurile sunt corecte."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f3e9d60aa90011cc0ef5",
+					"text": "20. Pielonefrita obstructivă determină:",
+					"answers": [
+						"acumularea de „puroi sub presiune”;",
+						"dureri in flanc;",
+						"febră;",
+						"infecție urinară;",
+						"ocluzie intestinală."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "1. Despre fracturile deschise sunt adevarate urmatoarele afirmatii:",
+					"answers": [
+						"Exista o lezare a tegumentului care inconjoara fractura",
+						"Exista o lezare a mucoasei care inconjoara fractura",
+						"Sunt fracturi potential contaminate",
+						"Tegumentele sau mucoasele supraiacente sunt intacte",
+						"Necesita tratament de urgenta pentru a preveni infectia"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "2. Care sunt factorii care influenteaza deplasarea unei fracturi ?",
+					"answers": [
+						"Presiunea atmosferica",
+						"Forta unui traumatism",
+						"Gravitatia",
+						"Tractiunea musculara",
+						"Alimentatia"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "3. O evaluare radiologica completa cuprinde:",
+					"answers": [
+						"Stitching de membre inferioare",
+						"Stitching de coloana vertebrala",
+						"Trebuie realizate doua radiografii ale membrului, in unghi drept una fata de cealalta",
+						"O singura incidenta este suficienta",
+						"Trebuie vizualizata articulatia proximala si cea distala fata de focarul de fractura"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "4. Care sunt proprietatile unei atele gipsate?",
+					"answers": [
+						"Previne miscarea in focarul de fractura",
+						"Reduce afectarea suplimentara a tesuturilor moi din jur",
+						"Articulatiile nu trebuie imobilizate niciodata",
+						"Scade durerea generata de traumatism",
+						"Nu trebuie sa depaseasca articulatia de deasupra focarului de fractura"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "5. Care sunt situatiile in care se practica reducerea deschisa a unei fracturi?",
+					"answers": [
+						"La cererea pacientului",
+						"Cand fractura este fara deplasare",
+						"Cand esueaza metodele de reducere inchisa",
+						"In fracturile cu traiect intraarticular",
+						"Daca au trecut mai putin de 24 de ore de la producerea fracturii"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "6. Care sunt indicatiile pentru fixarea interna a unei fracturi ?",
+					"answers": [
+						"Fractura fara deplasare",
+						"Fractura pe os patologic",
+						"Fractura in lemn verde",
+						"Reducerea anatomica a fracturilor intraarticulare",
+						"Esecul metodelor non-operatorii de reducere"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "7. Care sunt indicatiile pentru fixarea externa a unei fracturi ?",
+					"answers": [
+						"Fracturile fara deplasare",
+						"Fracturile infectate",
+						"Fracturile pelvine instabile",
+						"Fracturile deschise, instabile",
+						"Fracturi cominutive severe sau instabile la care nu se poate practica fixarea interna"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "8. Sindromul de compartiment poate aparea secundar urmatoarelor traumatisme:",
+					"answers": [
+						"Fracturi de col femural",
+						"Contuzii musculare severe",
+						"Fracturi deschise de falange",
+						"Sindromul de strivire",
+						"Leziuni vasculare ocluzive acute, urmate de revascularizare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "9. Semnele clasice ale sindromului de compartiment produs prin ischemie sunt:",
+					"answers": [
+						"Durere",
+						"Parestezie",
+						"Paralizie",
+						"Paloare",
+						"Echimoza"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "10. Tratamentul conservator al fasceitei plantare include:",
+					"answers": [
+						"Repaus",
+						"Medicatie",
+						"Scadere ponderala",
+						"Incaltaminte adecvata",
+						"Interventie chirurgicala"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "11. Pentru reconstructia LIA, sunt folosite autogrefe:",
+					"answers": [
+						"Tendon patelar",
+						"Fascia lata",
+						"Tendoanele semitendinos si gracilis",
+						"Tendonul bicepsului femural",
+						"Tendonul scurtului peronier"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "12. Cel mai mare grad de vulnerabilitate la osteonecroza il au:",
+					"answers": [
+						"Talusul",
+						"Humerusul",
+						"Scafoidul carpian",
+						"Peroneul",
+						"Capul femural"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "13. Luxatia posterioara a umarului poate apareacel mai frecvent ca si consecinta a:",
+					"answers": [
+						"Crizei de epilepsie",
+						"Sevrajului alcoolic",
+						"Solurilor electrice",
+						"Lovirii de un corp dur",
+						"Accidentelor rutiere"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "14. La pacientii tineri, fracturile de femur apar ca si consecinta a:",
+					"answers": [
+						"Accidentelor rutiere",
+						"Caderilor de la inaltime",
+						"Caderilor de la acelasi nivel",
+						"Lovirilor de corpuri dure",
+						"Alunecarilor pe gheata"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "15. Cele doua obiective ale chirurgiei de urgenta in fracturile de bazin sunt:",
+					"answers": [
+						"Mobilizarea precoce",
+						"Preventia escarelor de decubit",
+						"Controlul hemoragiei",
+						"Recuperarea pulmonara",
+						"Previne calusul vicios"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "16. Carui factor se datoreaza deplasarea fracturii de olecran ?",
+					"answers": [
+						"Contractiei muschiului triceps brahial",
+						"Contractiei musculaturii antebratului",
+						"Contractiei muschiului biceps brahial",
+						"Contractiei muschiului anconeu",
+						"Contractiei muschiului deltoid"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "17. Care este cea mai fecventa categorie de pacienti la care apare fractura de sold in urma unui traumatism cu energie minima ?",
+					"answers": [
+						"Pacientii sub 35 de ani",
+						"Pacientii varstnici",
+						"Copiii sub 16 ani",
+						"Sportivii",
+						"Pacienti care practica effort fizic sustinut"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "18. Care este considerat tratamentul ideal pentru fracturile deschise de glezna ?",
+					"answers": [
+						"Imobilizarea in atela gipsata gambiero-podala",
+						"Imobilizarea in atela gipsata femuro-podala",
+						"Reducerea anatomica deschisa si fixarea interna",
+						"Reducerea inchisa si fixarea externa",
+						"Aparat gipsat gambiero-podal"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "19. In tendinita coafei rotatorilor, cel mai frecvent afectat este:",
+					"answers": [
+						"Muschiul subscapular",
+						"Muschiul rotund mic",
+						"Muschiul supraspinos",
+						"Muschiul infraspinos",
+						"Muschiul trapez"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f394d60aa90011cc0893",
+					"text": "20. Care dintre urmatoarele leziuni meniscale sunt intalnite la pacientii mai in varsta ?",
+					"answers": [
+						"Leziuni “in toarta de cos”",
+						"Leziuni longitudinale",
+						"Leziuni orizontale",
+						"Dezinsertii de corn posterior",
+						"Leziune radiala"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "1. Cât la suta din fluxul sanguin hepatic este asigurat de artera hepatica?",
+					"answers": [
+						"35%",
+						"15%",
+						"20%",
+						"25%",
+						"30%"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "2. În cate zile hepatocitul poate regenera întreagă masa celulara hepatica?",
+					"answers": [
+						"40 zile",
+						"50 zile",
+						"60 zile",
+						"90 zile",
+						"100 zile"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "3. Notați afirmațiile adevărate despre hemangiomul hepatic:",
+					"answers": [
+						"este gigant daca este mai mare de 8 cm",
+						"este cea mai frecventa tumora hepatica benigna",
+						"este de 3 ori mai frecvent la femei",
+						"probabil reprezintă o leziune congenitala",
+						"își mărește dimensiunile în timpul sarcinii"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "4. Notați afirmațiile adevărate despre adenomul hepatic:",
+					"answers": [
+						"este frecvent întâlnit la bărbați intre 30 și 50 de ani",
+						"este frecvent întâlnit la femei intre 50 și 70 de ani",
+						"apare la paciente cu istoric de expunere la estrogeni",
+						"sunt leziuni solitare, neincapsulate",
+						"complicațiile apar mai frecvent la tumori mai mari de 5 cm"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "5. Notați afirmațiile adevărate despre carcinomul hepato-celular (CHC):",
+					"answers": [
+						"CHC reprezintă 70-80% din tumorile maligne primare hepatice",
+						"în proporție de 90% apar la pacienții cu boala hepatica cronica",
+						"are incidenta crescuta în regiunile endemice cu virus hepatic B",
+						"trebuie suspectat la orice pacient cu ciroza și decompensare clinica brusca",
+						"alfa-fetoproteina este crescuta la 50-70% din pacienții cu CHC"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "6. Care sunt complicațiile hipertensiunii portale?",
+					"answers": [
+						"encefalopatia hepatica",
+						"sindromul hepato-renal",
+						"sindromul hepato-pulmonar",
+						"peritonita bacteriana secundara",
+						"hidrotoracele"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "7. Care sunt cauze hepatice de hipertensiune portala?",
+					"answers": [
+						"colangită sclerozanta primara",
+						"ciroza biliara primitiva",
+						"sindromul Budd-Chiari",
+						"distrofia grasoasa hepatica",
+						"tromboza venei porte"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "8. La ce valoare a gradientului presional portosistemic apare hemoragia variceala?",
+					"answers": [
+						"5 mmHg",
+						"10 mmHg",
+						"10-12 mmHg",
+						"12 mmHg",
+						"&gt; 12 mmHg"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "9. Notați afirmațiile adevărate despre terapia endoscopica în hemoragiile variceale:",
+					"answers": [
+						"este reprezentata de scleroterapie",
+						"trebuie aplicata în primele 24 de ore de la prezentare",
+						"este eficace la ~ 70% din cazuri",
+						"este reprezentata de ligatura cu benzi elastice",
+						"este eficace la ~ 80% din cazuri"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "10. Ce complicații determina utilizarea sondei Sengstaken-Blackmore în tratamentul varicelor?",
+					"answers": [
+						"ulcerație esofagiana",
+						"necroza esofagiana",
+						"disfagie",
+						"ruptura esofagiana",
+						"obstrucția cailor aeriele"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "11. Stadiul B din clasificarea Child-Pugh are un scor total de:",
+					"answers": [
+						"4-5",
+						"5-6",
+						"6-7",
+						"7-9",
+						"&gt;9"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "12. La ce cantitate de ascită sunt prezente semnele clinice?",
+					"answers": [
+						"500 ml",
+						"1000 ml",
+						"1200 ml",
+						"1400 ml",
+						"&gt; 1500ml"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "13. Ce factori sunt precipitanți ai encefalopatiei hepatice?",
+					"answers": [
+						"șunturile porto-sistemice",
+						"constipația",
+						"deshidratarea",
+						"hemoragia digestivă",
+						"diareea"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "14. Care sunt contraindicații absolute ale transplantului hepatic?",
+					"answers": [
+						"insuficiența hepatică fulminantă",
+						"abuzul de alcool",
+						"encefalopatia",
+						"neoplazii extrahepatice",
+						"sepsis necontrolat"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "15. Notați afirmațiile adevărate despre insuficienta hepatica fulminanta:",
+					"answers": [
+						"apare în intoxicații cu ciuperci sălbatice",
+						"este determinata de administrare de acetaminofen",
+						"disfuncția hepatica apare la 4-8 săptămâni",
+						"disfuncția hepatica apare la 8-12 săptămâni",
+						"în evoluție apare malnutriția și hipertensiunea portala"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "16. Funcțiile splinei sunt:",
+					"answers": [
+						"imunonodulare",
+						"sinteza protica",
+						"hematopoieza",
+						"filtrarea sângelui",
+						"reglarea metabolismului lipidic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "17. Splenectomia este indicată în:",
+					"answers": [
+						"anevrism de arteră splenică",
+						"sindromul Budd-Chiari",
+						"hipersplenism asociat cu alte patologii",
+						"sferocitoză ereditară",
+						"eliptocitoză ereditară"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "18. Splenomegalia moderată poate apare în:",
+					"answers": [
+						"ciroza hepatică",
+						"scorbut",
+						"amiloidoză",
+						"leucemia mielocitară cronică",
+						"mononucleoza infecțioasă"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "19. Ce patologii pot fi asociate cu hipersplenism ?",
+					"answers": [
+						"amiloidoză",
+						"tromboza de vena splenică",
+						"hipertensiune portala",
+						"mononucleoza infecțioasă",
+						"sarcoidoză"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f329d60aa90011cc0071",
+					"text": "20. Ce complicații pot apare după splenectomie?",
+					"answers": [
+						"pancreatita acută",
+						"atelectazie pulmonară stangă",
+						"insuficiență hepatică acută",
+						"pseudochist pancreatic",
+						"abces subfrenic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "1. În ceea ce privește anatomia pancreasului, următoarele afirmații sunt adevărate:",
+					"answers": [
+						"Este un organ mixt, parenchimatos și cavitar",
+						"Pancreasul este situat în cavitatea peritoneală",
+						"Este împărțit în patru părți distincte: cap, istm, corp și coadă",
+						"Este un organ retroperitoneal",
+						"Vena mezenterică superioară marchează joncțiunea dintre capul s istmul glandei"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "2. Funcția endocrină pancreatică este asigurată de:",
+					"answers": [
+						"Celulele capului pancreatic",
+						"Insulele Langerhans de la nivelul procesului uncinat",
+						"Hormoni peptidici neactivați",
+						"Insulele Langerhans situate la nivelul cozii pancreatice",
+						"Numai de glucagon"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "3. Pancreatita acută apare prin:",
+					"answers": [
+						"Lezarea celulelor acinare",
+						"Distrucția țesutului pancreatic și peripancreatic",
+						"Modificări histologice care pot varia de la edem interstițial pana la necroză",
+						"Impregnare neoplazică",
+						"Mecanisme preponderent bazate pe factori genetici"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "4. Clasificarea Atlanta definește pancreatita acută ca:",
+					"answers": [
+						"Un proces cronic acutizat",
+						"Un proces inflamator acut al pancreasului cu implicarea variabilă a țesuturilor regionale",
+						"Un proces de inflamație pancreatica cu origine bacteriană",
+						"Un proces neoplazic benign",
+						"Un proces degenerativ sau toxic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "5. Diagnosticul de pancreatită acută este cert atunci când se îndeplinesc două din următoarele criterii:",
+					"answers": [
+						"Prezența semnelor și simptomelor care sunt în concordanță cu diagnosticul",
+						"Amilazele sau lipazele prezintă valori crescute",
+						"Examenul CT fără modificări tipice",
+						"Hiperecogenitate peripancreatică la examinarea ecografică",
+						"Leucocitoză cu subfebrilitate"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "6. Complicațiile locale peripancreatice ale pancreatitei acute sunt:",
+					"answers": [
+						"Colecțiile fluide acute",
+						"Necroza splenica ca urmare a implicării arterei splenice în procesul inflamator",
+						"Necroza pancreatica",
+						"Necroza duodenală extinsă",
+						"Abcesul pancreatic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "7. Pancreatita acută este determinată în proporție de 85% de:",
+					"answers": [
+						"Litiaza căii biliare principale",
+						"Consumul de tutun",
+						"Consumul de alcool",
+						"Procese infecțioase",
+						"Calculi biliari"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "8. Cauzele mecanice ale pancreatitei acute includ:",
+					"answers": [
+						"Procese infecțioase multi-drog rezistente",
+						"Calculi biliari",
+						"Tumori de vecinătate",
+						"Boli parazitare",
+						"Calculi renali"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "9. Tabloul clinic al pancreatitei acute este reprezentat de:",
+					"answers": [
+						"Durere severă, constantă, necolicativă",
+						"Icter",
+						"Grețuri și vărsături",
+						"Ileus și distensie abdominală",
+						"Adenopatie supraclaviculară stângă"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "10. Factorii etiologici ai pancreatitei acute pot fi:",
+					"answers": [
+						"Metabolici",
+						"Mecanici",
+						"Postoperatori sau traumatici",
+						"Idiopatici",
+						"Neolplazici"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "11. Criteriile Ranson de prognostic pentru complicații majore sau deces sunt:",
+					"answers": [
+						"Sexul feminin",
+						"Concentrația hemoglobinei",
+						"Vârsta",
+						"Numărul de leucocite",
+						"LDH-ul"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "12. Complicațiile sistemice asociate pancreatitei severe sunt:",
+					"answers": [
+						"Șoc",
+						"Insuficiență respiratorie",
+						"Hemoptizie",
+						"Encefalopatie",
+						"Tulburări metabolice severe"
+					]
+				},
+				{
+					"pages": [
+						268
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "13. Tumorile maligne pancreatice sunt reprezentate de: [268]",
+					"answers": [
+						"Adenom mucinos",
+						"Adenocarcinom",
+						"Limfom",
+						"Chistadenom mucinos",
+						"Chistadenom seros"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "14. Tumorile pancreatice neuroendocrine maligne sunt:",
+					"answers": [
+						"Gastrinoame",
+						"Glucagonoame",
+						"Somatostatinoame",
+						"Insulinoame",
+						"Hamartoame"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "15. Confirmarea diagnosticului de insulinom se face prin:",
+					"answers": [
+						"IRM de abdomen și pelvis",
+						"Ecografie Doppler si test de rezistență la insulină",
+						"Monitorizare 72h si CT abdominal",
+						"Scintigrafie",
+						"Triada Whipple"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "16. Semnele și simptomele carcinomului pancreatic sunt:",
+					"answers": [
+						"Icter",
+						"Semnul Courvoisier",
+						"Durere constantă",
+						"semne biochimice de citoliză și colestază",
+						"Nivel seric de presepsină crescut"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "17. Tabloul clinic al pancreatitei cronice conține:",
+					"answers": [
+						"Icter sclero-tegumentar",
+						"Durere intensă șocogenă",
+						"Durere cronică",
+						"Sindrom emetic persistent",
+						"Hematemeză"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "18. Factorii de risc implicați in apariția adenocarcinomului sunt:",
+					"answers": [
+						"Sexul masculin",
+						"Boala polichistică renală",
+						"Fumatul",
+						"Vârsta înaintată",
+						"Boala de reflux gastro-esofagiană"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "19. In cazul unei tumori cefolo-pancreatice rezecabile, intervenția chirurgicală de elecție poate fi:",
+					"answers": [
+						"Pean-Billroth",
+						"Milles",
+						"Whipple",
+						"Dixon",
+						"Reybard"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f301d60aa90011cbfdc1",
+					"text": "20. Diagnosticul diferențial al pancreatitei acute include urătoarele patologii, cu excepția:",
+					"answers": [
+						"Colecistita acută",
+						"Ulcerul peptic perforat",
+						"Ischemia acută mezenterică",
+						"Edemul pulmonar",
+						"Infarctul miocardic"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "1. Adevărat despre embriologia arborelui biliar:",
+					"answers": [
+						"Arborele biliar îşi are originea la nivelul unui diverticul al proenteronului;",
+						"Din diverticulul proenteronului iau naştere are 4 muguri;",
+						"Din diverticulul proenteronului iau naştere ficatul, pancreasul ventral şi vezicula biliară;",
+						"Vezicula biliară se localizează în hipocondrul stâng sub diviziunea lobilor drept şi stâng ai ficatului;",
+						"Cu excepţia suprafeţei ataşate în patul hepatic, vezicula biliară este acoperită de peritoneu;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "2. Anatomia arborelui biliar:",
+					"answers": [
+						"Canalele hepatice drept şi stâng se unesc şi formează calea biliară principală;",
+						"Canalul cistic prezintă în interior valvele spiralate a lui Heister;",
+						"În ligamentul hepatoduodenal, CBP se găseşte la dreapta, artera hepatică proprie la stânga, iar vena portă în posterior;",
+						"Artera hepatică proprie este situată în triunghiul Callot;",
+						"CBP după ce se uneşte cu ductul pancreatic se deschide în prima porţiune a duodenului prin ampula Vater;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "3. FALS despre litiaza biliară:",
+					"answers": [
+						"Incidenţa calculilor biliari creşte cu vârsta;",
+						"Femeile sunt de circa 3 ori mai frecvent afectate decât bărbaţii;",
+						"Litiaza biliară nu tinde la agregare familială;",
+						"Formarea de calculi poate fi prevenită prin dietă săracă în fibre, consum de alimente cu conţinut în acizi graşi saturaţi;",
+						"Calculii micşti reprezintă circa 25 % dintre toate tipurile de calculi;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "4. Despre examenul clinic în litiaza biliară:",
+					"answers": [
+						"Dacă pacientul este icteric, anamneza poate să sugereze o afecţiune hepatocelulară, un obstacol mecanic sau o neoplazie subiacentă;",
+						"Elementul central al afecţiunii biliare este durerea;",
+						"În colica biliară, durerea este constantă, destul de severă, localizată în hipocondrul drept;",
+						"Iradierea durerii în colica biliară este frecventă în umărul stâng;",
+						"Durerea tinde să apară a jeun;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "5. Colecistita acută NU prezintă:",
+					"answers": [
+						"Durerea se menţine peste 3-4 ore şi poate continua pe parcursul a câteva zile",
+						"Poate fi însoţită de greaţă, vărsături şi febră;",
+						"În formele severe poate prezenta manifestări sistemice febră, tahicardie şi chiar instabilitate hemodinamică;",
+						"Durerea surdă, vagă în abdomenul superior sugerează un obstacol pe căile biliare extrahepatice;",
+						"Pruritul apare la concentraţii tisulare scăzute de acizi biliari neconjugaţi;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "6. Examinarea clinică în litiaza biliară:",
+					"answers": [
+						"Pulsul poate fi ridicat secundar durerii, inflamaţiei sau infecţiei;",
+						"Semnul Murphy este pozitiv în colecistita acută;",
+						"Semnul Murphy reprezintă continuarea respiraţiei la palparea profundă în hipocondrul drept;",
+						"Semnul Courvoisier reprezintă prezenţa veziculei biliare în hipocondrul drept dar fără sensibilitate la palpare, împreună cu icter sclero-tegumentar;",
+						"Iradierea durerii în colica biliară este frecvent în umărul stâng;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "7. Investigaţii paraclinice în litiaza veziculară:",
+					"answers": [
+						"Testele funcţiei hepatice furnizează informaţii despre procesul patologic cauzator;",
+						"Fosfataza alcalină serică creşte mai frecvent în colestaze induse medicamentos decât în cele obstructive;",
+						"Nivelul seric al bilirubinei conjugate (directe) creşte în bolile hemolitice;",
+						"Nivelul seric al bilirubinei neconjugate (indirecte) este crescută în prezenţa unui obstacol pe căile biliare extrahepatice;",
+						"Creşterea concomitentă a gama-glutamil transferazei (GGT) si a fosfatazei alcaline indică ca sursă a creşterii calea biliară;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "8. FALS despre analizele de laborator în colelitiază:",
+					"answers": [
+						"Hemoglobina sau hematocritul pot fi crescute dacă pacientul este deshidratat;",
+						"Hiperleucocitoza cu devierea la stânga a formulei leucocitare sugerează inflamaţie acută şi infecţie;",
+						"În icterele obstructive bilirubina conjugată este excretată în urină;",
+						"În caz de un obstacol incomplet, bilirubina serică creşte şi fosfataza alcalină rămâne normală;",
+						"Nivelurile serice ale AST şi ALT sunt normale în diferite tipuri de hepatite;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "9. Adevărat despre diagnosticul colelitiazei:",
+					"answers": [
+						"Imagistica nu este utilă în diagnosticul definitiv al afecţiunii biliare;",
+						"Examenele imagistice sunt utile într-o varietate de intervenţii terapeutice;",
+						"Explorarea iniţială de elecţie în caz de afecţiuni biliare este colecistografia;",
+						"Ecografia este mai puţin utilă în evidenţierea calculilor de la nivelul căilor biliare;",
+						"Calculii veziculari sunt vizibili frecvent pe radiografia abdominală simplă (90%);"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "10. Examinarea imagistică a litiazei biliare:",
+					"answers": [
+						"Tomografia computerizată reprezintă investigaţia de elecţie;",
+						"Ecografia poate detecta cu succes calculi cu diametrul de până la 3 mm;",
+						"Radiografia abdominală poate detecta aer în calea biliară ca urmare a unei soluţii de continuitate între tractul biliar şi cel gastro-intestinal;",
+						"Colangio-pancreatografia prin rezonanţă magnetică (MRCP) este utilă în demonstrarea prezenţei calculilor la nivelul căii biliare principale;",
+						"ERCP – colangiopancreatografia endoscopică retrogradă are ca avantaj faţă de MRCP că nu este invazivă şi nu implică utilizarea radiaţiilor;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "11. Tratamentul litiazei veziculare:",
+					"answers": [
+						"Majoritatea pacienţilor cu litiază veziculară rămân asimptomatici;",
+						"Două treimi nu vor dezvolta complicaţii timp de 20 de ani;",
+						"Colecistectomia profilactică la adulţi este indicată deoarece simptomele complicaţiilor apar tardiv;",
+						"La pacienţii cu colici biliare repetate nu creşte riscul de complicaţii;",
+						"Colecistectomia pentru litiaza veziculară asimptomatică este justificată de riscul crescut de carcinom al colecistului;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "12. Evoluţia colecistitei acute:",
+					"answers": [
+						"Patogenia implică existenţa obstrucţiei persistente a canalului cistic, asociat cu inflamaţie şi infecţie;",
+						"Inflamaţia nu depăşeşte peritoneul visceral ce acoperă colecistul;",
+						"Progresia procesului infecţios duce la complicaţii ca empiemul, gangrena şi perforaţia colecistului;",
+						"Durerea este deobicei inconstantă, cu localizare variabilă în etajul superior şi fără iradiere;",
+						"Dacă boala evoluează către perforaţie poate fi întâlnită peritonita generalizată;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "13. Diagnosticul diferenţial al colecistitei acute se poate face cu:",
+					"answers": [
+						"Abcesul splenic;",
+						"Hepatita acută;",
+						"Esofagita de reflux;",
+						"Ulcerul perforat;",
+						"Apendicita acută;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "14. FALS despre diagnosticul colecistitei acute:",
+					"answers": [
+						"Ocazional pacientul va prezenta o creştere discretă a amilazei serice;",
+						"Ecografia este foarte utilă în diagnosticul definitiv;",
+						"Pereţii sub 3 mm este semnul ecografic specific pentru colecistita acută;",
+						"Ecografia nu aduce informaţii suplimentare despre pancreas şi ductele biliare intrahepatice;",
+						"Dacă există suspiciune de perforaţie intestinală trebuie efectuate o radiografie abdominală simplă şi una toracică;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "15. Forme evolutive anatomoclinice ale colecistitei acute:",
+					"answers": [
+						"Ileus biliar;",
+						"Litiază coledociana primară;",
+						"Colecistită acută gangrenoasă;",
+						"Colecistită acută flegmonoasă;",
+						"Colecistită acută edematoasă;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "16. FALS despre colecistita cronică:",
+					"answers": [
+						"Colica biliară este cel mai frecvent simptom asociat colecistitei cronice litiazice;",
+						"Diagnosticul diferenţial se face cu refluxul gastro-esofagian, obstrucţia ureterală şi angina pectorală;",
+						"Ultrasonografia este investigaţia de elecţie pentru confirmarea calculilor biliari;",
+						"Tratamentul non-chirurgical este frecvent utilizat datorită ineficienţei colecistectomiei;",
+						"Tratamentul chirurgical standard este reprezentat de colecistectomia laparoscopică;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "17. Tabloul clinic al colangitei implică:",
+					"answers": [
+						"Icterul este un semn inconstant;",
+						"Colangita se instalează în prezenţa infecţiei concomitente, deobicei E. Coli sau K. Pneumoniae;",
+						"Colangita acută supurativă nu dezvoltă şoc septic;",
+						"Triada Charcot este specifică colecistitei cronice;",
+						"Deobicei apare sensibilitatea la decompresie în prezenţa colangitei acute;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "18. Pancreatita acută biliară:",
+					"answers": [
+						"Apare din cauza obstrucţiei tranzitorii sau persistente a canalului pancreatic deobicei la nivelul ampulei Vater;",
+						"Tabloul clinic este reprezentat de durere în hipocondrul drept cu iradiere în umărul drept;",
+						"Tabloul clinic nu include iritaţia peritoneală ce simulează abdomenul acut;",
+						"În formele de pancreatită severă se efectuează colecistectomie laparoscopică în siguranţă;",
+						"Colangiografia intraoperatorie nu aduce beneficii şi nu este indicată în momentul colecistectomiei;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "19. Ileusul biliar:",
+					"answers": [
+						"Reprezintă ocluzia dinamică din colecistita acută;",
+						"Reprezintă o complicaţie obişnuită prin care un calcul pătrunde în tubul digestiv;",
+						"Calcului migrează în tubul digestiv până la impactarea în cea mai îngustă porţiune a intestinului subţire;",
+						"Pacienţii se prezintă cu semne de ocluzie joasă şi absenţa tranzitului intestinal;",
+						"Radiografia abdominală simplă nu are nici un beneficiu diagnostic;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62f0f2d7d60aa90011cbfa67",
+					"text": "20. Colecistectomia laparoscopică:",
+					"answers": [
+						"Prin abord laparoscopic se elimină riscul de leziuni ale căilor biliare;",
+						"Colangiografia intraoperatorie se efectuează de elecţie în colecistectomia laparoscopică;",
+						"Durata spitalizării după colecistectomia laparoscopică este de 5-7 zile;",
+						"Colecistectomia laparoscopică nu se poate efectua la pacienţii cu comorbidităţi;",
+						"Aduce beneficii prin reducerea durerii postoperatorii şi a complicaţiilor de plagă postoperatorie;"
+					]
+				}
+			],
+			"chapters": [
+				{
+					"_id": "62f0f92cd60aa90011cc70df",
+					"name": "3.12-13. Obstetrică-ginecologie",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f8b0d60aa90011cc673c",
+					"name": "3.10.7. Patologia infectioasa pediatrica",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f887d60aa90011cc63ce",
+					"name": "3.10.6. Monitorizarea dezvoltarii si sanatatii",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f853d60aa90011cc5f80",
+					"name": "3.10.5. Rahitismul",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f82ed60aa90011cc5c86",
+					"name": "3.10.4. Probleme neurologice pediatrice",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f7dfd60aa90011cc564d",
+					"name": "3.10.3. Probleme hematologice si oncologice pediatrice",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f554d60aa90011cc2844",
+					"name": "3.10.2. Tulburări gastrointestinale",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f465d60aa90011cc182c",
+					"name": "3.10.1. Probleme pediatrice pulmonare",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f42cd60aa90011cc141d",
+					"name": "3.9. Dermatologie",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f3e9d60aa90011cc0ef5",
+					"name": "2.29. Urologie: afecțiunile aparatului uro-genital",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f394d60aa90011cc0893",
+					"name": "2.28. Chirurgie ortopedică: bolile sistemului musculoscheletal",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f329d60aa90011cc0071",
+					"name": "2.20. Ficatul și splina",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f301d60aa90011cbfdc1",
+					"name": "2.17. Pancreasul",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				},
+				{
+					"_id": "62f0f2d7d60aa90011cbfa67",
+					"name": "2.16. Căile biliare",
+					"isUserContent": false,
+					"categories": [
+						"m_l_ct"
+					]
+				}
+			],
+			"timed": false,
+			"showAnswers": true,
+			"quantity": 310,
+			"startedAt": "2023-11-17T20:24:29.623Z",
+			"hasExplanations": false
+		}
+	}
+}

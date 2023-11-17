@@ -1,0 +1,1992 @@
+{
+	"status": "OK",
+	"code": 200,
+	"success": true,
+	"message": "SUCCESS",
+	"data": {
+		"exam": {
+			"_id": "655785128d6e610011ffef39",
+			"examType": "quick",
+			"questions": [
+				{
+					"pages": [
+						327
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 120,
+					"answersOrder": "2f02",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "121. Anorexia nervoasa se caracterizeaza prin:  [327]",
+					"answers": [
+						"frică intensă de a se îngrășa",
+						"aport caloric redus",
+						"imagine corporală distorsionată",
+						"alimentare compulsivă",
+						"preocupare nesănătoasă față de greutatea și forma corpului"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 165,
+					"answersOrder": "7e91",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "166. Despre localizarea fracturilor sunt adevărate:",
+					"answers": [
+						"fracturile diafizare necesită perioade mai lungi de protecție împoțriva stresului prin imobilizare sau protecție la ridicarea greutăților;",
+						"fracturile osului metafizar sau spongios, cu un aport sanguin bogat și un tumover osos accelerat, se vindecă mai lent;",
+						"osul cortical, diafizar, se vindecă destul de repede.",
+						"o fractură în regiunea diafizei sugerează extensia intra-articulară a fracturii, implicând suprafața articulației și producând artroza post- traumatică;",
+						"osul cortical, diafizar, se vindecă mai lent;"
+					]
+				},
+				{
+					"pages": [
+						845,
+						846
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 123,
+					"answersOrder": "37f0",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "124. Etiologia hemoragiei intracerebrale cuprinde: [845, 846]",
+					"answers": [
+						"Prezența anticoagulantului lupic.",
+						"Contraceptive orale.",
+						"Angiopatia amiloidă cerebrală (AAC).",
+						"Ruptura de microanevrisme.",
+						"Transformarea hemoragică a unui infarct ischemic de mari dimensiuni."
+					]
+				},
+				{
+					"pages": [
+						79
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 45,
+					"answersOrder": "5b72",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "46. Cel mai caracteristic simptom în infecțiile necrozante de țesuturi moi (INTM) este reprezentat de: [79]",
+					"answers": [
+						"Eritem care nu dispare la digitopresiune",
+						"Durere disproporționată față de aspectul leziunii",
+						"Desensibilizarea tegumentelor",
+						"Crepitații",
+						"Epidermoliză"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 179,
+					"answersOrder": "5b72",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "180. Entorsele de gradul I prezintă următoarele aspecte:",
+					"answers": [
+						"leziuni ligamentare microscopice;",
+						"nu se modifică stabilitatea articulației atunci când aceasta este supusă stresului;",
+						"este prezentă laxitatea articulară atunci când ligamentul este stresat.",
+						"ruperea de fascicule întregi de ligament;",
+						"întrerupere totală cu pierderea stabilității articulației;"
+					]
+				},
+				{
+					"pages": [
+						206,
+						207
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 74,
+					"answersOrder": "a41d",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "75. Excizia Mohs, ca metodă de tratament al neoplasmelor cutanate, se practică în: [206, 207]",
+					"answers": [
+						"Molluscum contagiosum",
+						"Keratoza actinică",
+						"Melanom",
+						"Carcinomul bazocelular",
+						"Carcinomul scuamocelular"
+					]
+				},
+				{
+					"pages": [
+						237
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 183,
+					"answersOrder": "85f",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "184. Despre abcesele anorectale sunt adevărate următoarele: [237]",
+					"answers": [
+						"Debutul este de obicei brusc",
+						"Clinic, se manifestă prin masă palpabilă sau tumefacție perineală",
+						"Diagnosticul se bazează pe anamneză și examen clinic",
+						"Ecografia anorectală poate fi utilă în evaluarea formelor oculte",
+						"Febra și frisonul pot semnifica un proces infecțios extensiv"
+					]
+				},
+				{
+					"pages": [
+						1393
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"answersOrder": "36c7",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "22. Stadiul G3b de boală cronică de rinichi (BCR), conform clasificării KDIGO-2012 este caracterizat de o rată a filtrării glomerulare (RFG) de: [1393]",
+					"answers": [
+						"60-89 mL/min/1.73 m<sup>2</sup>",
+						"30-44 ml/min/1.73 m<sup>2</sup>",
+						"&lt;15 mL/min/1.73 m<sup>2</sup>",
+						"15-29 ml/min/1.73 m<sup>2</sup>",
+						"45-59 ml/min/1.73 m<sup>2</sup>"
+					]
+				},
+				{
+					"pages": [
+						1429
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 145,
+					"answersOrder": "c8e",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "146. Afecțiuni definitorii pentru SIDA sunt următoarele: [1429]",
+					"answers": [
+						"Carcinom invaziv cervical.",
+						"Limfom Burkitt.",
+						"Sarcomul Kaposi.",
+						"Infecție cu virus hepatitic B sau C",
+						"Tulburită cronică."
+					]
+				},
+				{
+					"pages": [
+						187
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 187,
+					"answersOrder": "535c",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "188. Intrarea potasiului în celule este stimulată de: [187]",
+					"answers": [
+						"Lezarea sau moartea celulară.",
+						"Stimulare α-adrenergică.",
+						"Insulină.",
+						"Stimulare β-adrenergică.",
+						"Acidoză."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 198,
+					"answersOrder": "a10e",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "199. Este adevărat despre herniile peretelui abdominal:",
+					"answers": [
+						"seromul apărut postoperator după tratamentul unei hernii nu este, în mod obișnuit, dureros.",
+						"herniile recent încarcerate necesită intervenție chirurgicală în 24 ore de la prezentare pentru a evita complicațiile;",
+						"în afectarea subacută, durerea poate fi resimțită generalizat, sub formă de crampe abdominale;",
+						"herniile asimptomatice sunt de cele mai multe ori reductibile;",
+						"greața și vărsăturile incoercibile, febra, tahicardia și alcaloza indică o hernie strangulată;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 42,
+					"answersOrder": "8548",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "43. Următorul medicament anticoagulant poate fi administrat pe tot parcursul sarcinii și în alăptare:",
+					"answers": [
+						"rivaroxaban",
+						"heparină cu greutate moleculară mică",
+						"edoxaban;",
+						"dabigatran;",
+						"warfarină;"
+					]
+				},
+				{
+					"pages": [
+						91
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"answersOrder": "59e6",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "21. Care din următoarele afirmații legate de managementul traumatismelor cranio-cerebrale, este adevărată? [91]",
+					"answers": [
+						"Prognosticul pacienților cu hematoame subdurale este bun",
+						"Hemoragia subarahnoidiană se tratează în general chirurgical",
+						"În hematoamele epidurale evacuarea chirurgicală se face în toate cazurile",
+						"Hematoamele subdurale care determină efect de masă important necesită evacuare de urgență",
+						"În hemoragia subarahnoidiană recuperarea este de obicei rapidă"
+					]
+				},
+				{
+					"pages": [
+						2
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 78,
+					"answersOrder": "8548",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "79. Masurile preoperatorii care reduc riscul de complicații pulmonare postoperatorii sunt:  [2]",
+					"answers": [
+						"restrictia sodată până la maxim 2 g/zi",
+						"antrenarea musculaturii inspiratorii",
+						"incetarea fumatului cu minim 6 saptamani înaintea operației",
+						"cantarirea zilnica a bolnavului",
+						"terapia bronhodilatatoare"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"answersOrder": "101b",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "28. Face parte din clasa inhibitorilor de DPP-4:",
+					"answers": [
+						"albiglutidă;",
+						"lixisenatidă.",
+						"liraglutidă;",
+						"alogliptină;",
+						"acarboză;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 150,
+					"answersOrder": "4d2",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "151. Profilaxia activă și pasivă (în combinație) împotriva hepatitei B trebuie administrată:",
+					"answers": [
+						"personalului sanitar cu contaminare accidentală prin înțepare cu ac;",
+						"tuturor nou-născuților din mame AgHBs pozitive;",
+						"persoanelor cu hemofilie;",
+						"partenerilor sexuali regulați ai pacienților AgHBs pozitivi care au fost găsiți VHB negativi;",
+						"copiilor din zone cu risc crescut;"
+					]
+				},
+				{
+					"pages": [
+						1296
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 107,
+					"answersOrder": "a8c1",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "108. Cauzele ascitei hemoragice sunt: [1296]",
+					"answers": [
+						"Traumatismele abdominale",
+						"Hipoproteinemia din cadrul sindromului nefrotic",
+						"Sindromul Meigs (tumoră ovariană)",
+						"Pancreatita acută",
+						"Insuficiența cardiacă congestivă"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 95,
+					"answersOrder": "97f",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "96. Caracterele radiologice ale artritei reumatoide sunt:",
+					"answers": [
+						"îngustarea spațiului articular;",
+						"hipertrofia osoasă;",
+						"eroziuni cartilaginoase.",
+						"osteofite;",
+						"eroziuni osoase marginale;"
+					]
+				},
+				{
+					"pages": [
+						1279
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 110,
+					"answersOrder": "377b",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "111. Faza 2 de infecție cronică VHB (virusul hepatitei B) AgHBe pozitivă este caracterizată prin următoarele: [1279]",
+					"answers": [
+						"Transaminaze fluctuant crescute.",
+						"Nu este asociată cu un răspuns mediat imun.",
+						"Se mai numește \"faza imunotolerantă\".",
+						"Niveluri scăzute de ADN-VHB (&lt; 2000 UI/mL).",
+						"Tratamentul în această fază poate conduce la seroconversie de la AgHBe pozitiv la AgHBe negativ."
+					]
+				},
+				{
+					"pages": [
+						1174
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 160,
+					"answersOrder": "346c",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "161. Care dintre următoarele metode de diagnostic al infecției cu Helicobacter pylori sunt non-invazive? [1174]",
+					"answers": [
+						"Testul respirator cu uree marcată cu C13",
+						"Examenul histopatologic al biopsiilor prelevate din mucoasa gastrică",
+						"Test rapid pentru activitatea ureazică (CLO test)",
+						"Dozarea antigenului fecal Helicobacter pylori",
+						"Teste serologice care detectează anticorpii de tip IgG"
+					]
+				},
+				{
+					"pages": [
+						1276
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 163,
+					"answersOrder": "a53d",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "164. Care dintre următoarele infecții pot determina hepatite cronice?  [1276]",
+					"answers": [
+						"amiloidoză",
+						"virusul hepatitei E (VHE) la imunocompromiși",
+						"sifilisul",
+						"virusul hepatitei B (VHB)",
+						"virusul hepatitei A (VHA)"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"answersOrder": "9cc4",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "10. Alegeți afirmația corectă despre tratamentul deficitului de vitamina B12 cu hidroxicobalamină: [336]",
+					"answers": [
+						"Deficitul de fier se dezvoltă adesea tardiv, după 1 an de terapie",
+						"Ameliorarea simptomatologiei clinice poate apărea în 48 ore de la debutul tratamentului",
+						"Valorile maxime ale reticulocitozei se instalează la 2-3 săptămâni de la începutul tratamentului",
+						"Hiperuricemia secundară tratamentului determină în mod obișnuit gută",
+						"Hiperkaliemia secundară tratamentului necesită administrarea de chelatoare de potasiu"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 84,
+					"answersOrder": "33b8",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "85. În faza acută a fibrilației atriale, cardioversia poate fi obținută prin administrarea pe cale orală a următoarelor medicamente (metoda “pill in pocket”):",
+					"answers": [
+						"vernakalant;",
+						"amiodaronă;",
+						"sotalol;",
+						"propafenonă.",
+						"flecainidă;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"answersOrder": "c34",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "25. Despre fracturi sunt corecte afirmațiile următoare, cu excepția:",
+					"answers": [
+						"o fractură poate fi deschisă sau închisă;",
+						"la adulți traumatismele pot afecta placa de creștere și sunt descrise confom clasificării Salter-Harris;",
+						"fractura distală de radius este cauzată prin cădere pe mâna în poziție de hiperextensie;",
+						"fracturile spiroide rezultă printr-un traumatism de rotație și torsiune;",
+						"o fractură patologică este cauzată de un traumatism minim pe un os anormal."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"answersOrder": "10e1",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "13. Următoarele sunt cauze de hiperuricemie prin metabolismul crescut al purinelor:",
+					"answers": [
+						"boală renală cronică;",
+						"hipotensiunea.",
+						"administrarea de diuretice tiazidice;",
+						"hipotiroidism;",
+						"leucemia;"
+					]
+				},
+				{
+					"pages": [
+						1092
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 112,
+					"answersOrder": "84e5",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "113. În stenoza mitrală următoarele afirmații sunt adevărate: [1092]",
+					"answers": [
+						"în ritm sinusal, suflul telediastolic este diminuat.",
+						"Fibrilația atrială este rar întâlnită.",
+						"Se datorează cel mai frecvent bolii cardiace reumatismale.",
+						"Zgomotul 1 este întărit dacă valvele sunt mobile",
+						"Pacienții se mențin asimptomatici până când aria orificiului mitral devine moderat stenotică (aria &lt; 2 cm<sup>2</sup>)."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 49,
+					"answersOrder": "7a08",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "50. Explorarea de elecție pentru depistarea afecțiunilor biliare este:",
+					"answers": [
+						"colangio-pancreatografia;",
+						"ecografia;",
+						"radiografia;",
+						"scintigrafia biliară.",
+						"computer tomografia;"
+					]
+				},
+				{
+					"pages": [
+						1444
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 82,
+					"answersOrder": "4f5a",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "83. Care dintre următoarele manifestări clinice neurologice și/sau modificări imagistice cerebrale sunt caracteristice toxoplasmozei în context de infecție HIV? [1444]",
+					"answers": [
+						"O leziune unică pe RMI",
+						"Leziuni la nivelul substanței albe, hiperintense pe secvențele ponderate T2, decelate prin rezonanță magnetică (RMI)",
+						"Multiple leziuni cu priză de contrast periferică, inelară, cu edem perilezional și efect de masă, identificate prin CT (computer tomograf) cerebral cu substanță de contrast",
+						"Leziuni neurologice focale, convulsii",
+						"Debut insidios, cu febră nespecifică, greață, cefalee"
+					]
+				},
+				{
+					"pages": [
+						644,
+						645
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"answersOrder": "4db",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "24. Alegeți afirmațiile corecte referitoare la pielonefrita emfizematoasă: [644, 645]",
+					"answers": [
+						"trebuie suspectată la pacientul cu piurie sterilă",
+						"sexul feminin este cu precădere afectat",
+						"pacienții au frecvent un istoric de infecții de tract urinar (ITU) cronice",
+						"polakiuria nedureroasă, în special nocturnă, este frecvent întâlnită",
+						"microorganismul implicat, frecvent E. Coli, duce la formarea de gaz în parenchimul renal"
+					]
+				},
+				{
+					"pages": [
+						655
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 162,
+					"answersOrder": "346c",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "163. În cistită interstițială: [655]",
+					"answers": [
+						"În mod tipic, uroculturile pentru bacterii, virusuri și fungi sunt negative.",
+						"Antibioticul inițial este ales empiric.",
+						"Cele mai frecvente bacterii patogene sunt bacilii gram-negativi.",
+						"Simptomatologia se ameliorează și se agravează periodic.",
+						"Diagnosticul este de excludere."
+					]
+				},
+				{
+					"pages": [
+						278
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 115,
+					"answersOrder": "75ac",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "116. Metodele contraceptive de barieră cuprind:  [278]",
+					"answers": [
+						"coitul întrerupt",
+						"inelul intravaginal",
+						"buretele contraceptiv",
+						"diafragmele sau cupolele cervicale",
+						"steriletul de cupru"
+					]
+				},
+				{
+					"pages": [
+						140
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "p",
+					"explanationExists": false,
+					"questionIndex": 53,
+					"answersOrder": "a156",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "54. Vascularizatia arteriala a esofagului se realizeaza prin:  [140]",
+					"answers": [
+						"ramuri ale arterei gastrice stângi",
+						"artera tiroidiana inferioara, ram al trunchiului tirocervical",
+						"artere esofagiene mici provenite din artera pulmonara",
+						"artera tiroidiana superioara, ram al trunchiului tirocervical",
+						"ramuri ale arterelor bronșice"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"answersOrder": "7621",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "30. Semnul Buerger se definește ca fiind:",
+					"answers": [
+						"claudicație intermitentă;",
+						"edem de declivitate;",
+						"dureri la nivelul degetelor de la picioare și epifizelor distale ale oaselor metatarsiene, mai ales în timpul nopții;",
+						"eritroză de declivitate.",
+						"durere la nivelul unui grup muscular important, precipitată de exercițiu fizic;"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 116,
+					"answersOrder": "10d8",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "117. Următoarele afirmații sunt corecte pentru studiile de cohortă: [333]",
+					"answers": [
+						"Sunt dublu-orb pentru a evita erorile.",
+						"Sunt capabile să examineze expunerile rare.",
+						"Sunt un standard de aur pentru testarea medicamentelor.",
+						"Examinează un grup de subiecți expuși la o situație sau un factor dat.",
+						"Pot fi prospective sau retrospective."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 168,
+					"answersOrder": "a048",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "169. Semnele și simptomele pericarditei constrictive se produc ca urmare a:",
+					"answers": [
+						"congestiei venelor pulmonare.",
+						"dilatarea ventriculilor;",
+						"umplerii ventriculare deficitare;",
+						"congestiei venoase sistemice;",
+						"hipertrofiei ventriculare stângi;"
+					]
+				},
+				{
+					"pages": [
+						619
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 76,
+					"answersOrder": "a870",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "77. Elementele patognomonice ale osteoartrozei, din punct de vedere radiologic, sunt: [619]",
+					"answers": [
+						"Pensarea localizată a spațiului articular",
+						"Redoare articulară",
+						"Osteofite",
+						"Crepitații",
+						"Scleroza osului subcondral"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 94,
+					"answersOrder": "c46",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "95. În leziunile coloanei cervicale:",
+					"answers": [
+						"poate fi afectat nervul frenic;",
+						"nervul frenic are orginea în C2-C4;",
+						"apar simptome precum respirație abdominală, incapacitatea de inspir profund, insuficiența respiratorie acută;",
+						"pot afecta lanțul simpatic ducând la șoc neurogenic sau spinal.",
+						"trebuie avută în vedere intubația orotraheală în cazul leziunilor C3-C5"
+					]
+				},
+				{
+					"pages": [
+						1104
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 123,
+					"answersOrder": "2803",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "124. Criteriile minore Duke modificate în endocardita infecțioasă cuprind:  [1104]",
+					"answers": [
+						"consumul de droguri intravenoase",
+						"hipotermia",
+						"abcesul decelat prin ecocardiografie",
+						"infarctele pulmonare septic",
+						"glomerulonefrita"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 114,
+					"answersOrder": "522a",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "115. Care dintre următoarele afirmații referitoare la tratamentul ischemiei mezenterice acute sunt adevărate? [205]",
+					"answers": [
+						"Pentru tromboză de venă mezenterică superioară (VMS) se contraindică anticoagularea cu heparină i.v.",
+						"În cazul ischemiei mezenterice nonocluzive (IMNO) se recomandă administrarea de vasopresoare alfa-adrenergice și digoxină",
+						"La pacienții cu embolie de arteră mezenterică superioară (AMS) se indică embolectomia imediată",
+						"În tromboză de arteră mezenterică superioară revascularizarea se poate face printr-o procedură de by-pass",
+						"În tromboză de arteră mezenterică superioară revascularizarea se poate face printr-un stent endovascular"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"answersOrder": "346c",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "30. Cea mai frecventă manifestare a mezoteliomului o reprezintă:",
+					"answers": [
+						"revărsatul pleural;",
+						"wheezing;",
+						"disfonia.",
+						"durere la nivelul peretelui abdominal;",
+						"tusea;"
+					]
+				},
+				{
+					"pages": [
+						624
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 175,
+					"answersOrder": "925",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "176. În hernia de disc, compresia pe rădăcina nervoasă a coloanei vertebrale lombare L4 poate determina următoarele manifestări clinice: [624]",
+					"answers": [
+						"Durere/amorțeli pe fața medială picior și gleznă",
+						"Diminuarea reflexului achilean",
+						"Hipotonia extensorului lung al halucelui",
+						"Diminuarea reflexului rotulian",
+						"Hipoestezie picior dorsal și haluce"
+					]
+				},
+				{
+					"pages": [
+						1058
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"answersOrder": "5eed",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "35. Tahicardia prin reintrare atrio-ventriculară (AVRT) are următoarea caracteristică ECG: [1058]",
+					"answers": [
+						"unde P vizibile între complexul QRS și unda T",
+						"morfologia undei P este similară cu cea din ritmul sinusal",
+						"unde P cu morfologii diferite (≥ 3) și intervale RR neregulate",
+						"activitate atrială organizată cu unde P cu morfologie diferită față de ritmul sinusal",
+						"unde de flutter vizibile"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 112,
+					"answersOrder": "2f0b",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "113. Este diabet secundar:",
+					"answers": [
+						"diabet secundar infecțiilor;",
+						"diabet secundar sarcinii;",
+						"diabet secundar bolilor congenitale;",
+						"diabet secundar medicamentos.",
+						"diabet secundar defectelor genetice;"
+					]
+				},
+				{
+					"pages": [
+						1084
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 41,
+					"answersOrder": "a41d",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "42. Tipul 4b de infarct miocardic (IM) este cel: [1084]",
+					"answers": [
+						"Determinat de embolie coronariană",
+						"Determinat de PCI (intervenție coronariană percutanată)",
+						"Determinat de CABG (by-pass-ul aorto-coronarian)",
+						"Asociat trombozei de stent",
+						"Cu moarte cardiacă subită"
+					]
+				},
+				{
+					"pages": [
+						538
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 185,
+					"answersOrder": "7d8c",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "186. Selectați contraindicațiile trombolizei în cazul unui pacient cu tromboză venoasă profundă (TVP) iliofemurală: [538]",
+					"answers": [
+						"Accidentul vascular cerebral recent",
+						"Trauma recentă",
+						"Simptomele cu durată &lt;14 zile",
+						"Starea clinică bună a pacientului",
+						"Speranța de viață a pacientului &gt; 1 an"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 71,
+					"answersOrder": "7621",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "72. Referitor la investigațiile din insuficiența cardiacă, sunt adevărate următoarele, CU EXCEPȚIA:",
+					"answers": [
+						"biopsia cardiacă este utilizată pentru diagnosticul amioloidoze;",
+						"creșterea BNP sau NT-proBNP indică un prognostic bun al bolii;",
+						"angiografia cu radionuclizi nu poate cuantifica fracția de ejecție ventriculară;",
+						"pentru IRM cardiac se folosește dobutamină pentru rezerva contractilă.",
+						"ecocardiografia de stres se efectuează cu ajutorul dobutaminei;"
+					]
+				},
+				{
+					"pages": [
+						1291
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"answersOrder": "a492",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "36. Indicator de prognostic nefavorabil în ciroză este: [1291]",
+					"answers": [
+						"scăderea creatininei",
+						"ficatul mare",
+						"sodiul seric scăzut (&lt;125 mmol/L)",
+						"hipertensiunea arterială persistentă",
+						"timpul de protrombină scăzut"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 139,
+					"answersOrder": "a03f",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "140. Următoarele antibiotice pot provoca nefrită tubulointerstițială acută, cu excepția:",
+					"answers": [
+						"carbamazepina.",
+						"rifampicina;",
+						"ciprofloxacina;",
+						"cimetidina;",
+						"eritromicina;"
+					]
+				},
+				{
+					"pages": [
+						288
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 68,
+					"answersOrder": "a53d",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "69. Chistadenomul ovarian mucinos sau seros se caracterizează prin următoarele: [288]",
+					"answers": [
+						"Are origine în corpul galben",
+						"Poate deveni extrem de mare",
+						"Are origine în țesutul epitelial",
+						"Poate să semene histologic cu epiteliul endometrial sau tubar",
+						"Poate forma calcificări (corpi psammoma)"
+					]
+				},
+				{
+					"pages": [
+						1352
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 31,
+					"answersOrder": "4db",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "32. In bolile glomerulare, termenul \"proliferativ\" descrie urmatorul aspect:  [1352]",
+					"answers": [
+						"unii, dar nu toti glomerulii prezinta leziune",
+						"tot glomerulul este implicat simetric",
+						"ingroșarea peretelui capilar datorita depunerii depozitelor imune",
+						"o creștere a numarului de celule datorita hiperplaziei uneia sau mai multora dintre celulele glomerulare",
+						"doar o parte a glomerulului este afectata"
+					]
+				},
+				{
+					"pages": [
+						961
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 153,
+					"answersOrder": "4fcf",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "154. Indicațiile ventilației non-invazive (VNI) în BPOC pe secție includ: [961]",
+					"answers": [
+						"PaCO<sub>2</sub> &gt; 49 mmHg.",
+						"Frecvența respiratorie &gt; 23/min.",
+						"SaO<sub>2</sub> între 82 și 92%.",
+						"pH &lt; 7,15.",
+						"Stare confuzională sau agitație."
+					]
+				},
+				{
+					"pages": [
+						1104
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"answersOrder": "8548",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "16. Diagnosticul de endocardită infecțioasă, bazat pe criteriile DUKE modificate este cert atunci când: [1104]",
+					"answers": [
+						"masă intracardiacă cu mobilitate proprie pe valvă + glomerulonefrită",
+						"leziune cardiacă predispozantă + embolii arteriale majore + anevrisme micotice",
+						"dehiscența parțială de proteză nou documentată + noduli Osler + factor reumatoid",
+						"se izolează un microorganism într-o cultură din vegetație",
+						"există regurgitare valvulară nou documentată + febră &gt;38°C"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"answersOrder": "a546",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "3. Printre cauzele bolii cronice de rinichi se numără următoarele boli congenitale și ereditare:",
+					"answers": [
+						"nefropatia balcanică.",
+						"amiloidoza;",
+						"purpura trombotică trombocitopenică;",
+						"scleroza tuberoasă;",
+						"poliangeita cu granulomatoză;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 65,
+					"answersOrder": "4fcf",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "66. Genu varum și genu valgum:",
+					"answers": [
+						"sunt diformități angulare ale membrelor;",
+						"la majoritatea copiilor se consideră spectrul dezvoltării normale;",
+						"sugarii au genu varum fiziologic cu un unghi tibio-femural de 20° sau mai mult.",
+						"sugarii au genu varum fiziologic cu un unghi tibio-femural de 20° sau mai puțin;",
+						"deseori malaliniamentul persistă şi cauzeză impotenţă funcţională;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 183,
+					"answersOrder": "a0f3",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "184. Următoarele afirmaţii despre tratamentul astmului bronşic sunt adevărate:",
+					"answers": [
+						"terapia antiinflamatorie este recomandată chiar şi pentru formele uşoare ale bolii.",
+						"agenţii terapeutici inhalatori trec prin primul pasaj metabolic hepatic;",
+						"utilizarea progresiv mai rară a medicaţiei bronhodilatatoare indică agravarea bolii, din cauza lipsei efectului acesteia;",
+						"dipropionatul de beclometazonă se administrează în cazuri excepționale;",
+						"corticosteroizii inhalatori se administrează la orice pacient care utilizează ꞵ2-agoniști mai mult de trei ori pe săptămână;"
+					]
+				},
+				{
+					"pages": [
+						1076
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 86,
+					"answersOrder": "522a",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "87. Terapia de resincronizare cardiacă (CRT) în insuficența cardiacă: [1076]",
+					"answers": [
+						"Nu reduce regurgitarea mitrală funcțională",
+						"Este indicată la pacienții cu interval QRS prelungit (bloc de ramură stângă)",
+						"Presupune stimulare simultană în ambele atrii",
+						"Scade mortalitatea în clasa IV NYHA",
+						"Asociază criteriile pentru implantarea unui ICD (defibrilator implantabil) la majoritatea pacienților"
+					]
+				},
+				{
+					"pages": [
+						1091
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 146,
+					"answersOrder": "32f2",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "147. Pacienții postinfarct miocardic acut (IMA) trebuie tratați cu următoarele medicamente, în absența contraindicațiilor: [1091]",
+					"answers": [
+						"Inhibitor de enzimă de conversie a angiotensinei.",
+						"Aspirină 300mg zilnic.",
+						"Betablocant oral.",
+						"Blocant al receptorilor de adenozindifosfat (ADP).",
+						"Statină cu potență redusă."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"answersOrder": "5a64",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "33. Cauza principală a decesului pentru pacienții cu boală arterială periferică este:",
+					"answers": [
+						"ischemia cerebrală;",
+						"trombo-embolismul pulmonar;",
+						"infarctul miocardic;",
+						"ciroza hepatică.",
+						"sepsisul;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"answersOrder": "4d2",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "15. Tratamentul medicamentos în cazul HTA constă în:",
+					"answers": [
+						"amlodipină, 5-10 g zilnic;",
+						"metildopa, 250-500 mg de 2 ori pe zi;",
+						"bisoprolol, 5-10 mg zilnic;",
+						"verapamil, 120-380 mg zilnic;",
+						"bisoprolol; 2,5-10 mg zilnic."
+					]
+				},
+				{
+					"pages": [
+						594
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 159,
+					"answersOrder": "1075",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "160. Fixarea externă a unei fracturi are următoarele indicații: [594]",
+					"answers": [
+						"Fracturi pe os patologic",
+						"Fracturi pelvine instabile",
+						"Fracturi deschise, instabile",
+						"Eșec al metodelor non-operatorii de reducere",
+						"Fracturi infectate"
+					]
+				},
+				{
+					"pages": [
+						232
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 70,
+					"answersOrder": "a41d",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "71. lndicati principalele repere corecte de dezvoltare in timpul copilariei:  [232]",
+					"answers": [
+						"la 12 luni copilul umbla cu ajutor",
+						"la 2 ani copilul aleargă",
+						"la 2 luni copilul rade",
+						"la 6 luni copilul gangurește cu silabe",
+						"la 6 luni copilul se ridica in picioare"
+					]
+				},
+				{
+					"pages": [
+						588,
+						589,
+						590
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 151,
+					"answersOrder": "c46",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "152. Evaluarea imagistică completă a pacienților cu traumatism musculoscheletal include: [588, 589, 590]",
+					"answers": [
+						"Două incidențe ale osului sau articulației în unghi drept una față de cealaltă",
+						"Imagistica prin rezonanță magnetică",
+						"Trebuie vizualizată numai articulația proximală",
+						"Explorarea computer tomografică",
+						"La cei cu leziuni faciale și la nivelul capului, sunt opționale radiografiile de coloană cervicală"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"answersOrder": "5b69",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "28. Este contraindicație relativă împotriva transplantului hepatic:",
+					"answers": [
+						"lipsa angajamentului psihologic din partea pacientului;",
+						"tumorile maligne extrahepatice;",
+						"metastazele hepatice (cu excepția celor neuroendocrine).",
+						"sepsisul activ în alt teritoriu decât arborele hepatobiliar;",
+						"tromboză venoasă splanhnică extinsă;"
+					]
+				},
+				{
+					"pages": [
+						1069
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 63,
+					"answersOrder": "2f0b",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "64. Cauzele principale de insuficiența cardiaca sunt:  [1069]",
+					"answers": [
+						"cardiomiopatia (dilatativă)",
+						"bolile pericardice (pericardita constrictiva, pericardita lichidiana)",
+						"boala cardiaca ischemica",
+						"alcoolul și medicamente (chimioterapie - transtuzumab, imatinib)",
+						"hipertensiunea"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 113,
+					"answersOrder": "3394",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "114. Despre infecțiile dobândite în comunitate se poate afirma că:",
+					"answers": [
+						"în tetanos, implicarea nervilor autonomi poate produce bradicardie și hipotensiune arterială episodice;",
+						"alăptarea este un factor de risc pentru dezvoltarea abcesului mamar;",
+						"abcesele perirectale necesită de obicei anestezie generală pentru examinare și drenaj adecvat;",
+						"perforația apendicelui cauzează în mod frecvent peritonită generalizată;",
+						"în tratamentul leziunilor provocate de mușcătura umană sunt incluse lavajul, drenajul, elevarea mâinii și închiderea primară."
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 54,
+					"answersOrder": "ca9",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "55. Psoriazisul:  [203]",
+					"answers": [
+						"este o boala inflamatorie a pielii caracterizata prin hiperproliferare epidermica",
+						"se trateaza cu emolienti, corticosteroizi topici, fototerapie , metrotrexat, ciclosporină",
+						"are placi eritematoase cu scuame galbene, grasoase",
+						"nu se asociaza cu artrită",
+						"se caracterizeaza prin placi și zone de tegument uscat (xeroza) cu papule"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 153,
+					"answersOrder": "28b7",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "154. Splenomegalia poate fi sugerată pe radiografia pe gol prin:",
+					"answers": [
+						"devierea colonului înspre caudal;",
+						"devierea stomacului spre medial;",
+						"contur radiologic mărit al splinei.",
+						"ascensionarea hemidiafragmului drept;",
+						"devierea colonului înspre cranial;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 174,
+					"answersOrder": "a8ca",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "175. Despre tipurile de organe senzoriale aflate la nivelul urechii interne este adevărat că:",
+					"answers": [
+						"organul lui Corti este localizat la nivelul canalelor semicirculare.",
+						"macula este localizată la nivelul utriculei;",
+						"crestele ampulare sunt localizate la nivelul canalelor semicirculare;",
+						"sacula este localizată la nivelul maculei;",
+						"organul lui Corti este localizat la nivelul cohleei;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 76,
+					"answersOrder": "4f5a",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "77. Obstrucția ureterală poate fi cauzată, în principal, de afecțiuni ce implică direct ureterele, precum:",
+					"answers": [
+						"masele extrinseci;",
+						"litiaza;",
+						"fibroza retroperitoneală;",
+						"anevrismele vasculare;",
+						"neoplaziile de sferă pulmonară."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 80,
+					"answersOrder": "a492",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "81. Copiii cu sindromul Pierre Robin prezintă următoarele trăsături, cu excepția:",
+					"answers": [
+						"hipoplazie mandibulară.",
+						"cheloschizis;",
+						"palatochizis;",
+						"otită medie cronică;",
+						"glosoptoză;"
+					]
+				},
+				{
+					"pages": [
+						127,
+						128,
+						129,
+						133
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 190,
+					"answersOrder": "79e4",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "191. Care dintre următoarele afirmații legate de herniile peretelui abdominal sunt adevărate? [127, 128, 129, 133]",
+					"answers": [
+						"Strangularea doar a unei porțiuni a circumferinței ansei intestinale în hernia Richter este mai puțin periculoasă decât strangularea completă",
+						"Tehnica de separare a componentelor este utilizată în herniile complexe, în scopul acoperirii defectului cu țesut viabil",
+						"Spațiul din orificiul miopectineal superior de ligamentul inghinal reprezintă locul de producere a herniei femurale",
+						"Prezența durerii severe, a leucocitozei și acidozei metabolice sugerează strangularea herniei",
+						"Tehnica Lichtenstein este un procedeu chirurgical alloplastic anterior folosit în herniile inghinale directe și indirecte"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 100,
+					"answersOrder": "d54",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "101. Sunt adevărate următoarele afirmații, cu excepția:",
+					"answers": [
+						"ulcerele gastrice se găsesc frecvent pe marea curbură a stomacului;",
+						"dozarea antigenului fecal H. Pylori este un test cu sensibilitate și specificitate inferioare dozării anticorpilor din ser;",
+						"realizarea de culturi pentru depistarea infecției cu H. pylori reprezintă testul non-invaziv de elecție pentru diagnosticare.",
+						"eroziunile reprezintă pierderi de substanță limitate la mucoasa tractului digestiv;",
+						"dozarea anticorpilor IgG anti- H. pylori la 3 luni după încetarea tratamentului antibiotic confirmă eradicarea infecției în majoritatea cazurilor;"
+					]
+				},
+				{
+					"pages": [
+						717
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "a",
+					"explanationExists": false,
+					"questionIndex": 148,
+					"answersOrder": "5e42",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "149. Indicați afirmațiile corecte referitoare la tratamentul cu metformin la pacienții cu diabet zaharat:  [717]",
+					"answers": [
+						"predispune la creșterea în greutate",
+						"produce rar anemie",
+						"determină frecvent hipoglicemie",
+						"este contraindicat la pacienții cu afectare renală",
+						"induce secreția de insulină prin acțiunea asupra celulelor beta pancreatice"
+					]
+				},
+				{
+					"pages": [
+						242
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 119,
+					"answersOrder": "53b6",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "120. Referitor la litiaza biliară sunt adevarate urmatoarele:  [242]",
+					"answers": [
+						"scaderea ponderală rapidă previne formarea calculilor",
+						"femeile sunt mai frecvent afectate decat bărbații",
+						"contraceptivele orale pe bază de estrogen în doze crescute predispun la formarea calculilor",
+						"multiparitatea predispune la formarea calculilor",
+						"incidența calculilor biliari crește cu vârsta"
+					]
+				},
+				{
+					"pages": [
+						2
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 79,
+					"answersOrder": "a8ca",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "80. Măsurile preoperatorii care reduc riscul de complicații pulmonare postoperatorii sunt: [2]",
+					"answers": [
+						"Antibioterapia pentru infecțiile preexistente",
+						"Administrarea de corticosteroizi tuturor pacienților",
+						"Terapia bronhodilatatoare",
+						"Antrenarea musculaturii inspiratorii",
+						"Încetarea fumatului cu minim 6 săptămâni înaintea intervenției chirurgicale"
+					]
+				},
+				{
+					"pages": [
+						1125
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 34,
+					"answersOrder": "346c",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "35. Sindromul Dressler (tardiv) se refera la pericardita:  [1125]",
+					"answers": [
+						"uremica",
+						"metastatica",
+						"tuberculoasa",
+						"post-infarct miocardic",
+						"post-iradiere"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 46,
+					"answersOrder": "4db",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "47. Despre cancerul colorectal se poate afirma:",
+					"answers": [
+						"este al treilea cel mai frecvent tip de cancer în rândul bărbaților și al femeilor;",
+						"aproximativ 30 % din toate tipurile de cancer colorectal sunt cauzate de către un sindrom de cancer familial;",
+						"cancerul de colon nonpolipozic ereditar, numit și sindromul Lynch, reprezintă 15% dintre cancerele de colon;",
+						"pacienții care sunt diagnosticați cu adenocarcinom de colon sau rect nu beneficiază de evaluare de stadializare.",
+						"cancerele care apar la nivelul colonului stâng și sigmoid se manifestă mai frecvent prin hemoragie rectală microscopică fără modificări ale tranzitului;"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 24,
+					"answersOrder": "8536",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "25. Cauza a acidozei metabolice cu gaura anionică crescută este:  [201]",
+					"answers": [
+						"ileostomia",
+						"ingestia de clorura de amoniu",
+						"supradozajul de salicilati",
+						"acidoza tubulară renală distală (tip I)",
+						"diareea"
+					]
+				},
+				{
+					"pages": [
+						41
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 191,
+					"answersOrder": "2854",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "192. Următoarele rezultate ale probelor de laborator pot fi utile în diagnosticarea coagulării intravasculare diseminate (CID): [41]",
+					"answers": [
+						"Timp de protrombină (PT) prelungit",
+						"Timp de tromboplastină parțial activată (aPTT) prelungit",
+						"Trombocitoză",
+						"Hiperfibrinogenemie",
+						"D-dimeri pozitivi"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"answersOrder": "97f",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "12. Referitor la tipurile de studii folosite în cercetarea clinică nu putem afirma:",
+					"answers": [
+						"studiile de cohortă examinează un grup de subiecți expuși la o situație sau un factor dat;",
+						"studiile transversale pot fi folosite pentru testarea ipotezelor;",
+						"trialurile clinice randomizate reprezintă standardul de aur pentru testarea medicamentelor.",
+						"studiul caz-control este un studiu retrospectiv;",
+						"studiile de cohortă pot fi prospective sau retrospective;"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 72,
+					"answersOrder": "5eed",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "73. Care dintre următoarele sunt cauze de alcaloză metabolică?  [202]",
+					"answers": [
+						"tratamentul cu amoxicilina sau penicilina",
+						"aldosteronismul secundar",
+						"aldosteronismul primar",
+						"insuficiența renală prin acumulare de acizi organici",
+						"oxoprolina (acid piroglutamic) în ingestia cronică de paracetamol"
+					]
+				},
+				{
+					"pages": [
+						242
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 55,
+					"answersOrder": "9d78",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "56. lnfecția de tract urinar la copil:  [242]",
+					"answers": [
+						"cicatricile renale și urosepsisul reprezinta complicatii ale bolii",
+						"este de luat in considerare întotdeauna in cazul copiilor mai mici de 2 ani cu febra",
+						"tratamentul este exclusiv suportiv",
+						"este a doua cea mai frecventa infecție bacteriana la copil dupa otita medie",
+						"examenul sumar de urina și urocultura sunt examenele de laborator recomandate"
+					]
+				},
+				{
+					"pages": [
+						288
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 23,
+					"answersOrder": "a156",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "24. Teratomul chistic benign ( chistul dermoid) ovarian are originea în:  [288]",
+					"answers": [
+						"celulele de granuloasa, tecale sau Sertoli-Leydig",
+						"corpul galben",
+						"celulele germinate",
+						"foliculul ovarian",
+						"tesutul epitelial"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 53,
+					"answersOrder": "856",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "54. Despre cauzele anemiei dobândite, se poate afirma:",
+					"answers": [
+						"sunt incluse defectele membranare dobândite;",
+						"malaria cauzează frecvent anemie datorită unei producții eritrocitare crescute, asociată unei durate de viață scăzute;",
+						"o cauză de distrugere non-imună a eritrocitelor poate fi determinată de factori mecanici (ex: toxinele produse de Clostridium perfringens);",
+						"unele chimicale ingerate (ex. erbicidele) pot cauza hemoliză oxidativă severă urmată de insuficiență renală acută;",
+						"unele medicamente (dapsona, sulfasalazina) cauzează hemoliză oxidativă cu apariția corpilor Heinz."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 47,
+					"answersOrder": "1075",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "48. Despre automatismul accelerat sunt adevărate următoarele afirmații, cu o excepție:",
+					"answers": [
+						"este caracterizat prin depolarizarea diastolică lentă până la atingerea potențialului prag;",
+						"automatismul poate fi accelerat prin modificarea potențialului prag.",
+						"automatismul poate fi accelerat prin scăderea pantei depolarizării diastolice;",
+						"odată cu atingerea potențialului prag, urmează potențialul de acțiune al celulelor de tip pacemaker;",
+						"stimularea simpatică crește automatismul secundar eliberării de adrenalină;"
+					]
+				},
+				{
+					"pages": [
+						437
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "t",
+					"explanationExists": false,
+					"questionIndex": 162,
+					"answersOrder": "5b72",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "163. În artrita reumatoidă (AR):  [437]",
+					"answers": [
+						"pacienții dezvoltă de obicei o poliartrită simetrică cronică cu inflamație sistemică",
+						"are o patogenie multifactorială",
+						"AR este in primul rând o boală sinovială",
+						"factorii reumatoizi de tip IgM sunt diagnostici",
+						"poate apărea din copilăria timpurie"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 177,
+					"answersOrder": "7606",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "178. Despre fiziopatologia sindroamelor coronariene acute putem afirma:",
+					"answers": [
+						"prezența unui miez lipidic abundent in interiorul plăcii asociată cu un capișon subțire se asociază cu risc crescut de ruptură;",
+						"mecanismul comun este ruptura sau eroziunea capișonului fibros al plăcii arteriale coronare;",
+						"se produce agregarea și aderarea plachetară, tromboză locală și vasocontricție;",
+						"se produce agregarea și aderarea plachetară, tromboză locală și vasodilatație;",
+						"formarea trombusului și vasocontricția determinate de eliberarea de dopamină și tromboxani din plachete duce la ischemie miocardică."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 127,
+					"answersOrder": "79e4",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "128. În scorul Wells pentru tromboza venoasa profundă, se acordă puncte pentru următoarele:",
+					"answers": [
+						"febră;",
+						"edem al intregului picior;",
+						"vene colaterale superficiale (nevaricoase);",
+						"cancer activ;",
+						"intervenție chirurgicală majoră în ultimele 3 luni."
+					]
+				},
+				{
+					"pages": [
+						225
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 37,
+					"answersOrder": "a168",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "38. Care din următoarele semne lipsește din tabloul clinic al insuficienței respiratorii la pacientul din terapie intensivă? [225]",
+					"answers": [
+						"Alternanța respiratorie",
+						"Bradipneea",
+						"Respirația asincronă",
+						"Respirația paradoxală",
+						"Utilizarea musculaturii respiratorii accesorii"
+					]
+				},
+				{
+					"pages": [
+						618
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 189,
+					"answersOrder": "5b69",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "190. Referitor la fasceita necrozantă de tip 1, sunt adevărate: [618]",
+					"answers": [
+						"Tratamentul constă inițial în antibioterapie intravenoasă, debridarea chirurgicală putând fi amânată pentru un timp ulterior",
+						"Fascia și țesuturile moi au aspect purulent, de „apă murdară” și miros fetid",
+						"Evoluția fulminantă spre deces nu este neobișnuită",
+						"Este o infecție a țesuturilor moi fasciale ce apare la persoane imunocompromise",
+						"Agentul infecțios este cel mai probabil unic, reprezentat de streptococul beta-hemolitic grup A"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"answersOrder": "7aaa",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "32. Etiologia pericarditei poate fi reprezentată de următoarele, CU O EXCEPȚIE:",
+					"answers": [
+						"pericardită autoimună;",
+						"pericardită uremică;",
+						"pericardită fungică.",
+						"pericardită infecțioasă;",
+						"pericardită hepatitică;"
+					]
+				},
+				{
+					"pages": [
+						121
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 195,
+					"answersOrder": "96d",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "196. Principalii agenți anxiolitici folosiți în tratamentul anxietății cauzate de arsuri, adesea administrați în combinație cu analgeticele opiacee, sunt: [121]",
+					"answers": [
+						"Lorazepamul",
+						"Clonidina",
+						"Ketamina",
+						"Diazepamul",
+						"Midazolamul"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 64,
+					"answersOrder": "5a40",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "65. Colecistita acută se caracterizează prin:",
+					"answers": [
+						"ecografic se remarcă litiază biliară;",
+						"durere în fosa iliacă dreaptă;",
+						"apărare musculară;",
+						"semn Murphy negativ;",
+						"durere la decompresia abdomenului."
+					]
+				},
+				{
+					"pages": [
+						326,
+						327
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 141,
+					"answersOrder": "4fbd",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "142. Referitor la tratamentul tulburărilor factice (sindromul Munchausen) sunt corecte următoarele afirmații: [326, 327]",
+					"answers": [
+						"Dacă pacientul o acceptă, psihoterapia poate fi benefică",
+						"Antidepresivele triciclice sunt utile",
+						"Negarea pacientului face ca tratamentul să fie dificil",
+						"Terapia cognitiv-comportamentală și inhibitorii selectivi ai recaptării serotoninei (SSRI) sunt utile",
+						"Tratamentul de a doua linie include terapie cognitiv comportamentală și fizioterapie"
+					]
+				},
+				{
+					"pages": [
+						10
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 170,
+					"answersOrder": "4db",
+					"chapterId": "64649506bb660b0011ed90d0",
+					"text": "171. Cele mai importante strategii de management al atelectaziei postoperatorii sunt: [10]",
+					"answers": [
+						"Administrare de electroliți (potasiu și magneziu).",
+						"Tratamentul fluidifiant de mucus.",
+						"Managementul corect al durerii postoperatorii.",
+						"Mobilizarea precoce.",
+						"Tratamentul cu corticosteroizi la pacienții cu astm."
+					]
+				},
+				{
+					"pages": [],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 148,
+					"answersOrder": "58f",
+					"chapterId": "63cfb196da87b300116fa5cd",
+					"text": "149. Despre metastazarea la distanţă a cancerului bronhopulmonar sunt adevărate următoarele afirmaţii:",
+					"answers": [
+						"pleureziile maligne se prezintă cu dispnee şi asociază durere pleuritică;",
+						"Invazia tumorală osoasă determină anemie normocitară;",
+						"metastazele suprarenaliene nu duc de obicei la insuficienţă suprarenală.",
+						"Carcinomul bronhopulmonar invadează rar ganglionii intraabdominali;",
+						"Invazia capsulei renale este asociată cu durerea ȋn hipocondrul drept care iradiază de-a lungul abdomenului;"
+					]
+				},
+				{
+					"pages": [],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"answersOrder": "5dcd",
+					"chapterId": "653c96526b8e7700115f16ed",
+					"text": "34. Despre complicațiile hematologice din infecția HIV sunt adevărate:",
+					"answers": [
+						"sunt rare în stadii mai avansate ale infecției HIV;",
+						"terapia ARV eficientă produce frecvent creșterea numărului de trombocite.",
+						"neutropenia este rară;",
+						"anemia este de obicei severă;",
+						"trombocitopenia izolată poate fi singura manifestare a bolii pentru o perioadă de timp;"
+					]
+				},
+				{
+					"pages": [
+						1069
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 49,
+					"answersOrder": "36c7",
+					"chapterId": "6390ed04f501eb001116927e",
+					"text": "50. Cauza cea mai frecventă a insuficienței cardiace este reprezentată de: [1069]",
+					"answers": [
+						"Boli pericardice",
+						"Boală cardiacă ischemică",
+						"Hipertensiune",
+						"Valvulopatii (mitrale, aortice, tricuspide)",
+						"Defect septal atrial"
+					]
+				},
+				{
+					"pages": [
+						1091
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 112,
+					"answersOrder": "5b69",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "113. Recomandările de dietă după sindromul coronarian acut (SCA) includ:  [1091]",
+					"answers": [
+						"reducerea grăsimilor saturate și trans",
+						"reducerea consumului de sare la pacientii hipertensivi",
+						"creșterea consumului de fructe și legume",
+						"controlul aportului caloric în obezitate",
+						"interzicerea consumului de alcool"
+					]
+				},
+				{
+					"pages": [
+						1393
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 9,
+					"answersOrder": "32f2",
+					"chapterId": "624713bb327119885ebecfaf",
+					"text": "10. O scadere a ratei filtrarii glomerulare (RFG) la valori cuprinse intre 30-44 ml/min/1,73 mp descrie:  [1393]",
+					"answers": [
+						"BCR stadiul G3a - RFG moderat scazuta cu sau fara alte manifestari ale afectarii renale",
+						"BCR stadiul 04 - RFG foarte scazuta cu sau fara alte manifestari ale afectarii renale",
+						"boala cronica de rinichi (BCR) stadiul 02 - RFG ușor scazuta cu alte manifestari ale afectarii renale",
+						"BCR stadiul 05 - boala renala terminala",
+						"BCR stadiul G3b - RFG moderat pana la foarte scazuta"
+					]
+				}
+			],
+			"chapters": [
+				{
+					"_id": "64649506bb660b0011ed90d0",
+					"name": "Rezidențiat Medicină - 14 mai 2023",
+					"isUserContent": false,
+					"categories": [
+						"m_c"
+					],
+					"years": []
+				},
+				{
+					"_id": "6390ed04f501eb001116927e",
+					"name": "Rezidențiat Medicină - 20 noiembrie 2022",
+					"isUserContent": false,
+					"categories": [
+						"m_c"
+					]
+				},
+				{
+					"_id": "624713bb327119885ebecfaf",
+					"name": "Rezidențiat Medicină - 21 noiembrie 2021",
+					"isUserContent": false,
+					"categories": [
+						"m_c"
+					]
+				},
+				{
+					"_id": "653c96526b8e7700115f16ed",
+					"name": "Simulare națională - 21 octombrie 2023",
+					"isUserContent": false,
+					"categories": [
+						"m_c"
+					],
+					"years": []
+				},
+				{
+					"_id": "63cfb196da87b300116fa5cd",
+					"name": "Simulare națională - 23 octombrie 2022",
+					"isUserContent": false,
+					"categories": [
+						"m_c"
+					]
+				}
+			],
+			"timed": false,
+			"showAnswers": true,
+			"quantity": 100,
+			"startedAt": "2023-11-17T15:21:54.260Z",
+			"hasExplanations": false
+		}
+	}
+}

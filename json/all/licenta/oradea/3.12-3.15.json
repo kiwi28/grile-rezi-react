@@ -1,0 +1,3474 @@
+{
+	"status": "OK",
+	"code": 200,
+	"success": true,
+	"message": "SUCCESS",
+	"data": {
+		"exam": {
+			"_id": "6557cf4b8d6e6100110612bd",
+			"examType": "custom",
+			"questions": [
+				{
+					"pages": [
+						333
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "1. Standardul de aur pentru testarea medicamentelor este reprezentat de următorul tip de studiu: [333]",
+					"answers": [
+						"Studiu transversal",
+						"Studii caz – control",
+						"Studii de cohort",
+						"Meta – analiză",
+						"Trialul clinic randomizat"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"correct": "n",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "2. Selectați afirmațiile adevărate referitoare la studiile științifice folosite în cercetarea clinică: [333]",
+					"answers": [
+						"Studiile de cohort sunt capabile să examineze expunerile rare",
+						"Studiile caz – control pot analiza boli rare sau pe cele acute într-o perioadă scurtă de timp",
+						"Studiul transversal este un studiu privind un număr mare de persoane la un moment dat",
+						"Trialul clinic randomizat este standardul de aur pentru testarea medicamentelor",
+						"Studiile de cohort pot fi prospective sau retrospective"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "3. Următoarele afirmații referitoare la tipurile de studii folosite în clinică sunt false: [333]",
+					"answers": [
+						"Atât seria de cazuri, cât și studiul transversal, pot fi folosite pentru testarea ipotezelor",
+						"Studiile prospective sunt studii caz – control",
+						"Studiul clinic randomizat este economisitor de resurse financiare și de timp",
+						"Standardul de aur pentru testarea medicamentelor este reprezentat de studiul cohort",
+						"Meta – analiza presupune combinarea mai multor studii care examinează o anumită boală sau expunere"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "4. Referitor la tipurile de erori în cadrul studiilor clinice, putem nega următoarele: [334]",
+					"answers": [
+						"Erorile referitoare la durată presupun detectarea mai multor cazuri de boală rapid progresivă",
+						"Erorile de înrolare (selecție) prespun repartizarea randomizată a subiecților",
+						"Erorile referitoare la durată presupun omiterea cazurilor lent progressive",
+						"Erorile de înrolare (selecție) nu se aplică populației generale",
+						"Privind erorile de memorie, subiecții nu sunt reprezentativi pentru populația general"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "5. Privind rata de morbiditate, susținem următoarele: [334]",
+					"answers": [
+						"Incidența presupune (numărul de cazuri noi de boală într-o anumită perioadă de timp / populația de risc)",
+						"Prevalența presupune (numărul de cazuri de boală existente / populația totală)",
+						"Rata de fatalitate presupune raportul dintre (persoanele care mor într-o perioadă de timp / numărul de cazuri de boală într-o perioadă data de timp)",
+						"Incidența presupune numărul de cazuri reactivate care apar într-o perioadă dată de timp",
+						"Rata de fatalitate a cazurilor presupune procentul de persoane care au o anumită boală și decedează într-o perioadă de timp, raportat la populația totală"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "6. Selectați afirmația falsă cu cu privire la tipurile de erori în studiile clinice: [334]",
+					"answers": [
+						"Erorile de memorie ale subiecților sunt din cauza confuziei cu experiențe viitoare",
+						"Perioada de latență este considerate un tip de eroare",
+						"Privind erorile observaționale, putem afirma că subiecții pot răspunde la întrebări într-un mod diferit de normal",
+						"Privind consecințele erorii de durată se poate preciza că eficacitatea screeningului este exagerată",
+						"Auto – selecția în care pacienții cu un anumit istoric medical sunt mai predispuși să participle la un studio legat de boala lor"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "7. Următoarele afirmații privind riscul bolii în studiile clinice sunt adevărate, cu excepția: [335]",
+					"answers": [
+						"Riscul relative se determină prin studii de caz – control",
+						"Raportul cotelor se determină prin studii de cohort",
+						"OR (odds ration) dă estimarea cea mai precisă a raportului cotelor în cazurile de boli rare",
+						"Valoarea ”riscului relativ = 0” nu sugerează nicio relație între expunere și boală",
+						"Raportul cotelor estimează riscul relativ dacă prevalența este crescută"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "8. Privind riscul bolii în studiile clinice, putem afirma următoarele: [335]",
+					"answers": [
+						"NNT (numărul necesar pentru tratament) este reprezentat de numărul de pacienți care trebuie tratați pentru a salva un pacient",
+						"RAR (reducerea absolută a riscului) = (rata bolii la populația extinsă) – (rata bolii la populația neexpusă)",
+						"RA (riscul atribuibil) = (rata bolii în grupul martor) – (rata bolii în grupul de intervenție)",
+						"Valoarea riscului relativ &gt; 1 sugerează o relație pozitivă între expunere și boală",
+						"Valoarea riscului relativ &lt; 1 sugerează o relație negativă între expunere și boală"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "9. Privind statistica testelor de diagnostic, putem spune că următoarele afirmații sunt false: [335]",
+					"answers": [
+						"Sensibilitatea reprezintă probabilitatea ca un test screening să fie negative la pacienții care au boala",
+						"Specificitatea reprezintă probabilitatea ca un test screening să fie pozitiv la pacienții care nu au boala",
+						"Cele mai acceptabile teste de screening au de obicei senzibilitate &gt; 80 %",
+						"Cele mai acceptabile teste de confirmare au de obicei specificitate &gt; 85 %",
+						"Testele de confirmare sunt folosite pentru a valida faptul că un pacient cu test pozitiv are într- adevăr o boală"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "10. Următoarele afirmații privind statistica testelor de diagnostic sunt false, cu excepția: [336]",
+					"answers": [
+						"VPP (valoarea predictivă pozitivă) reprezintă probabilitatea ca un pacient cu un test negativ să aibă o boală",
+						"Prevalența ridicată va fi asociată cu o valoare predictivă negativă ridicată a unui test de screening",
+						"Testul de screening caută detectarea fiabilă a unei boli la un pacient, fără diagnosticarea incorectă la persoane care nu au boală",
+						"Prevalența scăzută va fi asociată cu o valoare predictivă pozitivă ridicată a unui test de screening",
+						"VPN (valoarea predictivă negativă) reprezintă probabilitatea ca un pacient cu un test pozitiv să nu aibă o boală"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "11. Referitor la tipurile de erori, selectați afirmațiile adevărate: [336]",
+					"answers": [
+						"Ipoteza nulă sugerează că există cel puțin o asociere între expunere și boală",
+						"Ipoteza alternativă sugerează că nu există nicio asociere între expunere și boală, dar există între tratament și răspuns",
+						"Riscul acestor erori crește odată cu creșterea dimensiunii eșsantionului",
+						"Eroarea de tip I : ipoteza nulă este respinsă, chiar dacă este adevărată",
+						"Eroarea de tip II : ipoteza nulă nu este respinsă, chiar dacă este falsă"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "12. Alegeți afirmațiile corecte în ceea ce privește biostatistica: [336]",
+					"answers": [
+						"Valoarea ”p” (valoarea probabilității) reprezintă șansa unei erori de tip II care apare pentru un anumit subiect",
+						"Dacă p &lt; 0,5, ipoteza nulă poate fi respinsă",
+						"Dacă p &gt; 0,5, ipoteza nulă poate fi respinsă",
+						"Puterea unui studiu reprezintă abilitatea unui studiu de a detecta o diferență reală între 2 grupuri",
+						"Acuratețea reprezintă performanța unui test de diagnostic luând în considerare numai numărul de rezultate reale"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "13. Privind confidențialitatea în raport cu drepturile pacientului putem preciza următoarele, cu excepția: [337]",
+					"answers": [
+						"În cazul în care pacientul este adolescent confidențialitatea privind contracepția ar fi indicat să nu fie păstrată",
+						"Se consideră că în cazul tendințelor suicidale sau criminale confidențialitatea nu este obligatorie",
+						"În cazul tratamentului BTS (bolilor cu transmitere sexuală), la adolescenți,confidențialitatea nu ar trebui păstrată",
+						"În cazul unui adolescent cu o afecțiune potential dăunătoare pentru sine sau pentru alții, confidențialitatea nu este obligatorie",
+						"Confidențialitatea e obligatorie în cazul unui atac (împușcătură, rană penetrantă)"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "14. Referitor la drepturile pacientului, putem afirma următoarele: [337]",
+					"answers": [
+						"Boala Lyme, rabia și tuberculoza trebuie raportate către un departament de sănătate publică",
+						"Este impusă de lege raportarea HIV și BTS",
+						"Confidențialitatea e obligatorie când pacientul are intenții suicidale pentru a nu exacerba evenimentul",
+						"Abuzul asupra copiilor și abuzul asupra persoanelor vârsnice trebuie raportate către autorități",
+						"Cerințele juridice exacte sunt aceleași pentru fiecare stat"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "15. Următoarele afirmații în legătură cu luarea deciziei de către pacient, sunt adevărate: [337]",
+					"answers": [
+						"Competența presupune că pacientul are capacitatea mentală de a lua decizii în cee ace privește îngrijirea sa medical",
+						"Un pacient diagnosticat în present cu intoxicație este considerat un pacient competent",
+						"Poate fi considerat un pacient competent cel care nu înțelege situația medical",
+						"Deciziile medicale pentru persoanele &gt; 18 ani sunt luate de părinți",
+						"Deciziile părinților cu privire la copii pot fi anulate legal dacă se consideră că sunt dăunătoare pentru copil"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "16. Alegeți afirmațiile false cu privire la problemele legate de sfârșitul vieții: [338]",
+					"answers": [
+						"Dacă familia și medical cred că eliminarea asistenței este în neconcordanță cu ceea ce și-ar dori pacientul, medical poate elimina asistența respiratorie",
+						"Eutanasia este administrarea active de către familie a unui agent letal unui pacient",
+						"Scopul eutanasiei este de a pune capăt unei suferințe",
+						"Dorința de asigurare a suportului vital poate fi descrisă într-un testament",
+						"Suiciderea asistată de medic este legală în toată regiunea SUA"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "17. Referitor la moarte (în context etic) putem afirma următoarele: [338]",
+					"answers": [
+						"Absența activității pe EEG definește moartea cerebrală",
+						"Moartea cerebrală se definește ca absența reversibilă a activității întregului creier, care durează &gt; 6 h",
+						"Pacienții hipotermici trebuie încălziți până la o temperatură sub cea normală a corpului pentru a putea declara decesul",
+						"Moartea cardică poate fi afrimată doar în contextul incapacității de a restabili o bătaie cardiacă spontană la un pacient asistolic",
+						"Sindromul Guillain – Barre poate imita moartea cerebrală"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62dfe91c2d4b7900119b387f",
+					"text": "18. Cu privire la donarea de organe, afirmăm următoarele, cu excepția: [338]",
+					"answers": [
+						"Pacienții se pot declara donatori de organe înainte de moarte",
+						"Pacienții sau familiile pot defini exact ce organe pot fi donate",
+						"În caz de neoplasm cu diseminare generalizată pacientul poate dona în urma unor investigații amănunțite organele",
+						"Pacienții cu HIV sunt considerați inadecvați pentru transplant",
+						"Vârsta &gt; 80 de ani nu împiedică pacientul să fie donator"
+					]
+				},
+				{
+					"pages": [
+						319
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "1. Alegeți afirmația adevărată cu privire la schizofrenie: [319]",
+					"answers": [
+						"Apare în adolescența precoce sau la vârsta adultului tânăr",
+						"Apare, în mod tipic, în adolescența târzie sau la vârsta adultului tânăr",
+						"Existența unui symptom, precum halucinațiile, poate pune diagnosticul",
+						"Diagnosticul necesită persistența simptomelor pe mai mult de 12 luni",
+						"Simptomele negative (retragerea social, apatia, anhedonia) pot stabili individual diagnosticul"
+					]
+				},
+				{
+					"pages": [
+						319
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "2. Care dintre următoarele afirmații sunt false, privind medicația antipsihotică: [319]",
+					"answers": [
+						"Antipsihoticele cu potență crescută au mai multe efecte de tip anticolinergic",
+						"Antipsihoticele cu potență crescută au mai puține efecte de tip extrapiramidal",
+						"Antipsihoticele cu potență redusă au mai puține efecte de tip anticolinergic",
+						"Antipsihoticele cu potență redusă au mai multe efecte de tip extrapiramidal",
+						"Antipsihoticele se mai gasesc sub denumirea de neuroleptice"
+					]
+				},
+				{
+					"pages": [
+						319
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "3. Următoarele afirmații despre neuroleptice sunt false, cu excepția: [319]",
+					"answers": [
+						"Clorpromazina este un neuroleptic cu potență ridicată",
+						"Loxapina și Haloperidolul sunt neuroleptice atipice",
+						"Antipsihoticele atipice sunt de primă linie în tratamentul de întreținere al tulburărilor psihice",
+						"Neurolepticele cu potență ridicată blochează receptorii dopaminei și serotoninei",
+						"Pentru controlul de urgență al psihozei se administrează neuroleptice cu potență ridicată"
+					]
+				},
+				{
+					"pages": [
+						320
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "4. Referitor la complicațiile tratamentului antipsihotic, selectați afirmațiile adevărate: [320]",
+					"answers": [
+						"În sindromul neuroleptic malign, respective în supradoza de anticolinergice pupilele sunt miotice",
+						"În sindromul serotoninergic reflexele sunt abolite",
+						"Hipertermia malign se prezintă cu piele uscată",
+						"Fizostigmina e tratamentul farmacologic adjuvant în supradoza de anticolinergice",
+						"În sindromul serotoninergic tensiunea arterială este crescută"
+					]
+				},
+				{
+					"pages": [
+						320
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "5. 3 din următoarele afirmații sunt adevărate. Alegeți enunțurile false: [320]",
+					"answers": [
+						"În supradoza de anticolinergice tegumentele sunt uscate",
+						"Zgomotele intestinale sunt diminuate în sindromul serotoninergic",
+						"Dantrolenul reprezintă tratamentul farmacologic adjuvant în hipertermia malign, respectiv sindromul serotoninergic",
+						"Valorile tensiunii arteriale sunt scăzute în sindromul neuroleptic malign",
+						"Tensiunea arterial este crescută în hipertermia malignă"
+					]
+				},
+				{
+					"pages": [
+						320
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "6. Cu privire la tulburările psihotice, selectați afirmațiile false: [320]",
+					"answers": [
+						"Tulburarea delirantă – psihoză caracterizată prin prezența unuia sau mai multor deliruri cu o durată de cel puțin 6 luni",
+						"Tulburarea schizofreniformă – presupune o durată a simptomelor de cel puțin o lună, dar fără să depășească 3 luni",
+						"În tulburarea schizoafectivă, psihoza trebuie să existe în mod distinct în raport cu simptomele affective",
+						"Tulburarea schizoafectivă presupune o psihoză caracterizată prin prezența a cel puțin 3 dintre simptomele schizofreniei",
+						"Tulburare psihotică scurtă, pe o durată de cel puțin o zi, dar fără a depăși o lună"
+					]
+				},
+				{
+					"pages": [
+						321
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "7. Următoarele afirmații despre TDM (tulburarea depresivă majoră) sunt false, cu excepția: [321]",
+					"answers": [
+						"Diagnosticul pozitiv necesită prezența obligatorie a anhedoniei sau a dispoziției depresive",
+						"Poate fi atribuită strict consumului unei substanțe psihoactive",
+						"Rata de recurență a episoadelor depresive e de 55 %",
+						"Ideația suicidală nu face parte din simpomatologia care poate acompania TDM",
+						"Patologic poate fi cauzată de o activitate scăzută în SNC a serotoninei, dopaminei și noradrenalinei"
+					]
+				},
+				{
+					"pages": [
+						321
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "8. Referitor la subtipurile de TDM (tulburarea depresivă majoră), putem menționa următoarele: [321]",
+					"answers": [
+						"TDM cu simptome atipice este subtipul cel mai puțin întâlnit al depresiei majore",
+						"TDM cu simptome psihotice este asociată cu depresie ce începe în timpul sarcinii",
+						"TDM cu debut peripartum începe în timpul nașterii sau în primele 2 săptămâni după aceasta",
+						"TDM cu ritmicitate sezonieră se tratează prin fototerapie",
+						"Hipersensibilitatea la rejecție e frecventă în TDM cu simptome atipice"
+					]
+				},
+				{
+					"pages": [
+						321
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "9. Privind SNM (sindromul neuroleptic malign) putem nega următoarele: [321]",
+					"answers": [
+						"Complicație frecventă a medicației antipsihotice",
+						"Apare după câteva luni de la inițierea medicației",
+						"Caracterizat prin ”F E V E R”– febră, encefalopatie, semne vitale stabile, CPK crescut, rigiditate musculară",
+						"Administrarea de medicație antipiretică este indicată",
+						"Dantrolenul utilizat în tratamentul SNM este un agonist serotoninergic"
+					]
+				},
+				{
+					"pages": [
+						322
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "10. Următoarele afirmații despre tulburarea afectivă bipolară sunt adevărate, exceptând: [322]",
+					"answers": [
+						"Episoade ciclice de depresie și manie, între care pacientul nu este capabil de a funcționa normal",
+						"Este de 3 tipuri",
+						"Tipul I – cu cel puțin un episod maniacal",
+						"Episoadele hipomaniacale cu 3 sau mai multe simptome de manie",
+						"Nu e necesară internarea pacienților când prezintă simptome psihotice"
+					]
+				},
+				{
+					"pages": [
+						322
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "11. Despre medicația antidepresivă putem susține cele ce urmează: [322]",
+					"answers": [
+						"Hyperium perforatum – folosit ca agent de primă linie in Statele Unite",
+						"Bupropionul este un inhibitor al recaptării norepinefrinei și dopaminei",
+						"Antidepresivele tetraciclice, precum amitriptilina, inhibă recaptarea noradrenalinei",
+						"Fluoxetina este tratamentul de primă linie pentru depresie",
+						"IMAO sunt cel mai des folosite în depresie"
+					]
+				},
+				{
+					"pages": [
+						322
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "12. Tratamentul de primă linie pentru depresia comorbidă cu durere neuropată, reprezentat de către: [322]",
+					"answers": [
+						"SNRI (inhibitori selectivi ai recaptării serotoninei și noradrenalinei)",
+						"ADT (antidepresive triciclice)",
+						"IMAO (inhibitori ai monoaminoxidazei)",
+						"SSRI (inhibitori selectivi ai recaptării serotoninei)",
+						"Suntătoarea"
+					]
+				},
+				{
+					"pages": [
+						323
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "13. Privind tratamentul tulburării affective bipolare, următoarele enunțuri sunt false: [323]",
+					"answers": [
+						"Sunt utili stabilizatorii dispoziției afective",
+						"Litiul este utilizat frecvent ca preparat de primă linie în tratamentul pe termen scurt al maniei",
+						"Se administrează stabilizatori ai dispoziției afective (risperidonă) unic sau în combinație cu antipsihotice atipice",
+						"Administrarea antidepresivelor (la un pacient cu tulburare bipolară) în absența stabilizatorilor dispoziției affective poate ameliora un episode maniacal",
+						"Efectele adverse ale litiului includ și mononucleoza infecțioasă (virusul Ebstein Barr)"
+					]
+				},
+				{
+					"pages": [
+						323
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "14. Următoarele afirmații despre tulburarea de panică sunt false, cu excepția: [323]",
+					"answers": [
+						"În mod tipic, tulburarea apare în copilărie",
+						"Atacuri de panică recurente și imprevizibile, care durează minim 30 de minute",
+						"Tratamentul reprezentat de terapia cognitiv – comportamentală poate ajuta",
+						"În tratamentul de scurtă durată al pacientului cu atacuri de panică se folosesc SSRI și SNR",
+						"Benzodiazepinele se folosesc în tratamentul pe termen lung în tratarea atacurilor de panică"
+					]
+				},
+				{
+					"pages": [
+						323
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "15. Cu referire la medicația anxiolitică, se precizează următoarele ca fiind corecte: [323]",
+					"answers": [
+						"Buspirona este o benzodiazepină ce are ca effect advers cefaleea",
+						"Mecanismul de acțiune al alprazolamului este incert",
+						"Clonazepamul și diltiazemul au timp de înjumătățire scurt, fiind utile în atacurile de panică",
+						"GABA fac parte din categoria medicației anxiolitice",
+						"Mai ales în utilizare frecventă, benzodiazepinele, au ca efecte adverse simptome de sevraj ( neliniște, confuzie, insomnie)"
+					]
+				},
+				{
+					"pages": [
+						324
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "16. Următoarele afirmații cu referire la tulburările anxioase sunt greșite: [324]",
+					"answers": [
+						"Tulburarea anxietății generalizate afectează mai frecvent sexul masculine",
+						"Fobia social debutează, în mod tipic, la vârsta adultului tânăr",
+						"În fobia specific, unii pacienți pot prezenta reacție vasovagală în timpul episoadelor",
+						"Tulburarea de anxietate social poate fi tratată și cu ajutorul terapiei cognitiv – comportamentale",
+						"SSRI sunt frecvent eficace în reducerea anxietății în fobia socială"
+					]
+				},
+				{
+					"pages": [
+						324
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "17. Privind tratamentul din tulburările anxiolitice, putem afirma: [324]",
+					"answers": [
+						"Buspirona este antagonist al benzodiazepinelor",
+						"Supradozarea de benzodiazepine este foarte ușor de obținut deoarece o doză mica poate fi letală",
+						"Flumazenilul poate anula efectele supradozei de BZD",
+						"Buspirona este considerată mai puțin sigură decât BZD în tratamentul de lungă durată",
+						"Există risc crescut de dependență la BZD la administrarea pe termen lung"
+					]
+				},
+				{
+					"pages": [
+						324
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "18. Alegeți afirmația adevărată cu privire la TOC (tulburarea obsesiv – compulsivă): [324]",
+					"answers": [
+						"Are o componentă genetică infima",
+						"Debutul în jurul vârstei de 40 de ani",
+						"Prevalența femei &gt; bărbați",
+						"Tulburările comorbide associate : 70 % tulburare de dispoziție afectivă, 30 % ticuri",
+						"30% tulburări de personalitate obsesiv – compulsivă și ticuri, respective 70 % tulburări de dispoziție afectivă"
+					]
+				},
+				{
+					"pages": [
+						325
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "19. Cu privire la tulburarea obsesiv – compulsivă și tulburările înrudite, nu putem susține următoarele, cu excepția: [325]",
+					"answers": [
+						"Tulburarea dismorfică corporală debutează, în mod tipic, la adultul tânăr",
+						"Colecționarismul pathologic, în general, ușor de tratat prin terapie cognitiv – comportamentală",
+						"La pacienții cu TOC, compulsiile și obsesiile sunt nedorite și suprărătoare",
+						"Prevalența în cazul tulburării dismorfice corporale este mai mare la pacienții cu operații estetice, respective la rudele de gradul al II –lea",
+						"Tulburarea de tezaurizare compulsivă poartă numele de colecționarism pathologic"
+					]
+				},
+				{
+					"pages": [
+						325
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "20. Următoarele afirmații privind tulburarea de adaptare sunt false: [325]",
+					"answers": [
+						"Debutează în primele 2 luni de la evenimentul declanșator",
+						"Se remite în decursul unui an",
+						"Se produce o afectare nesemnificativă în capacitatea de funcționare",
+						"Ca răspuns la anumite evenimente sau situații stresante",
+						"Tratamentul poate include și antidepresive"
+					]
+				},
+				{
+					"pages": [
+						325
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "21. Referitor la PTSD (tulburarea de stres post-traumatic) 3 dintre afirmații sunt false. Selectați- le pe cele adevărate: [325]",
+					"answers": [
+						"Simptomele apar în mod tipic, în câteva luni de la eveniment și trebuie să dureze minim 3 luni",
+						"Se recomandă retrăirea momentului, contextului în care a avut loc evenimentul",
+						"Evenimentul trebuie să fie trait obligatoriu în mod direct de către pacient",
+						"Antipsihotice atipice în cazul tratamentului refractor la SSRI sau SNRI",
+						"Prazosinul e util în ameliorarea coșmarurilor"
+					]
+				},
+				{
+					"pages": [
+						326
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "22. Următoarele informații în legătură cu tulburarea conversivă sunt adevărate: [326]",
+					"answers": [
+						"Debutează cronic, insidios",
+						"Tratamentul de primă linie este reprezentat de fizioterapie",
+						"Medicația SSRI și SNRI e uneori utilă",
+						"Apariția deficitelor senzoriale datorate unei condiții medicale identificate",
+						"Tratamentul de primă linie e reprezentat de antidepresive triciclice"
+					]
+				},
+				{
+					"pages": [
+						326
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "23. Privind tulburarea cu simptome somatice putem susține următoarele, cu excepția: [326]",
+					"answers": [
+						"Pacienții se supun multor analize și procedure medicale inutile",
+						"Dintre simptomele somatice nu fac parte simptomele neurologice",
+						"Pacienții pot prezenta libido scăzut",
+						"Tratamentul nu constă și în terapie cognitive – comportamentală",
+						"Pacientul trebuie sfătuit să apeleze la minim un singur doctor de familie"
+					]
+				},
+				{
+					"pages": [
+						326
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "24. Referitor la Sindromul Munchausen putem afirma următoarele, exceptând: [326]",
+					"answers": [
+						"Psihoterapia este considerate inutilă în cadrul acestei tulburări",
+						"Poartă denumirea și de tulburare factică",
+						"Există un beneficiu evident pentru pacient",
+						"În varianta S. Munchausen ,”by proxy ”, părinții încearcă să-i facă pe copiii lor să para a suferi de o anumită boală",
+						"Pacienții recunosc producerea deliberată a simptomelor"
+					]
+				},
+				{
+					"pages": [
+						327
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "25. Alegeți afirmațiile adevărate cu privire la anorexia nervoasă: [327]",
+					"answers": [
+						"Pacienții depistați cu depresie necesită tratament cu SNRI",
+						"Situația socio – economică precară este considerată un factor de risc",
+						"Majoritatea pacienților sunt de sex feminin",
+						"Aritmiile (mai ales atriale) sunt o posibilă complicație",
+						"Terapia farmacologică nu și-a dovedit utilitatea"
+					]
+				},
+				{
+					"pages": [
+						327
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "26. Despre bulimia nervoasă nu putem susține următoarele: [327]",
+					"answers": [
+						"Persoanele care suferă de această patologie au, în general, o greutate corporală scăzută",
+						"La examinarea fizică se poate observa lanugo, piele uscată, oligomenoree",
+						"Tratamentul constă în consiliere nutrițională și psihoterapie",
+						"Medicația aprobată de FDA pentru bulimie este reprezentată de prazosin",
+						"Farmacoterapia cu SNRI sau ADT poate ajuta strategiile de modificare ale comportamentului"
+					]
+				},
+				{
+					"pages": [
+						327
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "27. Cu privire la tulburările de comportament alimentar susținem următoarele: [327]",
+					"answers": [
+						"Tulburarea de alimentație compulsivă are ca tratament de primă linie medicația de tip SSRI",
+						"Sindromul de realimentare se caracterizează prin : hipomagnezemie, hipercalcemie, hipofosfatemie",
+						"Printre complicațiile sindromului de alimentare se numără aritmiile (mai ales de tip ventricular)",
+						"Sindromul de realimentare este de fapt o cpmplicație a anorexiei nervoase",
+						"În bulimia nervoasă examinarea fizică poate releva eroziunea smalțului dentar, cicatrici ale tegumentului, inflamația glandelor parotide"
+					]
+				},
+				{
+					"pages": [
+						328
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "28. Următoarele informații cu privire la tulburările de personalitate sunt false, cu excepția: [328]",
+					"answers": [
+						"Apar, în mod tipic, la adultul tânăr",
+						"Din grupul B fac parte tipul Borderline și Schizoid",
+						"Tipul histrionic aparține grupului B",
+						"Se clasifică în 3 mari grupe: A – bizar, B – dramatic, C – anxios",
+						"Comportamentul temător (extravagant) caracterizează grupul C"
+					]
+				},
+				{
+					"pages": [
+						328
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "29. Privind Grupul B al tulburărilor de personalitate nu putem afirma următoarele: [328]",
+					"answers": [
+						"Tipul Borderline este mai frecvent la sexul masculin, pacienți în general sub vârsta de 18 ani",
+						"Cu referire la tipul Antisocial putem susține că pacienții au o gândire de tip ”alb și negru”",
+						"Tipul Narcisist se caracterizează prin: grandiozitate, lipsa empatiei, invidie",
+						"Despre tipul Histrionic notăm : acesta consideră relațiile mai profunde decât sunt ele de fapt",
+						"Grupul B, denumit ” extravagant” (anxios sau temător)"
+					]
+				},
+				{
+					"pages": [
+						328
+					],
+					"correct": "h",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "30. Următoarele afirmații despre grupele (A, B, C) de tulburări de personalitate sunt adevărate: [328]",
+					"answers": [
+						"Tratamentul în grupul A poate fi reprezentat de psihoterapie suportivă și de antipsihotice",
+						"Tipul obsesiv – compulsiv suferă de frica de a rămâne singur",
+						"Tipul evitant se tratează prin psihoterapie initial de grup, ulterior individual",
+						"Tipul schizotipal se manifesă prin lipsa interesului pentru relații sexuale",
+						"Tipul obsesiv – compulsiv are un tipar zgârcit, cu dificultate de a lucre cu alții, acumularede obiecte nefolositoare"
+					]
+				},
+				{
+					"pages": [
+						329
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "31. Afirmațiile false cu privire la abuzul de substanțe sunt următoarele, cu excepția: [329]",
+					"answers": [
+						"Pentru depistarea abuzului de halucinogene se poate utiliza chestionarul ”CAGE”",
+						"Sevrajul de alcool dă bradicardie, respectiv delirium tremens",
+						"Printre complicațiile utilizării cronice ale alcoolului se numără și ciroza",
+						"Encefalopatia Wernicke – Korsakoff este complicație a utilizării cronice de cocaină",
+						"Sevrajul de metamfetamină dă anxietate și oboseală"
+					]
+				},
+				{
+					"pages": [
+						329
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "32. Cu privire la tratamentul în abuzul de substanțe se cunosc următoarele ca fiind adevărate: [329]",
+					"answers": [
+						"BZD previn delirium tremens în cursul sevrajului de alcool",
+						"Tratamentul în abuzul de cocaină este reprezentat de BZD",
+						"În cursul abuzului de opioizi tratamentul este reprezentat de metadonă",
+						"Naltrexona produce greață și vărsături dacă e administrate înaintea consumului de alcool",
+						"Nicotina transdermică (plasturi) sau masticabilă (gumă) pentru a reduce nevoia imperioasă de a fuma"
+					]
+				},
+				{
+					"pages": [
+						329
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "33. Despre sevraj, în cazul abuzului de substanțe putem afirma următoarele, exceptând: [329]",
+					"answers": [
+						"În cazul alprazolamului sevrajul se manifestă prin convulsii",
+						"Sevrajul în cazul cocainei e reprezentat de depresie",
+						"Substanțele halucinogene (metamfetamina, metilfenidat) dau simptome minimale la sevraj",
+						"Sevrajul de nicotine se manifestă prin insomnie, nervozitate, cefalee, scădere ponderală",
+						"PCP (fenciclidina) – sevrajul se manifestă prin comportament violent lent instalat"
+					]
+				},
+				{
+					"pages": [
+						330
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "34. În cazul abuzului de substanțe, pacienții care reușesc sa-și modifice comportamentul, trec prin următoarea succesiune de etape: [330]",
+					"answers": [
+						"Precontemplarea, contemplarea, pregătirea, acțiunea, menținerea",
+						"Pregătirea, precontemplarea, contemplarea, acțiunea, menținerea",
+						"Contemplarea, precontemplarea, acțiunea, pregătirea, menținerea",
+						"Acțiunea, precontemplarea, contemplarea, pregătirea, mențierea",
+						"Menținerea, acțiunea, pregătirea, contemplarea, precontemplarea"
+					]
+				},
+				{
+					"pages": [
+						330
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "35. Privind intoxicația prin abuzul de substanțe, afirmăm următoarele, exceptând: [330]",
+					"answers": [
+						"LSD e manifestă prin halucinații, mioză, tahicardie, tremurături",
+						"Marijuana dă lentoare psihomotorie, gură uscată, apetit alimentar scăzut",
+						"Opiozii dau senzație de euforie, midriază, depresie respiratory",
+						"Fenciclidina provoacă nistagmus, atât vertical, cât și orizontal",
+						"Alcoolul provoacă amnezie retrograde"
+					]
+				},
+				{
+					"pages": [
+						330
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "62dfe8ee2d4b7900119b3688",
+					"text": "36. Următoarele afirmații în legătură cu eventualele complicații în utilizarea cronică de substanțe sunt adevărate: [330]",
+					"answers": [
+						"Cafeina poate induce moarte subită de cauză cardiac",
+						"Opioizii pot avea ca și complicație infecțiile parenterale prin administrarea intramusculară a drogurilor",
+						"Condumul acut de fenciclidina se complică cu incapacitatea de a evoca cuvinte",
+						"Marijuana induce sindrom amotivațional",
+						"Ketamina induce psihoză ”flashback –uri”"
+					]
+				},
+				{
+					"pages": [
+						295
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "1. Următoarele afirmații cu privire la vârsta gestațională sunt adevărate: [295]",
+					"answers": [
+						"se poate calcula în funcție de data ultimei menstruații a mamei",
+						"vârsta gestațională este cu 2 săptămani mai mare decât vârsta embrionară",
+						"vârsta gestațională este cu 3 săptămani mai mare decât vârsta embrionară",
+						"regula lui Naegel poate fi folosită pentru a estima data nașterii, pornind de la data ultimei menstruații",
+						"dezvoltarea embrionară și fetală durează aproximativ 41 de săptămâni"
+					]
+				},
+				{
+					"pages": [
+						295
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "2. În săptămâna 12 de gestațoie au loc următoarele modificări: [295]",
+					"answers": [
+						"începe formarea cordului",
+						"se distinge ușor sexul fetal",
+						"se formează plămânii",
+						"se deschid ochii",
+						"se percep primele mișcări fetale"
+					]
+				},
+				{
+					"pages": [
+						295
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "3.Următoarele afirmații sunt false: [295]",
+					"answers": [
+						"în timpul sarcinii nu sunt recomandate exercițiile fizice de intensitate moderată",
+						"relațiile sexuale nu pot fi continuate ân timpul sarcinii",
+						"maturitatea fetală este atinsă la aproximativ 38 de săptămîni",
+						"teratogenii fie vor ucide fătul, fie nu vor avea niciun efect în primele 2 săptămîni de gestație",
+						"teratogenii fie vor ucide fătul, fie nu vor avea niciun efect în primele 4 săptămîni de gestație"
+					]
+				},
+				{
+					"pages": [
+						296
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "4. Pe perioada sarcinii, sunt considerate modificări fiziologice ale aparatului cardiovascular următoarele: [296]",
+					"answers": [
+						"debitul cardiac crește cu 40%",
+						"debitul cardiac crește cu 20%",
+						"crește nivelul de cotizol",
+						"crește cererea de O2 miocardic",
+						"crește tensiunea sistolică și diastolică"
+					]
+				},
+				{
+					"pages": [
+						296
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "5. Pe perioada sarcinii, sunt considerate modificări fiziologice ale aparatului ranal următoarele, cu excepția: [296]",
+					"answers": [
+						"crește fluxul plasmatic renal și rata de filtrare glomerurală cu 40%",
+						"crește fluxul plasmatic renal și rata de filtrare glomerurală cu 60%",
+						"scade excreția renală de protein",
+						"scade volumul sangvin și lichidul interstițial",
+						"crește producția de eritrocite"
+					]
+				},
+				{
+					"pages": [
+						296
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "6. În timpul sarcinii sunt considerate normale următoarele manifestări gastrointestinale: [296]",
+					"answers": [
+						"diaree",
+						"sialoree",
+						"motilitate gastrică crescută",
+						"motilitate gastrică scăzută",
+						"diasfagie"
+					]
+				},
+				{
+					"pages": [
+						297
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "7. Efectele insuficienței de calciu în timpul sarcinii sunt următoarele: [297]",
+					"answers": [
+						"deshidratare relative",
+						"mineralizare anormală a oaselor materne",
+						"hipertensiune",
+						"naștere prematură",
+						"greutate scăzută la naștere"
+					]
+				},
+				{
+					"pages": [
+						297
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "8. Femeile aflate în grupul cu risc de nutriție precară sunt reprezentate de: [297]",
+					"answers": [
+						"adolescente",
+						"Femeile cu statut socioeconomic scăzut",
+						"Femeile cu statut socioeconomic crescut",
+						"femeile subponderale",
+						"consumatoarele de droguri"
+					]
+				},
+				{
+					"pages": [
+						297
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "9. Privind testul complet integrat se pot afirma următoarele: [297]",
+					"answers": [
+						"este cel mai sensibil test de screening pentru trisomii",
+						"se efectuează de rutină",
+						"are cea mai mică rată de rezultate fals-pozitive",
+						"rezultatele anormale din primul trimestru detrmină frecvent decizia de a abandona testele din al doilea trimestru și de a efectua un test mai invaziv pentru a obține un răspuns definitiv",
+						"dă adesea rezultate fals-negative"
+					]
+				},
+				{
+					"pages": [
+						298
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "10. Afirmația falsă cu privire la cvadruplu test este următoarea: [298]",
+					"answers": [
+						"se poate realiza între săptămânile 16-18 de sarcină",
+						"presupune dozarea de: a-fetoproteină serică maternă, hCG, estriol neconjugat, inhibină A serică maternal",
+						"evalează riscul de defecte de tub neural",
+						"evalează riscul pentru trisomiile 18 și 21",
+						"se poate realiza între săptămânile 23-25 de sarcină"
+					]
+				},
+				{
+					"pages": [
+						298
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "11. În ce săptămâni de sarcină se va realiza cvadruplu test? [298]",
+					"answers": [
+						"32-37",
+						"24-28",
+						"18-20",
+						"16-18",
+						"10-14"
+					]
+				},
+				{
+					"pages": [
+						298
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "12. La vizita inițială efectuată în timpul sarcinii se efectuează următoarele analize de laborator: [298]",
+					"answers": [
+						"grup sagvin, fără Rh",
+						"screening pentru gonoree",
+						"screening pentru HIV",
+						"antigenul hepatitic B de suprafață (AgHBs)",
+						"citologie Pap"
+					]
+				},
+				{
+					"pages": [
+						299
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "13. Diabetul zaharat gestațional: [299]",
+					"answers": [
+						"se defineşte ca fiind intoleranța la glucoză cu debut recent care survine pe parcursul sarcinii (după 24 de săptămâni)",
+						"diabetul zaharat gestațional apare cel mai frecvent în trimestrele doi sau trei",
+						"se obiectivează printr-o glicemie a jeun &gt;126 mg/dL sau test de toleranță alterată la glucoză efectuat între 24-28 săptămâni de gestatie",
+						"se caracterizează prin intoleranţă la glucoză cu debut recent care survine pe parcursul sarcinii (înainte 24 de săptămâni)",
+						"apare cel mai frecvent în primul trimestru de sarcină"
+					]
+				},
+				{
+					"pages": [
+						299
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "14. Se consideră factori de risc pentru diabetul zaharat gestațional, cu excepția: [299]",
+					"answers": [
+						"vârsta &lt;25 de ani",
+						"obezitate",
+						"avorturi recurente",
+						"nașterea anterioară a unui făt normoponderal",
+						"sindromul ovarelor polichistice"
+					]
+				},
+				{
+					"pages": [
+						299
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "15. Tratamentul diabetului zaharat gestațional implică: [299]",
+					"answers": [
+						"evitarea exercițiilor fizice",
+						"controlul strict al glicemiei prin alimentație și exerciții fizice",
+						"insulina se administrează pacientelor care au rezultate favorabile în timpul terapiei non- farmacologice",
+						"insulina se administrează pacientelor care nu au rezultate favorabile în timpul terapiei non- farmacologice",
+						"administrarea insulinei are ca scop menținerea glicemiei a jeune la &gt;126 mg/dL"
+					]
+				},
+				{
+					"pages": [
+						300
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "16. Testul de toleranţă la glucoză la 3 ore se consideră anormal dacă sunt prezente 2 dintre următoarele valori: [300]",
+					"answers": [
+						"glicemia la 3 ore ≥180 mg/dL",
+						"glicemia la 2 ore ≥150 mg/dL",
+						"glicemia à jeun ≥120 mg/dL",
+						"glicemia la 1 ora ≥180 mg/dL",
+						"glicemia la 2 ore ≥95 mg/dL"
+					]
+				},
+				{
+					"pages": [
+						300
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "17. Complicațiile fetale ale diabetului zaharat pregestațional sunt: [300]",
+					"answers": [
+						"defecte cardiace",
+						"defecte ale tubului neural",
+						"preeclampsie",
+						"cetoacidoză diabetică",
+						"macrosomie"
+					]
+				},
+				{
+					"pages": [
+						300
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "18. Preeclampsia: [300]",
+					"answers": [
+						"are cauze cunoscute",
+						"se dezvoltă după 20 de săptămâni de gestație",
+						"nuliparitatea reprezintă un factor de risc",
+						"diabetul zaharat nu reprezintă un factor de risc",
+						"apare la 50% din sarcini"
+					]
+				},
+				{
+					"pages": [
+						301
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "19. Tratamentul preeclampsiei constă în: [301]",
+					"answers": [
+						"mamele cu hipertensiune arterială preexistentă trebuie tratate medicamentos pentru hipertensiunea arterială &gt;140/95 mmHg; labetalol sau metildopa sunt utilizate inițial",
+						"se vor folosi inhibitori ai enzimei de conversie a angiotensinei (IECA) sau blocanți ai receptorilor pentru angiotensină (BRA) pentru a stabiliza tensiunea arterială",
+						"singurul remediu definitiv pentru preeclampsie este nașterea",
+						"în cazul unei forme ușoare și mult înainte de termen, se va prescrie restricţionarea activității, examinari materne frecvente, evaluarea proteinuriei și testul fetal non-stres de două ori pe săptămână",
+						"în cazul unei forme severe și mult înainte de termen, monitorizaţi îndeaproape în regim de spitalizare şi menţineţi tensiunea arterială &lt;130/105 mmHg cu tensiunea arterială diastolică &gt;90 mmHg"
+					]
+				},
+				{
+					"pages": [
+						301
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "20. Complicații ale preeclampsiei sunt următoarele cu excepția: [301]",
+					"answers": [
+						"convulsii",
+						"accident vascular cerebral",
+						"edem pulmonar",
+						"coagulare intravasculară diseminată",
+						"insuficiență cardiacă"
+					]
+				},
+				{
+					"pages": [
+						301
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "21. Eclampsia: [301]",
+					"answers": [
+						"reprezintă regresia preeclampsiei și apariția crizelor convulsive materne",
+						"reprezintă progresia preeclampsiei determinând apariția crizelor convulsive materne",
+						"convulsiile sunt precedate de cefalee, tulburări de vedere și dureri în etajul abdominal superior",
+						"nașterea nu reprezintă o soluție definitivă de tratament",
+						"nu se administrează diazepam pentru controlul crizelor convulsive"
+					]
+				},
+				{
+					"pages": [
+						302
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "22. Despre greața și vărsăturile materne sunt adevărate următoarele afirmații: [302]",
+					"answers": [
+						"majoritatea femeilor însărcinate prezintă greață și vărsături în al treilea trimestru de sarcină",
+						"majoritatea femeilor însărcinate prezintă greață și vărsături în primul trimestru de sarcină",
+						"simptomele nu se ameliorează pe toată durata sarcinii",
+						"simptomele se amelioreză până la debutul celui de-al doilea trimestru",
+						"sunt determinate de scăderea hCG-ului"
+					]
+				},
+				{
+					"pages": [
+						302
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "23. Despre tromboza venoasă profundă (TVP) maternă este fals: [302]",
+					"answers": [
+						"riscul de tromboză venoasă profundă crește în timpul sarcinii din cauza stazei venoase și a creşterii relative a factorilor de coagulare circulanţi",
+						"diagnosticul clinic este mai facil la pacientele gravide",
+						"terapia cu heparină se poate complica cu hemoragie sau trombocitopenie",
+						"warfarina se poate utiliza în siguranță în perioada sarcinii",
+						"anticoagulantele trebuie continuate după naștere timp de 6 săptămâni"
+					]
+				},
+				{
+					"pages": [
+						302
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "24. Infecțiile materne are tractului urinar: [302]",
+					"answers": [
+						"sunt mai frecvente în timpul sarcinii",
+						"sunt rar întâlnite în timpul sarcinii",
+						"simptomele nu includ niciodată disurie",
+						"simptomele sunt similare pacientelor care nu sunt gravide",
+						"urocultura nu indică floră bacteriană"
+					]
+				},
+				{
+					"pages": [
+						303
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "25. Sindromul alcoolic fetal nu poate determina: [303]",
+					"answers": [
+						"aspirație de meconiu",
+						"retard mental",
+						"neuropatie senzorială și motorie",
+						"anomalii faciale",
+						"restricție de creștere intrauterină"
+					]
+				},
+				{
+					"pages": [
+						303
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "26. Consumul de tutun în timpul sarcinii poate determina: [303]",
+					"answers": [
+						"aspirație de meconiu",
+						"anomalii faciale",
+						"avort spontan",
+						"premuturitate",
+						"dezlipirea prematură a placentei nromal inserate"
+					]
+				},
+				{
+					"pages": [
+						303
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "27. Anomaliile membrelor pot o urmare a administrării de: [303]",
+					"answers": [
+						"IECA",
+						"talidomidă",
+						"diazepam",
+						"litiu",
+						"fenobarbital"
+					]
+				},
+				{
+					"pages": [
+						304
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "28. Aspectul de “bebeluș ca o brioşă cu afine\" apare în: [304]",
+					"answers": [
+						"toxoplasmoză",
+						"rujeolă",
+						"rubeolă",
+						"sifilis",
+						"gonoree"
+					]
+				},
+				{
+					"pages": [
+						304
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "29. Următoarele afirmații sunt adevărate despre rujeolă: [304]",
+					"answers": [
+						"determină risc crescut de anemie neonatală",
+						"diagnosticul clinic la mamă este confirmat prin anticorpii IgM sau IgG după dezvoltarea erupției cutanate",
+						"mama trebuie imunizată înainte de a încerca să rămână însărcinată",
+						"imunogobuline serice pot fi administrate mamei în caz de infecție în timpul sarcinii",
+						"vaccinul este indicat în timpul sarcinii"
+					]
+				},
+				{
+					"pages": [
+						304
+					],
+					"correct": "r",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "30. Sifilisul are următoarele efecte asupra fătului: [304]",
+					"answers": [
+						"anemie neonatală",
+						"erupții cutanate urmate de descuamarea mâinii/piciorului",
+						"anomalii ale SNC",
+						"pneumonie",
+						"hepatită"
+					]
+				},
+				{
+					"pages": [
+						305
+					],
+					"correct": "f",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "31. Afirmațiile următoare cu privire la sarcina ectopică sunt adevărate: [305]",
+					"answers": [
+						"reprezintă implantarea fătului în uter",
+						"un factor de risc poate fi sarcina ectopică anterioară",
+						"în caz de ruptură, durerea devine severă și poate fi însoțită de hipotensiune",
+						"β-hCG-ul scăzut comparativ cu valoarea estimată normală pentru vârsta de sarcină ar trebui să ridice suspiciunea de sarcină ectopică",
+						"absența unei sarcini vizibile intrauterin ar trebui să crească suspiciunea"
+					]
+				},
+				{
+					"pages": [
+						305
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "32. Cele mai frecvente cauze ale sângerării vaginale în sarcina precoce sunt: [305]",
+					"answers": [
+						"amenințarea sau iminența de avort spontan",
+						"patologia cervico-vaginală",
+						"sângerarea fiziologică (legată de implantare)",
+						"sarcina ectopică",
+						"boala pelvină inflamatorie"
+					]
+				},
+				{
+					"pages": [
+						305
+					],
+					"correct": "5",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "33. Afirmațiile următoare cu privire la avortul spontan sunt false: [305]",
+					"answers": [
+						"reprezintă terminarea non-selectivă a sarcinii &lt;20 săptămâni gestaționale",
+						"sunt de obicei rezultatul unor anomalii cromozomiale fetale",
+						"reprezintă terminarea non-selectivă a sarcinii &lt;6 săptămâni gestaționale",
+						"vârsta maternă înaintată poate fi un factor de risc",
+						"fumatul și consumul de alcool nu pot duce la un avort spontan"
+					]
+				},
+				{
+					"pages": [
+						306
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "34. Moartea fetală intrauterină: [306]",
+					"answers": [
+						"reprezintă moartea fătului după 26 de săptămâni de gestație",
+						"reprezintă moartea fătului după 20 de săptămâni de gestație",
+						"este detreminată de anomalii ale placentei sau ale cordonului ombilical care apar secundar unor afecțiuni materne",
+						"ultrasonografia decelează prezența unui făt intrauterin neviabil, fără activitate cardiacă prezentă",
+						"gravida percepe mișcări active fetale"
+					]
+				},
+				{
+					"pages": [
+						306
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "35. Cele mai frecvente cauze pentru restricția de creștere intrauterină simetrică sunt: [306]",
+					"answers": [
+						"infecțiile congenitale",
+						"sarcina multiplă",
+						"consumul matern de droguri",
+						"anomaliile cromozomiale",
+						"insuficienţa uteroplacentară"
+					]
+				},
+				{
+					"pages": [
+						306
+					],
+					"correct": "9",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "36. Restricția de creștere intrauterină asimetrică: [306]",
+					"answers": [
+						"apare în 20% din cazuri",
+						"apare în 80% din cazuri",
+						"determină reducerea dimensiunilor membrelor",
+						"determină reducerea dimensiunilor craniului",
+						"determină reducerea dimensiunilor abdomenului"
+					]
+				},
+				{
+					"pages": [
+						307
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "37. Tratamentul restricției de creștere intrauterină: [307]",
+					"answers": [
+						"suplimentarea nutrițională",
+						"terapia cu O2 și repaus fizic",
+						"exerciții fizice regulate",
+						"nașterea pate fi indusă dacă creșterea fetală încetinește major",
+						"administrarea de corticosteroizi este contraindicată"
+					]
+				},
+				{
+					"pages": [
+						307
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "38. Un oligoamnios în al doilea trimestru se va asocia predominant cu: [307]",
+					"answers": [
+						"anomalii renale fetale",
+						"tromboze placentare",
+						"boală vasculară de colagen",
+						"ruptură prematură de membrane",
+						"cauze idiopatice"
+					]
+				},
+				{
+					"pages": [
+						307
+					],
+					"correct": "8",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "39. Tratamentul hidramniosului cuprinde: [307]",
+					"answers": [
+						"doar amnioreducție dacă sarcina &gt;20 de săptămâni",
+						"doar amnioreducție dacă sarcina &gt;32 de săptămâni",
+						"doar amnioreducție dacă sarcina &lt;32 de săptămâni",
+						"nu se administrează tratament",
+						"doar amnioreducție dacă sarcina de săptămâni &lt;20 de săptămâni"
+					]
+				},
+				{
+					"pages": [
+						308
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "40. Ruptura prematură de membrane (PROM): [308]",
+					"answers": [
+						"reprezintă ruptura spontană a sacului amniotic, cu vărsarea lichidului amniotic înainte de debutul travaliului",
+						"la inspecția vaginului, lichidul amniotic poate fi ușor observat",
+						"la inspecția vaginului, lichidul amniotic nu poate fi observat",
+						"dacă se produce după saptămâna 34 de gestație se administrează doar terapie antibiotică",
+						"dacă se produce după saptămâna 34 de gestație se administrează terapie antibiotică și se induce nașterea"
+					]
+				},
+				{
+					"pages": [
+						308
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 40,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "41. Tratamentul în cazul unui travaliu prematur &gt;34 săptămâni de gestație este: [308]",
+					"answers": [
+						"administrare empirică de ampicilină dacă nașterea este iminentă",
+						"management expectativ dacă maturația plămânilor fetali este dovedită",
+						"terapie tocolitică (cu MgSO4, terbutalină, indometacin sau nifedipină) pentru 48 de ore",
+						"management activ dacă există indicație pentru naștere (ex. stare fetală incertă, infecție, stare maternă alterată)",
+						"glucocorticoizi (betametazonă sau dexametazonă) pentru 48 ore pentru maturarea plămânilor fetali"
+					]
+				},
+				{
+					"pages": [
+						308
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 41,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "42. Tratamentul în cazul unui travaliu prematur &lt;34 săptămâni de gestație este: [308]",
+					"answers": [
+						"atitudine expectativă (doar dacă nu prezintă ruptura prematură de membrane)",
+						"terapie tocolitică (cu MgSO4, terbutalină, indometacin sau nifedipină) pentru 48 de ore",
+						"tocoliza și glucocorticoizii nu prezintă beneficiu dovedit",
+						"glucocorticoizi (betametazonă sau dexametazonă) pentru 48 de ore",
+						"administrare empirică de ceftriaxon pentru profilaxia împotriva infecţiei cu streptococ de grup B"
+					]
+				},
+				{
+					"pages": [
+						309
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 42,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "43. Următoarele sunt tipuri de placenta previa: [309]",
+					"answers": [
+						"jos inserată: placenta este implantată în segmentul superior al uterului, dar nu vine în contact cu orificiul cervical intern până în momentul dilatației",
+						"placenta previa parțială: placenta acoperă parțial orificiul cervical intern",
+						"placenta previa centrală: placenta acoperă complet orificiul cervical intern",
+						"sus inserată: placenta este implantată în segmentul superior al uterului",
+						"jos inserată: placenta este implantată în segmentul inferior al uterului, dar nu vine în contact cu orificiul cervical intern până în momentul dilatației"
+					]
+				},
+				{
+					"pages": [
+						309
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 43,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "44. Următoarele afirmații referitoare la placenta previa sunt adevărate: [309]",
+					"answers": [
+						"nu se asociază cu sângerare vaginală",
+						"placenta previa în antecedente repezintă un factor de risc",
+						"se asociază cu sângerare vaginală",
+						"se practică tactul vaginal în caz de suspiciune diagnostică",
+						"rapusul la pat este contraindicat"
+					]
+				},
+				{
+					"pages": [
+						309
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 44,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "45. Cele mai frecvente cauze de sângerare vaginală după 20 de săptămani de gestație sunt: [309]",
+					"answers": [
+						"placenta previa",
+						"avort spontan",
+						"dezlipirea prematură de placentă normal inserată",
+						"travaliul prematur",
+						"moartea fetală intrauterină"
+					]
+				},
+				{
+					"pages": [
+						310
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 45,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "46. În cazul unei sarcini multiple, complicațiile fetale pot fi, cu excepția: [310]",
+					"answers": [
+						"distocii de prezentație",
+						"paralizie cerebrală",
+						"sindrom de detresă respiratorie",
+						"preeclampsie",
+						"naștere prematură"
+					]
+				},
+				{
+					"pages": [
+						310
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 46,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "47. Tratamentul unei sarcini multiple se va face altfel: [310]",
+					"answers": [
+						"efectuarea săptămânală de teste fetale non-stress începând cu săptămâna 36 de sarcină",
+						"nașterea prematură trebuie prevenită prin administrarea de glucocorticoizi",
+						"în cazul în care ambii feți sunt în prezentație craniană (craniană-craniană), nașterea se va realiza prin cezariană",
+						"în situaţia în care primul făt este în prezentație craniană, iar cel de-al doilea în prezentatie pelviană (craniană-pelviană), naşterea se poate încerca pe cale vaginală",
+						"urmărirea periodică a sarcinii (săptămânală sau la două săptămâni) se va face începând cu săptămâna 16 de gestație"
+					]
+				},
+				{
+					"pages": [
+						311
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 47,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "48. Următoarele afirmații referitoare la testul non-stress sunt adevărate: [311]",
+					"answers": [
+						"este utilizat doar în timpul travaliului",
+						"este utilizat pentru evaluarea prenatală și în timpul travaliului",
+						"se observă efectele mișcărilor fetale asupra frecvenței cardiace fetale",
+						"un test normal, “reactiv”, este considerat ca având zece sau mai multe accelerații ale frecvenței cardiac fetale",
+						"un test normal, “reactiv”, este considerat ca având două sau mai multe accelerații ale frecvenței cardiac fetale"
+					]
+				},
+				{
+					"pages": [
+						312
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 48,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "49. Selectați indicațiile fetale pentru inducerea travaliului: [312]",
+					"answers": [
+						"sarcină depășită cronologic (&gt;40–42 săptămâni),",
+						"ruptură prematură de membrane",
+						"restricție de creștere intrauterină",
+						"orice defect congenital",
+						"corioamniotită"
+					]
+				},
+				{
+					"pages": [
+						312
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 49,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "50. Un scor Bishop crescut se va asocia cu: [312]",
+					"answers": [
+						"o posibilitate crescută de naștere pe cale vaginală",
+						"o rată de efectuare a operației de cezariană de 30%",
+						"ștergerea și dilatația colului uterin, înmuierea acestuia",
+						"poziția cervicală anterioară și o stație fetală avansată",
+						"suferință fetală acută"
+					]
+				},
+				{
+					"pages": [
+						312
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 50,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "51. Reprezintă indicații materne pentru inducerea travaliului: [312]",
+					"answers": [
+						"diabetul zaharat",
+						"travaliul stagnant",
+						"hipertensiunea arterială",
+						"restricția de creștere intrauterină",
+						"ruptura prematură de membrane"
+					]
+				},
+				{
+					"pages": [
+						313
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 51,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "52. Scorul Bishop măsoară: [313]",
+					"answers": [
+						"dilatația (cm)",
+						"consistența colului",
+						"scurtarea și ștergerea colului (%)",
+						"poziția colului",
+						"frecvența cardiacă fetală"
+					]
+				},
+				{
+					"pages": [
+						313
+					],
+					"correct": "6",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 52,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "53. Stadiul 2 al travaliului: [313]",
+					"answers": [
+						"începutul îl reprezintă contrațiile uterine",
+						"sfarșitul îl reprezintă expulzia placentei",
+						"sfarșitul îl reprezintă expulzia fătului",
+						"începutul îl reprezintă dilatația completă a colului (10 cm)",
+						"placenta se separă de pereții uterului"
+					]
+				},
+				{
+					"pages": [
+						313
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 53,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "54. Prezentația pelviană: [313]",
+					"answers": [
+						"este cea mai comună prezentație distocică",
+						"este rar întalnită",
+						"prezentația pelvină decompletă (francă): coapsele sunt flectate pe abdomen, iar genunchii în extensie",
+						"prezentația pelvină completă: coapsele și genunchii sunt în flexie",
+						"prezentația pelvină incompletă: coapsele și genunchii sunt în flexie"
+					]
+				},
+				{
+					"pages": [
+						314
+					],
+					"correct": "m",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 54,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "55. Operația cezariană verticală poate fi utilizată atunci când: [314]",
+					"answers": [
+						"fătul este situat în prezentație transversală",
+						"adeziunile, fibroamele uterine împiedică accesul în segmentul superior al uterului",
+						"în caz de cancer de col sau nașterea post-mortem",
+						"dacă este planificată o histerectomie după nașterea fătului",
+						"fătul este situat în prezentație frontal"
+					]
+				},
+				{
+					"pages": [
+						314
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 55,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "56. Complicaţiile unei distocii de prezentație sunt: [314]",
+					"answers": [
+						"infecție și sepsis",
+						"blocarea capului fetal",
+						"abruptio placentae",
+						"tromboembolism",
+						"placenta accrete"
+					]
+				},
+				{
+					"pages": [
+						314
+					],
+					"correct": "q",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 56,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "57. Indicațiile combinate materne și fetale ale operației de cezariană sunt: [314]",
+					"answers": [
+						"eșec de progres al travaliului",
+						"placenta previa",
+						"dezlipire prematură de placentă anormal inserată",
+						"disproporție cefalo-pelvică",
+						"prolabare de cordon ombilical"
+					]
+				},
+				{
+					"pages": [
+						315
+					],
+					"correct": "b",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 57,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "58. In cadrul scorului Apgar, următoarele criterii primesc câte 2 puncte: [315]",
+					"answers": [
+						"frecvența cardiacă &lt;100 bpm",
+						"plâns puternic",
+						"tonus muscular slab",
+						"respirații regulate",
+						"mișcări active"
+					]
+				},
+				{
+					"pages": [
+						315
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 58,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "59. Despre hemoragia postpartum, este adevărat: [315]",
+					"answers": [
+						"se datorează atoniei uterine în majoritatea cazurilor",
+						"se consideră anormală o pierdere de sânge de &gt;500 mL/24 ore după o naștere pe cale vaginală sau &gt;1.000 mL/24 ore după operația cezariană",
+						"resturile placentare sunt cauza celor mai abundente pierderi sanguine postpartum",
+						"la ultrasonografie putem observa zone endometriale subțiate",
+						"la examinarea corpului uterin se pot observa lacerații"
+					]
+				},
+				{
+					"pages": [
+						315
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 59,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "60. Tratamentul hemoragiei postpartum cuprinde: [315]",
+					"answers": [
+						"masaj uterului și administrarea de oxitocină pentru a ajuta la creșterea tonusului uterin și la scăderea intensității hemoragiei",
+						"în caz de hipertensiune arterială, se poate administra metilergometrină",
+						"dilatarea și curetajul uterin (D&C) nu elimina cu succes resturile placentare",
+						"în cazurile severe sau refractare la tratament, poate fi necesară histerectomia",
+						"dacă inversiunea uterină este cauza hemoragiei, este recomandată repoziționarea manuală a uterului"
+					]
+				},
+				{
+					"pages": [
+						316
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 60,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "61. Aspectul de “furtună de zăpadă” în cavitatea uterină este caracteristic pentru: [316]",
+					"answers": [
+						"mola hidatiformă",
+						"neoplazia gestațională trofoblastică",
+						"hemoragia postpartum",
+						"prezentația pelviană",
+						"abruptio placentae"
+					]
+				},
+				{
+					"pages": [
+						316
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 61,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "62. Semnele și simptomele coriocarcinomului sunt: [316]",
+					"answers": [
+						"sângerare vaginală și posibil hemoptizie",
+						"uterul este crescut în dimensiuni",
+						"sângerare prin orificiul cervical extern",
+						"uter de consistență moale",
+						"lacerații la nivelul vaginului"
+					]
+				},
+				{
+					"pages": [
+						316
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 62,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "63. Următoarele afirmații sunt incorecte cu privire la mola hidatiformă: [316]",
+					"answers": [
+						"tumorile trofoblastice benigne însumează 80% din totalul cazurilor de boală gestațională trofoblastică",
+						"se suspicionează sarcină molară dacă preeclampsia apare în a doua jumătate a sarcinii",
+						"poate fi incompletă: genotip 46 XX sau 46 XY, ambele seturi de cromozomi sunt moștenite de la tată",
+						"valoarea β-hCG este mai mică decât cea corespunzătoare vârstei gestaționale",
+						"dilatare și curetaj uterin necesare pentru a înlătura formațiunea tumorală"
+					]
+				},
+				{
+					"pages": [
+						310
+					],
+					"correct": "i",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 63,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "64. Următoarele afirmații sunt adevărate referitor la sarcina multiplă: [310]",
+					"answers": [
+						"gemenii conjuncți apar doar în cazul sarcinii multiple monozigotice",
+						"data estimată a nașterii în cazul unei sarcini gemelare este, în medie, la 38 săptămâni de sarcină",
+						"data estimată a nașterii în cazul unei sarcini gemelare este, în medie, la 34 săptămâni de sarcină",
+						"în cazul în care cordoanele ombilicale ale fetușilor sunt “conectate”, poate apărea sindromul transfuzor-transfuzat",
+						"sarcina dizigotă determină apariția fetușilor identici"
+					]
+				},
+				{
+					"pages": [
+						311
+					],
+					"correct": "l",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 64,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "65. Referitor la tipurile decelerațiilor care pot fi observate în timpul monitorizărilor activității cardiace fetale, este fals: [311]",
+					"answers": [
+						"decelerațiile precoce încep după inițierea contracției uterine și se termină după ce contracția a luat sfârșit",
+						"decelerațiile tardive încep după inițierea contracției uterine și se termină după ce contracția a luat sfârșit",
+						"decelerațiile variabile sunt date de compresia capului fetal",
+						"decelerațiile tardive pot fi cauzate de hipotensiune maternă sau dezlipire prematură de placentă normal inserată",
+						"decelerațiile precoce necesită tratament"
+					]
+				},
+				{
+					"pages": [
+						314
+					],
+					"correct": "d",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 65,
+					"chapterId": "62dfe8c02d4b7900119b3497",
+					"text": "66. Laptele matern: [314]",
+					"answers": [
+						"este considerat un nutrient ideal pentru nou-născut întrucât conține imunoglobuline de tip IgG",
+						"acoperă necesarul calitativ și cantitativ al nou-născutului",
+						"colostrul este bogat în proteine, lipide și minerale",
+						"colostrul conține IgE",
+						"colostrul conține IgA"
+					]
+				},
+				{
+					"pages": [
+						273
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "*1. Următoarea afirmație este adevărată despre nivelurile hormonilor ≥50 ani (femei): [273]",
+					"answers": [
+						"niveluri scăzute FSH, LH şi androgeni datorită supresiei exercitate de GnRH",
+						"scăderea graduală a FSH şi LH, cu dezvoltarea rezistenţei ovariene",
+						"niveluri crescute FSH şi LH, cu debutul insuficienţei ovariene",
+						"secreţie hormonală pulsatilă (niveluri mai crescute pe perioada nopţii) determinate de creşterea secreţiei de GnRH din timpul somnului",
+						"nivelurile LH şi FSH suferă modificări corespunzătoare ciclurilor menstruale"
+					]
+				},
+				{
+					"pages": [
+						273
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "2. Următoarele sunt evenimente pubertare la femeie: [273]",
+					"answers": [
+						"adrenarha (producerea de androgeni de origine adrenală)",
+						"gonadarha (activarea gonadelor de către FSH şi LH)",
+						"telarha (apariţia ţesutului mamar)",
+						"pubarha (apariţia părului pubian)",
+						"telarha (activarea gonadelor de către FSH şi LH)"
+					]
+				},
+				{
+					"pages": [
+						273
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "3. Caracterele sexuale secundare sunt determinate de următorii hormoni: [273]",
+					"answers": [
+						"androgeni",
+						"hormonul foliculostimulant",
+						"hormonul luteinizant",
+						"progesteron",
+						"estrogeni"
+					]
+				},
+				{
+					"pages": [
+						274
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "4. Cele mai frecvente cauze de pubertate precoce heterosexuală la fetiţe sunt: [274]",
+					"answers": [
+						"hiperplazia adrenală congenitală (HAC)",
+						"expunerea la androgenii de origine exogenă",
+						"tumorile secretante de estrogeni",
+						"sindromul de ovare micropolichistice",
+						"insuficienţa ovariană"
+					]
+				},
+				{
+					"pages": [
+						274
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "5. Stadiul Tanner 5 la fetiţe determină următoarele modificări: [274]",
+					"answers": [
+						"areola revine la nivelul sânului",
+						"mamelonul rămâne proeminent",
+						"se dezvoltă păr aspru din zona pubiană spre partea laterală a coapselor",
+						"creşterea părului pubian",
+						"doar mamelonul este ascensionat"
+					]
+				},
+				{
+					"pages": [
+						274
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "6. Caracteristic pentru stadiul Tanner 3 este: [274]",
+					"answers": [
+						"se continuă înmugurirea sânilor",
+						"reliefarea areole este prezentă",
+						"creşterea părului pubian",
+						"părul devine mai aspru şi se răspândeşte pe aproape toată zona pubiană",
+						"se produce creşterea secundară a mamelonului şi areolei deasupra nivelului sânului"
+					]
+				},
+				{
+					"pages": [
+						275
+					],
+					"correct": "2",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "7. Care dintre următorii hormoni stimulează dezvoltarea glandelor endometriale? [275]",
+					"answers": [
+						"hormonul luteinizant",
+						"hormonul foliculostimulant",
+						"estradiolul",
+						"progesteronul",
+						"gonadotropina corionică umană"
+					]
+				},
+				{
+					"pages": [
+						275
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "8. Faza foliculară a ciclului menstrual: [275]",
+					"answers": [
+						"începe în ziua 14 de menstruație",
+						"începe în prima zi de menstruație",
+						"FSH stimuleaza creșterea foliculilor ovarieni, care vor secreta estradiol",
+						"LH stimuleaza creșterea foliculilor ovarieni, care vor secreta estradiol",
+						"LH induce ovulația"
+					]
+				},
+				{
+					"pages": [
+						275
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "9. Următoarele afirmații despre progesteron sunt adevărate: [275]",
+					"answers": [
+						"stimuleaza dezvolatrea glandelor endometriale",
+						"inhibă contractilitatea uterină",
+						"crește temperatura bazală",
+						"stimulează dezvoltarea foliculilor ovarieni",
+						"induce peak-ul de LH"
+					]
+				},
+				{
+					"pages": [
+						276
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "10. Următoarele afirmații sunt corecte despre faza luteală: [276]",
+					"answers": [
+						"nivelurile înalte de estradiol inhibă FSH si LH",
+						"ovulaţia realizează tranziţia de la faza foliculară la faza luteală a ciclului menstrual",
+						"în situaţia în care ovocitul nu este fertilizat: corpul galben degenerează, nivelurile de progesteron şi estradiol diminuă şi mucoasa endometrială se detaşează (menstruaţia)",
+						"foliculul rezidual (corpul galben) secretă estradiol şi progesteron pentru a menţine endometrul pentru o eventuală nidaţie şi induce dezvoltarea ductelor secretorii",
+						"nivelurile înalte de estradiol stimulează FSH si LH"
+					]
+				},
+				{
+					"pages": [
+						276
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "11. Ce se întâmplă în faza luteală în situaţia în care ovocitul nu este fertilizat? [276]",
+					"answers": [
+						"apar nivelurile înalte de estradiol, FSH și LH",
+						"corpul galben degenerează",
+						"nivelurile de progesteron şi estradiol diminuă",
+						"mucoasa endometrială se detaşează (menstruaţia)",
+						"estradiolul induce proliferarea endometrială şi stimulează sinteza de FSH şi LH"
+					]
+				},
+				{
+					"pages": [
+						276
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "12. Următoarele afirmații sunt false despre menopauză: [276]",
+					"answers": [
+						"reprezintă orpirea definitivă a menstruațiilor datorită încetării funcției ovariene la femeile de vârstă mijlocie târzie",
+						"reprezintă orpirea temporară a menstruațiilor datorită încetării funcției ovariene la femeile de vârstă mijlocie târzie",
+						"menopauza prematură se instalează înaintea vârstei de 40 de ani",
+						"menopauza prematură se instalează înaintea vârstei de 60 de ani",
+						"în perioada de instalare a menopauzei (perimenopauza), răsounsul ovarian la FSH și LH scade"
+					]
+				},
+				{
+					"pages": [
+						277
+					],
+					"correct": "j",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "13. Următoarele contraceptive prezintă risc crescut de tromboză venoasă profundă: [277]",
+					"answers": [
+						"contraceptivele orale combinate",
+						"contraceptivele ce conţin doar progestativ",
+						"medroxiprogesteron acetat (Depo-Provera)",
+						"patch-urile contraceptive transdermice",
+						"inelul intravaginal"
+					]
+				},
+				{
+					"pages": [
+						277
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "14. Semnele și simptomele întâlnite la menopauză sunt: [277]",
+					"answers": [
+						"bufeuri (secundare disfuncţiei termoreglatorii)",
+						"dispareunie",
+						"polakiurie, disurie",
+						"hipertrofie vaginală",
+						"tulburări de somn"
+					]
+				},
+				{
+					"pages": [
+						277
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "15. Contraceptive orale combinate (COC) sunt contraindicate în următoarele situații, cu excepția: [277]",
+					"answers": [
+						"la marile fumătoare",
+						"în caz de malignităţi dependente de estrogeni",
+						"în hipertrigliceridemie",
+						"în afecţiuni hepatice",
+						"în hiperglicemie"
+					]
+				},
+				{
+					"pages": [
+						278
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "16. Următoarele sunt metode hormonale contraceptive: [278]",
+					"answers": [
+						"medroxiprogesteron acetat (Depo-Provera)",
+						"inel intravaginal",
+						"patch-uri contraceptive transdermice",
+						"sterilet cu eliberare de progestativ",
+						"diafragme sau cupole cervicale"
+					]
+				},
+				{
+					"pages": [
+						278
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "17. Care dintre cele de mai jos reprezintă metode contraceptive legate de practica sexuală? [278]",
+					"answers": [
+						"metoda calendarului",
+						"lactaţia",
+						"abstinenţa",
+						"buretele contraceptiv",
+						"prezervativul"
+					]
+				},
+				{
+					"pages": [
+						278
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "18. Care dintre următoarele pot fi utilizate drept contraceptive de urgenţă? [278]",
+					"answers": [
+						"scheme de administrare ce conţin estradiol şi progestativ care trebuie administrate în primele 12 ore de la un contact neprotejat",
+						"levonorgestrel",
+						"dispozitiv intrauterin (DIU) ce conţine cupru, inserat în primele 4-5 zile de la contactul neprotejat",
+						"mifepristonă (RU 486)",
+						"spermicid (utilizat singur)"
+					]
+				},
+				{
+					"pages": [
+						279
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "19. În caz de amenoree, anamneza şi examenul obiectiv trebuie să stabilească: [279]",
+					"answers": [
+						"dacă au existat menstruaţii (ex. amenoree primară sau secundară)",
+						"obiceiurile alimentare şi activitatea fizică (ex. exerciţii fizice intense sau alimentaţie inadecvată)",
+						"administrarea unei medicaţii specifice",
+						"semne de hiperandrogenism (ex. prezenţa părului facial, îngroşarea vocii)",
+						"semne de hiperestrogenism"
+					]
+				},
+				{
+					"pages": [
+						279
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "20. Sindromul Asherman (sinechia uterină): [279]",
+					"answers": [
+						"este definit prin prezenţa de aderenţe intrauterine",
+						"este rezultatul unor proceduri chirurgicale sau al infecţiei intrauterine",
+						"asociază dureri colicative în abdomenul inferior asociate cu menstruaţia",
+						"reprezintă un tip de durere uşoară, unilaterală, recurentă, ce apare la mijlocul ciclului, anterior ovulaţiei",
+						"reprezintă prezenţa de ţesut endometrial în afara cavităţii uterine (ex. ovare, ligament larg)"
+					]
+				},
+				{
+					"pages": [
+						279
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "21. Amenoreea secundară poate avea drept cauze: [279]",
+					"answers": [
+						"insuficienţa ovariană",
+						"afecţiuni hipotalamice sau pituitare",
+						"sindrom de ovare micropolichistice",
+						"anomalii cromozomiale cu disgenezii gonadice",
+						"anomalii anatomice (ex. absenţa uterului, sept vaginal)"
+					]
+				},
+				{
+					"pages": [
+						280
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "22. Un test pozitiv la progesteron asociat cu hirsutism poate indica următoarele patologii: [280]",
+					"answers": [
+						"sindrom de ovare micropolichistice",
+						"tumoră ovariană/suprarenaliană",
+						"sindrom Cushing",
+						"anorexie nervoasă",
+						"insuficienţă ovariană"
+					]
+				},
+				{
+					"pages": [
+						280
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "23. Ce sugerează o dismenoree primară? [280]",
+					"answers": [
+						"simptomele apar la începutul menstruaţiei şi dispar în câteva zile",
+						"simptomele încep, de obicei, la mijlocul ciclului menstrual anterior",
+						"simptomele se accentuează în severitate spre sfârşitul menstruaţiei",
+						"dureri colicative în abdomenul superior asociate cu menstruaţia",
+						"simptomele apar la sfârșitul menstruaţiei"
+					]
+				},
+				{
+					"pages": [
+						281
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "24. Factorii de risc pentru endometrioză sunt: [281]",
+					"answers": [
+						"infertilitatea",
+						"nuliparitatea",
+						"indicele scăzut de masă corporală",
+						"vârsta tânără la primul contact sexual",
+						"menarha &lt;12 ani"
+					]
+				},
+				{
+					"pages": [
+						281
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "25. Cauzele cele mai plauzibile ale endometriozei sunt reprezentate de: [281]",
+					"answers": [
+						"fluxul menstrual retrograd",
+						"diseminarea vasculară/limfatică din uter în cavitatea pelvină",
+						"diseminarea iatrogenă (ex. în timpul secţiunii cezariene)",
+						"disfuncţii hipotalamo-hipofizare",
+						"sarcină molară"
+					]
+				},
+				{
+					"pages": [
+						281
+					],
+					"correct": "1",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "26. Sunt semne și simptome de sindrom premenstrual (SPM) şi tulburare disforică premenstruală (TDPM), mai puțin: [281]",
+					"answers": [
+						"creştere în greutate",
+						"durere abdominală sau pelvină",
+						"modificări ale tranzitului",
+						"labilitate emoţională",
+						"menoragie"
+					]
+				},
+				{
+					"pages": [
+						281
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "27. Cea mai frecventă cauză de infertilitate la femeie este: [281]",
+					"answers": [
+						"endometrioza",
+						"adenomioza",
+						"sindromul de ovar micropolichistic (SOPC)",
+						"boala inflamatorie pelvină (BIP)",
+						"limfogranulomatoza inghinală"
+					]
+				},
+				{
+					"pages": [
+						281
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "28. Cauzele cele mai plauzibile ale endometriozei sunt reprezentate de: [281]",
+					"answers": [
+						"fluxul menstrual retrograd",
+						"diseminarea vasculară/limfatică din uter în cavitatea pelvină",
+						"diseminarea iatrogenă (ex. în timpul secţiunii cezariene)",
+						"disfuncţii hipotalamo-hipofizare",
+						"sarcină molară"
+					]
+				},
+				{
+					"pages": [
+						282
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "29. Sunt complicații ale sindromul de ovar micropolichistic (SOPC), mai puțin: [282]",
+					"answers": [
+						"infertilitate",
+						"torsiune de ovar",
+						"cancer de endometru",
+						"boală inflamatorie pelvină",
+						"abces tubo-ovarian"
+					]
+				},
+				{
+					"pages": [
+						282
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "30. Următorii pot fi factori de risc pentru apariția vaginitei: [282]",
+					"answers": [
+						"contactele sexuale neprotejate",
+						"vârsta tânără la primul contact sexual",
+						"dispozitivele intrauterine (DIU)",
+						"fumatul",
+						"nuliparitatea"
+					]
+				},
+				{
+					"pages": [
+						282
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "31. Cea mai frecventă sursă de hiperandrogenism la femei este: [282]",
+					"answers": [
+						"sindromul de ovar micropolichistic (SOPC)",
+						"endometrioza",
+						"tulburarea disforică premenstruală (TDPM)",
+						"boala inflamatorie pelvină (BIP)",
+						"fibromul uterin (leiomiomul uterin)"
+					]
+				},
+				{
+					"pages": [
+						283
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "32. Selectați tratamentul corespunzător fiecărei etiologii în cazul vaginitelor: [283]",
+					"answers": [
+						"metronidazol (Trichomonas)",
+						"clindamicină (Gardnerella vaginalis)",
+						"fluconazol (Candida albicans)",
+						"ceftriaxonă (Trichomonas vaginalis)",
+						"doxiciclină (Gardnerella vaginalis)"
+					]
+				},
+				{
+					"pages": [
+						283
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "33. Care dintre următoarele afirmații sunt corecte referitor la sindromul de şoc toxic? [283]",
+					"answers": [
+						"reprezintă reacţia sistemică severă la exotoxina produsă de Streptococcus mutans",
+						"cazurile severe dezvoltă hipertensiune arterială, şoc, tulburări respiratorii şi descuamarea palmelor şi tălpilor",
+						"cultura fluidului vaginal este pozitivă pentru Staphylococcus aureus",
+						"poate fi necesară administrarea de vasopresoare",
+						"poate fi cauzat de utilizarea prelungită a tampoanelor intravaginale"
+					]
+				},
+				{
+					"pages": [
+						283
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "34. Gonoreea diseminată poate avea următoarele forme de prezentare: [283]",
+					"answers": [
+						"dermatită pustulară",
+						"poliartralgie asimetrică migratorie",
+						"tenosinovită",
+						"perihepatită",
+						"boala Fitz-Hugh-Curtis"
+					]
+				},
+				{
+					"pages": [
+						284
+					],
+					"correct": "p",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "35. Pentru confirmarea diagnosticului de sifilis se vor folosi următoarele teste: [284]",
+					"answers": [
+						"absorbţia fluorescentă de anticorp treponemal (FTA-ABS)",
+						"testul de micro-hemaglutinare pentru anticorpii împotriva treponemelor (MHA-TP)",
+						"VDRL",
+						"RPR",
+						"examinarea lichidului cefalorahidian (LCR) in caz afectare neurologică"
+					]
+				},
+				{
+					"pages": [
+						284
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "36. În cazul unei cervicite, testele de laborator pot evidenția: [284]",
+					"answers": [
+						"coloraţia Gram a epiteliului cervical arată diplococi gram-negativi în infecția cu Chlamydia trachomatis",
+						"de obicei, nu se evidenţiază nimic patologic în infecţia cu Neisseria gonorrhoeae",
+						"cultura pe agar Thayer-Martin detectează Neisseria gonorrhoeae",
+						"detectarea ADN-ului (NAAT) şi teste de amplificare ADN din lichidului cervical (PCR) au sensibilitate înaltă",
+						"cervicita clinică cu frotiu Gram şi culturi negative este sugestivă pentru o infecţie cu Chlamydia"
+					]
+				},
+				{
+					"pages": [
+						284
+					],
+					"correct": "k",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "37. Tratamentul unei cervicite se va face astfel: [284]",
+					"answers": [
+						"ceftriaxonă pentru Neisseria gonorrhoeae",
+						"doxiciclină în sarcină pentru Chlamydia trachomatis",
+						"azitromicină pentru Chlamydia trachomatis",
+						"clindamicină pentru Neisseria gonorrhoeae",
+						"vancomicină pentru Chlamydia trachomatis"
+					]
+				},
+				{
+					"pages": [
+						285
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "38. Simptomatologia în cazul unei infecții cu HPV poate cuprinde: [285]",
+					"answers": [
+						"multiple papule mici, roz, pe zona de contact",
+						"veruci exofitice, conopidiforme pe regiunea genitală",
+						"vezicule dureroase, multiple, mici, cu bază eritematoasă",
+						"papule mari în zonele de mucoasă ale corpului",
+						"erupţie maculopapulară pe zona de contact"
+					]
+				},
+				{
+					"pages": [
+						285
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "39. Tratamentul șancrul moale se va face cu: [285]",
+					"answers": [
+						"ceftriaxonă",
+						"eritromicină",
+						"azitromicină",
+						"tetraciclină",
+						"trimetoprim-sulfametoxazol"
+					]
+				},
+				{
+					"pages": [
+						285
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "40. Tratamentul sifilisului poate cuprinde: [285]",
+					"answers": [
+						"penicilină G",
+						"doxiciclină",
+						"tetraciclină",
+						"podofilină",
+						"azitromicină"
+					]
+				},
+				{
+					"pages": [
+						286
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 40,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "41. Indicaţiile biopsiei de endometru includ, mai puțin: [286]",
+					"answers": [
+						"metroragia în premenopauză",
+						"metroragia disfuncțională &gt;45 de ani",
+						"metroragia disfuncţională &lt;45 de ani în condițiile expunerii la estrogen nebalansat cu progesteron",
+						"metroragia disfuncţională &lt;45 de ani în condiții de HNPCC",
+						"metroragia disfuncţională &lt;45 de ani şi celule glandulare atipice pe frotiul Papanicolau"
+					]
+				},
+				{
+					"pages": [
+						286
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 41,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "42. Corpii Donovan, puși în evidență prin colorația Giemsa, sunt caracteristici pentru: [286]",
+					"answers": [
+						"granulomul inghinal",
+						"limfogranulomatoza inghinală",
+						"fibromul uterin (leiomiomul uterin)",
+						"șancrul moale",
+						"Molluscum contagiosum"
+					]
+				},
+				{
+					"pages": [
+						286
+					],
+					"correct": "3",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 42,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "43. Sunt factori de risc în apariția cancerului endometrial, cu excepția: [286]",
+					"answers": [
+						"anovulaţie cronică (SOPC)",
+						"cancerul de colon non-polipozic ereditar (HNPCC)",
+						"expunere la estrogeni exogeni",
+						"primul contact sexual timpuriu",
+						"istoric de boli cu transmitere sexuală"
+					]
+				},
+				{
+					"pages": [
+						287
+					],
+					"correct": "t",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 43,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "44. Tratamentul unei leziuni intraepiteliale scuamoase de grad scăzut (LSIL) (sau CIN 1) cuprinde: [287]",
+					"answers": [
+						"se repetă frotiul Pap la 6 şi 12 luni",
+						"se repetă testarea HPV la 12 luni",
+						"poate fi efectuată excizia prin procedeu de electrorezecţie cu ansă (LEEP)",
+						"se va face colposcopie cu biopsie sau supraveghere atentă cu frotiu Pap repetat la 12 luni",
+						"conizaţie sau ablaţie laser"
+					]
+				},
+				{
+					"pages": [
+						287
+					],
+					"correct": "g",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 44,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "45. Leziunea intraepitelială scuamoasă de grad înalt (HSIL) (sau CIN 2 sau 3) se caracterizează astfel: [287]",
+					"answers": [
+						"displazie celulară moderată sau severă, inclusiv carcinom in situ",
+						"anomalii celulare care nu sunt explicate prin modificări reactive; HSIL nu poate fi exclus",
+						"celule extrem de atipice, cu invazie stromală",
+						"displazie celulară uşoară",
+						"anomalii celulare care nu sunt explicate prin modificări reactive; nu sugerează leziuni intraepiteliale"
+					]
+				},
+				{
+					"pages": [
+						287
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 45,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "46. Screening-ul infecției cu HPV se va face astfel: [287]",
+					"answers": [
+						"toate femeile ar trebui evaluate prin frotiu Pap începând cu vârsta de 21 de ani",
+						"femeile cu vârsta cuprinsă între 21 şi 29 de ani trebuie examinate la fiecare 3 ani",
+						"femeile cu vârsta cuprinsă între 21 şi 29 de ani trebuie examinate la fiecare 3 ani, fără examen Pap",
+						"toate femeile ar trebui evaluate prin frotiu Pap începând cu vârsta de 18 de ani",
+						"femeile cu vârsta cuprinsă între 31 şi 45 de ani trebuie examinate la fiecare 3 ani"
+					]
+				},
+				{
+					"pages": [
+						288
+					],
+					"correct": "a",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 46,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "47. Chistul luteal: [288]",
+					"answers": [
+						"provine din celulele germinale",
+						"apare mai frecvent în ultimele săptămâni ale ciclului",
+						"este, de obicei, mai mic şi mai ferm decât chistul folicular",
+						"prezintă un risc mai mare de torsiune sau ruptură cu sângerare mai importantă comparativ cu chistul folicular",
+						"este frecvent asimptomatic"
+					]
+				},
+				{
+					"pages": [
+						288
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 47,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "48. Care este tratamentul unui endometriom? [288]",
+					"answers": [
+						"agonişti GnRH",
+						"progesteron",
+						"chistectomie sau ooforectomie",
+						"danazol",
+						"embolizarea arterei uterine"
+					]
+				},
+				{
+					"pages": [
+						288
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 48,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "49. Tabloul clinic al unei tumori ovariene benigne poate cuprinde: [288]",
+					"answers": [
+						"dureri în etajul abdominal inferior (mai rar în cazul tumorilor funcţionale sau torsiunii tumorale)",
+						"masă ovariană palpabilă la examenul bimanual",
+						"sensibilitate abdominală",
+						"balonare (numai după creştere semnificativă)",
+						"cicluri menstruale neregulate"
+					]
+				},
+				{
+					"pages": [
+						289
+					],
+					"correct": "c",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 49,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "50. Chistul glandei Bartholin: [289]",
+					"answers": [
+						"este o tumoră chistică netedă, imobilă",
+						"se găseşte la poziţia orei 4 sau 8 la baza labiei mari",
+						"se poate infecta şi poate evolua către un abces care necesită incizie şi drenaj",
+						"are risc mai mare de torsiune sau ruptură cu sângerare mai importantă comparativ cu chistul folicular",
+						"determină des dureri abdominale, dispareunie"
+					]
+				},
+				{
+					"pages": [
+						289
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 50,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "51. Conduita terapeutică a unei tumori cu celule germinale cuprinde: [289]",
+					"answers": [
+						"anexectomia unilaterală efectuată pentru boala limitată",
+						"citoreducţia chirurgicală efectuată pentru tumori avansate",
+						"chimioterapia administrată, de obicei, postoperator",
+						"citoreducţia chirurgicală efectuată pentru boala limitată",
+						"radioterapia administrată, de obicei, postoperator"
+					]
+				},
+				{
+					"pages": [
+						289
+					],
+					"correct": "e",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 51,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "52. Care dintre următoarele afirmații sunt corecte despre cancerul ovarian? [289]",
+					"answers": [
+						"este cel mai frecvent cu celule germinale (65% cazuri)",
+						"apare creşterea CA-125 (80% din cazuri) în tumorile epiteliale",
+						"α-fetoproteina, hCG şi lactat dehidrogenaza (LDH) pot fi crescute în tumorile cu celule germinale",
+						"un factor de risc este reprezentat de mutația genelor BRCA1 sau BRCA2",
+						"este simptomatic încă din stadiile incipiente"
+					]
+				},
+				{
+					"pages": [
+						290
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 52,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "53. Tulburările genito-pelvine de penetrare de tip vaginism se vor trata prin: [290]",
+					"answers": [
+						"relaxarea muşchilor vaginali prin exerciţii Kegel",
+						"terapie de desensibilizare",
+						"antidepresive triciclice",
+						"corticosteroizi topici în doze mari (clobetasol)",
+						"crioterapie ecoghidată"
+					]
+				},
+				{
+					"pages": [
+						290
+					],
+					"correct": "o",
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"explanationExists": false,
+					"questionIndex": 53,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "54. Managementul tumorilor mamare palpabile la categoria &gt;30 deani cuprinde: [290]",
+					"answers": [
+						"mamografie ± ecografie",
+						"biopsie ţintită: suspiciune de malignitate",
+						"încurajare şi reevaluare după 1-2 cicluri menstruale",
+						"monitorizare la 2-4 luni",
+						"biopsia excizională"
+					]
+				},
+				{
+					"pages": [
+						290
+					],
+					"correct": "u",
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"explanationExists": false,
+					"questionIndex": 54,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "55. În leziunile benigne confirmate ale sânului, simptomele pot fi ameliorate cu: [290]",
+					"answers": [
+						"reducerea cafeinei şi a grăsimilor alimentare",
+						"contraceptive orale combinate",
+						"progesteron",
+						"tamoxifen",
+						"agonişti GnRH"
+					]
+				},
+				{
+					"pages": [
+						291
+					],
+					"correct": "7",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 55,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "56. Semnele și simptomele întalnite în cadrul unui cancer mamar sunt: [291]",
+					"answers": [
+						"masă tumorală mamară dureroasă",
+						"masă tumorală palpabilă, solidă, mobilă",
+						"aspect de \"coajă de portocală\"",
+						"retracţie mamelonară",
+						"secreţie mamelonară"
+					]
+				},
+				{
+					"pages": [
+						291,
+						292
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 56,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "57. Care dintre următoarele afirmații este falsă despre cancerul mamar? [291, 292]",
+					"answers": [
+						"prezenţa ganglionilor axilari pozitivi şi dimensiunea mare a tumorii sunt factori de prognostic negativ",
+						"tumorile care nu răspund la tratament chirurgical şi iradiere este puţin probabil să fie vindecate",
+						"tumorile cu receptori pozitivi pentru estrogeni sau progesteron au prognostic mai rezervat",
+						"20% dintre cancere nu sunt detectate mamografic (tipic cele localizate în cadranul supero- extern)",
+						"biopsia este indicată pentru orice formaţiune tumorală mamară palpabilă sau mamografie cu imagini suspecte"
+					]
+				},
+				{
+					"pages": [
+						291
+					],
+					"correct": "s",
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"explanationExists": false,
+					"questionIndex": 57,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "58. Papilomul intraductal: [291]",
+					"answers": [
+						"se caracterizează prin leziuni benigne ale ţesuturilor ductale",
+						"poate avea ca manifestare o secreţie mamelonară sanguinolentă",
+						"are potențial malign",
+						"este cea mai frecventă tumoră mamară benignă",
+						"în caz de excizie, recurenţa este frecvent"
+					]
+				},
+				{
+					"pages": [
+						286
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 58,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "*59. Granulomul inghinal reprezintă infecția dată de: [286]",
+					"answers": [
+						"Haemophilus ducreyi",
+						"serotipurile L1, L2 sau L3 ale Chlamidya trachomatis",
+						"Klebsiella granulomatis",
+						"Trichomonas Vaginalis",
+						"Bocteroides"
+					]
+				},
+				{
+					"pages": [
+						278
+					],
+					"correct": "4",
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"explanationExists": false,
+					"questionIndex": 59,
+					"chapterId": "62dfe8942d4b7900119b32d5",
+					"text": "60. Care dintre următoarele metode contraceptive poate fi utilă în diagnosticarea infertilităţii? [278]",
+					"answers": [
+						"coitul întrerupt",
+						"contraceptivele de urgenţă",
+						"metoda calendarului",
+						"inelul intravaginal",
+						"steriletul cu eliberare de progestativ"
+					]
+				}
+			],
+			"chapters": [
+				{
+					"_id": "62dfe91c2d4b7900119b387f",
+					"name": "3.15. Epidemiologie și etică",
+					"isUserContent": false,
+					"categories": [
+						"m_l_or"
+					]
+				},
+				{
+					"_id": "62dfe8ee2d4b7900119b3688",
+					"name": "3.14. Tulburările psihice",
+					"isUserContent": false,
+					"categories": [
+						"m_l_or"
+					]
+				},
+				{
+					"_id": "62dfe8c02d4b7900119b3497",
+					"name": "3.13. Obstetrică",
+					"isUserContent": false,
+					"categories": [
+						"m_l_or"
+					]
+				},
+				{
+					"_id": "62dfe8942d4b7900119b32d5",
+					"name": "3.12. Afecțiuni ginecologice și mamare",
+					"isUserContent": false,
+					"categories": [
+						"m_l_or"
+					]
+				}
+			],
+			"timed": false,
+			"showAnswers": true,
+			"quantity": 180,
+			"startedAt": "2023-11-17T20:38:35.616Z",
+			"hasExplanations": false
+		}
+	}
+}

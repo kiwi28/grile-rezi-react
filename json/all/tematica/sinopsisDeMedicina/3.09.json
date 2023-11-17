@@ -1,0 +1,3995 @@
+{
+	"status": "OK",
+	"code": 200,
+	"success": true,
+	"message": "SUCCESS",
+	"data": {
+		"exam": {
+			"_id": "6557c8618d6e6100110587bc",
+			"examType": "custom",
+			"questions": [
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "h",
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "1. Despre infecția cu Sarcoptes scabiei, putem afirma:  [200]",
+					"answers": [
+						"diagnosticul de scabie se poate stabili în urma examenului parazitologic",
+						"este o afecțiune adesea asimptomatică",
+						"administrarea permetrinei este contraindicată în scabie",
+						"infestarea contacților apropiați este foarte rară",
+						"prin examinarea atentă a pielii se pot observa şanţurile acariene (tunele săpate de acarieni în stratul superficial al epidermului)"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "2. În cadrul examenului de laborator al celulitei, întâlnim: [196]",
+					"answers": [
+						"leucocitoză, VSH crescut, proteină C reactivă crescută, hipernatremie",
+						"cultivare pe linii celulare, proteină C reactivă scăzută, teste pentru detectare antigen",
+						"leucocitoză, VSH crescut, proteină C reactivă crescută, examen histopatologic pentru evidențierea corpilor de incluziune",
+						"leucocitoză, VSH crescut, proteină C reactivă crescută",
+						"examen microbiologic cu colorație Gram + culturi bacteriene"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "3. În cadrul examenului clinic al fasceitei necrozante, întâlnim următoarele, cu excepția:  [197]",
+					"answers": [
+						"durere intensă",
+						"eritem",
+						"culoare palidă",
+						"bule",
+						"crepitații la nivelul tegumentului afectat"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "3",
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "4. Keratoza actinică:  [206]",
+					"answers": [
+						"este o tumoră benignă alcătuită din keratinocite imature, cu aspect hiperpigmentat",
+						"0,1% dintre carcinoamele scuamocelulare se dezvoltă din keratoze actinice",
+						"examenul clinic este suficient pentru a exclude un carcinom scuamocelular",
+						"ca tratament, se utilizează 5-fluorouracil topic/imiquimod sau crioterapie",
+						"biopsia relevă epiteliu displazic, cu celule profunde polimorfe și nuclei hipercromi"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "5. Tinea pedis este caracterizată prin:  [200]",
+					"answers": [
+						"plăci pruriginoase, dureroase, eritematoase, cu pustule periferice",
+						"macule maro deschis sau hipopigmentate, care nu se bronzează la soare",
+						"plăci pruriginoase, scuamoase, eritematoase",
+						"papule cu aspect lucios, nedureroase, cu zonă centrală ombilicată",
+						"plăci pruriginoase cu margini elevate și centru clar"
+					]
+				},
+				{
+					"pages": [
+						203,
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "6. Care dintre următoarele patologii este autolimitată?  [203, 204]",
+					"answers": [
+						"pitiriazisul rozat",
+						"keratoza actinică",
+						"porfiria cutanată tardivă",
+						"pemfigusul vulgar",
+						"dermatita seboreică"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "7. Alegeți afirmațiile corecte referitoare la porfiria cutanată tardivă: [206]",
+					"answers": [
+						"se caracterizează prin leziuni buloase cronice, dureroase, la nivelul tegumentului expus la soare",
+						"clinic, apare piele hiperpigmentată",
+						"clinic, apare hipertricoză",
+						"hepatita B reprezintă un factor de risc",
+						"flebotomia periodică poate fi o metodă de tratament"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "8. Chirurgia reconstructivă: [209]",
+					"answers": [
+						"poate fi folosită pentru repararea cheiloschizisului",
+						"lambourile musculare pot fi folosite pentru reconstrucția sânului",
+						"presupune utilizarea mai multor tipuri de țesuturi",
+						"este mai frecvent utilizată pentru modificarea aspectului fizic",
+						"are ca rol principal modificarea chirurgicală a aspectului"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "9. La examinarea unui melanom, putem observa: [208]",
+					"answers": [
+						"margini neregulate",
+						"culoare omogenă",
+						"creștere rapidă",
+						"simetrie",
+						"leziune nedureroasă, pigmentată"
+					]
+				},
+				{
+					"pages": [
+						199,
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "3",
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "10. Despre veruci, este adevărat, cu excepția: [199, 200]",
+					"answers": [
+						"uneori, pot fi autolimitate",
+						"poate fi folosită crioterapia",
+						"se poate folosi topic acidul salicilic",
+						"se folosesc antibiotice orale",
+						"tipurile 23 și 11 de HPV sunt asociate cu cancerul de col uterin"
+					]
+				},
+				{
+					"pages": [
+						200,
+						203,
+						204,
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "11. Următoarele patologii sunt însoțite de prurit, cu excepția:  [200, 203, 204, 205]",
+					"answers": [
+						"dermatita atopică (eczema)",
+						"molluscum contagiosum",
+						"psoriazisul",
+						"pitiriazisul rozat",
+						"pemfigoidul bulos"
+					]
+				},
+				{
+					"pages": [
+						207,
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "12. Despre melanom, putem afirma: [207, 208]",
+					"answers": [
+						"biopsia excizională evidențiază melanocite tipice și, uneori, invazie dermică",
+						"cel mai important factor de prognostic este reprezentat de grosimea tumorii",
+						"biopsia shave nu este indicată",
+						"dacă tumora are o grosime sub 2 mm, se practică excizie chirurgicală cu margine de siguranță de 1 cm",
+						"cel mai frecvent, metastazarea are loc în plămân și ovare"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "3",
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "13. Alegeți răspunsurile false referitoare la intertrigo: [200]",
+					"answers": [
+						"este cauzat de Candida albicans",
+						"preparatul pe lama cu KOH arată pseudohife",
+						"ca și tratament, putem folosi antifungic sau corticosteroid topic",
+						"leziunile sunt cel mai frecvent întâlnite la nivelul toracelui anterior și posterior",
+						"este singura tinea care nu este cauzată de Malassezia furfur"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "14. Printre formele abcesului se numără, cu excepția:  [196]",
+					"answers": [
+						"colecția subcutanată",
+						"carbunculul",
+						"hidradenita supurativă",
+						"gangrena",
+						"conglomerarea mai multor foliculi piloși adiacenți infectați"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "9",
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "15. Alegeți afirmațiile false cu privire la pemfigusul vulgar:  [205]",
+					"answers": [
+						"semn Nikolsky este pozitiv",
+						"semn Nikolsky este negativ",
+						"biopsia arată separarea celulelor epidermice (acantoliză)",
+						"tratamentul implică azatioprină",
+						"tratamentul implică hidroxicloroquină în doză mică"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "16. Care dintre următoarele definiții caracterizează celulita?  [196]",
+					"answers": [
+						"infecție bacteriană acută a dermului și țesutului subcutanat",
+						"infecție polimicrobiană rapid progresivă la nivelul planurilor fasciale",
+						"infecție contagioasă a pielii, cel mai frecvent întâlnită la copii",
+						"inflamație a foliculilor piloși și a glandelor sebacee",
+						"infestare cutanată"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "17. Molluscum contagiosum este determinat de:  [200]",
+					"answers": [
+						"papiloma virus",
+						"virusul Herpes simplex",
+						"poxvirus",
+						"streptococul de grup A",
+						"Propionibacterium acnes"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "18. Care dintre următoarele definiții caracterizează gangrena umedă?  [197]",
+					"answers": [
+						"necroză tisulară determinată de ocluzia vasculară acută",
+						"infecție virală recurentă, care afectează mucoasele și pielea",
+						"infecție polimicrobiană rapid progresivă la nivelul planurilor fasciale",
+						"infecție contagioasă a pielii determinată de Staphylococcus aureus",
+						"necroză tisulară determinată de insuficiența arterială"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "19. Care dintre următoarele reprezintă o complicație a abcesului cutanat?  [197]",
+					"answers": [
+						"fasceita necrozantă",
+						"carcinomul scuamocelular",
+						"sindromul de compartiment",
+						"encefalita",
+						"tromboza sinusului cavernos în cazul unui abces facial"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "20. În cadrul examenului clinic, fasceita necrozantă se caracterizează prin:  [197]",
+					"answers": [
+						"pierderea sensibilității în țesutul implicat",
+						"crepitaţii la nivelul tegumentului infectat",
+						"fluctuență în porțiunea centrală",
+						"cruste gălbui-aurii",
+						"grup de vezicule mici, dureroase"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "21. Care dintre următoarele antibiotice acoperă spectrul MRSA?  [197]",
+					"answers": [
+						"aciclovirul",
+						"difenhidramina",
+						"cotrimoxazolul",
+						"ketoconazolul",
+						"metotrexatul"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "22. Următoarele metode de tratament sunt folosite în tratarea infecției cu virusul Herpes simplex:  [198]",
+					"answers": [
+						"retinoizi topici",
+						"aciclovirul",
+						"famciclovirul",
+						"valaciclovirul",
+						"benzoil-peroxidul"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "23. Porfiria cutanată tardivă se caracterizează prin, cu excepția:  [206]",
+					"answers": [
+						"porfirină plasmatică crescută",
+						"porfirină urinară scăzută",
+						"uroporfirinogen-decarboxilază hepatică crescută",
+						"ALT crescut",
+						"porfirină urinară crescută"
+					]
+				},
+				{
+					"pages": [
+						203,
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "9",
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "24. Următoarele afirmații despre pitiriazisul rozat sunt false: [203, 204]",
+					"answers": [
+						"are evoluție autolimitată",
+						"placa heraldică apare la câteva săptămâni de la debut",
+						"este frecvent la copii și adulții tineri",
+						"are posibilă asociere virală",
+						"se caracterizează prin leziunile nepruriginoase, dispuse pe membrele inferioare"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "25. Despre tratamentul dermatitei atopice, sunt adevărate următoarele, cu excepția:  [203]",
+					"answers": [
+						"se evită factorii agravanți",
+						"în cazul formelor ușoare, se utilizează corticosteroizi orali și antihistaminice",
+						"în cazul formelor severe, se utilizează fototerapia, metotrexat, ciclosporina",
+						"în cazul formelor ușoare, se utilizează corticosteroizi topici și emoliente",
+						"se recomandă folosirea iodurii de potasiu"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "k",
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "26. Următoarele afirmații despre dermatita seboreică sunt adevărate:  [203]",
+					"answers": [
+						"este cel mai frecvent întâlnită la adolescenţi şi sugari, asociat cu Malassezia",
+						"se caracterizează printr-o proliferare scăzută a epidermului",
+						"seleniul și ketoconazolul sunt adesea folosite în tratamentul dermatitei seboreice de la nivelul scalpului",
+						"se caracterizează prin prezența de vezicule și bule pe fond eritematos",
+						"puseele de dermatită seboreică sunt rare"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "k",
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "27. Despre tratamentul afecțiunii tinea cruris, sunt adevărate următoarele: [200]",
+					"answers": [
+						"în caz de rezistență la tratament, se folosește antifungic oral",
+						"se recomandă corticosteroid topic",
+						"se folosește antifungic topic pentru mai multe săptămâni",
+						"se practică excizia chirurgicală",
+						"se recomandă internarea pacienților pe secțiile de arși"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "28. Despre dermatita atopică putem spune că:  [203]",
+					"answers": [
+						"se caracterizează prin xeroză și papule",
+						"are indicație pentru fototerapie",
+						"apare pe zonele de extensie",
+						"apare pe zonele de flexie",
+						"printre factorii de risc, enumerăm astmul, rinita alergică și istoricul familial"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "29. Alegeți afirmațiile adevărate referitoare la eritemul polimorf:  [202]",
+					"answers": [
+						"reprezintă o patologie buloasă a pielii",
+						"este determinat de virusul Herpes simplex și Mycoplasma pneumoniae",
+						"în cazul investigațiilor de laborator, întâlnim eozinofilie",
+						"biopsia evidențiază multe limfocite și keratinocite necrotice",
+						"biopsia evidențiază multe eozinofile și keratinocite necrotice"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "30. În care dintre următoarele afecțiuni dermatologice apare hipotensiune?  [197]",
+					"answers": [
+						"impetigo",
+						"molluscum contagiosum",
+						"scabie",
+						"gangrenă",
+						"dermatită atopică"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "31. Care dintre următoarele definiții caracterizează gangrena uscată? [197]",
+					"answers": [
+						"infecție virală recurentă, care afectează mucoasele și pielea",
+						"infecție polimicrobiană rapid progresivă la nivelul planurilor fasciale",
+						"necroză tisulară determinată de infecție",
+						"necroză tisulară determinată de ocluzia vasculară acută",
+						"necroză tisulară determinată de insuficiența arterială"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "32. În cadrul examenului clinic, abcesul se caracterizează prin:  [197]",
+					"answers": [
+						"pierderea sensibilității în țesutul implicat",
+						"hipotensiune arterială",
+						"fluctuență în porțiunea centrală",
+						"cruste gălbui-aurii",
+						"grup de vezicule mici, dureroase"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "33. Care dintre următoarele semne și simptome caracterizează gangrena?  [197]",
+					"answers": [
+						"prurit",
+						"cruste gălbui-aurii",
+						"piele cu miros putrid",
+						"papule, pustule sau noduli eritematoși",
+						"papule cu zona centrală ombilicată"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "34. În cadrul examenului clinic al celulitei, întâlnim următoarele, cu excepția:  [196]",
+					"answers": [
+						"prurit",
+						"eritem",
+						"mialgii",
+						"ușoară descuamare",
+						"febră"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "35. Următoarele afirmații despre grefe și lambouri sunt adevărate, cu excepția:  [209]",
+					"answers": [
+						"lamboul muscular are ca locuri donatoare uzuale tensorul fasciei lata, muschii gluteali, sartorius, dreptii abdominali, marele dorsal",
+						"grefa compozită este indicată în defecte mari care necesită acoperire cu țesut bine vascularizat",
+						"grefa split skin necesită supliment de grefă de piele",
+						"autogrefele reprezintă țesut transplantat de la același pacient",
+						"lamboul fascio-cutanat are ca locuri donatoare uzuale fruntea, zona inghinală, zona deltopectorală, coapse"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "a",
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "36. Următoarele afirmații despre porfiria cutanea tarda sunt false: [206]",
+					"answers": [
+						"se caracterizează prin prezența de leziuni buloase, nedureroase, pe zonele fotoexpuse",
+						"este cauzată de excesul de uroporfirinogen-decarboxilază hepatică",
+						"clinic, pacienții pot prezenta hipertricoză",
+						"practicarea flebotomiilor periodice este interzisă",
+						"nivelul plasmatic de porfirină și transaminazele sunt crescute"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "37. Următoarele afirmații despre infecția cu virusul Herpes simplex sunt adevărate, cu excepția:  [198]",
+					"answers": [
+						"infecția virală se transmite materno-fetal",
+						"virusul herpetic rămâne cantonat la nivelul ganglionilor neurosenzitivi după primoinfecție",
+						"virusul herpes simplex tip 2 determină apariția de vezicule mici, dureroase, la nivel genital",
+						"simptomatologia este mai severă în cazul recurențelor decât în cazul primoinfecției",
+						"infecția virală recurentă determină afectarea mucoaselor și tegumentului"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "38. Despre acneea vulgară este adevărat, cu excepția:  [198]",
+					"answers": [
+						"severitatea acneei scade la sfârșitul adolescenței",
+						"utilizarea corticosteroizilor, Propionibacterium acnes și obstrucția foliculară sunt adesea asociate cu apariția acneei",
+						"isotretinoinul oral are risc de hepatotoxicitate",
+						"retinoizii topici se folosesc ca unic tratament de linia II-a",
+						"acneea poate determina cicatrici permanente"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "39. Următoarele reprezintă forme de melanom:  [208]",
+					"answers": [
+						"bilateral",
+						"extensiv în suprafață",
+						"lentigo malign",
+						"nodular",
+						"complicat"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "40. În legătură cu tratamentul melanomului, sunt adevărate următoarele:  [208]",
+					"answers": [
+						"se face excizie chirurgicală, eventual cu disecția ganglionilor limfatici",
+						"dacă leziunea este în situ, se excizează cu margine de siguranță de 1 cm",
+						"dacă leziunea este &gt;2 mm grosime, se excizează cu margine de siguranță de 2 cm",
+						"dacă leziunea este &gt;2 mm grosime, se excizează cu margine de siguranță de 1 cm",
+						"dacă leziunea este &lt;2 mm grosime, se excizează cu margine de siguranță de 1 cm"
+					]
+				},
+				{
+					"pages": [
+						202,
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 40,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "41. Despre necroliza epidermică toxică putem spune următoarele, cu excepția: [202, 203]",
+					"answers": [
+						"este cea mai severă formă de reacție de hipersensibilitate a pielii",
+						"afectează &lt;30% din suprafața corporală",
+						"debutează ca o erupție eritematoasă generalizată, care progresează spre decolări cutanate extinse și formare de eroziuni",
+						"pacienții primesc imunoglobuline IV",
+						"aciclovirul poate fi folosit în cazurile provocate de virusul Herpes simplex"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 41,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "42. În cadrul examenului clinic în impetigo, întâlnim următoarele, cu excepția:  [197]",
+					"answers": [
+						"cruste gălbui-aurii grăsoase",
+						"eritem",
+						"prurit",
+						"bule",
+						"crepitații la nivelul tegumentului afectat"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 42,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "43. Alegeți afirmația falsă despre tratamentul molluscum contagiosum:  [200]",
+					"answers": [
+						"boala este autolimitată",
+						"leziunile se pot îndepărta chimic",
+						"leziunile se pot îndepărta cu laser",
+						"leziunile se pot îndepărta prin crioterapie",
+						"leziunile se pot îndepărta cu retinoizi topici"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 43,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "44. Următoarele afirmații despre grefe și lambouri sunt adevărate:  [209]",
+					"answers": [
+						"grefa de piele despicată este compusă din epiderm şi o parte din derm",
+						"xenogrefele reprezintă țesutul transplantat de la o altă persoană donatoare",
+						"grefa compozită conține și alte țesuturi, precum cartilaj sau grăsime",
+						"grefa cu grosime completă este alcătuită din epiderm şi tot dermul",
+						"lamboul fascio-cutanat este utilizat pentru defectele mari, ce necesită acoperire cu țesut bine vascularizat"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "b",
+					"explanationExists": false,
+					"questionIndex": 44,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "45. Care dintre următoarele afirmații descriu pemfigusul vulgar:  [205]",
+					"answers": [
+						"afecțiune caracterizată prin apariția de autoanticorpi împotriva membranei bazale a epidermului",
+						"afecțiune în care apare acantoliza",
+						"afecțiune determinată de deficitul de uroporfirinogen-decarboxilază hepatică",
+						"de obicei, afectează pacienţii de vârstă mijlocie sau vârstnicii",
+						"afecțiune caracterizată prin apariția de autoanticorpi îndreptați împotriva moleculelor de adeziune din epiderm"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "p",
+					"explanationExists": false,
+					"questionIndex": 45,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "46. Despre scabie, sunt false următoarele afirmații, cu excepția: [200]",
+					"answers": [
+						"igiena precară este un factor de risc",
+						"difenhidramina și alte antihistaminice pot fi folosite pentru ameliorarea pruritului",
+						"reprezintă o infecție fungică dată de Sarcoptes scabiei",
+						"pruritul este cel mai frecvent la nivel facial",
+						"la examinarea atentă a pielii se pot observa șanturi acariene cu papule în vecinătate"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 46,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "47. Care dintre următoarele elemente sunt prezente în cazul examenului clinic al sindromului Stevens-Johnson?  [202]",
+					"answers": [
+						"bule cu exfolierea pielii",
+						"prurit",
+						"leziuni în țintă",
+						"febră",
+						"dureri musculare"
+					]
+				},
+				{
+					"pages": [],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "a",
+					"explanationExists": false,
+					"questionIndex": 47,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "48. Care dintre următoarele sunt infecții bacteriene ale pielii?",
+					"answers": [
+						"tinea corporis",
+						"impetigo",
+						"intertrigo",
+						"gangrena",
+						"varicela"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 48,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "49. Infecția cu Herpes simplex se caracterizează prin, cu excepția:  [198]",
+					"answers": [
+						"în cazul infecției primare, manifestările generale sunt asemănătoare gripei",
+						"vezicule mici, dureroase, localizate perioral sau genital",
+						"transmiterea de la mama infectată la nou-născut poate determina afectare neurologică severă",
+						"după infecția primară, materialul viral rămâne în ganglionii neuro-senzitivi",
+						"boala este vindecabilă prin vaccin"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 49,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "50. Alegeți afirmațiile adevărate despre dermatita seboreică:  [203]",
+					"answers": [
+						"are o recurență rară",
+						"se pot folosi corticosteroizi topici și antifungice",
+						"este frecvent asociată cu Malassezia",
+						"pentru nou-născuți folosim emoliente",
+						"reprezintă o hiperproliferare cronică a epidermului"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 50,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "51. Psoriazisul: [203]",
+					"answers": [
+						"este o boală inflamatorie, hiperproliferativă",
+						"clinic, se caracterizează prin plăci eritematoase bine delimitate, cu scuame argintii pe suprafeţele de extensie",
+						"Biopsia evidențiază hiperkeratoză epidermică și îngroșarea stratului granulos",
+						"diagnosticul se stabilește clinic",
+						"poate fi însoțit de afectare articulară și/sau unghială"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 51,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "52. Alegeți afirmațiile adevărate cu privire la scabie:  [200]",
+					"answers": [
+						"este o infestare cutanată produsă de poxvirus",
+						"prin examinare la microscop în urma raclării superficiale a pielii pot fi identificați paraziții și ouăle acestora",
+						"ca și tratament, se poate folosi permetrina cremă sau ivermectina orală",
+						"infestarea contacților apropiați este frecventă",
+						"simptomele se ameliorează după o baie fierbinte"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 52,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "53. Care dintre următoarele afirmații caracterizează pemfigusul vulgar?  [205]",
+					"answers": [
+						"afectează mai des pacieții de vârstă mijlocie sau vârstnicii",
+						"mortalitatea este crescută în lipsa tratamentului",
+						"la biopsia cutanată, membrana bazală rămâne intactă",
+						"semnul Nikolsky este negativ",
+						"imunofluorescența evidențiază anticorpi anti-membrană bazală"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 53,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "54. Care dintre următoarele reprezintă o complicație a celulitei?  [196]",
+					"answers": [
+						"fasceita necrozantă",
+						"suprainfecţie cu HSV",
+						"sindromul de compartiment",
+						"encefalita",
+						"carcinomul scuamocelular"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 54,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "55. Impetigo este cel mai frecvent determinat de:  [197]",
+					"answers": [
+						"Candida Albicans",
+						"Propionibacterium Acnes",
+						"virusul varicelo-zosterian",
+						"streptococul de grup A",
+						"stafilococul auriu"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 55,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "56. Despre infecția recurentă cu virusul varicelo-zosterian, se poate spune că:  [199]",
+					"answers": [
+						"are o distribuție extinsă",
+						"este mai frecventă la copii",
+						"printre metodele de tratament se numără aciclovirul, analgezicele și posibil corticosteroizii",
+						"leziunile sunt infecțioase pe tot parcursul bolii",
+						"mialgiile, febra, starea generală alterată preced leziunile cu aproximativ 3 zile"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 56,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "57. Despre infecția primară cu virusul varicelo-zosterian, se poate spune că: [199]",
+					"answers": [
+						"cei mai afectați sunt pacienții cu istoric de varicelă/herpes zoster",
+						"simptomele apar la 2 săptămâni după infecție",
+						"se prezintă sub formă de macule mici, eritematoase, limitate la unul sau cel mult câteva dermatoame",
+						"printre complicații, întâlnim neuropatia trigeminală",
+						"medicația antipruriginoasă nu are efect"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 57,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "58. În cadrul examenului clinic al abcesului cutanat, întâlnim următoarele, cu excepția:  [197]",
+					"answers": [
+						"leziune edematoasă",
+						"vezicule",
+						"eritem",
+						"fluctuență în porțiunea centrală",
+						"sensibilitate la palpare"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 58,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "59. Care sunt metodele de tratament folosite în tratarea fasceitei necrozante?  [197]",
+					"answers": [
+						"antihistaminice",
+						"incizie și drenaj",
+						"chirurgie Mohs",
+						"retinoizi",
+						"antibiotice orale"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 59,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "60. În cadrul examenului clinic, verruca vulgaris se caracterizează prin:  [199]",
+					"answers": [
+						"erupție eritematoasă cu dispoziție în linii, pruriginoasă",
+						"decolarea extinsă a pielii și necroza întregii grosimi a epidermului",
+						"leziuni bine delimitate, cu epiteliu îngroșat, care pot să fie plane sau elevate, cu eventuală durere la palpare",
+						"papule eritemato-scuamoase rugoase, localizate la nivelul zonelor expuse la soare",
+						"papule perlate cu vascularizație fină în suprafață și ulcerație centrală"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 60,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "61. Despre infecția cu virusul Herpes simplex, se poate spune că: [198]",
+					"answers": [
+						"este o infecție virală recurentă care afectează mucoasele și pielea, determinată de HPV",
+						"alimentația va provoca reactivarea bolii în teritoriul nervilor afectați",
+						"Herpes simplex-1 determină afectare genitală, iar Herpes simplex-2 determină afectare orală",
+						"în cazul pacienților imunosupresați, poate determina encefalită, pneumonie și hepatită",
+						"Herpes simplex se transmite aerogen"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 61,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "62. În cadrul examenului paraclinic al abceselor cutanate, întâlnim: [197]",
+					"answers": [
+						"leucocitoză, VSH crescut, proteină C reactivă crescută, hiponatremie",
+						"cultivare pe linii celulare, proteină C reactivă, teste pentru detectare antigen",
+						"leucocitoză, VSH crescut, proteină C reactivă crescută, examen histopatologic pentru evidențierea corpilor de incluziune",
+						"leucocitoză, VSH crescut, proteină C reactivă crescută",
+						"examen microbiologic cu colorație Gram și culturi bacteriene pentru cazurile complicate sau recurente"
+					]
+				},
+				{
+					"pages": [
+						201,
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "p",
+					"explanationExists": false,
+					"questionIndex": 62,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "63. Despre reacțiile de hipersensibiltate, putem spune că: [201, 202]",
+					"answers": [
+						"în cazul contactului cu un alergen, erupția cutanată are dispoziție distinctă în linii sau forme diverse",
+						"în cazul ingestiei unui alergen, erupția cutanată are localizare caracteristică sau într-o zonă nespecifică",
+						"îndepărtarea agentului declanșator de cele mai multe ori nu rezolvă problema",
+						"epinefrina se folosește la apariția imediată a erupției eritematoase",
+						"poate apărea prurit"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 63,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "64. Keratoza actinică reprezintă o leziune pre-canceroasă care se poate dezvolta în:  [206]",
+					"answers": [
+						"Carcinom bazocelular",
+						"Carcinom scuamocelular",
+						"Melanom malign",
+						"Sarcom de părți moi",
+						"Limfom cutanat"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "p",
+					"explanationExists": false,
+					"questionIndex": 64,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "65. Despre tratamentul afecțiunii tinea versicolor, sunt false următoarele:  [200]",
+					"answers": [
+						"se folosesc retinoizi topici, aplicați de 1-2 ori pe zi",
+						"se recomandă spălarea în apă fierbinte a tuturor hainelor, prosoapelor și lenjeriei de pat",
+						"se folosește antifungic topic pentru câteva săptămâni",
+						"se folosește ketoconazol oral pentru 1-5 zile",
+						"se folosesc antibiotice topice pentru ameliorarea pruritului"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 65,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "66. Care dintre următoarele elemente clinice caracterizează dermatita atopică?  [203]",
+					"answers": [
+						"leziunile sunt localizate pe zonele de flexie, fața dorsală a mâinilor și picioarelor, torace anterior și posterior sau față",
+						"plăcile eritematoase sunt bine delimitate, cu scuame argintii pe suprafețele de extensie",
+						"leziunile sunt însoțite de prurit",
+						"plăcile eritematoase pot fi însoțite de vezicule",
+						"pot apărea depresiuni punctiforme ale lamei unghiale"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 66,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "67. Alegeți afirmațiile adevărate despre keratoza actinică:  [206]",
+					"answers": [
+						"este o leziune precanceroasă, ce se poate transforma în carcinom bazocelular",
+						"este o leziune precanceroasă, ce se poate transforma în carcinom scuamocelular",
+						"expunerea la soare reprezintă cel mai important factor de risc",
+						"leziunile sunt papule eritemato-scuamoase rugoase",
+						"excizia Mohs este tratamentul de elecție"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 67,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "68. Care dintre următoarele afirmații descriu melanomul nodular?  [208]",
+					"answers": [
+						"se extinde în suprafață, apoi invadează în profunzime",
+						"rămâne mult timp în stadiul in situ și apoi crește vertical",
+						"creşte doar vertical şi devine rapid invaziv",
+						"afectează palmele, tălpile și patul unghial",
+						"ulcerează frecvent"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 68,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "69. În cadrul examenului de laborator al fasceitei necrozante, întâlnim:  [197]",
+					"answers": [
+						"leucocitoză, VSH crescut, proteină C reactivă crescută, hipernatremie",
+						"cultivare pe linii celulare, proteină C reactivă, teste pentru detectare antigen",
+						"acumulare de aer subcutanat pe radiografie sau la computer tomografie",
+						"leucocitoză, VSH crescut, proteină C reactivă crescută, hiponatremie",
+						"ischemie la angiografie sau angiografie cu rezonanță magnetică"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 69,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "70. Despre infecțiile fungice, putem spune că:  [200]",
+					"answers": [
+						"pot fi însoțite de prurit",
+						"sunt frecvent asociate cu mediu cald sau umiditate crescută",
+						"ca tratament, putem folosi antifungice topice",
+						"ca tratament, putem folosi antibiotice orale și permetrină cremă",
+						"la examinare atentă a pielii, putem observa șanțuri acariene"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 70,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "71. Infecția cu virusul varicelo-zosterian este caracterizată prin, cu excepția:  [199]",
+					"answers": [
+						"se poate prezenta ca boală primară sau ca boală recurentă",
+						"formele au manifestări clinice diferite",
+						"în cazul femeilor însărcinate, trebuie verificat statusul imun",
+						"în cazul femeilor însărcinate expuse la boală, fără imunitate, se recomandă administrarea imunoglobulinelor specifice anti-HPV",
+						"pacienții imunosupresați pot dezvolta encefalopatie sau retinită"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 71,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "72. Următoarele afirmații despre acneea vulgară sunt adevărate, cu excepția:  [198]",
+					"answers": [
+						"retinoizii topici sunt recomandați ca primă linie de tratament",
+						"acneea poate determina cicatrici permanente",
+						"este asociată cu infecţia produsă de Propionibacterium acnes",
+						"există o strânsă legătură demonstrată între acneea vulgară și consumul anumitor alimente",
+						"excesul de androgeni este o cauză frecventă a acneei la adulți"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 72,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "73. Chirurgia estetică: [209]",
+					"answers": [
+						"poate corecta cicatricile",
+						"este utilizată pentru corectarea ginecomastiei",
+						"trebuie însoțită de consult psihiatric în cazul pacienților care solicită în mod repetat astfel de proceduri",
+						"poate fi utilizată în corectarea palatoschizisului",
+						"nu poate fi folosită în îndepărtarea telangiectaziilor"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 73,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "74. Eritemul nodos: [204]",
+					"answers": [
+						"este o boală autolimitată",
+						"biopsia pielii poate evidenția paniculită",
+						"reprezintă inflamația epidermului și dermului",
+						"este, cel mai frecvent, localizat la nivel tibial anterior",
+						"este cauzat de reacția imunologică de tip întârziat la infecții, “boli autoimune de tesut conjunctiv, boli inflamatorii intestinale sau medicamente"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 74,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "75. Care din următoarele reprezintă cauze frecvente ale dermatitei de contact?  [201]",
+					"answers": [
+						"iedera otrăvitoare",
+						"nichelul",
+						"latexul",
+						"argintul",
+						"medicamentele"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 75,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "76. Care dintre următoarele afirmații descriu pemfigoidul bulos?  [205]",
+					"answers": [
+						"afecțiune caracterizată prin apariția de autoanticorpi împotriva membranei bazale a epidermului",
+						"afecțiune cu semn Nikolsky negativ",
+						"afecțiune determinată de deficitul de uroporfirinogen-decarboxilază hepatică",
+						"de obicei, afectează pacienţii de vârstă mijlocie",
+						"afecțiune caracterizată prin apariția de autoanticorpi îndreptați împotriva moleculelor de adeziune din epiderm"
+					]
+				},
+				{
+					"pages": [
+						202,
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 76,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "77. Următoarele afirmații despre necroliza epidermică toxică sunt false:  [202, 203]",
+					"answers": [
+						"se caracterizează prin creșterea numărului de leucocite, a hemoglobinei și hematocritului",
+						"reprezintă cea mai severă formă de reacție de hipersensibilitate",
+						"se caracterizează prin afectarea &lt; 10% din suprafața corpului",
+						"virusul Herpes simplex poate determina necroliză epidermică toxică",
+						"tratamentul cu imunoglobuline administrate intravenos este contraindicat"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 77,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "78. Despre porfiria cutanată tardivă, putem spune că:  [206]",
+					"answers": [
+						"este determinată de contactul cutanat cu un anumit alergen",
+						"în cazul probelor de laborator, se observă AST și ALT crescute",
+						"este determinată de deficitul de uroporfirinogen-decarboxilază hepatică",
+						"tratamentele cu estrogen și fumatul pot fi factori de risc",
+						"ca tratament, putem folosi clorochina în doză mare"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "b",
+					"explanationExists": false,
+					"questionIndex": 78,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "79. Care dintre următoarele reprezintă patologii buloase ale pielii?  [205]",
+					"answers": [
+						"pemfigus bulos",
+						"pemfigus vulgar",
+						"pemfigoid vulgar",
+						"pemfigoid bulos",
+						"porfiria cutanată tardivă"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 79,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "80. Alegeți afirmațiile incorecte cu privire la pemfigusul vulgar: [205]",
+					"answers": [
+						"clinic, se observă bule pe un fond eritematos diseminate pe suprafețe flexoare și perineal",
+						"leziunile sunt însoțite de prurit",
+						"pot apărea eroziuni în urma ruperii bulelor",
+						"clinic, se observă bule dureroase și fragile",
+						"tratamentul implică corticosteroizi, azatioprină sau ciclofosfamidă"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "i",
+					"explanationExists": false,
+					"questionIndex": 80,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "81. Despre dermatita atopică, următoarele afirmații sunt adevărate, cu excepția:  [203]",
+					"answers": [
+						"la nou-născuți, leziunile apar adesea pe zonele de flexie",
+						"formele infantile se remit, de obicei, în primii ani de viață",
+						"virusul Herpes simplex poate determina complicarea leziunilor din dermatita atopică",
+						"corticosteroizii topici sunt rar folosiți în tratamentul dermatitei atopice",
+						"rinita alergică reprezintă un factor de risc"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 81,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "82. Despre acneea vulgară, putem spune că:  [198]",
+					"answers": [
+						"femeile trebuie să aibă cel puțin 2 teste de sarcină negative înainte de a începe tratamentul cu isotretinoin topic",
+						"peroxidul de benzoil este adesea utilizat în monoterapie",
+						"antibioticele orale sau topice sunt adesea utilizate în combinație cu un retinoid topic",
+						"este interzis consumul de ciocolată",
+						"tratamentul are întotdeauna rezultate favorabile"
+					]
+				},
+				{
+					"pages": [
+						201,
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 82,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "83. Despre reacțiile de hipersensibilitate, putem afirma: [201, 202]",
+					"answers": [
+						"tipul I este determinată de degranularea mastocitelor și persistă câteva ore",
+						"reacția alergică cutanată poate fi declanșată de contactul cu latex sau de ingestia unor medicamente",
+						"erupția cutanată bine definită sugerează o cauză internă",
+						"în cazul erupțiilor ușoare, tratamentul cu corticosteroizi topici și antihistaminice poate fi suficient",
+						"tipul IV determină apariția unei erupții cutanate ce apare la câteva zile după prima expunere la antigen"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 83,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "84. Alegeți afirmația adevărată referitoare la hidradenita supurativă:  [196]",
+					"answers": [
+						"este determinată de inflamația glandelor holocrine",
+						"abcesele apar în zona palmelor și tălpilor",
+						"tratamentul necesită întotdeauna excizie chirurgicală",
+						"infecția acută duce la apariția cicatricilor",
+						"se datorează ocluziei foliculare cronice și inflamației glandelor sudoripare apocrine"
+					]
+				},
+				{
+					"pages": [
+						206,
+						207
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 84,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "85. Următoarele afirmații despre carcinomul scuamocelular (CSC) sunt adevărate, cu excepția:  [206, 207]",
+					"answers": [
+						"nu este influențat de expunerea la radiațiile UVB",
+						"are originea la nivelul epidermului",
+						"se prezintă ca o placă eritematoasă, foarte dureroasă",
+						"excizia Mohs se recomandă în special pentru leziuni localizate la nivelul feţei",
+						"nu determină ulcerații sau metastaze"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 85,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "86. Următoarele afirmații despre sindromul Stevens-Johnson sunt adevărate:  [202]",
+					"answers": [
+						"oprirea agentului cauzator este de primă intenție",
+						"afectează peste 10% din suprafața corpului",
+						"decolarea tegumentului poate fi extinsă, având risc crescut de deshidratare",
+						"se poate manifesta prin febră, mialgii și erupție cutanată polimorfă",
+						"semnul Nikolsky este negativ"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 86,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "87. Despre pitiriazisul rozat sunt adevărate următoarele, cu excepția:  [203]",
+					"answers": [
+						"boala este autolimitată",
+						"distribuția leziunilor este pe trunchi și extremități",
+						"apare adesea la vârstnici",
+						"are posibilă asociere bacteriană",
+						"leziunile sunt însoțite de prurit"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 87,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "88. Care sunt metodele de tratament folosite în tratarea abcesului cutanat?  [197]",
+					"answers": [
+						"dicloxacilina sau cefalexina",
+						"incizia și drenajul",
+						"chirurgia Mohs",
+						"amputația",
+						"cefalosporinele orale sau beta-lactaminele rezistente la penicilinază, timp de 10-14 zile"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 88,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "89. Gangrena umedă este o necroză tisulară determinată ocazional de: [197]",
+					"answers": [
+						"Papilomavirus uman (HPV)",
+						"Clostridium perfringens",
+						"Herpes simplex",
+						"Sarcoptes scabiei",
+						"Mycoplasma pneumoniae"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 89,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "90. Celulita este cel mai frecvent determinată de:  [196]",
+					"answers": [
+						"stafilococi MRSA",
+						"Propionibacterium Acnes",
+						"expunerea la soare",
+						"streptococul de grup A",
+						"stafilococul auriu"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 90,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "91. Printre factorii de risc asociați celulitei se numără, cu excepția: [196]",
+					"answers": [
+						"traumatismele",
+						"insuficiența limfatică",
+						"expunerea la soare",
+						"imunosupresia",
+						"diabetul zaharat"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 91,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "92. Care dintre următoarele elemente caracterizează dermatita seboreică?  [203]",
+					"answers": [
+						"scuame galbene, grăsoase",
+						"scuame albe, pe suprafețele de flexie",
+						"scuame albe, pe suprafețele de extensie",
+						"prurit",
+						"crustă de lapte"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 92,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "93. Care dintre următoarele reprezintă factori de risc în apariția carcinomului scuamocelular?  [206]",
+					"answers": [
+						"radiațiile UVB",
+						"keratoza actinică",
+						"rasa neagră",
+						"rănile cronice",
+						"cicatricile"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "7",
+					"explanationExists": false,
+					"questionIndex": 93,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "94. Alegeți agenţii fungici responsabili de tinea corporis:  [200]",
+					"answers": [
+						"Malassezia furfur",
+						"Candida albicans",
+						"Microsporum",
+						"Trichophyton",
+						"Epidermophyton"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 94,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "95. În cazul gangrenei uscate, întâlnim :  [197]",
+					"answers": [
+						"bule",
+						"tumefacție",
+						"papule și pustule",
+						"piele uscată, indurată",
+						"prurit"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 95,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "96. Alegeți afirmațiile false referitoare la mecanismul reacției de hipersensibilitate: [201]",
+					"answers": [
+						"reacția tip I: determinată de degranularea mastocitelor",
+						"reacția tip IV: determinată de activarea limfocitelor",
+						"reacția tip I: apare la câteva zile după a doua expunere la alergen",
+						"reacția tip IV: apare la scurt timp după expunere la alergen",
+						"reacția tip I: este difuză"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 96,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "97. Alegeți afirmațiile incorecte referitoare la psoriazis:  [203]",
+					"answers": [
+						"semnul Auspitz este pozitiv",
+						"este o boala inflamatorie a pielii caracterizată prin hiperproliferare epidermică",
+						"sunt necesare investigații de laborator",
+						"poate apărea pittingul unghial",
+						"biopsia pielii relevă îngroșarea dermului, absența stratului granulos și celule nucleate în stratul cornos"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 97,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "98. Despre infecțiile fungice, putem afirma:  [200]",
+					"answers": [
+						"Malassezia furfur este agentul etiologic implicat în apariția tinea pedis",
+						"diabetul zaharat și obezitatea reprezintă condiții favorizante",
+						"tinea corporis este o infecție fungică, caracterizată prin prezența de leziuni cu centru clar și margini eritematoase, active",
+						"Candida albicans nu determină intertrigo",
+						"antifungicele topice trebuie aplicate timp de mai multe săptămâni"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 98,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "99. Următoarele metode de tratament sunt folosite în tratarea gangrenei, cu excepția:  [197]",
+					"answers": [
+						"incizia și drenajul",
+						"amputația",
+						"debridarea",
+						"antibioticele",
+						"crioterapia"
+					]
+				},
+				{
+					"pages": [
+						205,
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 99,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "100. Pemfigoidul bulos: [205, 206]",
+					"answers": [
+						"majoritatea pacienților au vârsta peste 65 de ani",
+						"semnul Nikolsky este negativ",
+						"se caracterizează prin prezența de auto-anticorpi îndreptați împotriva moleculelor de adeziune din epiderm",
+						"la imunofluorescență se evidențiază auto-anticorpi anti-membrană bazală",
+						"leziunile sunt reprezentate de bule fragile, care se sparg ușor"
+					]
+				},
+				{
+					"pages": [
+						207,
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 100,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "101. Următoarele afirmații despre melanom sunt false:  [207, 208]",
+					"answers": [
+						"este o tumoră malignă, cu progresie rapidă",
+						"este o leziune dureroasă, sângerândă",
+						"antecedentele heredo-colaterale și personale nu sunt relevante",
+						"forma nodulară este cel mai frecvent întâlnită",
+						"clinic, aspectul poate fi asimetric, neomogen, cu margini neregulate, modificat recent"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 101,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "102. Alegeți afirmațiile adevărate despre carcinomul scuamocelular: [206]",
+					"answers": [
+						"în cazul tumorilor mari, radioterapia poate fi de ajutor",
+						"este cel mai frecvent tip de cancer de piele",
+						"leziunile pot sângera, ulcera sau deveni dureroase",
+						"tenul deschis la culoare reprezintă un factor de risc",
+						"pentru prevenirea apariției, se recomandă utilizarea cremelor de protecție cu SPF ≥15"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 102,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "103. Care dintre următoarele definiții caracterizează abcesul?  [196]",
+					"answers": [
+						"infecție bacteriană acută a dermului și țesutului subcutanat",
+						"infecție polimicrobiană rapid progresivă la nivelul planurilor fasciale",
+						"infecție contagioasă a pielii, cel mai frecvent întâlnită la copii",
+						"inflamație a foliculilor piloși și a glandelor sebacee",
+						"colecție subcutanată de puroi"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 103,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "104. Care dintre următoarele definiții caracterizează impetigo?  [197]",
+					"answers": [
+						"infecție virală recurentă, care afectează mucoasele și pielea",
+						"infecție polimicrobiană rapid progresivă la nivelul planurilor fasciale",
+						"infecție contagioasă a pielii, cel mai frecvent întâlnită la copii",
+						"inflamație a foliculilor piloși și a glandelor sebacee",
+						"necroză tisulară determinată de ischemie sau de infecții severe"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 104,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "105. În cazul gangrenei umede, întâlnim:  [197]",
+					"answers": [
+						"erupție eritematoasă cu dispoziție distinctă",
+						"bule și tumefacție",
+						"decolarea pielii",
+						"xeroză cutanată",
+						"papule acoperite de scuame albe"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 105,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "106. Care dintre următoarele definiții caracterizează acneea vulgară?  [198]",
+					"answers": [
+						"infecție virală recurentă, care afectează mucoasele și pielea",
+						"infecție polimicrobiană rapid progresivă la nivelul planurilor fasciale",
+						"infecție contagioasă a pielii, cel mai frecvent întâlnită la copii",
+						"inflamație a foliculilor piloși și a glandelor sebacee",
+						"necroză tisulară determinată de ischemie sau de infecții severe"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 106,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "107. Despre impetigo, următoarele afirmații sunt adevărate, cu excepția:  [197]",
+					"answers": [
+						"este o infecție contagioasă",
+						"este frecvent produs de streptococ",
+						"tratamentul constă în administrarea de antibiotice topice sau sistemice",
+						"este adesea întâlnit la copii",
+						"în evoluție, poate determina apariția de vezicule sau bule și formarea de cruste gălbui-aurii"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 107,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "108. Următoarele patologii sunt însoțite de prurit, cu excepția: [202]",
+					"answers": [
+						"impetigo",
+						"varicela",
+						"necroliza epidermică toxică",
+						"scabia",
+						"intertrigo"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "t",
+					"explanationExists": false,
+					"questionIndex": 108,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "109. Care dintre următoarele recomandări se aplică în cazul tratamentului porfiriei cutanate tardive?  [206]",
+					"answers": [
+						"utilizarea cremelor de protecție solară",
+						"evitarea alcoolului",
+						"flebotomia periodică",
+						"suplimentarea cu fier",
+						"hidroxicloroquina în doză mică"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 109,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "110. Despre molluscum contagiosum, este adevărat că:  [200]",
+					"answers": [
+						"se prezintă sub formă de papule cu vascularizație fină la suprafață și ulcerație centrală",
+						"este cel mai frecvent observată la copii și imunocompromiși",
+						"este produsă de parazitul acarian Sarcoptes scabiei",
+						"diagnosticul se pune pe observarea hifelor scurte pe lama cu KOH",
+						"este provocată de ingestia unui alergen"
+					]
+				},
+				{
+					"pages": [
+						203,
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 110,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "111. Alegeți răspunsurile adevărate referitoare la pitiriazisul rozat:  [203, 204]",
+					"answers": [
+						"este caracteristică distribuția în ’’brad de crăciun’’",
+						"cu câteva ore înainte de apariția erupției generalizate, apare placa heraldică",
+						"ca tratament, putem folosi steroizi topici și antihistaminice",
+						"leziunile papuloase sunt acoperite de scuamă albă",
+						"reprezintă o boală inflamatorie gravă"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 111,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "112. Care dintre următoarele reprezintă cauze ale eritemului polimorf?  [202]",
+					"answers": [
+						"penicilina",
+						"antiinflamatoarele steroidiene",
+						"antiepilepticele",
+						"Human Papilloma Virus",
+						"vaccinarea"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 112,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "113. Despre eritemul nodos, sunt adevărate următoarele afirmații: [204]",
+					"answers": [
+						"este caracterizat prin apariția de noduli eritematoși, dureroși",
+						"poate fi cauzat de reacţia imunologică de tip întârziat la infecţii, boli autoimune de ţesut conjuctiv, boli inflamatorii intestinale sau medicamente",
+						"leziunile se însoțesc de febră și stare generală alterată",
+						"ca tratament, se recomandă excizia chirurgicală, antiinflamatoarele non-steroidiene",
+						"pentru diagnosticul de certitudine se practică imunofluorescența"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 113,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "114. Ce reprezintă criteriile ABCDE în depistarea unui melanom? [208]",
+					"answers": [
+						"A: asimetrie",
+						"B: margini neregulate",
+						"C: culoare (variabilă)",
+						"D: diametru &gt; 6mm",
+						"E: elevat"
+					]
+				},
+				{
+					"pages": [],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 114,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "115. Următoarele pot fi patologii autolimitate, mai puțin:",
+					"answers": [
+						"verruca vulgaris",
+						"molluscum contagiosum",
+						"eritemul polimorf",
+						"psoriazisul",
+						"eritemul nodos"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 115,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "116. Despre carcinomul bazocelular (CBC), sunt adevărate următoarele afirmații:  [207]",
+					"answers": [
+						"este considerat cel mai frecvent tip de cancer de piele",
+						"clinic, poate avea aspect perlat, ulcerat central, cu telangiectazii pe suprafață",
+						"tehnica de excizie Mohs se aplică foarte rar în acest tip de cancer",
+						"celulele epidermice bazale sunt așezate în palisade",
+						"metastazarea este rară"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 116,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "117. Următoarele afirmații despre infecția primară cu virusul varicelo-zosterian sunt adevărate:  [199]",
+					"answers": [
+						"afectarea mai multor dermatoame distincte semnifică boala diseminată",
+						"leziunile pot să apară în decurs de până la o săptămână",
+						"aciclovirul este folosit în cazuri severe sau la imunocompromiși",
+						"se poate complica cu neuropatie trigeminală",
+						"evoluția este mai severă la vârstnici și gravide"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 117,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "118. Care dintre următoarele afirmații caracterizează sindromul Stevens-Johnson?  [202]",
+					"answers": [
+						"este o formă severă de eritem polimorf, care afectează mucoasele",
+						"apar plăci ce afectează &gt;10% din suprafața corporală",
+						"semnul Nikolsky este pozitiv",
+						"boala este frecvent tratată în secțiile de arși",
+						"afectează &gt;30% din suprafața corporală"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "p",
+					"explanationExists": false,
+					"questionIndex": 118,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "119. În funcție de localizare, infecțiile fungice pot fi:  [200]",
+					"answers": [
+						"tinea corporis",
+						"tinea cruris",
+						"tinea versicolor",
+						"tinea alba",
+						"tinea pedis"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 119,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "120. Alegeți afirmația adevărată despre acneea vulgară:  [198]",
+					"answers": [
+						"acneea este frecvent asociată cu consumul de grăsimi",
+						"săpunurile agravează aspectul papulelor și pustulelor",
+						"contraceptivele orale pot fi utile pentru femeile care nu răspund la tratamentul cu retinoizi topici, antibiotice și peroxidul de benzoil",
+						"isotretinoinul oral poate fi folosit în sarcină",
+						"antibioticele orale sau topice reprezintă terapia de linia I"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "b",
+					"explanationExists": false,
+					"questionIndex": 120,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "121. Despre reacțiile de hipersensibilitate ale pielii sunt adevărate afirmațiile: [201]",
+					"answers": [
+						"cauză externă – erupție difuză",
+						"cauză externă – erupție bine definită",
+						"cauză internă – erupție bine definită",
+						"cauză internă – erupție cu distribuţie imprecis delimitată, difuză",
+						"cauză externă – erupție liniară"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 121,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "122. Carcinomul scuamocelular:  [206]",
+					"answers": [
+						"are orginea în celulele scuamoase ale epiteliului",
+						"biopsia evidențiază celule epidermice anaplastice, care se extind până în derm",
+						"chirurgia Mohs este recomandată pentru leziunile de la nivelul feței",
+						"evoluția tumorii este rapidă",
+						"mai mult de 50% din cazuri metastazează"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 122,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "123. Care dintre următoarele afirmații descriu leziunile întâlnite în tinea versicolor?  [200]",
+					"answers": [
+						"leziuni frecvent localizate pe torace anterior și posterior",
+						"leziunile se bronzează ușor la soare",
+						"plăci pruriginoase, dureroase la nivelul pliurilor tegumentare",
+						"prin grataj, se pot observa scuame ușor detașabile",
+						"macule de culoarea somonului"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 123,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "124. Următoarele metode de tratament sunt folosite în tratarea impetigo, cu excepția:  [197]",
+					"answers": [
+						"antihistaminice orale",
+						"antibiotice topice",
+						"antibiotice orale",
+						"dicloxacilină",
+						"cefalexină"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 124,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "125. Abcesele cutanate sunt cel mai frecvent determinate de:  [196]",
+					"answers": [
+						"stafilococi MRSA",
+						"Propionibacterium Acnes",
+						"Herpes simplex",
+						"streptococul de grup A",
+						"Clostridium perfringens"
+					]
+				},
+				{
+					"pages": [
+						209
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "h",
+					"explanationExists": false,
+					"questionIndex": 125,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "126. Chirurgia reconstructivă:  [209]",
+					"answers": [
+						"poate fi folosită la repararea hipospadiasului",
+						"poate fi folosită pentru repararea ptozei palpebrale",
+						"presupune reducerea țesutului gras",
+						"este folosită cel mai des pentru combaterea efectelor îmbătrânirii",
+						"poate fi folosită după excizia sarcoamelor"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "7",
+					"explanationExists": false,
+					"questionIndex": 126,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "127. Eritemul nodos:  [204]",
+					"answers": [
+						"se caracterizează prin prezența de noduli eritematoși, dureroși, pretibial posterior",
+						"nu se bazează pe o reacție imunologică de tip întârziat",
+						"se caracterizează printr-o afectare autolimitată, de tip inflamator",
+						"când se asociază cu infecție streptococică, poate asocia titru pozitiv de antistreptolizină O",
+						"pacienții prezintă stare generală alterată"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 127,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "128. Următoarea afirmație despre acneea vulgară este falsă:  [198]",
+					"answers": [
+						"se caracterizează prin inflamație și obstrucție foliculară",
+						"retinoizii topici reprezintă prima linie de tratament",
+						"la adulți, utilizarea corticosteroizilor poate fi o cauză frecventă de apariție a acneei",
+						"contraceptivele orale nu influențează tratamentul acneei vulgare",
+						"Propionibacterium acnes este principalul agent microbian implicat în apariția acneei"
+					]
+				},
+				{
+					"pages": [],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 128,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "129. Alegeți patologiile cu semn Nikolsky pozitiv:",
+					"answers": [
+						"eritemul polimorf",
+						"sindromul Stevens-Johnson",
+						"pemfigusul vulgar",
+						"pemfigoidul bulos",
+						"eritemul nodos"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 129,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "130. Ce elemente de laborator întâlnim în cazul molluscum contagiosum?  [200]",
+					"answers": [
+						"prin examinare la microscop în urma raclării superficiale a pielii pot fi identificați paraziții și ouăle acestora",
+						"pe lama cu KOH se poate observa aspect de ’’spaghete și chifteluțe’’",
+						"biopsia pielii relevă îngroșarea epidermului, absența stratului granulos și prezența celulelor nucleate în stratul cornos",
+						"pe colorațiile Giemsa și Wright observăm corpi de incluziune voluminoși",
+						"biopsia cutanată arată acantoliză"
+					]
+				},
+				{
+					"pages": [],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 130,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "131. Următoarele patologii sunt însoțite de prurit, cu excepția:",
+					"answers": [
+						"tinea",
+						"dermatita de contact",
+						"eritemul polimorf",
+						"celulita",
+						"dermatita seboreică"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 131,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "132. Despre reacțiile de hipersensibilitate ale pielii, sunt adevărate următoarele:  [201]",
+					"answers": [
+						"reacția de tip IV este mecanismul de producere al majorității dermatitelor de contact alergice",
+						"în cazul reacției de tip I, erupția este morbiliformă, asemănătoare rujeolei",
+						"în cazul reacției de tip I, erupția durează doar câteva ore",
+						"epinefrina este indicată în cazurile grave cu angioedem al căilor respiratorii și/sau anafilaxie",
+						"corticosteroizii orali se utilizează în formele ușoare"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 132,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "133. Despre keratoza actinică, următoarele afirmații sunt adevărate:  [206]",
+					"answers": [
+						"se prezintă ca o papulă rugoasă, eritematoasă, acoperită de scuame",
+						"10% din keratozele actinice se pot maligniza",
+						"reprezintă o leziune precanceroasă, cu potențial de transformare în carcinom scuamocelular",
+						"aplicarea de 5-fluorouracil sau imiquimod pot fi utile",
+						"biopsierea cutanată nu este necesară"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 133,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "134. Următoarele afirmații sunt false, cu excepția:  [197]",
+					"answers": [
+						"fasceita necrozantă este o infecție ce se caracterizează prin păstrarea sensibilității în țesutul afectat",
+						"gangrena uscată se caracterizează prin apariția de bule la nivelul zonei afectate",
+						"gangrena uscată nu reprezintă o urgență medicală",
+						"radiografia și tomografia computerizată pot fi utile în fasceita necrozantă și gangrenă",
+						"fasceita necrozantă determină rar infecție sistemică și mortalitate ridicată"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 134,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "135. Alegeți afirmațiile incorecte referitoare la eritemul polimorf: [202]",
+					"answers": [
+						"investigațiile de laborator evidențiază scăderea numărului de leucocite, scăderea hemoglobinei și hematocritului, creșterea transaminazelor",
+						"clinic: stare generală alterată, mialgii, prurit, macule/plăci nepalpabile",
+						"boala poate fi autolimitată",
+						"antibioticele reprezintă tratamentul de primă linie",
+						"se pot observa leziuni cu inel interior eritematos și inel exterior palid"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 135,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "136. Alegeți afirmațiile adevărate despre epidermoliza necrotică toxică:  [202]",
+					"answers": [
+						"apare decolarea extinsă a pielii și necroza întregii grosimi a epidermului",
+						"investigațiile de laborator relevă creșterea numărului de leucocite, scăderea hemoglobinei, scăderea hematocritului",
+						"se recomandă oprirea agentului cauzal",
+						"pacientul se tratează în secțiile de arși cu hidratare și imunoglobuline intravenos",
+						"aciclovirul poate fi util în cazurile produse de HPV"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 136,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "137. Dermatita seboreică:  [203]",
+					"answers": [
+						"este cel mai frecvent localizată la nivelul scalpului sau feței",
+						"denumirea de ’’crustă de lapte’’ este dată scalpului nou-născuților cu dermatita seboreică",
+						"ca și tratament, putem folosi antifungice şi corticosteroizi topici",
+						"cel mai frecvent, este întâlnită la adulți și vârstnici",
+						"printre complicații, întâlnim eczema herpeticum"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 137,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "138. Alegeți afirmațiile adevărate despre psoriazis:  [203]",
+					"answers": [
+						"se caracterizează prin hiperproliferare epidermică",
+						"apare pe zonele de flexie",
+						"apar plăci eritematoase cu scuame argintii, însoțite uneori de prurit",
+						"în formele ușoare, se utilizează fototerapia, metotrexatul, ciclosporina",
+						"după îndepărtarea scuamelor, zona sângerează ușor"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 138,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "139. Alegeți afirmațiile adevărate referitoare la tinea versicolor:  [200]",
+					"answers": [
+						"agentul fungic responsabil este Candida albicans",
+						"agentul fungic responsabil este Malassezia furfur",
+						"ketoconazol oral 1-5 zile poate fi folosit ca tratament",
+						"clinic, se prezintă sub formă de plăci pruriginoase cu atenuare centrală",
+						"pe lama cu KOH se poate observa aspect de ’’spaghete și chifteluțe’’"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "k",
+					"explanationExists": false,
+					"questionIndex": 139,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "140. Următoarele afirmații despre pemfigusul vulgar sunt false:  [205]",
+					"answers": [
+						"semnul Nikolsky este negativ",
+						"este o afecțiune buloasă, autoimună",
+						"tratamentul imunosupresor cu azatioprină nu este eficient",
+						"leziunile sunt reprezentate de bule fragile, dureroase, care se rup cu ușurință",
+						"la examenul histopatologic se evidențiază acantoliză"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 140,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "141. Următoarele afirmații despre eritemul polimorf sunt adevărate, cu excepția: [202]",
+					"answers": [
+						"poate fi cauzat de medicamente, infecții sau vaccinare",
+						"este o dermatită alergică de contact, apărută în urma unei reacții de hipersensibilitate",
+						"Herpes simplex și Mycoplasma pneumoniae sunt rar implicate în etiologia eritemului polimorf",
+						"biopsia cutanată evidențiază un număr crescut de limfocite și keratinocite necrotice",
+						"pot apărea vezicule pe extremităţi (în special la nivel palmoplantar)"
+					]
+				},
+				{
+					"pages": [
+						196,
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 141,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "142. Următoarele afirmații despre hidradenita supurativă sunt adevărate, cu excepția: [196, 197]",
+					"answers": [
+						"se poate vindeca cu cicatrizare",
+						"abcesele sunt recurente, axilare, inghinale, perineale",
+						"presupune ocluzie foliculară și inflamație a glandelor ecrine",
+						"tratamentul constă în antibiotice și excizie chirurgicală",
+						"pot fi necesare antibioticele"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 142,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "143. Următoarea afirmație despre varicelă și herpes zoster este falsă:  [199]",
+					"answers": [
+						"erupția cutanată din herpes zoster este limitată dermatomeric",
+						"manifestările clinice specifice sunt similare în varicelă și herpes zoster",
+						"transmiterea materno-fetală a varicelei poate avea consecințe severe",
+						"vaccinarea reduce marcat incidența bolii",
+						"nevralgia postherpetică este o complicație a infecției zosteriene"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 143,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "144. Pentru cazurile de celulită cu evoluție severă se poate folosi, cu excepția:  [196]",
+					"answers": [
+						"vancomicină intravenos",
+						"linezolid",
+						"cefalosporine orale",
+						"cotrimoxazol",
+						"antibiotice intravenoase care acoperă spectrul MRSA"
+					]
+				},
+				{
+					"pages": [
+						201,
+						202,
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "t",
+					"explanationExists": false,
+					"questionIndex": 144,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "145. Care dintre următoarele sunt afecțiuni inflamatorii ale pielii? [201, 202, 203]",
+					"answers": [
+						"dermatita de contact",
+						"sindromul Stevens-Johnson",
+						"psoriazisul",
+						"pemfigoidul bulos",
+						"pitiriazisul rozat"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 145,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "146. Care sunt metodele de tratament folosite în tratarea celulitei? [196]",
+					"answers": [
+						"retinoizi topici",
+						"incizia și drenajul",
+						"debridarea chirurgicală",
+						"amputația",
+						"cefalosporinele orale sau beta-lactaminele rezistente la penicilinază timp de 10-14 zile"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 146,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "147. Alegeți afirmația adevărată referitoare la leziunile întâlnite în molluscum contagiosum:  [200]",
+					"answers": [
+						"papule cu aspect lucios, nedureroase, cu zonă centrală ombilicată",
+						"leziuni în țintă cu centru eritematos înconjurat de un inel interior palid și un inel exterior eritematos",
+						"plăci eritematoase cu xeroză cutanată și vezicule",
+						"noduli eritematoși dureroși la atingere",
+						"bule diseminate însoțite de prurit"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 147,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "148. Care dintre următoarele definiții caracterizează fasceita necrozantă?  [197]",
+					"answers": [
+						"infecție virală recurentă, care afectează mucoasele și pielea",
+						"infecție polimicrobiană rapid progresivă la nivelul planurilor fasciale",
+						"infecție contagioasă a pielii, cel mai frecvent întâlnită la copii",
+						"inflamație a foliculilor piloși și a glandelor sebacee",
+						"necroză tisulară determinată de ischemie sau de infecții severe"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 148,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "149. Care dintre următoarele definiții caracterizează verruca vulgaris?  [199]",
+					"answers": [
+						"infecție virală recurentă, care afectează mucoasele și pielea",
+						"tumori epiteliale benigne, determinate de HPV",
+						"infecție contagioasă a pielii, cel mai frecvent întâlnită la copii",
+						"inflamație a foliculilor piloși și a glandelor sebacee",
+						"necroză tisulară determinată de ischemie sau de infecții severe"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "t",
+					"explanationExists": false,
+					"questionIndex": 149,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "150. În intertrigo, întâlnim leziuni:  [200]",
+					"answers": [
+						"pruriginoase",
+						"la nivelul pliurilor tegumentare",
+						"dureroase",
+						"hipopigmentate",
+						"cu pustule periferice"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 150,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "151. În cadrul celulitei, în cazul în care leziunile supurează și/sau pacienții au risc de infecție cu MRSA (Staf. aureu rezistent la meticilină), opțiunile terapeutice pot fi reprezentate de: [196]",
+					"answers": [
+						"Linezolid",
+						"Cotrimoxazol",
+						"Vancomicină",
+						"Cefalexină",
+						"Cefuroxim"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 151,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "152. Următoarea patologie dermatologică inflamatorie are o posibilă etiologie virală:  [203]",
+					"answers": [
+						"Dermatita seboreică",
+						"Eczema",
+						"Pitiriazisul rozat",
+						"Pemfigoidul bulos",
+						"Pemfigusul vulgar"
+					]
+				},
+				{
+					"pages": [
+						203,
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 152,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "153. În următoarele patologii dermatologice sunt afectate cu precădere suprafețele flexoare ale membrelor:  [203, 205]",
+					"answers": [
+						"Pemfigusul vulgar",
+						"Pemfigoidul bulos",
+						"Eczema",
+						"Dermatita seboreică",
+						"Psoriazisul"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 153,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "154. Următoarele leziuni dermatologice sunt întâlnite în impetigo:  [197]",
+					"answers": [
+						"Cruste",
+						"Bule",
+						"Plăci",
+						"Vezicule",
+						"Pustule"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 154,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "155. Următoarele infecții cutanate fungice frecvente au ca agent etiologic:  [200]",
+					"answers": [
+						"Pytiriasis versicolor – Aspergillus",
+						"Tinea corporis – Tricophyton",
+						"Tinea pedis – Epidermophyton",
+						"Tinea cruris - Microsporum",
+						"Intertrigo - Candida Albicans"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 155,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "156. Următoarele afirmații sunt adevărate în legătură cu infecția primară cu virusul varicelo-zosterian: [199]",
+					"answers": [
+						"Perioada de incubație este de aproximativ două săptămâni",
+						"Simptomele generale apar concomitent cu leziunile cutanate",
+						"Distribuţia leziunilor este limitată la unul sau cel mult câteva dermatoame",
+						"Leziunile cutanate se remit în câteva zile",
+						"Leziunile sunt infecțioase până la stadiul de cruste"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 156,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "157. Următoarele antivirale sunt utilizate de obicei în infecția herpetică:  [198]",
+					"answers": [
+						"Aciclovir",
+						"Famciclovir",
+						"Tenofovir",
+						"Valaciclovir",
+						"Valganciclovir"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 157,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "158. Eczema, în cazul nou-născuților, afectează cel mai adesea următoarele regiuni:  [203]",
+					"answers": [
+						"Scalpul",
+						"Fața",
+						"Toracele anterior",
+						"Suprafețele de flexie",
+						"Fața dorsală a mâinilor și picioarelor"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 158,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "159. Reprezintă caracteristici ale reacțiilor cutanate de hipersensibilitate tip I:  [201]",
+					"answers": [
+						"Sunt determinate de degranularea limfocitară",
+						"Apare la scurt timp după expunere",
+						"Se pot manifesta sub formă de urticarie",
+						"Se pot manifesta sub formă de reacție maculopapuloasă",
+						"Durează câteva ore"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 159,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "160. Spre deosebire de gangrena uscată, gangrena umedă: [197]",
+					"answers": [
+						"Asociază crepitaţii cutanate și prezența aerului la examenele imagistice",
+						"Asociază prezența bulelor și tumefacția zonei afectate",
+						"Este un proces progresiv",
+						"Apare datorită ocluziei vasculare acute",
+						"Apare în urma infecțiilor, mai ales cu Clostridium difficile"
+					]
+				},
+				{
+					"pages": [
+						202,
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 160,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "161. Următoarele patologii dermatologice pot fi cauzate de un virus:  [202, 203]",
+					"answers": [
+						"Sindromul Stevens-Johnson",
+						"Necroliza epidermică toxică",
+						"Psoriazisul",
+						"Pitiriazisul rozat",
+						"Pemfigusul vulgar"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 161,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "162. În legătură cu scabia, următoarele afirmații sunt false:  [200]",
+					"answers": [
+						"Sunt afectate în principal spațiile interdigitale de la mâini sau picioare",
+						"Pruritul se ameliorează după o baie caldă",
+						"Acarienii sapă șanțuri în straturile superficiale ale dermului",
+						"Se poate trata cu permetrină cremă sau ivermectină orală",
+						"Hainele, prosoapele și lenjeria de pat infestate trebuie aruncate"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 162,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "163. Cea mai importantă măsură terapeutică în tratamentul reacțiilor cutanate grave de hipersensibiltate este:  [202]",
+					"answers": [
+						"Administrarea rapidă de corticosteroizi topici și intravenos",
+						"Resuscitarea rapidă cu fluide",
+						"Internarea într-o secție de arși",
+						"Administrarea de imunoglobuline intravenos",
+						"Oprirea agentului declanșator"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 163,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "164. Următoarea patologie pulmonară este un factor de risc pentru dezvoltarea eczemei:  [203]",
+					"answers": [
+						"Emfizemul",
+						"Bronșita cronică",
+						"Tuberculoza",
+						"Astmul",
+						"Fibroza chistică"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 164,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "165. Spre deosebire de gangrena umedă, gangrena uscată:  [197]",
+					"answers": [
+						"Evoluează rapid",
+						"Evoluează progresiv",
+						"Pielea are un aspect indurat",
+						"Se evidențiază aerul subcutanat la radiografie sau CT",
+						"Apare în urma proceselor infecțioase"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 165,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "166. La examniarea preparatului pe lamă cu KOH a următorilor fungi, se observă:  [200]",
+					"answers": [
+						"Malassezia furfur – hife",
+						"Malassezia furfur – spori",
+						"Candida albicans – hife",
+						"Candida albicans – pseudohife",
+						"Microsporum – hife"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "p",
+					"explanationExists": false,
+					"questionIndex": 166,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "167. Reprezintă tratamente de a doua linie ale acneei, cu excepția:  [198]",
+					"answers": [
+						"Retinoizi topici ca unică terapie",
+						"Retinoizi orali",
+						"Antibiotice topice",
+						"Antibiotice orale",
+						"Contraceptive orale"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 167,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "168. Vaccinarea poate preveni următoarele patologii dermatologice:  [199]",
+					"answers": [
+						"Impetigo",
+						"Herpesul labial",
+						"Varicela",
+						"Zona zoster",
+						"Molluscum contagiosum"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 168,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "169. Este necesară prelevarea de culturi în următoarele infecții dermatologice:  [197]",
+					"answers": [
+						"Celulita",
+						"Abcesul necomplicat",
+						"Fasceita necrozantă",
+						"Gangrena",
+						"Acneea vulgară"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "a",
+					"explanationExists": false,
+					"questionIndex": 169,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "170. Următoarele microorganisme sunt asociate mai frecvent cu reacțiile severe de hipersensibilitate cutanată:  [202]",
+					"answers": [
+						"Legionella pneumophila",
+						"Mycoplasma pneumoniae",
+						"Salmonella paratyphi",
+						"Virusul Herpes simplex",
+						"Candida albicans"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 170,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "171. Reprezintă modificări histologice întâlnite în psoriazis:  [203]",
+					"answers": [
+						"Îngroșarea epidermului și a dermului",
+						"Subțierea membranei bazale",
+						"Absența stratului granulos",
+						"Absența stratului spinos",
+						"Celule nucleate în stratul cornos"
+					]
+				},
+				{
+					"pages": [
+						202,
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "a",
+					"explanationExists": false,
+					"questionIndex": 171,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "172. Decolarea usoara a epidermului in lambouri (semnul Nikolsky) este întâlnit în următoarele afecțiuni dermatologice:  [202, 205]",
+					"answers": [
+						"Keratoza actinică",
+						"Sindromul Stevens-Johnson",
+						"Psoriazis",
+						"Pemfigusul vulgar",
+						"Pemfigoid bulos"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 172,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "173. Următoarele leziuni dermatologice sunt întâlnite în acnee:  [198]",
+					"answers": [
+						"Macule",
+						"Papule",
+						"Pustule",
+						"Plăci",
+						"Noduli"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 173,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "174. Următoarele clase de antibiotice sunt asociate mai frecvent cu reacțiile severe de hipersensibilitate cutanată, cu excepția: [202]",
+					"answers": [
+						"Penicilinele",
+						"Monobactami",
+						"Fluorochinolonele",
+						"Sulfonamidele",
+						"Aminoglicozidele"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 174,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "175. Următoarele antibiotice sunt recomandate în tratamentul impetigo-ului:  [197]",
+					"answers": [
+						"Mupirocina",
+						"Vancomicina",
+						"Dicloxacilina",
+						"Cefalexina",
+						"Cotrimoxazolul"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 175,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "176. Următoarea patologie cutanată inflamatorie este asociată cu infecția cu Malassezia: [203]",
+					"answers": [
+						"Eritemul polimorf",
+						"Dermatita seboreică",
+						"Eczema",
+						"Pitiriazisul rozat",
+						"Eritemul nodos"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 176,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "177. Următoarele clase medicamentoase sunt asociate mai frecvent cu reacțiile severe de hipersensibilitate cutanată: [202]",
+					"answers": [
+						"Penicilinele",
+						"Antiinflamatoarele nesteroidiene",
+						"Corticosteroizii",
+						"Antiepilepticele",
+						"Patchurile contraceptive"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 177,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "178. La examenul bioptic cu colorații Giemsa și Wright, se observă corpi de incluziune voluminoși în următoarea patologie infecțioasă a pielii:  [200]",
+					"answers": [
+						"Herpes labial",
+						"Varicelă",
+						"Acnee",
+						"Verucca vulgaris",
+						"Molluscum contagiosum"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "k",
+					"explanationExists": false,
+					"questionIndex": 178,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "179. Reprezintă afecțiuni cutanate inflamatorii caracterizate prin hiperproliferare epidermică:  [203]",
+					"answers": [
+						"Dermatita seboreică",
+						"Dermatita atopică",
+						"Psoriazisul",
+						"Pitiriazisul",
+						"Eritemul nodos"
+					]
+				},
+				{
+					"pages": [
+						196,
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 179,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "180. Reprezintă un punct comun al celulitei și fasceitei necrozante:  [196, 197]",
+					"answers": [
+						"Un singur tip de bacterie este implicată",
+						"Pierderea sensibilității în țesutul implicat",
+						"Leucocitoză, VSH și PCR crescute",
+						"Necesită prelevarea de culturi microbiologice",
+						"Acumularea de aer subcutanat"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 180,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "181. Pacienții imunocompromiși, infectați cu herpes simplex (HSV), prezintă risc crescut de:  [198]",
+					"answers": [
+						"Encefalită",
+						"Miocardită",
+						"Hepatită",
+						"Retinită",
+						"Pneumonie"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 181,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "182. Următoarea ordine cronologică este corectă în ceea ce privește leziunile cutanate din varicelă sau zona zoster:  [199]",
+					"answers": [
+						"Macule – Papule – Cruste – Vezicule",
+						"Macule – Vezicule – Papule – Cruste",
+						"Macule – Vezicule – Cruste – Papule",
+						"Macule – Papule – Vezicule – Cruste",
+						"Papule – Macule – Vezicule - Cruste"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 182,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "183. Sunt cel mai frecvent susceptibili la infecția cutanată cu poxvirus molluscum contagiosum: [200]",
+					"answers": [
+						"Copiii",
+						"Pacienţii imunocompromişi",
+						"Femeile",
+						"Un pacient cu infecție HIV în stadiul SIDA",
+						"Un pacient cu terapie post-transplant"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 183,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "184. Următoarele afirmații sunt false în legătură cu acneea:  [198]",
+					"answers": [
+						"Este cauzată de inflamația și infecția foliculilor piloși și a glandelor apocrine",
+						"S-a demonstrat o asociere puternică cu consumul anumitor alimente",
+						"Este favorizată de colonizarea pielii cu Streptococcus acne",
+						"Retinoizii topici sunt recomandați ca primă linie de tratament",
+						"Isotretinoin oral (analog al vitaminei A) se utilizează în cazurile severe, dar necesită o monitorizare atentă a enzimelor hepatice (risc de hepatotoxicitate)"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 184,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "185. Următoarele afirmații sunt adevărate în legătură cu infecția cu virusul herpes simplex:  [198]",
+					"answers": [
+						"Este o patologie incurabilă",
+						"Boala diseminată a nou născutului este cauzată în principal de HSV-1 genital matern",
+						"Infecția primară prezintă de obicei simptomatologie mai severă",
+						"Infecția secundară evoluează cu un simplu sindrom pseudo-gripal",
+						"Tratamentul cu antivirale scade frecvența și durata recurențelor"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 185,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "186. Reprezintă caracteristici ale reacțiilor cutanate de hipersensibilitate tip IV:  [201]",
+					"answers": [
+						"Sunt determinate de activitatea limfocitară",
+						"Sunt inițiate mai rapid și mai intens la pacienții imunosupresați",
+						"Apar la câteva zile după a doua expunere",
+						"Reprezintă mecanismul dermatitelor de contact",
+						"Se pot manifesta sub formă de urticarie"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 186,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "187. Pacientă în vârstă de 39 de ani, fumătoare, cu un tegument fotoagresat prezintă la nivelul frunții un carcinom scuamocelular de dimensiuni mici. Cea mai bună opțiune terapeutică o reprezintă:  [206]",
+					"answers": [
+						"excizia chirurgicală",
+						"electrocauterizarea",
+						"laser-terapia",
+						"excizii seriate Mohs",
+						"radioterapia"
+					]
+				},
+				{
+					"pages": [
+						202
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 187,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "188. Împreună cu herpes, următorul agent patogen este responsabil de eritemul polimorf:  [202]",
+					"answers": [
+						"mycoplasma pneumoniae",
+						"malassezia",
+						"staf. aureus",
+						"staf. epidermidis",
+						"microsporum"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 188,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "189. Pacient de 55 ani, sex masculin, consumator etanolic prezintă la nivelul membrelor superioare (antebrațe și mâini) multiple bule nedureroase, în evoluție de câteva luni. Stare generală bună. Diagnosticul cel mai probabil este de:  [206]",
+					"answers": [
+						"pemfigus vulgar",
+						"pemfigoid bulos",
+						"porfiria cutanea tarda",
+						"sindromul Stevens-Johnson",
+						"eritem polimorf"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 189,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "190. Semnul Auspitz este regăsit în următoarea condiție dermatologică:  [203]",
+					"answers": [
+						"Lichenul plan",
+						"Dermatita atopică",
+						"Psoriazisul",
+						"Pitiriazisul rozat",
+						"Eritemul polimorf"
+					]
+				},
+				{
+					"pages": [
+						207
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 190,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "191. Cel mai frecvent tip de cancer de piele este: [207]",
+					"answers": [
+						"carcinomul bazocelular",
+						"melanomul",
+						"carcinomul spinocelular",
+						"keratoza actinică",
+						"sarcomul"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 191,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "192. Aspectul sugestiv dermatologic pentru tinea corporis este de:  [201]",
+					"answers": [
+						"erupție scuamoasă",
+						"papule și pustule",
+						"placă cu scuame argintii",
+						"cruste gălbui-aurii",
+						"vezicule dureroase"
+					]
+				},
+				{
+					"pages": [
+						205
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 192,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "193. Următoarele trăsături se regăsesc în pemfigusul vulgar:  [205]",
+					"answers": [
+						"majoritatea pacienților au de obicei peste 65 ani",
+						"mortalitatea este crescută în ciuda tratamentului",
+						"corticosteroizii sunt de bază în terapie",
+						"semnul Nikolsky este pozitiv",
+						"este afectată membrana bazală a epidermului"
+					]
+				},
+				{
+					"pages": [
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 193,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "194. Tratamentul în eritemul nodos implică:  [204]",
+					"answers": [
+						"corticoterapie",
+						"AINS",
+						"iodură de potasiu",
+						"antihistaminice",
+						"antivirale"
+					]
+				},
+				{
+					"pages": [
+						196
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 194,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "195. Sunt afirmații false în legătură cu hidradenita supurativă:  [196]",
+					"answers": [
+						"excizia chirurgicală poate fi o soluție",
+						"prezintă inflamația glandelor apocrine, cu formarea de abcese",
+						"uneori se recomandă incizia și drenajul",
+						"leziunile sunt dureroase",
+						"mortalitatea este ridicată (până la 25% din cazuri)"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 195,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "196. Cele 2 riscuri importante ale isotretinoinului oral sunt:  [198]",
+					"answers": [
+						"teratogenicitatea",
+						"hepatotoxicitatea",
+						"depresia",
+						"encefalita",
+						"gastrita"
+					]
+				},
+				{
+					"pages": [
+						201
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 196,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "197. Sunt cauze frecvente ale dermatitei alergice de contact:  [201]",
+					"answers": [
+						"nichel",
+						"iedera otrăvitoare",
+						"săpunuri",
+						"latex",
+						"dezinfectanți"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 197,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "198. Sunt opțiuni terapeutice în dermatita seboreică: [203]",
+					"answers": [
+						"corticosteroizi topici",
+						"antifungice",
+						"șampon cu seleniu",
+						"emoliente la nou-născuţi",
+						"fototerapie"
+					]
+				},
+				{
+					"pages": [
+						200,
+						202,
+						204
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 198,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "199. Următoarele leziuni dermatologice pot fi autolimitate: [200, 202, 204]",
+					"answers": [
+						"dermatita atopică",
+						"verucile vulgare",
+						"eritemul polimorf",
+						"pitiriazis rozat",
+						"eritemul nodos"
+					]
+				},
+				{
+					"pages": [
+						208
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 199,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "200. Situsurile cele mai frecvente de metastaze pentru melanomul malign sunt:  [208]",
+					"answers": [
+						"creierul",
+						"tractul gastro-intestinal",
+						"plămânul",
+						"oasele",
+						"rinichi"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 200,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "201. Sunt opțiuni terapeutice benefice în scabie:  [200]",
+					"answers": [
+						"permetrină oral",
+						"ivermectină oral",
+						"difenhidramină",
+						"corticoterapie topică",
+						"ketoconazol"
+					]
+				},
+				{
+					"pages": [
+						198
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "t",
+					"explanationExists": false,
+					"questionIndex": 201,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "202. Pot fi implicate în patogeneza acneei vulgare: [198]",
+					"answers": [
+						"corticoterapia",
+						"hormonii androgeni",
+						"infecția cu Propionibacterium acnes",
+						"alimentația",
+						"obstrucția foliculară"
+					]
+				},
+				{
+					"pages": [
+						203
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 202,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "203. Sunt complicații ale dermatitei atopice:  [203]",
+					"answers": [
+						"eczema herpeticum",
+						"suprainfecția cu HSV",
+						"psoriazisul",
+						"eritemul polimorf",
+						"tinea corporis"
+					]
+				},
+				{
+					"pages": [
+						197
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 203,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "204. Testele de laborator în fasceita necrozantă pot releva:  [197]",
+					"answers": [
+						"hiponatremie",
+						"leucocitoză",
+						"PCR crescută",
+						"trombocitoză",
+						"limfopenie"
+					]
+				},
+				{
+					"pages": [
+						199
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 204,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "205. Sunt trăsături ale infecției variceloase la copii:  [199]",
+					"answers": [
+						"mialgii, febră, cu &lt;3 zile înaintea erupției",
+						"prezintă tranziția: macule-papule-vezicule-cruste",
+						"în cazurile ușoare se administrează doar aciclovir și terapie suportivă",
+						"se poate recomanda corticoterapia topică",
+						"evoluția este mai severă la gravide"
+					]
+				},
+				{
+					"pages": [
+						206
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 205,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "206. Factorii de risc pentru porfiria cutanea tarda sunt:  [206]",
+					"answers": [
+						"guta",
+						"supraîncărcare cu fier",
+						"estrogenii",
+						"alcoolul",
+						"fumatul"
+					]
+				},
+				{
+					"pages": [],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "b",
+					"explanationExists": false,
+					"questionIndex": 206,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "207. Semnul Nikolsky pozitiv se regăsește în următoarele maladii dermatologice: [202, 122 Lawrence]",
+					"answers": [
+						"pemfigoid bulos",
+						"pemfigusul vulgar",
+						"eritemul multiform",
+						"sd stevens johnson",
+						"necroliza epidermală toxică"
+					]
+				},
+				{
+					"pages": [
+						200
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "k",
+					"explanationExists": false,
+					"questionIndex": 207,
+					"chapterId": "624713bb327119885ebecfad",
+					"text": "208. Pentru un intertrigo se iau în calcul următoarele opțiuni terapeutice:  [200]",
+					"answers": [
+						"antifungic topic",
+						"antifungic oral",
+						"corticosteroid topic",
+						"antihistaminice",
+						"permetrină"
+					]
+				}
+			],
+			"chapters": [
+				{
+					"_id": "624713bb327119885ebecfad",
+					"name": "3.09. Dermatologie",
+					"isUserContent": false,
+					"categories": [
+						"m_g_sm"
+					]
+				}
+			],
+			"timed": false,
+			"showAnswers": true,
+			"quantity": 208,
+			"startedAt": "2023-11-17T20:09:05.698Z",
+			"hasExplanations": false
+		}
+	}
+}

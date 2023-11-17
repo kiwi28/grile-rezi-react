@@ -1,0 +1,2470 @@
+{
+	"status": "OK",
+	"code": 200,
+	"success": true,
+	"message": "SUCCESS",
+	"data": {
+		"exam": {
+			"_id": "6557c9248d6e610011059753",
+			"examType": "custom",
+			"questions": [
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 0,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "1. Ținând cont de faptul că:<br>\n<i>A = numărul pacienților pozitivi care au boala; <br>\nB = numărul pacienților pozitivi care nu au boala; <br>\nC = numărul pacienților negativi care au boala; <br>\nD = numărul pacienților negativi care nu au boala; </i><br>\nvaloarea predictivă negativă (VPN) se calculează după următoarea formulă:  [336]",
+					"answers": [
+						"D/(A+D)",
+						"D/(B+D)",
+						"A/(A+B)",
+						"A/(B+C)",
+						"D/(C+D)"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 1,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "2. Descrierea „combinarea mai multor studii care examinează o anumită boală sau expunere” corespunde următorului tip de studiu folosit în cercetarea clinică:  [333]",
+					"answers": [
+						"studiul de cohortă",
+						"trialul clinic randomizat",
+						"seria de cazuri",
+						"meta-analiza",
+						"studiul caz-control"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 2,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "3. Sunt rate de morbiditate:  [334]",
+					"answers": [
+						"prevalența",
+						"raportul cotelor",
+						"riscul relativ",
+						"incidența",
+						"rata de fatalitate"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "a",
+					"explanationExists": false,
+					"questionIndex": 3,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "4. Sensibilitatea:  [335]",
+					"answers": [
+						"reprezintă probabilitatea ca un test de screening să fie negativ la pacienții care nu au boala",
+						"reprezintă probabilitatea ca un test de screening să fie pozitiv la pacienţii care au boala",
+						"reprezintă probabilitatea ca un pacient cu un test pozitiv să aibă o boala",
+						"cele mai acceptabile teste de screening au, de obicei, sensibilitatea &gt;80%",
+						"cele mai acceptabile teste de screening au, de obicei, sensibilitatea &gt;85%"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 4,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "5. Alegeți perechile corespunzătoare dintre tipul de studiu și modul de exprimare a concluziei acestuia:  [333]",
+					"answers": [
+						"studii caz-control - raportul cotelor",
+						"studii caz-control - depinde de tipul studiului original",
+						"studii de cohortă - eficacitatea tratamentului experimental comparativ cu martorii și cu terapiile existente",
+						"trialul clinic randomizat - eficacitatea tratamentului experimental comparativ cu martorii și cu terapiile existente",
+						"studiul transversal - Ipoteze privind factorii de risc; prevalenţa bolii"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 5,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "6. Numărul necesar pentru tratament (NNT) reprezintă:  [335]",
+					"answers": [
+						"probabilitatea expunerii în rândul pacienţilor care au o boală comparativ cu probabilitatea expunerii în rândul pacienţilor fără acea afecţiune",
+						"numărul de pacienţi care trebuie trataţi pentru a salva un pacient",
+						"probabilitatea de a dezvolta boala la un grup expus la un factor de risc specific comparativ cu probabilitatea de a dezvolta acea boală la un grup neexpus",
+						"diferenţa privind rata bolii în urma tratamentului printr-o intervenţie specifică",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 6,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "7. Următoarele reprezintă consecințe ale erorii de publicare într-un studiu clinic, cu excepția:  [334]",
+					"answers": [
+						"perioada de la diagnostic la rezultat dă falsa impresie a creşterii duratei de supravieţuire",
+						"subiecţii nu sunt reprezentativi pentru populaţia generală şi introduc variabile de confuzie",
+						"rezultatele studiului nu se aplică populaţiei generale",
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 7,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "8. Ținând cont de faptul că: <br>\n<i>A = numărul pacienților pozitivi care au boala; <br>\nB = numărul pacienților pozitivi care nu au boala; <br>\nC = numărul pacienților negativi care au boala; <br>\nD = numărul pacienților negativi care nu au boala; </i><br>\nvaloarea predictivă pozitivă (VPP) se calculează după următoarea formulă:  [336]",
+					"answers": [
+						"A/(A+D)",
+						"B/(B+D)",
+						"A/(A+B)",
+						"D/(C+D)",
+						"(A+B)/(C+D)"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 8,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "9. Rata de fatalitate a cazurilor reprezintă, cu excepția:  [334]",
+					"answers": [
+						"numărul de persoane cu o anumită afecţiune într-o perioadă dată de timp",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp",
+						"probabilitatea de a dezvolta o condiţie într-o perioadă de timp",
+						"raportul dintre numărul de persoane care mor într-o perioadă dată de timp și numărul de cazuri de boală într-o perioadă dată de timp",
+						"numărul de cazuri noi care apare într-o perioadă dată de timp într-o populaţie"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 9,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "10. Confidențialitatea nu este obligatorie atunci când pacientul:  [337]",
+					"answers": [
+						"se consideră că ar avea tendințe criminale",
+						"interzice medicului împărtășirea de informații altor persoane",
+						"este un adolescent cu o afecțiune potențial dăunătoare altora",
+						"se consideră că ar avea tendințe suicidale",
+						"a fost împușcat"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 10,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "11. Riscul relativ reprezintă:  [335]",
+					"answers": [
+						"probabilitatea expunerii în rândul pacienţilor care au o boală comparativ cu probabilitatea expunerii în rândul pacienţilor fără acea afecţiune",
+						"diferenţa privind ratele de îmbolnăvire între populaţia expusă şi cea neexpusă",
+						"probabilitatea de a dezvolta boala la un grup expus la un factor de risc specific comparativ cu probabilitatea de a dezvolta acea boală la un grup neexpus",
+						"diferenţa privind rata bolii în urma tratamentului printr-o intervenţie specifică",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 11,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "12. Procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp reprezintă:  [334]",
+					"answers": [
+						"rata de fatalitate a cazurilor",
+						"prevalența",
+						"riscul relativ",
+						"incidența",
+						"raportul cotelor"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "l",
+					"explanationExists": false,
+					"questionIndex": 12,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "13. Specificitatea:  [335]",
+					"answers": [
+						"reprezintă probabilitatea ca un test de screening să fie negativ la pacienții care nu au boala",
+						"reprezintă probabilitatea ca un test de screening să fie pozitiv la pacienţii care au boala",
+						"rezultate fals-pozitive apar la pacienţii care nu au boala şi cu test pozitiv",
+						"cele mai acceptabile teste de confirmare au, de obicei, specificitatea &gt;80%",
+						"cele mai acceptabile teste de confirmare au, de obicei, specificitatea &gt;85%"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 13,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "14. Următoarele reprezintă consecințe ale erorii de memorie într-un studiu clinic, cu excepția:  [334]",
+					"answers": [
+						"pacienţii cu experienţe negative sunt mai predispuşi să-şi amintească detalii negative",
+						"eficacitatea screeningului este exagerată",
+						"rezultatele studiului nu se aplică populaţiei generale",
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 14,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "15. Ce tip de eroare se poate produce din cauza confuziei cu experiențe anterioare?  [334]",
+					"answers": [
+						"de publicare",
+						"auto-selecția",
+						"de memorie",
+						"de înrolare",
+						"perioada de latență"
+					]
+				},
+				{
+					"pages": [
+						335,
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 15,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "16. Sensibilitatea reprezintă:  [335, 336]",
+					"answers": [
+						"probabilitatea ca un pacient cu un test negativ să nu aibă o boală",
+						"probabilitatea ca o persoană care are boala să aibă test pozitiv comparativ cu probabilitatea ca o persoană fără boala respectivă să aibă test pozitiv",
+						"probabilitatea ca o persoană fără boală să aibă test negativ comparativ cu probabilitatea ca o persoană bolnavă să aibă test negativ",
+						"probabilitatea ca un test de screening să fie pozitiv la pacienţii care au boala",
+						"probabilitatea ca un test de screening să fie negativ la pacienţii care nu au boala"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 16,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "17. Valoarea predictivă pozitivă se calculează după formula:  [336]",
+					"answers": [
+						"<b>D/(B+D)</b>, unde <b>D</b> = numărul pacienților negativi care au boala, iar <b>B</b> = numărul pacienților pozitivi care nu au boala",
+						"<b>A/(A+C)</b>, unde <b>A</b> = numărul pacienților pozitivi care au boala, iar <b>C</b> = numărul pacienților negativi care au boala",
+						"<b>A/(A+B)</b>, unde <b>A</b> = numărul pacienților pozitivi care au boala, iar <b>B</b> = numărul pacienților pozitivi care nu au boala",
+						"<b>D/(C+D)</b>, unde <b>D</b> = numărul pacienților negativi care nu au boala, iar <b>C</b> = numărul pacienților negativi care au boala",
+						"<b>D/(C+D)</b>, unde <b>D</b> = numărul pacienților negativi care nu au boala, iar <b>C</b> = numărul pacienților pozitivi care au boala"
+					]
+				},
+				{
+					"pages": [
+						335,
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 17,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "18. Statistica testelor de diagnostic cuprinde:  [335, 336]",
+					"answers": [
+						"specificitatea",
+						"ratele de morbiditate",
+						"ratele de probabilitate",
+						"acuratețea",
+						"valoarea predictivă negativă"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 18,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "19. Incidența se calculează după formula:  [334]",
+					"answers": [
+						"(numărul de cazuri de boală existente) <b>/</b> (populaţia totală)",
+						"(persoane care mor într-o perioadă dată de timp) <b>/</b> (numărul de cazuri de boală într-o perioadă dată de timp)",
+						"(numărul de cazuri noi de boală într-o anumită perioadă de timp) <b>/</b> (populaţia totală la risc)",
+						"(numărul de cazuri de boală existente) <b>/</b> (numărul de cazuri vechi de boală)",
+						"(persoane care mor în anul prezent) <b>/</b> (numărul de cazuri de boală din anul precedent)"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 19,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "20. Poate avea caracter prospectiv următorul tip de studiu folosit în cercetarea clinică:  [333]",
+					"answers": [
+						"studiul transversal",
+						"trialul clinic randomizat",
+						"studiul de cohortă",
+						"studiul caz-control",
+						"seria de cazuri"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 20,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "21. Alegeți informațiile adevărate:  [337]",
+					"answers": [
+						"înainte de orice procedură sau terapie, pacientul trebuie informat cu privire la indicaţiile, riscurile şi beneficiile potenţiale ale unui tratament propus",
+						"înainte de orice procedură sau terapie, trebuie descrise tratamentele alternative şi riscurile acestora",
+						"dacă un pacient nu are capacitatea de a lua o decizie, aceasta va fi luată de medicul curant",
+						"pacienţii au dreptul să fie informaţi despre situaţia lor medicală, prognostic, opţiuni terapeutice",
+						"medicul are obligaţia de a ascunde informaţii pacientului, dacă familia solicită"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 21,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "22. Raportul cotelor reprezintă modul de exprimare a concluziilor pentru:  [333]",
+					"answers": [
+						"studiul transversal",
+						"meta-analiză",
+						"seria de cazuri",
+						"trialul clinic randomizat",
+						"studiile caz-control"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 22,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "23. Cea mai precisă exprimare a riscului relativ (RR) în cazurile de boli rare este dată de:  [335]",
+					"answers": [
+						"numărul necesar pentru tratament (NNT)",
+						"reducerea absolută a riscului (RAR)",
+						"riscul atribuibil (RA)",
+						"incidență",
+						"raportul cotelor (OR)"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 23,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "24. Ce tip de eroare constă în faptul că subiecţii pot răspunde la întrebări subiective într-un mod diferit de normal, deoarece conştientizarea studiului le schimbă percepţia asupra problemei cercetate?  [334]",
+					"answers": [
+						"observațională",
+						"de investigație",
+						"durată",
+						"perioada de latență",
+						"auto-selecția"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "k",
+					"explanationExists": false,
+					"questionIndex": 24,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "25. Studiul de cohortă:  [333]",
+					"answers": [
+						"este capabil să examineze expunerile rare",
+						"concluzia este exprimată prin raportul cotelor",
+						"concluzia este exprimată prin riscul relativ",
+						"este economic",
+						"reprezintă standardul de aur pentru testarea medicamentelor"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 25,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "26. Rezultatele fals-pozitive:  [335]",
+					"answers": [
+						"sunt aproximate prin (1-sensibilitatea)",
+						"apar la pacienții care au boala",
+						"apar la pacienții cu test pozitiv",
+						"sunt aproximate prin (1-specificitatea)",
+						"apar la pacienții cu test negativ"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "7",
+					"explanationExists": false,
+					"questionIndex": 26,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "27. Selectați descrierea corespunzătoare fiecărui tip de eroare în studiile clinice:  [334]",
+					"answers": [
+						"eroare de publicare - pacienții cu un anumit istoric medical sunt mai predispuși să participe la un studiu legat de boala lor",
+						"durata - repartizarea nerandomizată a subiecților în grupurile de studiu",
+						"eroare de investigație - interpretarea subiectivă a datelor de către investigator duce la devierea către concluzii „dorite”",
+						"eroare de publicare - studiile care arată o diferenţă între grupuri au o probabilitate mai mare de a fi publicate decât studiile care nu arată nicio diferenţă",
+						"perioada de latență - testul de screening furnizează un diagnostic precoce în grupul de studiu comparativ cu cel martor, dar nu are niciun efect asupra duratei de supravieţuire"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 27,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "28. Reducerea absolută a riscului reprezintă:  [335]",
+					"answers": [
+						"probabilitatea expunerii în rândul pacienţilor care au o boală comparativ cu probabilitatea expunerii în rândul pacienţilor fără acea afecţiune",
+						"diferenţa privind ratele de îmbolnăvire între populaţia expusă şi cea neexpusă",
+						"numărul de pacienţi care trebuie trataţi pentru a salva un pacient",
+						"diferenţa privind rata bolii în urma tratamentului printr-o intervenţie specifică",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "t",
+					"explanationExists": false,
+					"questionIndex": 28,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "29. Următoarele reprezintă tipuri de erori în studiile clinice:  [334]",
+					"answers": [
+						"perioada de latență",
+						"erorile observaționale",
+						"durata",
+						"erorile de raportare",
+						"auto-selecția"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "h",
+					"explanationExists": false,
+					"questionIndex": 29,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "30. Cu privire la semnificația statistică, sunt adevărate următoarele:  [336]",
+					"answers": [
+						"indică o diferență detectabilă statistic între grupuri",
+						"atunci când valoarea probabilității (p) &gt;0,05, ipoteza nulă poate fi respinsă",
+						"atunci când valoarea probabilității (p) &gt;0,05, există o relație semnificativă între grupuri",
+						"indică o diferență nedetectabilă statistic între grupuri",
+						"valoarea probabilității indică șansa unei erori de tip I care apare pentru un anumit rezultat"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 30,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "31. Valoarea predictivă negativă se calculează după formula:  [336]",
+					"answers": [
+						"<b>D/(B+D)</b>, unde <b>D</b> = numărul pacienților pozitivi care au boala, iar <b>B</b> = numărul pacienților pozitivi care nu au boala",
+						"<b>A/(A+C)</b>, unde <b>A</b> = numărul pacienților pozitivi care au boala, iar <b>C</b> = numărul pacienților negativi care au boala",
+						"<b> A/(A+B)</b>, unde <b>A</b> = numărul pacienților pozitivi care au boala, iar <b>B</b> = numărul pacienților pozitivi care nu au boala",
+						"<b>D/(C+D)</b>, unde <b>D</b> = numărul pacienților negativi care nu au boala, iar <b>C</b> = numărul pacienților negativi care au boala",
+						"<b>D/(C+D)</b>, unde <b>D</b> = numărul pacienților negativi care nu au boala, iar <b>C</b> = numărul pacienților pozitivi care au boala"
+					]
+				},
+				{
+					"pages": [
+						335,
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 31,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "32. Specificitatea reprezintă:  [335, 336]",
+					"answers": [
+						"probabilitatea ca un pacient cu un test pozitiv să nu aibă o boală",
+						"probabilitatea ca o persoană care are boala să aibă test pozitiv comparativ cu probabilitatea ca o persoană fără boala respectivă să aibă test pozitiv",
+						"probabilitatea ca o persoană fără boală să aibă test negativ comparativ cu probabilitatea ca o persoană bolnavă să aibă test negativ",
+						"probabilitatea ca un test de screening să fie pozitiv la pacienţii care au boala",
+						"probabilitatea ca un test de screening să fie negativ la pacienţii care nu au boala"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 32,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "33. Numărul de cazuri noi care apare într-o perioadă dată de timp într-o populaţie reprezintă:  [334]",
+					"answers": [
+						"rata de fatalitate a cazurilor",
+						"prevalența",
+						"riscul relativ",
+						"incidența",
+						"raportul cotelor"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "9",
+					"explanationExists": false,
+					"questionIndex": 33,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "34. Reprezintă studii consumatoare de resurse financiare:  [333]",
+					"answers": [
+						"meta-analiza",
+						"trialul clinic randomizat",
+						"studiile caz-control",
+						"studiul transversal",
+						"studiile de cohortă"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "s",
+					"explanationExists": false,
+					"questionIndex": 34,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "35. Următoarele reprezintă tipuri de erori în studiie clinice:  [334]",
+					"answers": [
+						"observațională",
+						"de selecție",
+						"auto-selecția",
+						"de tipărire",
+						"umană"
+					]
+				},
+				{
+					"pages": [
+						333,
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 35,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "36. Despre cerințele unui studiu științific este adevărat, cu excepția:  [333, 334]",
+					"answers": [
+						"grupuri martor adecvate trebuie incluse în studiile care examinează eficacitatea unui anumit tratament",
+						"subiecții dintr-un studiu trebuie să fie reprezentativi pentru populația a cărei examinare se urmărește prin studiu",
+						"subiecții ale căror cazuri au fost special aprobate de către un consiliu instituțional de revizuire trebuie să își exprime consimțământul informat",
+						"confidenţialitatea subiectului trebuie păstrată şi subiecţii trebuie să-şi exprime consimţământul pentru comunicarea informaţiilor personale",
+						"studiul trebuie să conţină un număr suficient de subiecţi pentru a fi semnificativ statistic"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 36,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "37. Referitor la puterea unui studiu, sunt adevărate următoarele afirmații, cu excepția:  [336]",
+					"answers": [
+						"reprezintă abilitatea unui studiu de a detecta o diferenţă reală între două grupuri",
+						"reprezintă abilitatea unui studiu de a detecta o diferenţă detectabilă statistic între două grupuri",
+						"studiile cu putere suficientă pot stabili că două grupuri sunt egale când în realitate sunt statistic diferite",
+						"la studiile cu putere insuficientă poate apărea eroare de tip I",
+						"studiile cu putere insuficientă pot stabili că două grupuri sunt diferite când în realitate sunt statistic egale"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 37,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "38. Descrierea „studiu privind un număr mare de persoane la un moment dat, pentru a evalua expunerea și prevalența bolii” corespunde următorului tip de studiu folosit în cercetarea clinică:  [333]",
+					"answers": [
+						"studiul de cohortă",
+						"trialul clinic randomizat",
+						"seria de cazuri",
+						"studiul transversal",
+						"studiul caz-control"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "q",
+					"explanationExists": false,
+					"questionIndex": 38,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "39. Alegeți afirmațiile corecte cu privire la decesul asistat medical:  [338]",
+					"answers": [
+						"eutanasia este administrarea activă de către medic a unui agent letal unui pacient pentru a pune capăt suferinţei datorate unei stări",
+						"sinuciderea asistată de medic mai este cunoscută și ca „ajutor medical pentru a muri”",
+						"sinuciderea asistată de către medic este ilegală în Colorado, Montana și Washington",
+						"sinuciderea asistată de medic survine atunci când medicul furnizează pacientului un mijloc pentru a-şi încheia viaţa",
+						"sinuciderea asistată de către medic este legală în toate statele"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 39,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "40. Selectează caracteristicile trialului clinic randomizat:  [333]",
+					"answers": [
+						"pacienții pot să nu fie dispuși să se supună randomizării",
+						"este controlat pentru un număr mic de factori de confuzie",
+						"reprezintă standardul de aur pentru testarea medicamentelor",
+						"se realizează în mod dublu-orb pentru a evita erorile",
+						"constă într-o alocare randomizată a pacienților în grupurile de studiu"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "t",
+					"explanationExists": false,
+					"questionIndex": 40,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "41. Următoarele reprezintă consecințe ale erorii observaționale într-un studiu clinic, cu excepția:  [334]",
+					"answers": [
+						"pacienţii cu experienţe negative sunt mai predispuşi să-şi amintească detalii negative",
+						"perioada de la apariţia bolii la rezultat rămâne de fapt aceeaşi, indiferent de screening",
+						"rezultatele studiului nu se aplică populaţiei generale",
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 41,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "42. Confidențialitatea trebuie păstrată în cazul adolescenților:  [337]",
+					"answers": [
+						"dacă se consideră că ar avea tendințe suicidale sau criminale",
+						"privind contracepția",
+						"în legătură cu tratamentul bolilor cu transmitere sexuală (BTS)",
+						"dacă prezintă o afecțiune potențial dăunătoare pentru sine sau pentru alții",
+						"privind tratamentul pentru sarcină"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 42,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "43. Alegeți afirmațiile false cu privire la moarte: [338]",
+					"answers": [
+						"moartea cerebrală este definită ca absenţa ireversibilă a activităţii întregului creier la un pacient, care durează &gt;9 ore",
+						"moartea cardiacă este considerată incapacitatea de a restabili o bătaie cardiacă spontană la un pacient asistolic",
+						"moartea cerebrală se definește prin absența activităţii pe electroencefalogramă (EEG)",
+						"definiția morții cerebrale este aceeași în toate statele și instituțiile din SUA",
+						"pacienţii hipotermici trebuie încălziţi până la o temperatură normală a corpului înainte ca decesul să poată fi declarat"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 43,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "44. Faptul că studiile care arată o diferenţă între grupuri au o probabilitate mai mare de a fi publicate decât studiile care nu arată nicio diferenţă reprezintă eroarea de:  [334]",
+					"answers": [
+						"investigație",
+						"observațională",
+						"memorie",
+						"publicare",
+						"înrolare"
+					]
+				},
+				{
+					"pages": [
+						337,
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 44,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "45. Împuternicirea durabilă:  [337, 338]",
+					"answers": [
+						"reprezintă un document scris care detaliază dorinţele unui pacient în situaţii medicale specifice",
+						"reprezintă un document medical care desemnează o a doua persoană (ex. membru de familie) drept factor de decizie delegat pentru probleme medicale",
+						"persoana desemnată ar trebui să poată lua decizii în conformitate cu valorile pacientului",
+						"este valabil în toate statele",
+						"nu este valabil în toate statele"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 45,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "46. Prevalența se calculează după formula:  [334]",
+					"answers": [
+						"(numărul de cazuri de boală existente) <b>/</b> (populaţia totală)",
+						"(persoane care mor într-o perioadă dată de timp) <b>/</b> (numărul de cazuri de boală într-o perioadă dată de timp)",
+						"(numărul de cazuri noi de boală într-o anumită perioadă de timp) <b>/</b> (populaţia totală la risc)",
+						"(numărul de cazuri de boală existente) <b>/</b> (numărul de cazuri vechi de boală)",
+						"(persoane care mor în anul prezent) <b>/</b> (numărul de cazuri de boală din anul precedent)"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "h",
+					"explanationExists": false,
+					"questionIndex": 46,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "47. Următoarele afirmații sunt adevărate:  [336]",
+					"answers": [
+						"prevalența ridicată va fi asociată cu o valoare predictivă pozitivă ridicată a unui test de screening",
+						"prevalența ridicată va fi asociată cu o valoare predictivă negativă scăzută a unui test de screening",
+						"prevalența scăzută va fi asociată cu o valoare predictivă pozitivă scăzută a unui test de screening",
+						"prevalența scăzută va fi asociată cu o valoare predictivă pozitivă ridicată a unui test de screening",
+						"prevalența scăzută va fi asociată cu o valoare predictivă negativă ridicată a unui test de screening"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 47,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "48. Faptul că rezultatele studiului nu se aplică populaţiei generale reprezintă o consecință a erorii de: [334]",
+					"answers": [
+						"memorie",
+						"selecție",
+						"auto-selecție",
+						"publicare",
+						"durata"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 48,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "49. Organele pot fi considerate inadecvate pentru transplant în caz de, cu excepția:  [338]",
+					"answers": [
+						"compromiterea funcției organului",
+						"vârsta &gt;70 ani",
+						"boală cu specificitate de organ",
+						"infecția HIV",
+						"hemoglobinopatie"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 49,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "50. Riscul atribuibil (RA):  [335]",
+					"answers": [
+						"reprezintă diferența privind rata bolii în urma tratamentului printr-o intervenție specifică",
+						"se calculează după formula RA = (rata bolii în grupul martor) - (rata bolii în grupul de intervenţie)",
+						"reprezintă diferența privind ratele de îmbolnăvire între populaţia expusă şi cea neexpusă",
+						"se calculează după formula RA = (rata bolii la populaţia expusă) - (rata bolii la populaţia neexpusă)",
+						"reprezintă numărul de pacienţi care trebuie trataţi pentru a salva un pacient"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "i",
+					"explanationExists": false,
+					"questionIndex": 50,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "51. Dintre următoarele tipuri de studii, NU poate fi folosit pentru testarea ipotezelor: [333]",
+					"answers": [
+						"studiul transversal",
+						"meta-analiza",
+						"studiile de cohortă",
+						"seria de cazuri",
+						"studiile caz-control"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "3",
+					"explanationExists": false,
+					"questionIndex": 51,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "52. Următoarele reprezintă consecințe ale perioadei de latență drept eroare în studiile clinice:  [334]",
+					"answers": [
+						"eficacitatea screeningului este exagerată",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă",
+						"subiecţii nu sunt reprezentativi pentru populaţia generală şi introduc variabile de confuzie",
+						"perioada de la diagnostic la rezultat dă falsa impresie a creşterii duratei de supravieţuire",
+						"perioada de la apariţia bolii la rezultat rămâne de fapt aceeaşi, indiferent de screening"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 52,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "53. Interpretarea subiectivă a datelor de către investigator, ceea ce duce la devierea către concluzii „dorite”, reprezintă eroarea de:  [334]",
+					"answers": [
+						"durată",
+						"investigație",
+						"publicare",
+						"memorie",
+						"selecție"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 53,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "54. Ținând cont de faptul că:<br>\n<i>A = numărul pacienților pozitivi care au boala; <br>\nB = numărul pacienților pozitivi care nu au boala; <br>\nC = numărul pacienților negativi care au boala; <br>\nD = numărul pacienților negativi care nu au boala;</i> <br>\nacuratețea se calculează după următoarea formulă:  [336]",
+					"answers": [
+						"(A+B) <b>/</b> (A+B+C+D)",
+						"(A+C) <b>/</b> (A+B+C+D)",
+						"(A+D) <b>/</b> (A+B+C+D)",
+						"(B+C) <b>/</b> (A+B+C+D)",
+						"(B+D) <b>/</b> (A+B+C+D)"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 54,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "55. Afecțiunile care pot imita moartea cerebrală cuprind:  [338]",
+					"answers": [
+						"infecția HIV",
+						"sepsisul",
+						"schizofrenia",
+						"encefalopatia metabolică",
+						"sindrom Pierre-Marie-Bamberger"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 55,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "56. Problemele legate de sfârșitul vieții cuprind:  [338]",
+					"answers": [
+						"suportul vital",
+						"consimțământul informat",
+						"donarea de organe",
+						"ordinul de neresuscitare",
+						"decesul asistat medical"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 56,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "57. Care este consecința faptului că pacienţii cu un anumit istoric medical sunt mai predispuşi să participe la un studiu legat de boala lor?  [334]",
+					"answers": [
+						"asemănarea rezultatelor studiului cu ipoteza propusă este incorectă",
+						"subiecţii nu sunt reprezentativi pentru populaţia generală şi introduc variabile de confuzie",
+						"eficacitatea screeningului este exagerată",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă",
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 57,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "58. Descrierea „comparație prospectivă a tratamentului experimental cu placebo la martori și cu terapiile existente” corespunde următorului tip de studiu folosit în cercetarea clinică:  [333]",
+					"answers": [
+						"studiul de cohortă",
+						"trialul clinic randomizat",
+						"seria de cazuri",
+						"studiul transversal",
+						"studiul caz-control"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 58,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "59. Următoarele afirmații sunt adevărate:  [336]",
+					"answers": [
+						"eroarea de tip I: ipoteza nulă este respinsă, chiar dacă este adevărată",
+						"eroarea de tip II: ipoteza nulă este respinsă, chiar dacă este adevărată",
+						"eroarea de tip I: fals-negativă",
+						"eroarea de tip II: fals-negativă",
+						"ipoteza nulă afirmă că nu există nicio asociere între expunere și boală sau tratament și răspuns"
+					]
+				},
+				{
+					"pages": [
+						334,
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 59,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "60. Incidența reprezintă:  [334, 335]",
+					"answers": [
+						"numărul de persoane cu o anumită afecţiune într-o perioadă dată de timp",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp",
+						"raportul dintre numărul de cazuri noi de boală într-o anumită perioadă de timp și populația totală la risc",
+						"raportul dintre numărul de cazuri existente de boală la un anumit moment și populația totală la risc",
+						"probabilitatea de a dezvolta o condiţie într-o anumită perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 60,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "61. Selectați afirmația adevărată:  [333]",
+					"answers": [
+						"studiul de cohortă poate fi prospectiv atunci când examinează grupul expus la boala care a apărut deja",
+						"studiul de cohortă poate fi retrospectiv atunci când examinează grupul expus la boala care a apărut deja",
+						"studiul de cohortă poate fi retrospectiv atunci când grupul expus este identificat și urmărit în timp",
+						"studiile de cohortă nu sunt consumatoare de resurse financiare",
+						"trialul clinic randomizat are avantajul de a se realiza rapid, nefiind consumator de timp"
+					]
+				},
+				{
+					"pages": [
+						333,
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "7",
+					"explanationExists": false,
+					"questionIndex": 61,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "62. Reprezintă cerințe în efectuarea unui studiu științific:  [333, 334]",
+					"answers": [
+						"subiecţii trebuie să-şi exprime consimţământul informat, indiferent de situație",
+						"studiile care examinează eficacitatea unui anumit tratament pot fi realizate în absența grupurilor martor",
+						"interesele pacientului trebuie să aibă prioritate faţă de interesele studiului",
+						"studiul trebuie să conţină un număr suficient de subiecţi pentru a fi semnificativ statistic",
+						"există cazuri în care nu este necesar consimțământul informat al subiecților"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 62,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "63. Raportul cotelor reprezintă:  [335]",
+					"answers": [
+						"probabilitatea expunerii în rândul pacienţilor care au o boală comparativ cu probabilitatea expunerii în rândul pacienţilor fără acea afecţiune",
+						"diferenţa privind ratele de îmbolnăvire între populaţia expusă şi cea neexpusă",
+						"probabilitatea de a dezvolta boala la un grup expus la un factor de risc specific comparativ cu probabilitatea de a dezvolta acea boală la un grup neexpus",
+						"diferenţa privind rata bolii în urma tratamentului printr-o intervenţie specifică",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "j",
+					"explanationExists": false,
+					"questionIndex": 63,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "64. Cu privire la seria de cazuri, este fals că:  [333]",
+					"answers": [
+						"riscul relativ reprezintă modul de exprimare a concluziilor",
+						"poate fi ușor de realizat",
+						"oferă o imagine privind aspectele mai puțin înțelese",
+						"poate fi folosită pentru testarea ipotezelor",
+						"raportează caracteristicile bolii examinând cauza principală a acesteia"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 64,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "65. Poate avea caracter retrospectiv următorul tip de studiu folosit în cercetarea clinică:  [333]",
+					"answers": [
+						"studiul transversal",
+						"trialul clinic randomizat",
+						"studiul de cohortă",
+						"studiul caz-control",
+						"seria de cazuri"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 65,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "66. Sunt caracteristici ale trialului clinic randomizat:  [333]",
+					"answers": [
+						"raportează caracteristicile bolii examinând multiple cauze",
+						"reprezintă o comparație retrospectivă a tratamentului experimental cu placebo la martori și cu terapiile existente",
+						"reprezintă standardul de aur pentru testarea medicamentelor",
+						"examinează un grup de subiecți expuși la o situație sau un factor dat",
+						"este deseori consumator de timp"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "i",
+					"explanationExists": false,
+					"questionIndex": 66,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "67. Prevalența reprezintă:  [334]",
+					"answers": [
+						"numărul de persoane cu o anumită afecţiune într-o perioadă dată de timp",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp",
+						"raportul dintre numărul de cazuri noi de boală într-o anumită perioadă de timp și populația totală la risc",
+						"raportul dintre numărul de cazuri existente de boală și populația totală",
+						"probabilitatea de a dezvolta o condiţie într-o anumită perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 67,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "68. Reprezintă studii consumatoare de timp:  [333]",
+					"answers": [
+						"seria de cazuri",
+						"studiul transversal",
+						"trialul clinic randomizat",
+						"studiile de cohortă",
+						"studiile caz-control"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 68,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "69. Faptul că testul de screening detectează mai multe cazuri de boală lent progresive şi omite cazurile rapid progresive reprezintă eroarea de:  [334]",
+					"answers": [
+						"memorie",
+						"publicare",
+						"auto-selecție",
+						"selecție",
+						"durată"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 69,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "70. Testamentul:  [338]",
+					"answers": [
+						"reprezintă un document scris care detaliază dorinţele unui pacient în situaţii medicale specifice",
+						"este mai flexibil decât împuternicirea durabilă",
+						"poate cuprinde dorințele pacientului cu privire la menținerea vieții în afecțiuni terminale",
+						"poate cuprinde dorințele pacientului cu privire la ventilație",
+						"poate cuprinde dorințele pacientului cu privire la resuscitare"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 70,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "71. Reprezintă caracteristici ale meta-analizei:  [333]",
+					"answers": [
+						"este independentă de tipul studiului original",
+						"este incapabilă să elimine factorii limitativi din studiile originale",
+						"are drept avantaj faptul că poate rezolva conflictele din literatura de specialitate",
+						"are drept avantaj dimensiunea mai mare a studiului",
+						"reprezintă combinarea mai multor studii care examinează o anumită boală sau expunere"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 71,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "72. Următoarea reprezintă o consecință a erorii de auto-selecție:  [334]",
+					"answers": [
+						"subiecţii nu sunt reprezentativi pentru populaţia generală şi introduc variabile de confuzie",
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu",
+						"eficacitatea screeningului este exagerată",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă",
+						"asemănarea rezultatelor studiului cu ipoteza propusă este incorectă"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 72,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "73. Raportul dintre numărul de cazuri noi de boală într-o anumită perioadă de timp și populația totală la risc reprezintă:  [334]",
+					"answers": [
+						"riscul relativ",
+						"incidența",
+						"rata de fatalitate a cazurilor",
+						"raportul cotelor",
+						"prevalența"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 73,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "74. Repartizarea nerandomizată a subiecților în grupurile de studiu reprezintă eroarea de:  [334]",
+					"answers": [
+						"memorie",
+						"auto-selecție",
+						"înrolare",
+						"selecție",
+						"investigație"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 74,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "75. Următoarea reprezintă o consecință a erorii de publicare:  [334]",
+					"answers": [
+						"subiecţii nu sunt reprezentativi pentru populaţia generală şi introduc variabile de confuzie",
+						"rezultatele studiului nu se aplică populaţiei generale",
+						"eficacitatea screeningului este exagerată",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă",
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "h",
+					"explanationExists": false,
+					"questionIndex": 75,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "76. Rezultatele fals-negative: [335]",
+					"answers": [
+						"sunt aproximate prin (1-sensibilitatea)",
+						"apar la pacienții care nu au boala şi cu test pozitiv",
+						"apar la pacienții care nu au boala",
+						"sunt aproximate prin (1-specificitatea)",
+						"apar la pacienții care au boala şi cu test negativ"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 76,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "77. Riscul atribuibil reprezintă:  [335]",
+					"answers": [
+						"probabilitatea expunerii în rândul pacienţilor care au o boală comparativ cu probabilitatea expunerii în rândul pacienţilor fără acea afecţiune",
+						"diferenţa privind ratele de îmbolnăvire între populaţia expusă şi cea neexpusă",
+						"probabilitatea de a dezvolta boala la un grup expus la un factor de risc specific comparativ cu probabilitatea de a dezvolta acea boală la un grup neexpus",
+						"diferenţa privind rata bolii în urma tratamentului printr-o intervenţie specifică",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 77,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "78. Riscul relativ reprezintă modul de exprimare a concluziilor pentru:  [333]",
+					"answers": [
+						"studiul transversal",
+						"seria de cazuri",
+						"studiile de cohortă",
+						"trialul clinic randomizat",
+						"meta-analiză"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 78,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "79. Următoarele afirmații sunt adevărate:  [337]",
+					"answers": [
+						"toate informațiile referitoare la pacient trebuie să fie păstrate private între medic și pacient",
+						"confidențialitatea nu este obligatorie atunci când pacientul a suferit o rană penetrantă în urma unui atac",
+						"toate operaţiunile de manipulare a conturilor pacienţilor, de facturare şi fişele medicale trebuie să fie concepute în aşa fel încât să se păstreze confidenţialitatea pacienţilor",
+						"confidențialitatea nu este obligatorie atunci când pacientul se consideră că ar avea tendințe suicidale",
+						"schimbul de informaţii despre pacient poate avea loc între toți furnizorii de servicii medicale"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "i",
+					"explanationExists": false,
+					"questionIndex": 79,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "80. Odds ratio:  [335]",
+					"answers": [
+						"reprezintă probabilitatea expunerii în rândul pacienţilor care au o boală comparativ cu probabilitatea expunerii în rândul pacienţilor fără acea afecţiune",
+						"reprezintă probabilitatea de a dezvolta boala la un grup expus la un factor de risc specific comparativ cu probabilitatea de a dezvolta acea boală la un grup neexpus",
+						"reprezintă raportul dintre probabilitatea bolii la populația expusă și probabilitatea bolii la populația neexpusă",
+						"estimează riscul relativ dacă prevalenţa este scăzută",
+						"reprezintă diferența privind rata bolii în urma tratamentului printr-o intervenție specifică"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 80,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "81. Următoarea reprezintă o consecință a erorii de selecție:  [334]",
+					"answers": [
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu",
+						"rezultatele studiului nu se aplică populaţiei generale",
+						"eficacitatea screeningului este exagerată",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă",
+						"subiecţii nu sunt reprezentativi pentru populaţia generală şi introduc variabile de confuzie"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "b",
+					"explanationExists": false,
+					"questionIndex": 81,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "82. Reprezintă dezavantaje ale studiilor caz-control: [333]",
+					"answers": [
+						"nu poate fi folosită pentru testarea ipotezelor",
+						"nu se poate determina incidența bolii",
+						"se pot analiza bolile rare sau cronice",
+						"pot fi afectate de erori de memorie",
+						"pot fi afectate de erori de selecție"
+					]
+				},
+				{
+					"pages": [
+						335,
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 82,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "83. Specificitatea:  [335, 336]",
+					"answers": [
+						"se calculează după formula <b>D/(B+D)</b>, unde <b>D</b> = numărul pacienților pozitivi care au boala, iar <b>B</b> = numărul pacienților pozitivi care nu au boala",
+						"se calculează după formula <b>D/(B+D)</b>, unde <b>D</b> = numărul pacienților negativi care nu au boala, iar <b>B</b> = numărul pacienților pozitivi care nu au boala",
+						"se calculează după formula <b>A/(A+C)</b>, unde <b>A</b> = numărul pacienților pozitivi care au boala, iar <b>C</b> = numărul pacienților negativi care au boala",
+						"se calculează după formula <b>D/(C+D)</b>, unde <b>D</b> = numărul pacienților negativi care nu au boala, iar <b>C</b> = numărul pacienților negativi care au boala",
+						"se calculează după formula <b>A/(A+C)</b>, unde <b>A</b> = numărul pacienților pozitivi care au boala, iar <b>C</b> = numărul pacienților negativi care nu au boala"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "1",
+					"explanationExists": false,
+					"questionIndex": 83,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "84. Descrierea „comparație retrospectivă a pacienților care au boala cu martorii sănătoși” corespunde următorului tip de studiu folosit în cercetarea clinică:  [333]",
+					"answers": [
+						"studiul de cohortă",
+						"trialul clinic randomizat",
+						"seria de cazuri",
+						"meta-analiza",
+						"studiul caz-control"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 84,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "85. Raportul dintre numărul de cazuri de boală existente și populația totală reprezintă:  [334]",
+					"answers": [
+						"incidența",
+						"numărul de cazuri noi care apare într-o perioadă dată de timp într-o populaţie",
+						"numărul de persoane cu o anumită afecţiune într-o perioadă dată de timp",
+						"prevalența",
+						"raportul cotelor"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 85,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "86. Legea impune raportarea către un departament de sănătate publică a următoarelor boli, cu excepția:  [337]",
+					"answers": [
+						"hepatite",
+						"HIV",
+						"silicoză",
+						"boală Lyme",
+						"meningită"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 86,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "87. Dintre următoarele tipuri de studii folosite în cercetarea clinică, își pot exprima concluziile prin ipoteze privind factorii de risc:  [333]",
+					"answers": [
+						"trialul clinic randomizat",
+						"studiul transversal",
+						"seria de cazuri",
+						"studiile de cohortă",
+						"studiul caz-control"
+					]
+				},
+				{
+					"pages": [
+						336
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "9",
+					"explanationExists": false,
+					"questionIndex": 87,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "88. Următoarele afirmații sunt adevărate:  [336]",
+					"answers": [
+						"rata de probabilitatea pozitivă reprezintă probabilitatea ca o persoană fără boală să aibă test negativ comparativ cu probabilitatea ca o persoană bolnavă să aibă test negativ",
+						"rata de probabilitate pozitivă (RPP) = sensibilitatea / (1-specificitatea)",
+						"rata de probabilitate negativă (RPN) = (1-specificitatea) / sensibilitatea",
+						"rata de probabilitatea negativă reprezintă probabilitatea ca o persoană care are boala să aibă test pozitiv comparativ cu probabilitatea ca o persoană fără boala respectivă să aibă test pozitiv",
+						"ratele de probabilitate măsoară performanţa testelor de diagnostic şi elimină dependenţa de prevalenţa bolii"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 88,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "89. Studiul caz-control reprezintă:  [333]",
+					"answers": [
+						"un studiu privind un număr mare de persoane la un moment dat, pentru a evalua expunerea și prevalența bolii",
+						"o comparație retrospectivă a pacienților care au boala cu martorii sănătoși",
+						"o comparație prospectivă a tratamentului experimental cu placebo la martori și cu terapiile existente",
+						"combinarea mai multor studii care examinează o anumită boală sau expunere",
+						"un tip de studiu care nu permite analiza bolilor rare sau a celor cronice"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 89,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "90. Următoarea reprezintă o consecință a erorii de durată:  [334]",
+					"answers": [
+						"pacienţii cu experienţe negative sunt mai predispuşi să-şi amintească detalii negative",
+						"eficacitatea terapiei nu este descrisă cu precizie de grupul de studiu",
+						"eficacitatea screeningului este exagerată",
+						"datele disponibile pentru meta-analiză pot să nu includă studiile care susţin ipoteza nulă",
+						"asemănarea rezultatelor studiului cu ipoteza propusă este incorectă"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 90,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "91. Rata de fatalitate se calculează după formula:  [334]",
+					"answers": [
+						"(numărul de cazuri de boală existente) <b>/</b> (populaţia totală)",
+						"(persoane care mor într-o perioadă dată de timp) <b>/</b> (numărul de cazuri de boală într-o perioadă dată de timp)",
+						"(numărul de cazuri noi de boală într-o anumită perioadă de timp) <b>/</b> (populaţia totală la risc)",
+						"(numărul de cazuri de boală existente) <b>/</b> (numărul de cazuri vechi de boală)",
+						"(persoane care mor în anul prezent) <b>/</b> (numărul de cazuri de boală din anul precedent)"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "c",
+					"explanationExists": false,
+					"questionIndex": 91,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "92. Valoarea riscului relativ (RR):  [335]",
+					"answers": [
+						"<b>=1</b> sugerează o relaţie pozitivă între expunere şi boală",
+						"<b>=1</b> nu sugerează nicio relație între expunere și boală",
+						"<b>&gt;1</b> sugerează o relaţie pozitivă între expunere şi boală",
+						"<b>&lt;1</b> sugerează o relaţie pozitivă între expunere şi boală",
+						"<b>&lt;1</b> nu sugerează nicio relație între expunere și boală"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 92,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "93. Selectați descrierea corespunzătoare fiecărui tip de eroare în studiile clinice:  [334]",
+					"answers": [
+						"eroare observațională - interpretarea subiectivă a datelor de către investigator duce la devierea către concluzii dorite",
+						"eroare de înrolare - repartizarea nerandomizată a subiecţilor în grupurile de studiu",
+						"eroare de selecție - repartizarea nerandomizată a subiecţilor în grupurile de studiu",
+						"auto-selecția - pacienţii cu un anumit istoric medical sunt mai predispuşi să participe la un studiu legat de boala lor",
+						"eroare de memorie - pacienţii cu un anumit istoric medical sunt mai predispuşi să participe la un studiu legat de boala lor"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 93,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "94. Alegeți perechile corespunzătoare dintre tipul de studiu și modul de exprimare a concluziei acestuia:  [333]",
+					"answers": [
+						"studii caz-control - ipoteze privind factorii de risc",
+						"studii caz-control - prevalența bolii",
+						"seria de cazuri - ipoteze privind factorii de risc",
+						"studii caz-control - risc relativ",
+						"studii de cohortă - risc relativ"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "d",
+					"explanationExists": false,
+					"questionIndex": 94,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "95. Referitor la studiul transversal, nu este adevărat:  [333]",
+					"answers": [
+						"concluziile constau în ipoteze privind factorii de risc",
+						"poate fi folosit pentru testarea ipotezelor",
+						"poate fi folosit pentru estimarea prevalenței bolii în absența expunerii",
+						"reprezintă un studiu privind un număr mare de persoane la un moment dat, pentru a evalua expunerea și prevalența bolii",
+						"raportează caracteristicile bolii, examinând multiple cauze"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 95,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "96. Reducerea absolută a riscului (RAR):  [335]",
+					"answers": [
+						"reprezintă diferența privind rata bolii în urma tratamentului printr-o intervenție specifică",
+						"se calculează după formula <i>RAR = (rata bolii în grupul martor) - (rata bolii în grupul de intervenţie)</i>",
+						"reprezintă diferența privind ratele de îmbolnăvire între populaţia expusă şi cea neexpusă",
+						"se calculează după formula <i>RAR = (rata bolii la populaţia expusă) - (rata bolii la populaţia neexpusă)</i>",
+						"reprezintă numărul de pacienţi care trebuie trataţi pentru a salva un pacient"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 96,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "97. Reprezintă caracteristici ale studiului de cohortă:  [333]",
+					"answers": [
+						"examinează un grup de subiecți expuși la o situație sau un factor dat",
+						"poate fi prospectiv (grupul expus este identificat și urmărit în timp)",
+						"poate fi retrospectiv (grupul expus este identificat și urmărit în timp)",
+						"permite studierea mai multor efecte ale expunerii",
+						"este dificil de utilizat în studierea bolilor rare"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "f",
+					"explanationExists": false,
+					"questionIndex": 97,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "98. Următoarele reprezintă tipuri de studii folosite în cercetarea clinică:  [333]",
+					"answers": [
+						"farmaceutic",
+						"transversal",
+						"caz-control",
+						"trialul clinic randomizat",
+						"de cohortă"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "6",
+					"explanationExists": false,
+					"questionIndex": 98,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "99. Raportul dintre numărul de persoane care mor într-o perioadă dată de timp și numărul de cazuri de boală într-o perioadă dată de timp reprezintă:  [334]",
+					"answers": [
+						"probabilitatea de a dezvolta boala la un grup expus la un factor de risc specific comparativ cu probabilitatea de a dezvolta acea boală la un grup neexpus",
+						"riscul relativ",
+						"rata de fatalitate",
+						"procentul de persoane cu o anumită boală care decedează într-o anumită perioadă de timp",
+						"odds ratio"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "n",
+					"explanationExists": false,
+					"questionIndex": 99,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "100. Alegeți informațiile false referitoare la luarea deciziei de către pacient:  [337]",
+					"answers": [
+						"un pacient lipsit de capacitatea de a lua decizii în ceea ce privește îngrijirea sa medicală poate fi declarat „incompetent” de către sistemul medical",
+						"pentru a fi considerat competent un pacient trebuie să înțeleagă situația sa medicală",
+						"în toate cazurile deciziile medicale pentru minori sunt luate de părinții acestora",
+						"un pacient diagnosticat în prezent cu intoxicație poate fi un pacient competent",
+						"pentru a fi considerat competent un pacient trebuie să fie capabil să ia decizii medicale, chiar dacă acestea sunt în dezacord cu valorile sale anterioare"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 100,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "101. Reprezintă standardul de aur pentru testarea medicamentelor:  [333]",
+					"answers": [
+						"studiul transversal",
+						"meta-analiza",
+						"studiile de cohortă",
+						"trialul clinic randomizat",
+						"studiile caz-control"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 101,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "102. Numărul de persoane cu o anumită afecţiune într-o perioadă dată de timp reprezintă:  [334]",
+					"answers": [
+						"rata de fatalitate a cazurilor",
+						"prevalența",
+						"riscul relativ",
+						"incidența",
+						"raportul cotelor"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "9",
+					"explanationExists": false,
+					"questionIndex": 102,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "103. Moartea cardiacă se definește prin incapacitatea de a restabili o bataie cardiacă la un pacient asistolic în situațiile următoare:  [338]",
+					"answers": [
+						"prezența reflexelor calorice",
+						"absența hipotermiei",
+						"prezența intoxicației",
+						"absența liniei izoelectrice pe electroencefalogramă",
+						"apneea când pacientul este decuplat de la ventilator pentru o durată considerată suficientă pentru a produce o conducere normală hipercarbică"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 103,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "104. Moartea cardiacă se definește prin incapacitatea de a restabili o bataie cardiacă la un pacient asistolic în situațiile următoare, cu excepția:  [338]",
+					"answers": [
+						"absența reflexelor de trunchi cerebral",
+						"apneea când pacientul este decuplat de la ventilator pentru o durată considerată suficientă pentru a produce o conducere normală hipercarbică",
+						"aspectul pacientului nu poate fi explicat de o condiţie medicală care mimează moartea",
+						"absența circulației cerebrale la examenul ecografic",
+						"absența potenţialelor evocate auditive de trunchi cerebral"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 104,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "105. Selectați afirmațiile corecte:  [338]",
+					"answers": [
+						"medicii sunt obligați să furnizeze toate terapiile existente în scopul resuscitării, indiferent de starea curentă a pacientului",
+						"moartea cerebrală se definește prin absența ireversibilă a activităţii întregului creier &gt;6 ore și a activității pe electroencefalogramă",
+						"pacienții sau familiile pot defini exact ce organe pot fi donate",
+						"organele pot fi considerate inadecvate pentru transplant în caz de neoplasm localizat vindecat",
+						"moartea cardiacă este considerată incapacitatea de a restabili o bătaie cardiacă spontană la un pacient asistolic în absența hipotermiei"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 105,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "106. Referitor la moarte, sunt adevărate următoarele: [338]",
+					"answers": [
+						"moartea cardiacă este considerată incapacitatea de a restabili o bătaie cardiacă spontană la un pacient bradicardic",
+						"pentru a defini moartea formală a pacientului poate fi folosită fie moartea cerebrală, fie cea cardiacă (nu sunt necesare ambele)",
+						"moartea cardiacă este considerată în absența hipotermiei",
+						"moartea cardiacă este considerată incapacitatea de a restabili o bătaie cardiacă spontană la un pacient asistolic",
+						"moartea cerebrală este considerată incapacitatea de a restabili o bătaie cardiacă spontană la un pacient asistolic"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "i",
+					"explanationExists": false,
+					"questionIndex": 106,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "107. Selectați afirmațiile corecte:  [337]",
+					"answers": [
+						"confidenţialitatea ar trebui păstrată în cazul adolescenţilor privind contracepţia",
+						"confidențialitatea este obligatorie atunci când pacientul este un adolescent cu o afecţiune potenţial dăunătoare pentru sine",
+						"dacă o familie solicită unui medic să ascundă informaţii pacientului, medicii trebuie să refuze solicitarea în cazul în care se stabileşte că dezvăluirea informaţiilor ar dăuna semnificativ pacientului",
+						"pacientul trebuie făcut conştient că anumite boli sau afecţiuni trebuie raportate",
+						"consimţământul în cunoştinţă de cauză este necesar pentru terapia de urgenţă"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 107,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "108. Selectați afirmațiile corecte cu privire la drepturile pacientului: [337]",
+					"answers": [
+						"despre consimţământul informat = dacă un pacient nu are capacitatea de a lua o decizie, nu este necesară o decizie din partea unui responsabil desemnat pentru asistență în afara urgențelor",
+						"despre consimţământul informat = dacă un pacient nu are capacitatea de a lua o decizie, este necesară o decizie din partea unui responsabil desemnat pentru asistență în afara urgențelor",
+						"raportarea publică = raportarea mai multor boli către un departament de sănătate publică este impusă de lege",
+						"confidențialitatea = Toate informaţiile referitoare la pacient trebuie să fie păstrate private între medic şi pacient",
+						"confidențialitatea = raportarea mai multor boli către un departament de sănătate publică este impusă de lege"
+					]
+				},
+				{
+					"pages": [
+						337,
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "b",
+					"explanationExists": false,
+					"questionIndex": 108,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "109. Luarea deciziei de către pacient se poate realiza prin intermediul următoarelor:  [337, 338]",
+					"answers": [
+						"competența - document juridic care desemnează o a doua persoană drept factor de decizie delegat pentru probleme medicale",
+						"competența - prin faptul că pacientul are capacitatea mentală de a lua decizii în ceea ce priveşte îngrijirea medicală a acestuia sau acesteia",
+						"testamentul - document juridic care desemnează o a doua persoană drept factor de decizie delegat pentru probleme medicale",
+						"testamentul - document scris care detaliază dorinţele unui pacient în situaţii medicale specifice",
+						"împuternicirea durabilă - document juridic care desemnează o a doua persoană drept factor de decizie delegat pentru probleme medicale"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "7",
+					"explanationExists": false,
+					"questionIndex": 109,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "110. Referitor la donarea de organe, se poate spune că:  [338]",
+					"answers": [
+						"spitalele care primesc finanțare de la Medicare nu sunt obligate să abordeze familia decedatului cu privire la donarea de organe",
+						"organele toracice pot fi considerate inadecvate pentru transplant în caz de pancreatită etanolică",
+						"pacienții se pot declara ca donatori de organe prin testament",
+						"organele pot fi considerate inadecvate pentru transplant în caz de hipotermie",
+						"organele pot fi considerate inadecvate pentru transplant în caz de ischemie prelungită"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 110,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "111. Afecțiunile care pot imita moartea cerebrală cuprind, cu excepția:  [338]",
+					"answers": [
+						"sindromul locked-in",
+						"hipotermia",
+						"schizofrenia",
+						"intoxicația",
+						"sindromul Guillain-Barre"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "8",
+					"explanationExists": false,
+					"questionIndex": 111,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "112. Afecțiunile care pot imita moartea cerebrală cuprind:  [338]",
+					"answers": [
+						"sindrom Pierre-Marie-Bamberger",
+						"hipotermia",
+						"sindromul Wallenberg",
+						"sindrom Tourette",
+						"sindromul picioarelor neliniștite"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "m",
+					"explanationExists": false,
+					"questionIndex": 112,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "113. Următoarele afecțiuni pot mima moartea cerebrală:  [338]",
+					"answers": [
+						"sindromul locked-in",
+						"boala Lyme",
+						"sindrom Guillain-Barre",
+						"encefalopatia metabolică",
+						"meningita"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "o",
+					"explanationExists": false,
+					"questionIndex": 113,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "114. Afecțiunile care pot imita moartea cerebrală cuprind, cu excepția:  [338]",
+					"answers": [
+						"hipertermia",
+						"hipoxemia",
+						"sindromul locked-in",
+						"sindromul Guillain-Barre",
+						"encefalopatia metabolică"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "4",
+					"explanationExists": false,
+					"questionIndex": 114,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "115. Moartea cardiacă se definește prin incapacitatea de a restabili o bataie cardiacă la un pacient asistolic în situațiile următoare, cu excepția:  [338]",
+					"answers": [
+						"absența reflexului cornean",
+						"apneea când pacientul este decuplat de la ventilator pentru o durată considerată suficientă pentru a produce o conducere normală hipercarbică",
+						"prezența intoxicației",
+						"persistența liniei izoelectrice pe electroencefalogramă",
+						"absența reflexului faringian"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "5",
+					"explanationExists": false,
+					"questionIndex": 115,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "116. Raportarea următoarelor boli către un departament de sănătate publică este obligatorie:  [337]",
+					"answers": [
+						"sindrom Guillain-Barre",
+						"sindromul de blocare",
+						"boala Lyme",
+						"encefalopatia metabolică",
+						"meningita"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 116,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "117. Alegeți afirmația corectă :  [337]",
+					"answers": [
+						"confidenţialitatea ar trebui păstrată în cazul adolescenţilor privind contracepţia",
+						"confidențialitatea este obligatorie atunci când pacientul este un adolescent cu o afecţiune potenţial dăunătoare pentru sine",
+						"dacă o familie solicită unui medic să ascundă informaţii pacientului, medicii trebuie să refuze solicitarea în cazul în care se stabileşte că dezvăluirea informaţiilor ar dăuna semnificativ pacientului",
+						"consimţământul părinților pentru minori este necesar pentru terapia de urgenţă",
+						"consimţământul în cunoştinţă de cauză este necesar pentru terapia de urgenţă"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 117,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "118. Reprezintă probleme legate de sfârșitul vieții următoarele, cu excepția:  [338]",
+					"answers": [
+						"testamentul",
+						"ordinul de neresuscitare",
+						"donarea de organe",
+						"moartea",
+						"decesul asistat medical"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 118,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "119. Următoarele reprezintă drepturi ale pacientului: [337]",
+					"answers": [
+						"consimțământul informat",
+						"dezvăluirea completă a informațiilor",
+						"competența",
+						"informarea despre necesitatea raportarii mai multor boli către un departament de sănătate publică",
+						"confidențialitatea"
+					]
+				},
+				{
+					"pages": [
+						334
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "2",
+					"explanationExists": false,
+					"questionIndex": 119,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "120. Rata de fatalitate a cazurilor reprezintă raportul dintre:  [334]",
+					"answers": [
+						"nr de cazuri noi de boală într-o anumită perioadă de timp / populația totală la risc",
+						"nr de cazuri de boală existente / populația totală",
+						"probabilitatea bolii la populația expusă / probabilitatea bolii la populația neexpusă",
+						"persoane care mor într-o perioadă de timp / nr. de cazuri de boală dintr-o perioadă de timp",
+						"persoane care mor de o boală anume într-o perioadă de timp/ persoane care mor de orice cauză în aceeași perioadă de timp"
+					]
+				},
+				{
+					"pages": [
+						335
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "k",
+					"explanationExists": false,
+					"questionIndex": 120,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "121. Sunt adevărate despre specificitatea testelor de diagnostic: [335]",
+					"answers": [
+						"reprezintă probabilitatea ca un test de screening să fie negativ la pacienții care nu au boala",
+						"cele mai acceptabile teste de confirmare au de obicei specificitatea peste 80%",
+						"pot apărea rezultate fals pozitive",
+						"reprezintă diferenţa privind ratele de îmbolnăvire între populaţia expusă şi cea neexpusă",
+						"estimează riscul relativ dacă prevalența este scăzută"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 121,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "122. Pentru a fi competent, un pacient trebuie: [337]",
+					"answers": [
+						"să înțeleagă situația sa medicală",
+						"să fie capabil să ia decizie în acord cu valorile sale anterioare",
+						"să nu fie diagnosticat în prezent cu psihoză",
+						"să nu fie intoxicat",
+						"să aibă competența de a discerne beneficiile tratamentului"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "r",
+					"explanationExists": false,
+					"questionIndex": 122,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "123. În ce situații organele nu sunt adecvate pentru transplant? [338]",
+					"answers": [
+						"neoplasm cu diseminare",
+						"HIV",
+						"vârsta de 72 de ani",
+						"sepsis",
+						"hemoglobinopatie"
+					]
+				},
+				{
+					"pages": [
+						337
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 4,
+					"correct": "u",
+					"explanationExists": false,
+					"questionIndex": 123,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "124. Confidențialitatea pacientului nu este obligatorie în următoarele situații: [337]",
+					"answers": [
+						"pacient cu tendințe criminale",
+						"pacient împușcat",
+						"adolescent cu afecțiune potențial dăunătoare pentru sine sau pentru alții",
+						"pacient cu tendinţe suicidale",
+						"tratamentul bolilor cu transmitere sexuală (BTS) la adolescenţi"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "i",
+					"explanationExists": false,
+					"questionIndex": 124,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "125. Sunt asocieri corecte între tipul de studiu și dezavantaje:  [333]",
+					"answers": [
+						"trialul clinic randomizat - consumator de resurse financiare și timp",
+						"studii de cohortă - prezintă multiple erori de memorie și de selecție",
+						"studii caz-control - nu pot fi folosite pentru testarea ipotezelor",
+						"studii de cohortă - dificil de studiat bolile rare",
+						"meta-analiza - pacienții pot să nu fie dispuși să se supună studiului"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 1,
+					"correct": "g",
+					"explanationExists": false,
+					"questionIndex": 125,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "126. Următoarele tipuri de studii sunt benefice pentru analiza bolilor rare:  [333]",
+					"answers": [
+						"studii caz-control",
+						"studii de cohortă",
+						"trialul clinic randomizat",
+						"studiul transversal",
+						"seria de cazuri"
+					]
+				},
+				{
+					"pages": [
+						338
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 3,
+					"correct": "e",
+					"explanationExists": false,
+					"questionIndex": 126,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "127. Reprezintă afecțiuni care pot imita moartea cerebrală:  [338]",
+					"answers": [
+						"AVC",
+						"encefalopatia metabolică",
+						"sindromul Guillain-Barre",
+						"sindromul locked in",
+						"epilepsia"
+					]
+				},
+				{
+					"pages": [
+						333
+					],
+					"answersCount": 5,
+					"correctAnswersCount": 2,
+					"correct": "h",
+					"explanationExists": false,
+					"questionIndex": 127,
+					"chapterId": "624713bb327119885ebecfa9",
+					"text": "128. Descriu studiile de tip: trial clinic randomizat:  [333]",
+					"answers": [
+						"compară eficacitatea unui tratament experimental cu martorii și cu terapiile existente",
+						"este capabil să studieze expunerile rare",
+						"combină mai multe studii",
+						"pot fi prospective sau retrospective",
+						"poate fi controlat pentru mai mulți factori de confuzie"
+					]
+				}
+			],
+			"chapters": [
+				{
+					"_id": "624713bb327119885ebecfa9",
+					"name": "3.15. Epidemiologie și etică",
+					"isUserContent": false,
+					"categories": [
+						"m_g_sm"
+					]
+				}
+			],
+			"timed": false,
+			"showAnswers": true,
+			"quantity": 128,
+			"startedAt": "2023-11-17T20:12:20.982Z",
+			"hasExplanations": false
+		}
+	}
+}
